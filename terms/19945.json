@@ -1,0 +1,784 @@
+{
+	"16670": {
+		"clbid": 16670,
+		"credits": 1.0,
+		"crsid": 102,
+		"depts": [
+			"BIO"
+		],
+		"level": 100,
+		"name": "Human Biology",
+		"num": 123,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Human Biology",
+		"type": "Research",
+		"year": 1994
+	},
+	"16671": {
+		"clbid": 16671,
+		"credits": 1.0,
+		"crsid": 106,
+		"depts": [
+			"BIO"
+		],
+		"level": 100,
+		"name": "Cellular Bio & Genetics",
+		"num": 125,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Cellular Bio & Genetics",
+		"type": "Research",
+		"year": 1994
+	},
+	"16672": {
+		"clbid": 16672,
+		"credits": 0.0,
+		"crsid": 107,
+		"depts": [
+			"BIO"
+		],
+		"level": 100,
+		"name": "Cellular Bio & Gene/Lab",
+		"num": 125,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Cellular Bio & Gene/Lab",
+		"type": "Lab",
+		"year": 1994
+	},
+	"16673": {
+		"clbid": 16673,
+		"credits": 1.0,
+		"crsid": 154,
+		"depts": [
+			"BIO"
+		],
+		"level": 200,
+		"name": "IS/Plant Physiology",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Plant Physiology",
+		"type": "Research",
+		"year": 1994
+	},
+	"16674": {
+		"clbid": 16674,
+		"credits": 1.0,
+		"crsid": 197,
+		"depts": [
+			"CHEM"
+		],
+		"level": 200,
+		"name": "Organic Chemistry",
+		"num": 248,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Organic Chemistry",
+		"type": "Research",
+		"year": 1994
+	},
+	"16675": {
+		"clbid": 16675,
+		"credits": 0.25,
+		"crsid": 200,
+		"depts": [
+			"CHEM"
+		],
+		"level": 200,
+		"name": "Synthesis Lab",
+		"num": 254,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Synthesis Lab",
+		"type": "Lab",
+		"year": 1994
+	},
+	"16676": {
+		"clbid": 16676,
+		"credits": 1.0,
+		"crsid": 276,
+		"depts": [
+			"ECON"
+		],
+		"level": 200,
+		"name": "Internship",
+		"num": 294,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16677": {
+		"clbid": 16677,
+		"credits": 1.0,
+		"crsid": 313,
+		"depts": [
+			"EDUC"
+		],
+		"level": 200,
+		"name": "Internship",
+		"num": 294,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16678": {
+		"clbid": 16678,
+		"credits": 1.0,
+		"crsid": 314,
+		"depts": [
+			"EDUC"
+		],
+		"level": 200,
+		"name": "IS/Exceptional Childr",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Exceptional Childr",
+		"type": "Research",
+		"year": 1994
+	},
+	"16679": {
+		"clbid": 16679,
+		"credits": 1.0,
+		"crsid": 1698,
+		"depts": [
+			"ENGL"
+		],
+		"level": 200,
+		"name": "Amer Lit Since 1945",
+		"num": 244,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Amer Lit Since 1945",
+		"type": "Research",
+		"year": 1994
+	},
+	"16680": {
+		"clbid": 16680,
+		"credits": 1.0,
+		"crsid": 413,
+		"depts": [
+			"ENGL"
+		],
+		"level": 200,
+		"name": "Expository Writing",
+		"num": 251,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Expository Writing",
+		"type": "Research",
+		"year": 1994
+	},
+	"16681": {
+		"clbid": 16681,
+		"credits": 1.0,
+		"crsid": 434,
+		"depts": [
+			"ENGL"
+		],
+		"level": 200,
+		"name": "IS/East African Lit.",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/East African Lit.",
+		"type": "Research",
+		"year": 1994
+	},
+	"16682": {
+		"clbid": 16682,
+		"credits": 1.0,
+		"crsid": 442,
+		"depts": [
+			"ENGL"
+		],
+		"level": 300,
+		"name": "Cr Writ II: Nonfiction",
+		"num": 373,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Cr Writ II: Nonfiction",
+		"type": "Research",
+		"year": 1994
+	},
+	"16683": {
+		"clbid": 16683,
+		"credits": 1.0,
+		"crsid": 449,
+		"depts": [
+			"ENGL"
+		],
+		"level": 300,
+		"name": "Internship",
+		"num": 394,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16684": {
+		"clbid": 16684,
+		"credits": 1.0,
+		"crsid": 1902,
+		"depts": [
+			"ID"
+		],
+		"level": 100,
+		"name": "Thinking Abt Thinking",
+		"num": 180,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Thinking Abt Thinking",
+		"type": "Research",
+		"year": 1994
+	},
+	"16685": {
+		"clbid": 16685,
+		"credits": 1.0,
+		"crsid": 1952,
+		"depts": [
+			"MATH"
+		],
+		"level": 300,
+		"name": "Math Statistics",
+		"num": 312,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Math Statistics",
+		"type": "Research",
+		"year": 1994
+	},
+	"16686": {
+		"clbid": 16686,
+		"credits": 0.25,
+		"crsid": 1986,
+		"depts": [
+			"MUSIC"
+		],
+		"level": 200,
+		"name": "Church Serv Playing",
+		"num": 262,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Church Serv Playing",
+		"type": "Research",
+		"year": 1994
+	},
+	"16687": {
+		"clbid": 16687,
+		"credits": 1.0,
+		"crsid": 847,
+		"depts": [
+			"MUSIC"
+		],
+		"level": 200,
+		"name": "IS/Large Sacred Works",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Large Sacred Works",
+		"type": "Research",
+		"year": 1994
+	},
+	"16688": {
+		"clbid": 16688,
+		"credits": 1.0,
+		"crsid": 931,
+		"depts": [
+			"NORW"
+		],
+		"level": 200,
+		"name": "Internship",
+		"num": 294,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16711": {
+		"clbid": 16711,
+		"credits": 1.0,
+		"crsid": 979,
+		"depts": [
+			"PHIL"
+		],
+		"level": 200,
+		"name": "Ethics/The Good Life",
+		"num": 252,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Ethics/The Good Life",
+		"type": "Research",
+		"year": 1994
+	},
+	"16712": {
+		"clbid": 16712,
+		"credits": 1.0,
+		"crsid": 986,
+		"depts": [
+			"PHIL"
+		],
+		"level": 200,
+		"name": "IS/Metaphysics",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Metaphysics",
+		"type": "Research",
+		"year": 1994
+	},
+	"16713": {
+		"clbid": 16713,
+		"credits": 1.0,
+		"crsid": 1074,
+		"depts": [
+			"PHYS"
+		],
+		"level": 100,
+		"name": "Phenomenological II",
+		"num": 125,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Phenomenological II",
+		"type": "Research",
+		"year": 1994
+	},
+	"16714": {
+		"clbid": 16714,
+		"credits": 0.0,
+		"crsid": 1075,
+		"depts": [
+			"PHYS"
+		],
+		"level": 100,
+		"name": "Phenomenolog II/Lab",
+		"num": 125,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Phenomenolog II/Lab",
+		"type": "Lab",
+		"year": 1994
+	},
+	"16715": {
+		"clbid": 16715,
+		"credits": 1.0,
+		"crsid": 1104,
+		"depts": [
+			"PSCI"
+		],
+		"level": 100,
+		"name": "Intro Comparative Pol",
+		"num": 112,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Intro Comparative Pol",
+		"type": "Research",
+		"year": 1994
+	},
+	"16716": {
+		"clbid": 16716,
+		"credits": 1.0,
+		"crsid": 2242,
+		"depts": [
+			"PSCI"
+		],
+		"level": 100,
+		"name": "Political Analysis",
+		"num": 118,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Political Analysis",
+		"type": "Research",
+		"year": 1994
+	},
+	"16717": {
+		"clbid": 16717,
+		"credits": 1.0,
+		"crsid": 1139,
+		"depts": [
+			"PSCI"
+		],
+		"level": 200,
+		"name": "Internship",
+		"num": 294,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16718": {
+		"clbid": 16718,
+		"credits": 1.0,
+		"crsid": 1141,
+		"depts": [
+			"PSCI"
+		],
+		"level": 200,
+		"name": "IS/Policy Studies",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Policy Studies",
+		"type": "Research",
+		"year": 1994
+	},
+	"16719": {
+		"clbid": 16719,
+		"credits": 1.0,
+		"crsid": 1151,
+		"depts": [
+			"PSCI"
+		],
+		"level": 300,
+		"name": "Internship",
+		"num": 394,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16720": {
+		"clbid": 16720,
+		"credits": 1.0,
+		"crsid": 1154,
+		"depts": [
+			"PSYCH"
+		],
+		"level": 100,
+		"name": "Introductory Psych",
+		"num": 121,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sect": "Z",
+		"sem": 5,
+		"term": 19945,
+		"title": "Introductory Psych",
+		"type": "Research",
+		"year": 1994
+	},
+	"16721": {
+		"clbid": 16721,
+		"credits": 1.0,
+		"crsid": 1158,
+		"depts": [
+			"PSYCH"
+		],
+		"level": 200,
+		"name": "Research Methods",
+		"num": 231,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Research Methods",
+		"type": "Research",
+		"year": 1994
+	},
+	"16722": {
+		"clbid": 16722,
+		"credits": 1.0,
+		"crsid": 1188,
+		"depts": [
+			"PSYCH"
+		],
+		"level": 300,
+		"name": "Internship",
+		"num": 394,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16723": {
+		"clbid": 16723,
+		"credits": 1.0,
+		"crsid": 1190,
+		"depts": [
+			"PSYCH"
+		],
+		"level": 300,
+		"name": "IR/Hmong Adjustmnt II",
+		"num": 398,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IR/Hmong Adjustmnt II",
+		"type": "Research",
+		"year": 1994
+	},
+	"16724": {
+		"clbid": 16724,
+		"credits": 1.0,
+		"crsid": 1239,
+		"depts": [
+			"REL"
+		],
+		"level": 200,
+		"name": "IS/Theology of Luther",
+		"num": 298,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IS/Theology of Luther",
+		"type": "Research",
+		"year": 1994
+	},
+	"16725": {
+		"clbid": 16725,
+		"credits": 1.0,
+		"crsid": 1248,
+		"depts": [
+			"REL"
+		],
+		"level": 300,
+		"name": "Stud: Spiritual Autobi",
+		"num": 389,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Stud: Spiritual Autobi",
+		"type": "Research",
+		"year": 1994
+	},
+	"16726": {
+		"clbid": 16726,
+		"credits": 1.0,
+		"crsid": 1289,
+		"depts": [
+			"SOAN"
+		],
+		"level": 100,
+		"name": "Intro to Sociology",
+		"num": 121,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Intro to Sociology",
+		"type": "Research",
+		"year": 1994
+	},
+	"16727": {
+		"clbid": 16727,
+		"credits": 1.0,
+		"crsid": 1320,
+		"depts": [
+			"SOAN"
+		],
+		"level": 300,
+		"name": "IR/Nfld Imagines",
+		"num": 398,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IR/Nfld Imagines",
+		"type": "Research",
+		"year": 1994
+	},
+	"16728": {
+		"clbid": 16728,
+		"credits": 1.0,
+		"crsid": 1320,
+		"depts": [
+			"SOAN"
+		],
+		"level": 300,
+		"name": "IR/Latino Studies II",
+		"num": 398,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sect": "A",
+		"sem": 5,
+		"term": 19945,
+		"title": "IR/Latino Studies II",
+		"type": "Research",
+		"year": 1994
+	},
+	"16729": {
+		"clbid": 16729,
+		"credits": 1.0,
+		"crsid": 1400,
+		"depts": [
+			"THEAT"
+		],
+		"level": 300,
+		"name": "Internship",
+		"num": 394,
+		"pf": true,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "Internship",
+		"type": "Research",
+		"year": 1994
+	},
+	"16730": {
+		"clbid": 16730,
+		"credits": 1.0,
+		"crsid": 1401,
+		"depts": [
+			"THEAT"
+		],
+		"level": 300,
+		"name": "IR/Feminist Comm Theo",
+		"num": 398,
+		"pf": false,
+		"profs": [
+			"Staff"
+		],
+		"sem": 5,
+		"term": 19945,
+		"title": "IR/Feminist Comm Theo",
+		"type": "Research",
+		"year": 1994
+	}
+}
