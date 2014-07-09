@@ -1,829 +1,831 @@
 {
-	"3650": {
-		"clbid": 3650,
-		"credits": 1.0,
-		"crsid": 69,
-		"depts": [
-			"ART"
-		],
-		"level": 200,
-		"name": "IS/Advanced Painting",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Wendell Arneson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Advanced Painting",
-		"type": "Research",
-		"year": 2001
-	},
-	"3651": {
-		"clbid": 3651,
-		"credits": 1.0,
-		"crsid": 69,
-		"depts": [
-			"ART"
-		],
-		"level": 200,
-		"name": "IS/Costume Design",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Wendell Arneson"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Costume Design",
-		"type": "Research",
-		"year": 2001
-	},
-	"3652": {
-		"clbid": 3652,
-		"credits": 1.0,
-		"crsid": 69,
-		"depts": [
-			"ART"
-		],
-		"level": 200,
-		"name": "IS/Industrial Design",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Wendell Arneson"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Industrial Design",
-		"type": "Research",
-		"year": 2001
-	},
-	"3653": {
-		"clbid": 3653,
-		"credits": 1.0,
-		"crsid": 100,
-		"depts": [
-			"BIO"
-		],
-		"level": 100,
-		"name": "Biological Science",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Charles Jr. Umbanhowar"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Biological Science",
-		"type": "Research",
-		"year": 2001
-	},
-	"3654": {
-		"clbid": 3654,
-		"credits": 1.0,
-		"crsid": 175,
-		"depts": [
-			"BIO"
-		],
-		"level": 300,
-		"name": "IR/House Wren Researc",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Louis Henry Kermott"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IR/House Wren Researc",
-		"type": "Research",
-		"year": 2001
-	},
-	"3655": {
-		"clbid": 3655,
-		"credits": 1.0,
-		"crsid": 197,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Organic Chemistry",
-		"num": 248,
-		"pf": false,
-		"places": [
-			"SC 378"
-		],
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry",
-		"type": "Research",
-		"year": 2001
-	},
-	"3656": {
-		"clbid": 3656,
-		"credits": 0.25,
-		"crsid": 200,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Synthesis Lab",
-		"num": 254,
-		"pf": true,
-		"places": [
-			"SC 311"
-		],
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"MT 0100-0400PM"
-		],
-		"title": "Synthesis Lab",
-		"type": "Lab",
-		"year": 2001
-	},
-	"3657": {
-		"clbid": 3657,
-		"credits": 1.0,
-		"crsid": 254,
-		"depts": [
-			"ECON"
-		],
-		"level": 100,
-		"name": "Capitalism: Struggles",
-		"num": 111,
-		"pf": false,
-		"profs": [
-			"Steve Soderlind"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Capitalism: Struggles",
-		"type": "Research",
-		"year": 2001
-	},
-	"3658": {
-		"clbid": 3658,
-		"credits": 1.0,
-		"crsid": 276,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2001
-	},
-	"3659": {
-		"clbid": 3659,
-		"credits": 1.0,
-		"crsid": 387,
-		"depts": [
-			"ENGL"
-		],
-		"level": 100,
-		"name": "Reading for Life",
-		"num": 132,
-		"pf": false,
-		"places": [
-			"L 515"
-		],
-		"profs": [
-			"Karen E. Marsalek"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Reading for Life",
-		"type": "Research",
-		"year": 2001
-	},
-	"3660": {
-		"clbid": 3660,
-		"credits": 1.0,
-		"crsid": 413,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Creative Nonfiction",
-		"num": 251,
-		"pf": false,
-		"places": [
-			"L 520"
-		],
-		"profs": [
-			"Signe Levine"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Creative Nonfiction",
-		"type": "Research",
-		"year": 2001
-	},
-	"3661": {
-		"clbid": 3661,
-		"credits": 1.0,
-		"crsid": 426,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Shakespeare & Contemp",
-		"num": 280,
-		"pf": false,
-		"places": [
-			"L 515"
-		],
-		"profs": [
-			"Karen E. Marsalek"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Shakespeare & Contemp",
-		"type": "Research",
-		"year": 2001
-	},
-	"3662": {
-		"clbid": 3662,
-		"credits": 1.0,
-		"crsid": 444,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "Shakespeare",
-		"num": 380,
-		"pf": false,
-		"places": [
-			"L 515"
-		],
-		"profs": [
-			"Karen E. Marsalek"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Shakespeare",
-		"type": "Research",
-		"year": 2001
-	},
-	"3663": {
-		"clbid": 3663,
-		"credits": 1.0,
-		"crsid": 472,
-		"depts": [
-			"IDFA"
-		],
-		"level": 200,
-		"name": "IS/Perf-Art-Choreog",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Susan Bauer"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Perf-Art-Choreog",
-		"type": "Research",
-		"year": 2001
-	},
-	"3664": {
-		"clbid": 3664,
-		"credits": 1.0,
-		"crsid": 504,
-		"depts": [
-			"GERM"
-		],
-		"level": 100,
-		"name": "Beginning German I",
-		"num": 111,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Beginning German I",
-		"type": "Research",
-		"year": 2001
-	},
-	"3665": {
-		"clbid": 3665,
-		"credits": 1.0,
-		"crsid": 505,
-		"depts": [
-			"GERM"
-		],
-		"level": 100,
-		"name": "Beginning German II",
-		"num": 112,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Beginning German II",
-		"type": "Research",
-		"year": 2001
-	},
-	"3666": {
-		"clbid": 3666,
-		"credits": 1.0,
-		"crsid": 509,
-		"depts": [
-			"GERM"
-		],
-		"level": 200,
-		"name": "Intermed German II",
-		"num": 232,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Intermed German II",
-		"type": "Research",
-		"year": 2001
-	},
-	"3667": {
-		"clbid": 3667,
-		"credits": 1.0,
-		"crsid": 514,
-		"depts": [
-			"GERM"
-		],
-		"level": 200,
-		"name": "Speaking German",
-		"num": 250,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Speaking German",
-		"type": "Research",
-		"year": 2001
-	},
-	"3668": {
-		"clbid": 3668,
-		"credits": 1.0,
-		"crsid": 1815,
-		"depts": [
-			"HIST"
-		],
-		"level": 200,
-		"name": "Age of Renaissance",
-		"num": 213,
-		"pf": false,
-		"places": [
-			"L 525"
-		],
-		"profs": [
-			"J. L. Carrington"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Age of Renaissance",
-		"type": "Research",
-		"year": 2001
-	},
-	"3669": {
-		"clbid": 3669,
-		"credits": 1.0,
-		"crsid": 653,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"C. George Holt"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2001
-	},
-	"3670": {
-		"clbid": 3670,
-		"credits": 1.0,
-		"crsid": 697,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"name": "War and Peace",
-		"num": 238,
-		"pf": false,
-		"places": [
-			"L 525"
-		],
-		"profs": [
-			"J. L. Carrington"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "War and Peace",
-		"type": "Research",
-		"year": 2001
-	},
-	"3671": {
-		"clbid": 3671,
-		"credits": 1.0,
-		"crsid": 712,
-		"depts": [
-			"LATIN"
-		],
-		"level": 100,
-		"name": "Beginning Latin II",
-		"num": 112,
-		"pf": false,
-		"profs": [
-			"Anne Groton"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Beginning Latin II",
-		"type": "Research",
-		"year": 2001
-	},
-	"3672": {
-		"clbid": 3672,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Kathy C. Thomforde"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2001
-	},
-	"3673": {
-		"clbid": 3673,
-		"credits": 1.0,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Sonnega"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2001
-	},
-	"3674": {
-		"clbid": 3674,
-		"credits": 1.0,
-		"crsid": 822,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "Composition I",
-		"num": 223,
-		"pf": false,
-		"places": [
-			"CHM 232"
-		],
-		"profs": [
-			"Thomas C. Schnauber"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Composition I",
-		"type": "Research",
-		"year": 2001
-	},
-	"3675": {
-		"clbid": 3675,
-		"credits": 1.0,
-		"crsid": 979,
-		"depts": [
-			"PHIL"
-		],
-		"level": 200,
-		"name": "Ethics/The Good Life",
-		"num": 252,
-		"pf": false,
-		"places": [
-			"L 421"
-		],
-		"profs": [
-			"Gordon D. Marino"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-Th 1000-1130",
-			"F 00-00"
-		],
-		"title": "Ethics/The Good Life",
-		"type": "Research",
-		"year": 2001
-	},
-	"3676": {
-		"clbid": 3676,
-		"credits": 1.0,
-		"crsid": 986,
-		"depts": [
-			"PHIL"
-		],
-		"level": 200,
-		"name": "IS/Philosophy in Lit",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Gordon D. Marino"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Philosophy in Lit",
-		"type": "Research",
-		"year": 2001
-	},
-	"3677": {
-		"clbid": 3677,
-		"credits": 1.0,
-		"crsid": 993,
-		"depts": [
-			"PHIL"
-		],
-		"level": 300,
-		"name": "IR/Religious Phil",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Charles Taliaferro"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IR/Religious Phil",
-		"type": "Research",
-		"year": 2001
-	},
-	"3678": {
-		"clbid": 3678,
-		"credits": 0.25,
-		"crsid": 1008,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Scuba Diving",
-		"num": 126,
-		"pf": false,
-		"profs": [
-			"John Campion"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Scuba Diving",
-		"type": "Research",
-		"year": 2001
-	},
-	"3679": {
-		"clbid": 3679,
-		"credits": 1.0,
-		"crsid": 1104,
-		"depts": [
-			"PSCI"
-		],
-		"level": 100,
-		"name": "Comparative Politics",
-		"num": 112,
-		"pf": false,
-		"places": [
-			"L 421"
-		],
-		"profs": [
-			"D Christopher Brooks"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Comparative Politics",
-		"type": "Research",
-		"year": 2001
-	},
-	"3680": {
-		"clbid": 3680,
-		"credits": 1.0,
-		"crsid": 1105,
-		"depts": [
-			"PSCI"
-		],
-		"level": 100,
-		"name": "Intro: Polit. Theory",
-		"num": 113,
-		"pf": false,
-		"places": [
-			"L 421"
-		],
-		"profs": [
-			"D Christopher Brooks"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Intro: Polit. Theory",
-		"type": "Research",
-		"year": 2001
-	},
-	"3681": {
-		"clbid": 3681,
-		"credits": 1.0,
-		"crsid": 1190,
-		"depts": [
-			"PSYCH"
-		],
-		"level": 300,
-		"name": "IR/Cov Oral Behavior",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Howard Thorsheim"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IR/Cov Oral Behavior",
-		"type": "Research",
-		"year": 2001
-	},
-	"3682": {
-		"clbid": 3682,
-		"credits": 1.0,
-		"crsid": 1205,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "Jesus in Script/Trad",
-		"num": 221,
-		"pf": false,
-		"places": [
-			"L 420"
-		],
-		"profs": [
-			"James Hanson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Jesus in Script/Trad",
-		"type": "Research",
-		"year": 2001
-	},
-	"3683": {
-		"clbid": 3683,
-		"credits": 1.0,
-		"crsid": 1207,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "St.Paul/Letter/Gospel",
-		"num": 223,
-		"pf": false,
-		"places": [
-			"L 420"
-		],
-		"profs": [
-			"James Hanson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "St.Paul/Letter/Gospel",
-		"type": "Research",
-		"year": 2001
-	},
-	"3684": {
-		"clbid": 3684,
-		"credits": 1.0,
-		"crsid": 1239,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "IS/Spiritual Friendsh",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"W. Bruce Benson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IS/Spiritual Friendsh",
-		"type": "Research",
-		"year": 2001
-	},
-	"3685": {
-		"clbid": 3685,
-		"credits": 1.0,
-		"crsid": 1392,
-		"depts": [
-			"THEAT"
-		],
-		"level": 200,
-		"name": "Hist/Theat-Since 1700",
-		"num": 271,
-		"pf": false,
-		"profs": [
-			"Karen Wilson"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "Hist/Theat-Since 1700",
-		"type": "Research",
-		"year": 2001
-	},
-	"3686": {
-		"clbid": 3686,
-		"credits": 1.0,
-		"crsid": 1401,
-		"depts": [
-			"THEAT"
-		],
-		"level": 300,
-		"name": "IR/Theater & Educ",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Gary C. Gisselman"
-		],
-		"sem": 5,
-		"term": 20015,
-		"title": "IR/Theater & Educ",
-		"type": "Research",
-		"year": 2001
-	}
+	"courses": [
+		{
+			"clbid": 3650,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"level": 200,
+			"name": "IS/Advanced Painting",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Wendell Arneson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Advanced Painting",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3651,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"level": 200,
+			"name": "IS/Costume Design",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Wendell Arneson"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Costume Design",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3652,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"level": 200,
+			"name": "IS/Industrial Design",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Wendell Arneson"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Industrial Design",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3653,
+			"credits": 1.0,
+			"crsid": 100,
+			"depts": [
+				"BIO"
+			],
+			"level": 100,
+			"name": "Biological Science",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Charles Jr. Umbanhowar"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Biological Science",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3654,
+			"credits": 1.0,
+			"crsid": 175,
+			"depts": [
+				"BIO"
+			],
+			"level": 300,
+			"name": "IR/House Wren Researc",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Louis Henry Kermott"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IR/House Wren Researc",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3655,
+			"credits": 1.0,
+			"crsid": 197,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Organic Chemistry",
+			"num": 248,
+			"pf": false,
+			"places": [
+				"SC 378"
+			],
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3656,
+			"credits": 0.25,
+			"crsid": 200,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Synthesis Lab",
+			"num": 254,
+			"pf": true,
+			"places": [
+				"SC 311"
+			],
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"MT 0100-0400PM"
+			],
+			"title": "Synthesis Lab",
+			"type": "Lab",
+			"year": 2001
+		},
+		{
+			"clbid": 3657,
+			"credits": 1.0,
+			"crsid": 254,
+			"depts": [
+				"ECON"
+			],
+			"level": 100,
+			"name": "Capitalism: Struggles",
+			"num": 111,
+			"pf": false,
+			"profs": [
+				"Steve Soderlind"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Capitalism: Struggles",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3658,
+			"credits": 1.0,
+			"crsid": 276,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3659,
+			"credits": 1.0,
+			"crsid": 387,
+			"depts": [
+				"ENGL"
+			],
+			"level": 100,
+			"name": "Reading for Life",
+			"num": 132,
+			"pf": false,
+			"places": [
+				"L 515"
+			],
+			"profs": [
+				"Karen E. Marsalek"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Reading for Life",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3660,
+			"credits": 1.0,
+			"crsid": 413,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Creative Nonfiction",
+			"num": 251,
+			"pf": false,
+			"places": [
+				"L 520"
+			],
+			"profs": [
+				"Signe Levine"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Creative Nonfiction",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3661,
+			"credits": 1.0,
+			"crsid": 426,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Shakespeare & Contemp",
+			"num": 280,
+			"pf": false,
+			"places": [
+				"L 515"
+			],
+			"profs": [
+				"Karen E. Marsalek"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Shakespeare & Contemp",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3662,
+			"credits": 1.0,
+			"crsid": 444,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "Shakespeare",
+			"num": 380,
+			"pf": false,
+			"places": [
+				"L 515"
+			],
+			"profs": [
+				"Karen E. Marsalek"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Shakespeare",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3663,
+			"credits": 1.0,
+			"crsid": 472,
+			"depts": [
+				"IDFA"
+			],
+			"level": 200,
+			"name": "IS/Perf-Art-Choreog",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Susan Bauer"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Perf-Art-Choreog",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3664,
+			"credits": 1.0,
+			"crsid": 504,
+			"depts": [
+				"GERM"
+			],
+			"level": 100,
+			"name": "Beginning German I",
+			"num": 111,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Beginning German I",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3665,
+			"credits": 1.0,
+			"crsid": 505,
+			"depts": [
+				"GERM"
+			],
+			"level": 100,
+			"name": "Beginning German II",
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Beginning German II",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3666,
+			"credits": 1.0,
+			"crsid": 509,
+			"depts": [
+				"GERM"
+			],
+			"level": 200,
+			"name": "Intermed German II",
+			"num": 232,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Intermed German II",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3667,
+			"credits": 1.0,
+			"crsid": 514,
+			"depts": [
+				"GERM"
+			],
+			"level": 200,
+			"name": "Speaking German",
+			"num": 250,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Speaking German",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3668,
+			"credits": 1.0,
+			"crsid": 1815,
+			"depts": [
+				"HIST"
+			],
+			"level": 200,
+			"name": "Age of Renaissance",
+			"num": 213,
+			"pf": false,
+			"places": [
+				"L 525"
+			],
+			"profs": [
+				"J. L. Carrington"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Age of Renaissance",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3669,
+			"credits": 1.0,
+			"crsid": 653,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"C. George Holt"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3670,
+			"credits": 1.0,
+			"crsid": 697,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"name": "War and Peace",
+			"num": 238,
+			"pf": false,
+			"places": [
+				"L 525"
+			],
+			"profs": [
+				"J. L. Carrington"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "War and Peace",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3671,
+			"credits": 1.0,
+			"crsid": 712,
+			"depts": [
+				"LATIN"
+			],
+			"level": 100,
+			"name": "Beginning Latin II",
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Anne Groton"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Beginning Latin II",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3672,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Kathy C. Thomforde"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3673,
+			"credits": 1.0,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Sonnega"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3674,
+			"credits": 1.0,
+			"crsid": 822,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Composition I",
+			"num": 223,
+			"pf": false,
+			"places": [
+				"CHM 232"
+			],
+			"profs": [
+				"Thomas C. Schnauber"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Composition I",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3675,
+			"credits": 1.0,
+			"crsid": 979,
+			"depts": [
+				"PHIL"
+			],
+			"level": 200,
+			"name": "Ethics/The Good Life",
+			"num": 252,
+			"pf": false,
+			"places": [
+				"L 421"
+			],
+			"profs": [
+				"Gordon D. Marino"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-Th 1000-1130",
+				"F 00-00"
+			],
+			"title": "Ethics/The Good Life",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3676,
+			"credits": 1.0,
+			"crsid": 986,
+			"depts": [
+				"PHIL"
+			],
+			"level": 200,
+			"name": "IS/Philosophy in Lit",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Gordon D. Marino"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Philosophy in Lit",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3677,
+			"credits": 1.0,
+			"crsid": 993,
+			"depts": [
+				"PHIL"
+			],
+			"level": 300,
+			"name": "IR/Religious Phil",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Charles Taliaferro"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IR/Religious Phil",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3678,
+			"credits": 0.25,
+			"crsid": 1008,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Scuba Diving",
+			"num": 126,
+			"pf": false,
+			"profs": [
+				"John Campion"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Scuba Diving",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3679,
+			"credits": 1.0,
+			"crsid": 1104,
+			"depts": [
+				"PSCI"
+			],
+			"level": 100,
+			"name": "Comparative Politics",
+			"num": 112,
+			"pf": false,
+			"places": [
+				"L 421"
+			],
+			"profs": [
+				"D Christopher Brooks"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Comparative Politics",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3680,
+			"credits": 1.0,
+			"crsid": 1105,
+			"depts": [
+				"PSCI"
+			],
+			"level": 100,
+			"name": "Intro: Polit. Theory",
+			"num": 113,
+			"pf": false,
+			"places": [
+				"L 421"
+			],
+			"profs": [
+				"D Christopher Brooks"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Intro: Polit. Theory",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3681,
+			"credits": 1.0,
+			"crsid": 1190,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 300,
+			"name": "IR/Cov Oral Behavior",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Howard Thorsheim"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IR/Cov Oral Behavior",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3682,
+			"credits": 1.0,
+			"crsid": 1205,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "Jesus in Script/Trad",
+			"num": 221,
+			"pf": false,
+			"places": [
+				"L 420"
+			],
+			"profs": [
+				"James Hanson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Jesus in Script/Trad",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3683,
+			"credits": 1.0,
+			"crsid": 1207,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "St.Paul/Letter/Gospel",
+			"num": 223,
+			"pf": false,
+			"places": [
+				"L 420"
+			],
+			"profs": [
+				"James Hanson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "St.Paul/Letter/Gospel",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3684,
+			"credits": 1.0,
+			"crsid": 1239,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "IS/Spiritual Friendsh",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"W. Bruce Benson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IS/Spiritual Friendsh",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3685,
+			"credits": 1.0,
+			"crsid": 1392,
+			"depts": [
+				"THEAT"
+			],
+			"level": 200,
+			"name": "Hist/Theat-Since 1700",
+			"num": 271,
+			"pf": false,
+			"profs": [
+				"Karen Wilson"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "Hist/Theat-Since 1700",
+			"type": "Research",
+			"year": 2001
+		},
+		{
+			"clbid": 3686,
+			"credits": 1.0,
+			"crsid": 1401,
+			"depts": [
+				"THEAT"
+			],
+			"level": 300,
+			"name": "IR/Theater & Educ",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Gary C. Gisselman"
+			],
+			"sem": 5,
+			"term": 20015,
+			"title": "IR/Theater & Educ",
+			"type": "Research",
+			"year": 2001
+		}
+	]
 }
