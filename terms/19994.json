@@ -1,732 +1,734 @@
 {
-	"26948": {
-		"clbid": 26948,
-		"credits": 1.0,
-		"crsid": 68,
-		"depts": [
-			"ART"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Steven Edwins"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 1999
-	},
-	"26949": {
-		"clbid": 26949,
-		"credits": 1.0,
-		"crsid": 172,
-		"depts": [
-			"BIO"
-		],
-		"level": 300,
-		"name": "Top: Museum Prep",
-		"num": 391,
-		"pf": false,
-		"profs": [
-			"Eugene Bakko"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Top: Museum Prep",
-		"type": "Topic",
-		"year": 1999
-	},
-	"26950": {
-		"clbid": 26950,
-		"credits": 1.0,
-		"crsid": 196,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Organic Chemistry",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"SC 378"
-		],
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry",
-		"type": "Research",
-		"year": 1999
-	},
-	"26951": {
-		"clbid": 26951,
-		"credits": 0.25,
-		"crsid": 199,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Synthesis Lab",
-		"num": 253,
-		"pf": true,
-		"places": [
-			"SC 311"
-		],
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"MT 0100-0400PM"
-		],
-		"title": "Synthesis Lab",
-		"type": "Lab",
-		"year": 1999
-	},
-	"26952": {
-		"clbid": 26952,
-		"credits": 1.0,
-		"crsid": 259,
-		"depts": [
-			"ECON"
-		],
-		"level": 100,
-		"name": "Principles of Econ",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"H 403"
-		],
-		"profs": [
-			"Steve Soderlind"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Principles of Econ",
-		"type": "Research",
-		"year": 1999
-	},
-	"26953": {
-		"clbid": 26953,
-		"credits": 1.0,
-		"crsid": 272,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"name": "Urban Economics",
-		"num": 249,
-		"pf": false,
-		"places": [
-			"H 403"
-		],
-		"profs": [
-			"Steve Soderlind"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Urban Economics",
-		"type": "Research",
-		"year": 1999
-	},
-	"26954": {
-		"clbid": 26954,
-		"credits": 1.0,
-		"crsid": 410,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Amer Racial/Multi Lit",
-		"num": 245,
-		"pf": false,
-		"places": [
-			"L 420"
-		],
-		"profs": [
-			"Joan Hepburn"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Amer Racial/Multi Lit",
-		"type": "Research",
-		"year": 1999
-	},
-	"26955": {
-		"clbid": 26955,
-		"credits": 1.0,
-		"crsid": 411,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Post-Colonial Lit",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"L 421"
-		],
-		"profs": [
-			"Joseph L. Mbele"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Post-Colonial Lit",
-		"type": "Research",
-		"year": 1999
-	},
-	"26956": {
-		"clbid": 26956,
-		"credits": 1.0,
-		"crsid": 437,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "African Amer Wmn/Lit",
-		"num": 345,
-		"pf": false,
-		"places": [
-			"L 420"
-		],
-		"profs": [
-			"Joan Hepburn"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "African Amer Wmn/Lit",
-		"type": "Topic",
-		"year": 1999
-	},
-	"26957": {
-		"clbid": 26957,
-		"credits": 1.0,
-		"crsid": 438,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "Post-Col/3rd Wld Lit",
-		"num": 347,
-		"pf": false,
-		"places": [
-			"L 421"
-		],
-		"profs": [
-			"Joseph L. Mbele"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Post-Col/3rd Wld Lit",
-		"type": "Topic",
-		"year": 1999
-	},
-	"26958": {
-		"clbid": 26958,
-		"credits": 1.0,
-		"crsid": 464,
-		"depts": [
-			"ENVST"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 1999
-	},
-	"26959": {
-		"clbid": 26959,
-		"credits": 1.0,
-		"crsid": 465,
-		"depts": [
-			"ENVST"
-		],
-		"level": 200,
-		"name": "IS/Env Sustainability",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "IS/Env Sustainability",
-		"type": "Research",
-		"year": 1999
-	},
-	"26960": {
-		"clbid": 26960,
-		"credits": 1.0,
-		"crsid": 504,
-		"depts": [
-			"GERM"
-		],
-		"level": 100,
-		"name": "Beginning German I",
-		"num": 111,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Beginning German I",
-		"type": "Research",
-		"year": 1999
-	},
-	"26961": {
-		"clbid": 26961,
-		"credits": 1.0,
-		"crsid": 505,
-		"depts": [
-			"GERM"
-		],
-		"level": 100,
-		"name": "Beginning German II",
-		"num": 112,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Beginning German II",
-		"type": "Research",
-		"year": 1999
-	},
-	"26962": {
-		"clbid": 26962,
-		"credits": 1.0,
-		"crsid": 508,
-		"depts": [
-			"GERM"
-		],
-		"level": 200,
-		"name": "Intermed German I",
-		"num": 231,
-		"pf": false,
-		"profs": [
-			"Frederike Von Schwerin-High"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Intermed German I",
-		"type": "Research",
-		"year": 1999
-	},
-	"26964": {
-		"clbid": 26964,
-		"credits": 1.0,
-		"crsid": 649,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Family Relationships",
-		"num": 242,
-		"pf": false,
-		"places": [
-			"M 4"
-		],
-		"profs": [
-			"C. George Holt"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Family Relationships",
-		"type": "Research",
-		"year": 1999
-	},
-	"26965": {
-		"clbid": 26965,
-		"credits": 1.0,
-		"crsid": 651,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Human Sexuality",
-		"num": 253,
-		"pf": false,
-		"places": [
-			"M 4"
-		],
-		"profs": [
-			"C. George Holt"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Human Sexuality",
-		"type": "Research",
-		"year": 1999
-	},
-	"26966": {
-		"clbid": 26966,
-		"credits": 1.0,
-		"crsid": 733,
-		"depts": [
-			"MATH"
-		],
-		"level": 100,
-		"name": "Calculus II",
-		"num": 126,
-		"pf": false,
-		"profs": [
-			"Peder Bolstad"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Calculus II",
-		"type": "Research",
-		"year": 1999
-	},
-	"26967": {
-		"clbid": 26967,
-		"credits": 1.0,
-		"crsid": 736,
-		"depts": [
-			"MATH"
-		],
-		"level": 200,
-		"name": "Elem Linear Algebra",
-		"num": 220,
-		"pf": false,
-		"profs": [
-			"Kenneth Alberts"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Elem Linear Algebra",
-		"type": "Research",
-		"year": 1999
-	},
-	"26968": {
-		"clbid": 26968,
-		"credits": 1.0,
-		"crsid": 738,
-		"depts": [
-			"MATH"
-		],
-		"level": 200,
-		"name": "Multivariable Calc",
-		"num": 226,
-		"pf": false,
-		"profs": [
-			"Kenneth Alberts"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Multivariable Calc",
-		"type": "Research",
-		"year": 1999
-	},
-	"26969": {
-		"clbid": 26969,
-		"credits": 0.25,
-		"crsid": 799,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 100,
-		"name": "Ear/Keyboard I",
-		"num": 111,
-		"pf": false,
-		"places": [
-			"CHM 224"
-		],
-		"profs": [
-			"Charles Forsberg"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Ear/Keyboard I",
-		"type": "Research",
-		"year": 1999
-	},
-	"26970": {
-		"clbid": 26970,
-		"credits": 0.75,
-		"crsid": 801,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 100,
-		"name": "Theory I",
-		"num": 113,
-		"pf": false,
-		"places": [
-			"CHM 224"
-		],
-		"profs": [
-			"Charles Forsberg"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Theory I",
-		"type": "Research",
-		"year": 1999
-	},
-	"26971": {
-		"clbid": 26971,
-		"credits": 1.0,
-		"crsid": 803,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 100,
-		"name": "The Music Spectrum",
-		"num": 130,
-		"pf": false,
-		"places": [
-			"CHM 224"
-		],
-		"profs": [
-			"Charles Forsberg"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "The Music Spectrum",
-		"type": "Research",
-		"year": 1999
-	},
-	"26972": {
-		"clbid": 26972,
-		"credits": 1.0,
-		"crsid": 821,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "Counterpoint",
-		"num": 222,
-		"pf": false,
-		"profs": [
-			"Charles Forsberg"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Counterpoint",
-		"type": "Research",
-		"year": 1999
-	},
-	"26973": {
-		"clbid": 26973,
-		"credits": 1.0,
-		"crsid": 979,
-		"depts": [
-			"PHIL"
-		],
-		"level": 200,
-		"name": "Ethics/The Good Life",
-		"num": 252,
-		"pf": false,
-		"places": [
-			"L 515"
-		],
-		"profs": [
-			"Corliss Swain"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Ethics/The Good Life",
-		"type": "Research",
-		"year": 1999
-	},
-	"26974": {
-		"clbid": 26974,
-		"credits": 1.0,
-		"crsid": 983,
-		"depts": [
-			"PHIL"
-		],
-		"level": 200,
-		"name": "Vices and Virtues",
-		"num": 258,
-		"pf": false,
-		"places": [
-			"L 520"
-		],
-		"profs": [
-			"Gordon D. Marino"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-Th 1000-1130"
-		],
-		"title": "Vices and Virtues",
-		"type": "Research",
-		"year": 1999
-	},
-	"26975": {
-		"clbid": 26975,
-		"credits": 0.25,
-		"crsid": 2185,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Individual Fitness",
-		"num": 132,
-		"pf": false,
-		"profs": [
-			"Christine Daymont"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Individual Fitness",
-		"type": "Research",
-		"year": 1999
-	},
-	"26976": {
-		"clbid": 26976,
-		"credits": 0.25,
-		"crsid": 1016,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Wt Training Co-Ed .25",
-		"num": 140,
-		"pf": false,
-		"profs": [
-			"Christine Daymont"
-		],
-		"sem": 4,
-		"term": 19994,
-		"title": "Wt Training Co-Ed .25",
-		"type": "Research",
-		"year": 1999
-	},
-	"26977": {
-		"clbid": 26977,
-		"credits": 1.0,
-		"crsid": 1072,
-		"depts": [
-			"PHYS"
-		],
-		"level": 100,
-		"name": "Principles Physics I",
-		"num": 124,
-		"pf": false,
-		"places": [
-			"SC 170",
-			"SC 111"
-		],
-		"profs": [
-			"David Dahl"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130",
-			"WTh 0100-0300PM"
-		],
-		"title": "Principles Physics I",
-		"type": "Research",
-		"year": 1999
-	},
-	"26978": {
-		"clbid": 26978,
-		"credits": 1.0,
-		"crsid": 1195,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "Chri Theol/Moral Life",
-		"num": 207,
-		"pf": false,
-		"places": [
-			"L 577"
-		],
-		"profs": [
-			"Daniel Malotky"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Chri Theol/Moral Life",
-		"type": "Research",
-		"year": 1999
-	},
-	"26979": {
-		"clbid": 26979,
-		"credits": 1.0,
-		"crsid": 1209,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "God & Human Suffering",
-		"num": 225,
-		"pf": false,
-		"places": [
-			"L 577"
-		],
-		"profs": [
-			"Daniel Malotky"
-		],
-		"sem": 4,
-		"term": 19994,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "God & Human Suffering",
-		"type": "Research",
-		"year": 1999
-	}
+	"courses": [
+		{
+			"clbid": 26948,
+			"credits": 1.0,
+			"crsid": 68,
+			"depts": [
+				"ART"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Steven Edwins"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26949,
+			"credits": 1.0,
+			"crsid": 172,
+			"depts": [
+				"BIO"
+			],
+			"level": 300,
+			"name": "Top: Museum Prep",
+			"num": 391,
+			"pf": false,
+			"profs": [
+				"Eugene Bakko"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Top: Museum Prep",
+			"type": "Topic",
+			"year": 1999
+		},
+		{
+			"clbid": 26950,
+			"credits": 1.0,
+			"crsid": 196,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Organic Chemistry",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"SC 378"
+			],
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26951,
+			"credits": 0.25,
+			"crsid": 199,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Synthesis Lab",
+			"num": 253,
+			"pf": true,
+			"places": [
+				"SC 311"
+			],
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"MT 0100-0400PM"
+			],
+			"title": "Synthesis Lab",
+			"type": "Lab",
+			"year": 1999
+		},
+		{
+			"clbid": 26952,
+			"credits": 1.0,
+			"crsid": 259,
+			"depts": [
+				"ECON"
+			],
+			"level": 100,
+			"name": "Principles of Econ",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"H 403"
+			],
+			"profs": [
+				"Steve Soderlind"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Principles of Econ",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26953,
+			"credits": 1.0,
+			"crsid": 272,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"name": "Urban Economics",
+			"num": 249,
+			"pf": false,
+			"places": [
+				"H 403"
+			],
+			"profs": [
+				"Steve Soderlind"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Urban Economics",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26954,
+			"credits": 1.0,
+			"crsid": 410,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Amer Racial/Multi Lit",
+			"num": 245,
+			"pf": false,
+			"places": [
+				"L 420"
+			],
+			"profs": [
+				"Joan Hepburn"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Amer Racial/Multi Lit",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26955,
+			"credits": 1.0,
+			"crsid": 411,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Post-Colonial Lit",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"L 421"
+			],
+			"profs": [
+				"Joseph L. Mbele"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Post-Colonial Lit",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26956,
+			"credits": 1.0,
+			"crsid": 437,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "African Amer Wmn/Lit",
+			"num": 345,
+			"pf": false,
+			"places": [
+				"L 420"
+			],
+			"profs": [
+				"Joan Hepburn"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "African Amer Wmn/Lit",
+			"type": "Topic",
+			"year": 1999
+		},
+		{
+			"clbid": 26957,
+			"credits": 1.0,
+			"crsid": 438,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "Post-Col/3rd Wld Lit",
+			"num": 347,
+			"pf": false,
+			"places": [
+				"L 421"
+			],
+			"profs": [
+				"Joseph L. Mbele"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Post-Col/3rd Wld Lit",
+			"type": "Topic",
+			"year": 1999
+		},
+		{
+			"clbid": 26958,
+			"credits": 1.0,
+			"crsid": 464,
+			"depts": [
+				"ENVST"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26959,
+			"credits": 1.0,
+			"crsid": 465,
+			"depts": [
+				"ENVST"
+			],
+			"level": 200,
+			"name": "IS/Env Sustainability",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "IS/Env Sustainability",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26960,
+			"credits": 1.0,
+			"crsid": 504,
+			"depts": [
+				"GERM"
+			],
+			"level": 100,
+			"name": "Beginning German I",
+			"num": 111,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Beginning German I",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26961,
+			"credits": 1.0,
+			"crsid": 505,
+			"depts": [
+				"GERM"
+			],
+			"level": 100,
+			"name": "Beginning German II",
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Beginning German II",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26962,
+			"credits": 1.0,
+			"crsid": 508,
+			"depts": [
+				"GERM"
+			],
+			"level": 200,
+			"name": "Intermed German I",
+			"num": 231,
+			"pf": false,
+			"profs": [
+				"Frederike Von Schwerin-High"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Intermed German I",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26964,
+			"credits": 1.0,
+			"crsid": 649,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Family Relationships",
+			"num": 242,
+			"pf": false,
+			"places": [
+				"M 4"
+			],
+			"profs": [
+				"C. George Holt"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Family Relationships",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26965,
+			"credits": 1.0,
+			"crsid": 651,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Human Sexuality",
+			"num": 253,
+			"pf": false,
+			"places": [
+				"M 4"
+			],
+			"profs": [
+				"C. George Holt"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Human Sexuality",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26966,
+			"credits": 1.0,
+			"crsid": 733,
+			"depts": [
+				"MATH"
+			],
+			"level": 100,
+			"name": "Calculus II",
+			"num": 126,
+			"pf": false,
+			"profs": [
+				"Peder Bolstad"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Calculus II",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26967,
+			"credits": 1.0,
+			"crsid": 736,
+			"depts": [
+				"MATH"
+			],
+			"level": 200,
+			"name": "Elem Linear Algebra",
+			"num": 220,
+			"pf": false,
+			"profs": [
+				"Kenneth Alberts"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Elem Linear Algebra",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26968,
+			"credits": 1.0,
+			"crsid": 738,
+			"depts": [
+				"MATH"
+			],
+			"level": 200,
+			"name": "Multivariable Calc",
+			"num": 226,
+			"pf": false,
+			"profs": [
+				"Kenneth Alberts"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Multivariable Calc",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26969,
+			"credits": 0.25,
+			"crsid": 799,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 100,
+			"name": "Ear/Keyboard I",
+			"num": 111,
+			"pf": false,
+			"places": [
+				"CHM 224"
+			],
+			"profs": [
+				"Charles Forsberg"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Ear/Keyboard I",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26970,
+			"credits": 0.75,
+			"crsid": 801,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 100,
+			"name": "Theory I",
+			"num": 113,
+			"pf": false,
+			"places": [
+				"CHM 224"
+			],
+			"profs": [
+				"Charles Forsberg"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Theory I",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26971,
+			"credits": 1.0,
+			"crsid": 803,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 100,
+			"name": "The Music Spectrum",
+			"num": 130,
+			"pf": false,
+			"places": [
+				"CHM 224"
+			],
+			"profs": [
+				"Charles Forsberg"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "The Music Spectrum",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26972,
+			"credits": 1.0,
+			"crsid": 821,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Counterpoint",
+			"num": 222,
+			"pf": false,
+			"profs": [
+				"Charles Forsberg"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Counterpoint",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26973,
+			"credits": 1.0,
+			"crsid": 979,
+			"depts": [
+				"PHIL"
+			],
+			"level": 200,
+			"name": "Ethics/The Good Life",
+			"num": 252,
+			"pf": false,
+			"places": [
+				"L 515"
+			],
+			"profs": [
+				"Corliss Swain"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Ethics/The Good Life",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26974,
+			"credits": 1.0,
+			"crsid": 983,
+			"depts": [
+				"PHIL"
+			],
+			"level": 200,
+			"name": "Vices and Virtues",
+			"num": 258,
+			"pf": false,
+			"places": [
+				"L 520"
+			],
+			"profs": [
+				"Gordon D. Marino"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-Th 1000-1130"
+			],
+			"title": "Vices and Virtues",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26975,
+			"credits": 0.25,
+			"crsid": 2185,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Individual Fitness",
+			"num": 132,
+			"pf": false,
+			"profs": [
+				"Christine Daymont"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Individual Fitness",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26976,
+			"credits": 0.25,
+			"crsid": 1016,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Wt Training Co-Ed .25",
+			"num": 140,
+			"pf": false,
+			"profs": [
+				"Christine Daymont"
+			],
+			"sem": 4,
+			"term": 19994,
+			"title": "Wt Training Co-Ed .25",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26977,
+			"credits": 1.0,
+			"crsid": 1072,
+			"depts": [
+				"PHYS"
+			],
+			"level": 100,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"places": [
+				"SC 170",
+				"SC 111"
+			],
+			"profs": [
+				"David Dahl"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130",
+				"WTh 0100-0300PM"
+			],
+			"title": "Principles Physics I",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26978,
+			"credits": 1.0,
+			"crsid": 1195,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "Chri Theol/Moral Life",
+			"num": 207,
+			"pf": false,
+			"places": [
+				"L 577"
+			],
+			"profs": [
+				"Daniel Malotky"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Chri Theol/Moral Life",
+			"type": "Research",
+			"year": 1999
+		},
+		{
+			"clbid": 26979,
+			"credits": 1.0,
+			"crsid": 1209,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "God & Human Suffering",
+			"num": 225,
+			"pf": false,
+			"places": [
+				"L 577"
+			],
+			"profs": [
+				"Daniel Malotky"
+			],
+			"sem": 4,
+			"term": 19994,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "God & Human Suffering",
+			"type": "Research",
+			"year": 1999
+		}
+	]
 }

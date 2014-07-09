@@ -1,1105 +1,1107 @@
 {
-	"18789": {
-		"clbid": 18789,
-		"credits": 1.0,
-		"crsid": 106,
-		"depts": [
-			"BIO"
-		],
-		"level": 100,
-		"name": "Cellular Bio & Genetics",
-		"num": 125,
-		"pf": false,
-		"profs": [
-			"Paul Cabe"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Cellular Bio & Genetics",
-		"type": "Research",
-		"year": 1995
-	},
-	"18790": {
-		"clbid": 18790,
-		"credits": 0.0,
-		"crsid": 107,
-		"depts": [
-			"BIO"
-		],
-		"level": 100,
-		"name": "Cellular Bio & Gen/Lab",
-		"num": 125,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Cellular Bio & Gen/Lab",
-		"type": "Lab",
-		"year": 1995
-	},
-	"18791": {
-		"clbid": 18791,
-		"credits": 1.0,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Lauri Sammartano"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18792": {
-		"clbid": 18792,
-		"credits": 1.0,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Louis Henry Kermott"
-		],
-		"sect": "A",
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18793": {
-		"clbid": 18793,
-		"credits": 1.0,
-		"crsid": 161,
-		"depts": [
-			"BIO"
-		],
-		"level": 300,
-		"name": "Field Ecology",
-		"num": 371,
-		"pf": false,
-		"profs": [
-			"Kathleen L. Shea"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Field Ecology",
-		"type": "Research",
-		"year": 1995
-	},
-	"18794": {
-		"clbid": 18794,
-		"credits": 1.0,
-		"crsid": 174,
-		"depts": [
-			"BIO"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Theodore Johnson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18795": {
-		"clbid": 18795,
-		"credits": 1.0,
-		"crsid": 192,
-		"depts": [
-			"CHEM"
-		],
-		"level": 100,
-		"name": "Struct Chem & Equilib",
-		"num": 125,
-		"pf": false,
-		"profs": [
-			"Gary Miessler"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Struct Chem & Equilib",
-		"type": "Research",
-		"year": 1995
-	},
-	"18796": {
-		"clbid": 18796,
-		"credits": 0.0,
-		"crsid": 193,
-		"depts": [
-			"CHEM"
-		],
-		"level": 100,
-		"name": "Struct Chem & Equ/Lab",
-		"num": 125,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Struct Chem & Equ/Lab",
-		"type": "Lab",
-		"year": 1995
-	},
-	"18797": {
-		"clbid": 18797,
-		"credits": 1.0,
-		"crsid": 196,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Organic Chemistry",
-		"num": 247,
-		"pf": false,
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Organic Chemistry",
-		"type": "Research",
-		"year": 1995
-	},
-	"18798": {
-		"clbid": 18798,
-		"credits": 0.25,
-		"crsid": 199,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Synthesis Lab",
-		"num": 253,
-		"pf": true,
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Synthesis Lab",
-		"type": "Lab",
-		"year": 1995
-	},
-	"18799": {
-		"clbid": 18799,
-		"credits": 1.0,
-		"crsid": 259,
-		"depts": [
-			"ECON"
-		],
-		"level": 100,
-		"name": "Principles of Econ",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Steve Soderlind"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Principles of Econ",
-		"type": "Research",
-		"year": 1995
-	},
-	"18800": {
-		"clbid": 18800,
-		"credits": 1.0,
-		"crsid": 272,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"name": "Urban Economics",
-		"num": 249,
-		"pf": false,
-		"profs": [
-			"Steve Soderlind"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Urban Economics",
-		"type": "Research",
-		"year": 1995
-	},
-	"18801": {
-		"clbid": 18801,
-		"credits": 1.0,
-		"crsid": 276,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Richard Goedde"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18802": {
-		"clbid": 18802,
-		"credits": 1.0,
-		"crsid": 306,
-		"depts": [
-			"CSCI"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Matthew Richey"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18803": {
-		"clbid": 18803,
-		"credits": 1.0,
-		"crsid": 306,
-		"depts": [
-			"CSCI"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Richard Brown"
-		],
-		"sect": "A",
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18804": {
-		"clbid": 18804,
-		"credits": 1.0,
-		"crsid": 345,
-		"depts": [
-			"EDUC"
-		],
-		"level": 300,
-		"name": "IR/Social Studies Per",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Myron L. Solid"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "IR/Social Studies Per",
-		"type": "Research",
-		"year": 1995
-	},
-	"18805": {
-		"clbid": 18805,
-		"credits": 1.0,
-		"crsid": 1669,
-		"depts": [
-			"ENGL"
-		],
-		"level": 100,
-		"name": "Intro to Literature",
-		"num": 125,
-		"pf": false,
-		"profs": [
-			"Jonathan Hill"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Intro to Literature",
-		"type": "Research",
-		"year": 1995
-	},
-	"18806": {
-		"clbid": 18806,
-		"credits": 1.0,
-		"crsid": 1690,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "The Romantic Period",
-		"num": 235,
-		"pf": false,
-		"profs": [
-			"Jonathan Hill"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "The Romantic Period",
-		"type": "Research",
-		"year": 1995
-	},
-	"18807": {
-		"clbid": 18807,
-		"credits": 1.0,
-		"crsid": 426,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Intro to Shakespeare",
-		"num": 280,
-		"pf": false,
-		"profs": [
-			"John T. Day"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Intro to Shakespeare",
-		"type": "Research",
-		"year": 1995
-	},
-	"18808": {
-		"clbid": 18808,
-		"credits": 1.0,
-		"crsid": 444,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "Shakespeare",
-		"num": 380,
-		"pf": false,
-		"profs": [
-			"John T. Day"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Shakespeare",
-		"type": "Research",
-		"year": 1995
-	},
-	"18809": {
-		"clbid": 18809,
-		"credits": 1.0,
-		"crsid": 452,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "Sem: The Romantics",
-		"num": 399,
-		"pf": false,
-		"profs": [
-			"Jonathan Hill"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Sem: The Romantics",
-		"type": "Seminar",
-		"year": 1995
-	},
-	"18810": {
-		"clbid": 18810,
-		"credits": 1.0,
-		"crsid": 496,
-		"depts": [
-			"FREN"
-		],
-		"level": 300,
-		"name": "IR/19th C Short Story",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "IR/19th C Short Story",
-		"type": "Research",
-		"year": 1995
-	},
-	"18811": {
-		"clbid": 18811,
-		"credits": 1.0,
-		"crsid": 1820,
-		"depts": [
-			"HIST"
-		],
-		"level": 200,
-		"name": "U.S. Since 1865",
-		"num": 206,
-		"pf": false,
-		"profs": [
-			"Frieda Knobloch"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "U.S. Since 1865",
-		"type": "Research",
-		"year": 1995
-	},
-	"18812": {
-		"clbid": 18812,
-		"credits": 1.0,
-		"crsid": 649,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Family Relationships",
-		"num": 242,
-		"pf": false,
-		"profs": [
-			"C. George Holt"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Family Relationships",
-		"type": "Research",
-		"year": 1995
-	},
-	"18813": {
-		"clbid": 18813,
-		"credits": 1.0,
-		"crsid": 651,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Human Sexuality",
-		"num": 253,
-		"pf": false,
-		"profs": [
-			"C. George Holt"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Human Sexuality",
-		"type": "Research",
-		"year": 1995
-	},
-	"18814": {
-		"clbid": 18814,
-		"credits": 1.0,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Mary Ann Emery",
-			"Jim Holden"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18815": {
-		"clbid": 18815,
-		"credits": 1.0,
-		"crsid": 731,
-		"depts": [
-			"MATH"
-		],
-		"level": 100,
-		"name": "Calculus I",
-		"num": 120,
-		"pf": false,
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Calculus I",
-		"type": "Research",
-		"year": 1995
-	},
-	"18816": {
-		"clbid": 18816,
-		"credits": 1.0,
-		"crsid": 733,
-		"depts": [
-			"MATH"
-		],
-		"level": 100,
-		"name": "Calculus II",
-		"num": 126,
-		"pf": false,
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Calculus II",
-		"type": "Research",
-		"year": 1995
-	},
-	"18817": {
-		"clbid": 18817,
-		"credits": 1.0,
-		"crsid": 745,
-		"depts": [
-			"MATH"
-		],
-		"level": 200,
-		"name": "Elem Real Analysis",
-		"num": 244,
-		"pf": false,
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Elem Real Analysis",
-		"type": "Research",
-		"year": 1995
-	},
-	"18818": {
-		"clbid": 18818,
-		"credits": 1.0,
-		"crsid": 803,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 100,
-		"name": "The Music Spectrum",
-		"num": 130,
-		"pf": false,
-		"profs": [
-			"Charles Forsberg"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "The Music Spectrum",
-		"type": "Research",
-		"year": 1995
-	},
-	"18819": {
-		"clbid": 18819,
-		"credits": 1.0,
-		"crsid": 822,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "Composition I",
-		"num": 223,
-		"pf": false,
-		"profs": [
-			"Peter S. Hamlin"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Composition I",
-		"type": "Research",
-		"year": 1995
-	},
-	"18820": {
-		"clbid": 18820,
-		"credits": 1.0,
-		"crsid": 1974,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "The Art of Music",
-		"num": 230,
-		"pf": false,
-		"profs": [
-			"David Carter"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "The Art of Music",
-		"type": "Research",
-		"year": 1995
-	},
-	"18821": {
-		"clbid": 18821,
-		"credits": 0.25,
-		"crsid": 1986,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "Church Serv Playing",
-		"num": 262,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Church Serv Playing",
-		"type": "Research",
-		"year": 1995
-	},
-	"18822": {
-		"clbid": 18822,
-		"credits": 1.0,
-		"crsid": 851,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 300,
-		"name": "Composition II",
-		"num": 324,
-		"pf": false,
-		"profs": [
-			"Peter S. Hamlin"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Composition II",
-		"type": "Research",
-		"year": 1995
-	},
-	"18823": {
-		"clbid": 18823,
-		"credits": 1.0,
-		"crsid": 926,
-		"depts": [
-			"NORW"
-		],
-		"level": 200,
-		"name": "Intermed Norwegian I",
-		"num": 231,
-		"pf": false,
-		"profs": [
-			"Solveig Zempel"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Intermed Norwegian I",
-		"type": "Research",
-		"year": 1995
-	},
-	"18824": {
-		"clbid": 18824,
-		"credits": 1.0,
-		"crsid": 980,
-		"depts": [
-			"PHIL"
-		],
-		"level": 200,
-		"name": "Law,Politics,Morality",
-		"num": 254,
-		"pf": false,
-		"profs": [
-			"Rick A. Fairbanks"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Law,Politics,Morality",
-		"type": "Research",
-		"year": 1995
-	},
-	"18825": {
-		"clbid": 18825,
-		"credits": 1.0,
-		"crsid": 992,
-		"depts": [
-			"PHIL"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Charles Taliaferro"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18826": {
-		"clbid": 18826,
-		"credits": 1.0,
-		"crsid": 993,
-		"depts": [
-			"PHIL"
-		],
-		"level": 300,
-		"name": "IR/Aristotle & Virtue",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Rick A. Fairbanks"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "IR/Aristotle & Virtue",
-		"type": "Research",
-		"year": 1995
-	},
-	"18827": {
-		"clbid": 18827,
-		"credits": 0.25,
-		"crsid": 995,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Individualized Phy Ed",
-		"num": 100,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Individualized Phy Ed",
-		"type": "Research",
-		"year": 1995
-	},
-	"18828": {
-		"clbid": 18828,
-		"credits": 0.25,
-		"crsid": 2185,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Individual Fitness",
-		"num": 132,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Individual Fitness",
-		"type": "Research",
-		"year": 1995
-	},
-	"18829": {
-		"clbid": 18829,
-		"credits": 1.0,
-		"crsid": 1072,
-		"depts": [
-			"PHYS"
-		],
-		"level": 100,
-		"name": "Principles Physics I",
-		"num": 124,
-		"pf": false,
-		"profs": [
-			"Amy Kolan"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Principles Physics I",
-		"type": "Research",
-		"year": 1995
-	},
-	"18830": {
-		"clbid": 18830,
-		"credits": 0.0,
-		"crsid": 1073,
-		"depts": [
-			"PHYS"
-		],
-		"level": 100,
-		"name": "Prin Physics I/Lab",
-		"num": 124,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Prin Physics I/Lab",
-		"type": "Lab",
-		"year": 1995
-	},
-	"18831": {
-		"clbid": 18831,
-		"credits": 1.0,
-		"crsid": 1151,
-		"depts": [
-			"PSCI"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Daniel Hofrenning"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18832": {
-		"clbid": 18832,
-		"credits": 1.0,
-		"crsid": 1154,
-		"depts": [
-			"PSYCH"
-		],
-		"level": 100,
-		"name": "Prin: Experimental Psy",
-		"num": 123,
-		"pf": false,
-		"profs": [
-			"Bonnie Sherman"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Prin: Experimental Psy",
-		"type": "Research",
-		"year": 1995
-	},
-	"18833": {
-		"clbid": 18833,
-		"credits": 1.0,
-		"crsid": 1179,
-		"depts": [
-			"PSYCH"
-		],
-		"level": 200,
-		"name": "IS/Head Start Program",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Mark Sundby"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "IS/Head Start Program",
-		"type": "Research",
-		"year": 1995
-	},
-	"18834": {
-		"clbid": 18834,
-		"credits": 1.0,
-		"crsid": 1188,
-		"depts": [
-			"PSYCH"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Deborah Anderson"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18835": {
-		"clbid": 18835,
-		"credits": 1.0,
-		"crsid": 1201,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "Types Protestantism",
-		"num": 215,
-		"pf": false,
-		"profs": [
-			"Susan Lindley"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Types Protestantism",
-		"type": "Research",
-		"year": 1995
-	},
-	"18836": {
-		"clbid": 18836,
-		"credits": 1.0,
-		"crsid": 2321,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "Women Judaism/Christ",
-		"num": 264,
-		"pf": false,
-		"profs": [
-			"Susan Lindley"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Women Judaism/Christ",
-		"type": "Research",
-		"year": 1995
-	},
-	"18838": {
-		"clbid": 18838,
-		"credits": 1.0,
-		"crsid": 1317,
-		"depts": [
-			"SOAN"
-		],
-		"level": 300,
-		"name": "Found Soc Sci Resrch",
-		"num": 371,
-		"pf": false,
-		"profs": [
-			"Raymond DeVries"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Found Soc Sci Resrch",
-		"type": "Research",
-		"year": 1995
-	},
-	"18839": {
-		"clbid": 18839,
-		"credits": 1.0,
-		"crsid": 1324,
-		"depts": [
-			"SPAN"
-		],
-		"level": 100,
-		"name": "Beginning Spanish I",
-		"num": 111,
-		"pf": false,
-		"profs": [
-			"Joan Odd"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Beginning Spanish I",
-		"type": "Research",
-		"year": 1995
-	},
-	"18840": {
-		"clbid": 18840,
-		"credits": 1.0,
-		"crsid": 792,
-		"depts": [
-			"THEAT"
-		],
-		"level": 100,
-		"name": "Mass Media",
-		"num": 160,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Mass Media",
-		"type": "Research",
-		"year": 1995
-	},
-	"18842": {
-		"clbid": 18842,
-		"credits": 1.0,
-		"crsid": 1394,
-		"depts": [
-			"THEAT"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18843": {
-		"clbid": 18843,
-		"credits": 1.0,
-		"crsid": 1400,
-		"depts": [
-			"THEAT"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18844": {
-		"clbid": 18844,
-		"credits": 1.0,
-		"crsid": 1409,
-		"depts": [
-			"STAT"
-		],
-		"level": 200,
-		"name": "Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Richard Single"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	},
-	"18845": {
-		"clbid": 18845,
-		"credits": 1.0,
-		"crsid": 1417,
-		"depts": [
-			"URBAN"
-		],
-		"level": 300,
-		"name": "Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Daniel Hofrenning"
-		],
-		"sem": 4,
-		"term": 19954,
-		"title": "Internship",
-		"type": "Research",
-		"year": 1995
-	}
+	"courses": [
+		{
+			"clbid": 18789,
+			"credits": 1.0,
+			"crsid": 106,
+			"depts": [
+				"BIO"
+			],
+			"level": 100,
+			"name": "Cellular Bio & Genetics",
+			"num": 125,
+			"pf": false,
+			"profs": [
+				"Paul Cabe"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Cellular Bio & Genetics",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18790,
+			"credits": 0.0,
+			"crsid": 107,
+			"depts": [
+				"BIO"
+			],
+			"level": 100,
+			"name": "Cellular Bio & Gen/Lab",
+			"num": 125,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Cellular Bio & Gen/Lab",
+			"type": "Lab",
+			"year": 1995
+		},
+		{
+			"clbid": 18791,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Lauri Sammartano"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18792,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Louis Henry Kermott"
+			],
+			"sect": "A",
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18793,
+			"credits": 1.0,
+			"crsid": 161,
+			"depts": [
+				"BIO"
+			],
+			"level": 300,
+			"name": "Field Ecology",
+			"num": 371,
+			"pf": false,
+			"profs": [
+				"Kathleen L. Shea"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Field Ecology",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18794,
+			"credits": 1.0,
+			"crsid": 174,
+			"depts": [
+				"BIO"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Theodore Johnson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18795,
+			"credits": 1.0,
+			"crsid": 192,
+			"depts": [
+				"CHEM"
+			],
+			"level": 100,
+			"name": "Struct Chem & Equilib",
+			"num": 125,
+			"pf": false,
+			"profs": [
+				"Gary Miessler"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Struct Chem & Equilib",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18796,
+			"credits": 0.0,
+			"crsid": 193,
+			"depts": [
+				"CHEM"
+			],
+			"level": 100,
+			"name": "Struct Chem & Equ/Lab",
+			"num": 125,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Struct Chem & Equ/Lab",
+			"type": "Lab",
+			"year": 1995
+		},
+		{
+			"clbid": 18797,
+			"credits": 1.0,
+			"crsid": 196,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Organic Chemistry",
+			"num": 247,
+			"pf": false,
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Organic Chemistry",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18798,
+			"credits": 0.25,
+			"crsid": 199,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Synthesis Lab",
+			"num": 253,
+			"pf": true,
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Synthesis Lab",
+			"type": "Lab",
+			"year": 1995
+		},
+		{
+			"clbid": 18799,
+			"credits": 1.0,
+			"crsid": 259,
+			"depts": [
+				"ECON"
+			],
+			"level": 100,
+			"name": "Principles of Econ",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Steve Soderlind"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Principles of Econ",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18800,
+			"credits": 1.0,
+			"crsid": 272,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"name": "Urban Economics",
+			"num": 249,
+			"pf": false,
+			"profs": [
+				"Steve Soderlind"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Urban Economics",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18801,
+			"credits": 1.0,
+			"crsid": 276,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard Goedde"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18802,
+			"credits": 1.0,
+			"crsid": 306,
+			"depts": [
+				"CSCI"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Matthew Richey"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18803,
+			"credits": 1.0,
+			"crsid": 306,
+			"depts": [
+				"CSCI"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Richard Brown"
+			],
+			"sect": "A",
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18804,
+			"credits": 1.0,
+			"crsid": 345,
+			"depts": [
+				"EDUC"
+			],
+			"level": 300,
+			"name": "IR/Social Studies Per",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Myron L. Solid"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "IR/Social Studies Per",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18805,
+			"credits": 1.0,
+			"crsid": 1669,
+			"depts": [
+				"ENGL"
+			],
+			"level": 100,
+			"name": "Intro to Literature",
+			"num": 125,
+			"pf": false,
+			"profs": [
+				"Jonathan Hill"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Intro to Literature",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18806,
+			"credits": 1.0,
+			"crsid": 1690,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "The Romantic Period",
+			"num": 235,
+			"pf": false,
+			"profs": [
+				"Jonathan Hill"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "The Romantic Period",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18807,
+			"credits": 1.0,
+			"crsid": 426,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Intro to Shakespeare",
+			"num": 280,
+			"pf": false,
+			"profs": [
+				"John T. Day"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Intro to Shakespeare",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18808,
+			"credits": 1.0,
+			"crsid": 444,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "Shakespeare",
+			"num": 380,
+			"pf": false,
+			"profs": [
+				"John T. Day"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Shakespeare",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18809,
+			"credits": 1.0,
+			"crsid": 452,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "Sem: The Romantics",
+			"num": 399,
+			"pf": false,
+			"profs": [
+				"Jonathan Hill"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Sem: The Romantics",
+			"type": "Seminar",
+			"year": 1995
+		},
+		{
+			"clbid": 18810,
+			"credits": 1.0,
+			"crsid": 496,
+			"depts": [
+				"FREN"
+			],
+			"level": 300,
+			"name": "IR/19th C Short Story",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "IR/19th C Short Story",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18811,
+			"credits": 1.0,
+			"crsid": 1820,
+			"depts": [
+				"HIST"
+			],
+			"level": 200,
+			"name": "U.S. Since 1865",
+			"num": 206,
+			"pf": false,
+			"profs": [
+				"Frieda Knobloch"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "U.S. Since 1865",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18812,
+			"credits": 1.0,
+			"crsid": 649,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Family Relationships",
+			"num": 242,
+			"pf": false,
+			"profs": [
+				"C. George Holt"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Family Relationships",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18813,
+			"credits": 1.0,
+			"crsid": 651,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Human Sexuality",
+			"num": 253,
+			"pf": false,
+			"profs": [
+				"C. George Holt"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Human Sexuality",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18814,
+			"credits": 1.0,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Mary Ann Emery",
+				"Jim Holden"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18815,
+			"credits": 1.0,
+			"crsid": 731,
+			"depts": [
+				"MATH"
+			],
+			"level": 100,
+			"name": "Calculus I",
+			"num": 120,
+			"pf": false,
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Calculus I",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18816,
+			"credits": 1.0,
+			"crsid": 733,
+			"depts": [
+				"MATH"
+			],
+			"level": 100,
+			"name": "Calculus II",
+			"num": 126,
+			"pf": false,
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Calculus II",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18817,
+			"credits": 1.0,
+			"crsid": 745,
+			"depts": [
+				"MATH"
+			],
+			"level": 200,
+			"name": "Elem Real Analysis",
+			"num": 244,
+			"pf": false,
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Elem Real Analysis",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18818,
+			"credits": 1.0,
+			"crsid": 803,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 100,
+			"name": "The Music Spectrum",
+			"num": 130,
+			"pf": false,
+			"profs": [
+				"Charles Forsberg"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "The Music Spectrum",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18819,
+			"credits": 1.0,
+			"crsid": 822,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Composition I",
+			"num": 223,
+			"pf": false,
+			"profs": [
+				"Peter S. Hamlin"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Composition I",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18820,
+			"credits": 1.0,
+			"crsid": 1974,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "The Art of Music",
+			"num": 230,
+			"pf": false,
+			"profs": [
+				"David Carter"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "The Art of Music",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18821,
+			"credits": 0.25,
+			"crsid": 1986,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Church Serv Playing",
+			"num": 262,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Church Serv Playing",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18822,
+			"credits": 1.0,
+			"crsid": 851,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 300,
+			"name": "Composition II",
+			"num": 324,
+			"pf": false,
+			"profs": [
+				"Peter S. Hamlin"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Composition II",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18823,
+			"credits": 1.0,
+			"crsid": 926,
+			"depts": [
+				"NORW"
+			],
+			"level": 200,
+			"name": "Intermed Norwegian I",
+			"num": 231,
+			"pf": false,
+			"profs": [
+				"Solveig Zempel"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Intermed Norwegian I",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18824,
+			"credits": 1.0,
+			"crsid": 980,
+			"depts": [
+				"PHIL"
+			],
+			"level": 200,
+			"name": "Law,Politics,Morality",
+			"num": 254,
+			"pf": false,
+			"profs": [
+				"Rick A. Fairbanks"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Law,Politics,Morality",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18825,
+			"credits": 1.0,
+			"crsid": 992,
+			"depts": [
+				"PHIL"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Charles Taliaferro"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18826,
+			"credits": 1.0,
+			"crsid": 993,
+			"depts": [
+				"PHIL"
+			],
+			"level": 300,
+			"name": "IR/Aristotle & Virtue",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Rick A. Fairbanks"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "IR/Aristotle & Virtue",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18827,
+			"credits": 0.25,
+			"crsid": 995,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Individualized Phy Ed",
+			"num": 100,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Individualized Phy Ed",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18828,
+			"credits": 0.25,
+			"crsid": 2185,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Individual Fitness",
+			"num": 132,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Individual Fitness",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18829,
+			"credits": 1.0,
+			"crsid": 1072,
+			"depts": [
+				"PHYS"
+			],
+			"level": 100,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"profs": [
+				"Amy Kolan"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Principles Physics I",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18830,
+			"credits": 0.0,
+			"crsid": 1073,
+			"depts": [
+				"PHYS"
+			],
+			"level": 100,
+			"name": "Prin Physics I/Lab",
+			"num": 124,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Prin Physics I/Lab",
+			"type": "Lab",
+			"year": 1995
+		},
+		{
+			"clbid": 18831,
+			"credits": 1.0,
+			"crsid": 1151,
+			"depts": [
+				"PSCI"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Daniel Hofrenning"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18832,
+			"credits": 1.0,
+			"crsid": 1154,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 100,
+			"name": "Prin: Experimental Psy",
+			"num": 123,
+			"pf": false,
+			"profs": [
+				"Bonnie Sherman"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Prin: Experimental Psy",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18833,
+			"credits": 1.0,
+			"crsid": 1179,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 200,
+			"name": "IS/Head Start Program",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Mark Sundby"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "IS/Head Start Program",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18834,
+			"credits": 1.0,
+			"crsid": 1188,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Deborah Anderson"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18835,
+			"credits": 1.0,
+			"crsid": 1201,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "Types Protestantism",
+			"num": 215,
+			"pf": false,
+			"profs": [
+				"Susan Lindley"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Types Protestantism",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18836,
+			"credits": 1.0,
+			"crsid": 2321,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "Women Judaism/Christ",
+			"num": 264,
+			"pf": false,
+			"profs": [
+				"Susan Lindley"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Women Judaism/Christ",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18838,
+			"credits": 1.0,
+			"crsid": 1317,
+			"depts": [
+				"SOAN"
+			],
+			"level": 300,
+			"name": "Found Soc Sci Resrch",
+			"num": 371,
+			"pf": false,
+			"profs": [
+				"Raymond DeVries"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Found Soc Sci Resrch",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18839,
+			"credits": 1.0,
+			"crsid": 1324,
+			"depts": [
+				"SPAN"
+			],
+			"level": 100,
+			"name": "Beginning Spanish I",
+			"num": 111,
+			"pf": false,
+			"profs": [
+				"Joan Odd"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Beginning Spanish I",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18840,
+			"credits": 1.0,
+			"crsid": 792,
+			"depts": [
+				"THEAT"
+			],
+			"level": 100,
+			"name": "Mass Media",
+			"num": 160,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Mass Media",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18842,
+			"credits": 1.0,
+			"crsid": 1394,
+			"depts": [
+				"THEAT"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18843,
+			"credits": 1.0,
+			"crsid": 1400,
+			"depts": [
+				"THEAT"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18844,
+			"credits": 1.0,
+			"crsid": 1409,
+			"depts": [
+				"STAT"
+			],
+			"level": 200,
+			"name": "Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard Single"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		},
+		{
+			"clbid": 18845,
+			"credits": 1.0,
+			"crsid": 1417,
+			"depts": [
+				"URBAN"
+			],
+			"level": 300,
+			"name": "Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Daniel Hofrenning"
+			],
+			"sem": 4,
+			"term": 19954,
+			"title": "Internship",
+			"type": "Research",
+			"year": 1995
+		}
+	]
 }

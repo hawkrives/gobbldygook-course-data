@@ -1,940 +1,942 @@
 {
-	"7508": {
-		"clbid": 7508,
-		"credits": 1.0,
-		"crsid": 18,
-		"depts": [
-			"ART"
-		],
-		"level": 100,
-		"name": "Foundation Drawing",
-		"num": 110,
-		"pf": false,
-		"places": [
-			"DC 216"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Foundation Drawing",
-		"type": "Research",
-		"year": 2003
-	},
-	"7509": {
-		"clbid": 7509,
-		"credits": 1.0,
-		"crsid": 1496,
-		"depts": [
-			"ART"
-		],
-		"level": 100,
-		"name": "Foundations Ceramics",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"DC 115E"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Foundations Ceramics",
-		"type": "Research",
-		"year": 2003
-	},
-	"7510": {
-		"clbid": 7510,
-		"credits": 1.0,
-		"crsid": 29,
-		"depts": [
-			"ART"
-		],
-		"level": 100,
-		"name": "Found Photography",
-		"num": 124,
-		"pf": false,
-		"places": [
-			"DC 102"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Found Photography",
-		"type": "Research",
-		"year": 2003
-	},
-	"7511": {
-		"clbid": 7511,
-		"credits": 1.0,
-		"crsid": 32,
-		"depts": [
-			"ART"
-		],
-		"level": 100,
-		"name": "Renaissance--Present",
-		"num": 151,
-		"pf": false,
-		"places": [
-			"DC 204"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Renaissance--Present",
-		"type": "Research",
-		"year": 2003
-	},
-	"7512": {
-		"clbid": 7512,
-		"credits": 1.0,
-		"crsid": 78,
-		"depts": [
-			"ASIAN"
-		],
-		"level": 100,
-		"name": "Asian Cultures",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"RML 515"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Asian Cultures",
-		"type": "Research",
-		"year": 2003
-	},
-	"7513": {
-		"clbid": 7513,
-		"credits": 1.0,
-		"crsid": 100,
-		"depts": [
-			"BIO"
-		],
-		"level": 100,
-		"name": "Biological Science",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"SC 278",
-			"SC 273"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930",
-			"T 0100-0500PM"
-		],
-		"title": "Biological Science",
-		"type": "Research",
-		"year": 2003
-	},
-	"7514": {
-		"clbid": 7514,
-		"credits": 1.0,
-		"crsid": 122,
-		"depts": [
-			"BIO"
-		],
-		"level": 200,
-		"name": "Intermediate Genetics",
-		"num": 233,
-		"pf": false,
-		"places": [
-			"SC 274",
-			"SC 211"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130",
-			"WTh 0100-0400PM"
-		],
-		"title": "Intermediate Genetics",
-		"type": "Research",
-		"year": 2003
-	},
-	"7515": {
-		"clbid": 7515,
-		"credits": 1.0,
-		"crsid": 196,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Organic Chemistry",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"SC 378"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry",
-		"type": "Research",
-		"year": 2003
-	},
-	"7516": {
-		"clbid": 7516,
-		"credits": 0.25,
-		"crsid": 199,
-		"depts": [
-			"CHEM"
-		],
-		"level": 200,
-		"name": "Synthesis Lab",
-		"num": 253,
-		"pf": true,
-		"places": [
-			"SC 311"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"MT 0100-0400PM"
-		],
-		"title": "Synthesis Lab",
-		"type": "Lab",
-		"year": 2003
-	},
-	"7517": {
-		"clbid": 7517,
-		"credits": 1.0,
-		"crsid": 315,
-		"depts": [
-			"EDUC"
-		],
-		"level": 300,
-		"name": "Soc St-Elem Classroom",
-		"num": 314,
-		"pf": false,
-		"places": [
-			"FH 10L",
-			"FH 10L"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0900-1200PM",
-			"M-F 0100-0300PM"
-		],
-		"title": "Soc St-Elem Classroom",
-		"type": "Research",
-		"year": 2003
-	},
-	"7518": {
-		"clbid": 7518,
-		"credits": 1.0,
-		"crsid": 316,
-		"depts": [
-			"EDUC"
-		],
-		"level": 300,
-		"name": "Reading Comm Literacy",
-		"num": 315,
-		"pf": false,
-		"places": [
-			"FH 10L",
-			"FH 10L"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0900-1200PM",
-			"M-F 0100-0300PM"
-		],
-		"title": "Reading Comm Literacy",
-		"type": "Research",
-		"year": 2003
-	},
-	"7519": {
-		"clbid": 7519,
-		"credits": 0.25,
-		"crsid": 353,
-		"depts": [
-			"DNCTE"
-		],
-		"level": 100,
-		"name": "Ballet I",
-		"num": 121,
-		"pf": true,
-		"places": [
-			"DC _STUDIO_2"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Ballet I",
-		"type": "Research",
-		"year": 2003
-	},
-	"7520": {
-		"clbid": 7520,
-		"credits": 1.0,
-		"crsid": 411,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Post-Colonial Lit",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"RML 525"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Post-Colonial Lit",
-		"type": "Research",
-		"year": 2003
-	},
-	"7521": {
-		"clbid": 7521,
-		"credits": 1.0,
-		"crsid": 424,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Literature & Film",
-		"num": 275,
-		"pf": false,
-		"places": [
-			"RML 525"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Literature & Film",
-		"type": "Research",
-		"year": 2003
-	},
-	"7522": {
-		"clbid": 7522,
-		"credits": 1.0,
-		"crsid": 429,
-		"depts": [
-			"ENGL"
-		],
-		"level": 200,
-		"name": "Studies in Prose",
-		"num": 283,
-		"pf": false,
-		"places": [
-			"RML 525"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Studies in Prose",
-		"type": "Research",
-		"year": 2003
-	},
-	"7523": {
-		"clbid": 7523,
-		"credits": 1.0,
-		"crsid": 438,
-		"depts": [
-			"ENGL"
-		],
-		"level": 300,
-		"name": "Top: Post Colonial Lit",
-		"num": 347,
-		"pf": false,
-		"places": [
-			"RML 525"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Top: Post Colonial Lit",
-		"type": "Topic",
-		"year": 2003
-	},
-	"7524": {
-		"clbid": 7524,
-		"credits": 1.0,
-		"crsid": 508,
-		"depts": [
-			"GERM"
-		],
-		"level": 200,
-		"name": "Intermed German I",
-		"num": 231,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Intermed German I",
-		"type": "Research",
-		"year": 2003
-	},
-	"7525": {
-		"clbid": 7525,
-		"credits": 1.0,
-		"crsid": 509,
-		"depts": [
-			"GERM"
-		],
-		"level": 200,
-		"name": "Intermed German II",
-		"num": 232,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Intermed German II",
-		"type": "Research",
-		"year": 2003
-	},
-	"7526": {
-		"clbid": 7526,
-		"credits": 1.0,
-		"crsid": 649,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Family Relationships",
-		"num": 242,
-		"pf": false,
-		"places": [
-			"OM 002"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Family Relationships",
-		"type": "Research",
-		"year": 2003
-	},
-	"7527": {
-		"clbid": 7527,
-		"credits": 1.0,
-		"crsid": 651,
-		"depts": [
-			"FAMST"
-		],
-		"level": 200,
-		"name": "Human Sexuality",
-		"num": 253,
-		"pf": false,
-		"places": [
-			"OM 002"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Human Sexuality",
-		"type": "Research",
-		"year": 2003
-	},
-	"7528": {
-		"clbid": 7528,
-		"credits": 1.0,
-		"crsid": 731,
-		"depts": [
-			"MATH"
-		],
-		"level": 100,
-		"name": "Calculus I",
-		"num": 120,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Calculus I",
-		"type": "Research",
-		"year": 2003
-	},
-	"7529": {
-		"clbid": 7529,
-		"credits": 1.0,
-		"crsid": 735,
-		"depts": [
-			"MATH"
-		],
-		"level": 200,
-		"name": "Principles of Math",
-		"num": 210,
-		"pf": false,
-		"places": [
-			"OM 001"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Principles of Math",
-		"type": "Research",
-		"year": 2003
-	},
-	"7530": {
-		"clbid": 7530,
-		"credits": 1.0,
-		"crsid": 747,
-		"depts": [
-			"MATH"
-		],
-		"level": 200,
-		"name": "Abstract Algebra I",
-		"num": 252,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Abstract Algebra I",
-		"type": "Research",
-		"year": 2003
-	},
-	"7531": {
-		"clbid": 7531,
-		"credits": 1.0,
-		"crsid": 764,
-		"depts": [
-			"MATH"
-		],
-		"level": 300,
-		"name": "Sem: Hist/Phil of Math",
-		"num": 388,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Sem: Hist/Phil of Math",
-		"type": "Seminar",
-		"year": 2003
-	},
-	"7532": {
-		"clbid": 7532,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Daniel B. Kramer"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2003
-	},
-	"7533": {
-		"clbid": 7533,
-		"credits": 0.25,
-		"crsid": 997,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Golf",
-		"num": 103,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Golf",
-		"type": "Research",
-		"year": 2003
-	},
-	"7534": {
-		"clbid": 7534,
-		"credits": 0.25,
-		"crsid": 998,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Rock Climbing",
-		"num": 106,
-		"pf": false,
-		"places": [
-			"TC"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Rock Climbing",
-		"type": "Research",
-		"year": 2003
-	},
-	"7535": {
-		"clbid": 7535,
-		"credits": 0.25,
-		"crsid": 1008,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Scuba Diving",
-		"num": 126,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "Scuba Diving",
-		"type": "Research",
-		"year": 2003
-	},
-	"7536": {
-		"clbid": 7536,
-		"credits": 0.5,
-		"crsid": 1012,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Individual Fitness.50",
-		"num": 133,
-		"pf": false,
-		"places": [
-			"TC"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0645-0745"
-		],
-		"title": "Individual Fitness.50",
-		"type": "Research",
-		"year": 2003
-	},
-	"7537": {
-		"clbid": 7537,
-		"credits": 0.5,
-		"crsid": 1016,
-		"depts": [
-			"PEAC"
-		],
-		"level": 100,
-		"name": "Wt Training Co-Ed .50",
-		"num": 140,
-		"pf": false,
-		"places": [
-			"TC"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 0645-0745"
-		],
-		"title": "Wt Training Co-Ed .50",
-		"type": "Research",
-		"year": 2003
-	},
-	"7538": {
-		"clbid": 7538,
-		"credits": 1.0,
-		"crsid": 1072,
-		"depts": [
-			"PHYS"
-		],
-		"level": 100,
-		"name": "Principles Physics I",
-		"num": 124,
-		"pf": false,
-		"places": [
-			"SC 170",
-			"SC 111"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130",
-			"WTh 0100-0330PM"
-		],
-		"title": "Principles Physics I",
-		"type": "Research",
-		"year": 2003
-	},
-	"7539": {
-		"clbid": 7539,
-		"credits": 1.0,
-		"crsid": 1122,
-		"depts": [
-			"PSCI"
-		],
-		"level": 200,
-		"name": "Politics & Developmnt",
-		"num": 252,
-		"pf": false,
-		"places": [
-			"HH 403"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Politics & Developmnt",
-		"type": "Research",
-		"year": 2003
-	},
-	"7540": {
-		"clbid": 7540,
-		"credits": 1.0,
-		"crsid": 1179,
-		"depts": [
-			"PSYCH"
-		],
-		"level": 200,
-		"name": "IS/Alcohol Adolescent",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Shelly D. Dickinson"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "IS/Alcohol Adolescent",
-		"type": "Research",
-		"year": 2003
-	},
-	"7541": {
-		"clbid": 7541,
-		"credits": 1.0,
-		"crsid": 1209,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "God & Human Suffering",
-		"num": 225,
-		"pf": false,
-		"places": [
-			"SC 129"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "God & Human Suffering",
-		"type": "Research",
-		"year": 2003
-	},
-	"7542": {
-		"clbid": 7542,
-		"credits": 1.0,
-		"crsid": 1234,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "Buddhism,Peace,Justic",
-		"num": 289,
-		"pf": false,
-		"places": [
-			"RML 515"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Buddhism,Peace,Justic",
-		"type": "Research",
-		"year": 2003
-	},
-	"7543": {
-		"clbid": 7543,
-		"credits": 1.0,
-		"crsid": 1239,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"name": "IS/Faith and Works",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Jamie A. Schillinger"
-		],
-		"sem": 4,
-		"term": 20034,
-		"title": "IS/Faith and Works",
-		"type": "Research",
-		"year": 2003
-	},
-	"7544": {
-		"clbid": 7544,
-		"credits": 1.0,
-		"crsid": 1374,
-		"depts": [
-			"THEAT"
-		],
-		"level": 100,
-		"name": "Oral Interpretation",
-		"num": 100,
-		"pf": false,
-		"places": [
-			"TB 216/HAUGE"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Oral Interpretation",
-		"type": "Research",
-		"year": 2003
-	},
-	"7545": {
-		"clbid": 7545,
-		"credits": 1.0,
-		"crsid": 1402,
-		"depts": [
-			"STAT"
-		],
-		"level": 100,
-		"name": "Prin of Statistics",
-		"num": 110,
-		"pf": false,
-		"places": [
-			"SC 184"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sem": 4,
-		"term": 20034,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Prin of Statistics",
-		"type": "Research",
-		"year": 2003
-	}
+	"courses": [
+		{
+			"clbid": 7508,
+			"credits": 1.0,
+			"crsid": 18,
+			"depts": [
+				"ART"
+			],
+			"level": 100,
+			"name": "Foundation Drawing",
+			"num": 110,
+			"pf": false,
+			"places": [
+				"DC 216"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Foundation Drawing",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7509,
+			"credits": 1.0,
+			"crsid": 1496,
+			"depts": [
+				"ART"
+			],
+			"level": 100,
+			"name": "Foundations Ceramics",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"DC 115E"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Foundations Ceramics",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7510,
+			"credits": 1.0,
+			"crsid": 29,
+			"depts": [
+				"ART"
+			],
+			"level": 100,
+			"name": "Found Photography",
+			"num": 124,
+			"pf": false,
+			"places": [
+				"DC 102"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Found Photography",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7511,
+			"credits": 1.0,
+			"crsid": 32,
+			"depts": [
+				"ART"
+			],
+			"level": 100,
+			"name": "Renaissance--Present",
+			"num": 151,
+			"pf": false,
+			"places": [
+				"DC 204"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Renaissance--Present",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7512,
+			"credits": 1.0,
+			"crsid": 78,
+			"depts": [
+				"ASIAN"
+			],
+			"level": 100,
+			"name": "Asian Cultures",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"RML 515"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Asian Cultures",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7513,
+			"credits": 1.0,
+			"crsid": 100,
+			"depts": [
+				"BIO"
+			],
+			"level": 100,
+			"name": "Biological Science",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"SC 278",
+				"SC 273"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930",
+				"T 0100-0500PM"
+			],
+			"title": "Biological Science",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7514,
+			"credits": 1.0,
+			"crsid": 122,
+			"depts": [
+				"BIO"
+			],
+			"level": 200,
+			"name": "Intermediate Genetics",
+			"num": 233,
+			"pf": false,
+			"places": [
+				"SC 274",
+				"SC 211"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130",
+				"WTh 0100-0400PM"
+			],
+			"title": "Intermediate Genetics",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7515,
+			"credits": 1.0,
+			"crsid": 196,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Organic Chemistry",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"SC 378"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7516,
+			"credits": 0.25,
+			"crsid": 199,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Synthesis Lab",
+			"num": 253,
+			"pf": true,
+			"places": [
+				"SC 311"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"MT 0100-0400PM"
+			],
+			"title": "Synthesis Lab",
+			"type": "Lab",
+			"year": 2003
+		},
+		{
+			"clbid": 7517,
+			"credits": 1.0,
+			"crsid": 315,
+			"depts": [
+				"EDUC"
+			],
+			"level": 300,
+			"name": "Soc St-Elem Classroom",
+			"num": 314,
+			"pf": false,
+			"places": [
+				"FH 10L",
+				"FH 10L"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0900-1200PM",
+				"M-F 0100-0300PM"
+			],
+			"title": "Soc St-Elem Classroom",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7518,
+			"credits": 1.0,
+			"crsid": 316,
+			"depts": [
+				"EDUC"
+			],
+			"level": 300,
+			"name": "Reading Comm Literacy",
+			"num": 315,
+			"pf": false,
+			"places": [
+				"FH 10L",
+				"FH 10L"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0900-1200PM",
+				"M-F 0100-0300PM"
+			],
+			"title": "Reading Comm Literacy",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7519,
+			"credits": 0.25,
+			"crsid": 353,
+			"depts": [
+				"DNCTE"
+			],
+			"level": 100,
+			"name": "Ballet I",
+			"num": 121,
+			"pf": true,
+			"places": [
+				"DC _STUDIO_2"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Ballet I",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7520,
+			"credits": 1.0,
+			"crsid": 411,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Post-Colonial Lit",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"RML 525"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Post-Colonial Lit",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7521,
+			"credits": 1.0,
+			"crsid": 424,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Literature & Film",
+			"num": 275,
+			"pf": false,
+			"places": [
+				"RML 525"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Literature & Film",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7522,
+			"credits": 1.0,
+			"crsid": 429,
+			"depts": [
+				"ENGL"
+			],
+			"level": 200,
+			"name": "Studies in Prose",
+			"num": 283,
+			"pf": false,
+			"places": [
+				"RML 525"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Studies in Prose",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7523,
+			"credits": 1.0,
+			"crsid": 438,
+			"depts": [
+				"ENGL"
+			],
+			"level": 300,
+			"name": "Top: Post Colonial Lit",
+			"num": 347,
+			"pf": false,
+			"places": [
+				"RML 525"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Top: Post Colonial Lit",
+			"type": "Topic",
+			"year": 2003
+		},
+		{
+			"clbid": 7524,
+			"credits": 1.0,
+			"crsid": 508,
+			"depts": [
+				"GERM"
+			],
+			"level": 200,
+			"name": "Intermed German I",
+			"num": 231,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Intermed German I",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7525,
+			"credits": 1.0,
+			"crsid": 509,
+			"depts": [
+				"GERM"
+			],
+			"level": 200,
+			"name": "Intermed German II",
+			"num": 232,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Intermed German II",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7526,
+			"credits": 1.0,
+			"crsid": 649,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Family Relationships",
+			"num": 242,
+			"pf": false,
+			"places": [
+				"OM 002"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Family Relationships",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7527,
+			"credits": 1.0,
+			"crsid": 651,
+			"depts": [
+				"FAMST"
+			],
+			"level": 200,
+			"name": "Human Sexuality",
+			"num": 253,
+			"pf": false,
+			"places": [
+				"OM 002"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Human Sexuality",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7528,
+			"credits": 1.0,
+			"crsid": 731,
+			"depts": [
+				"MATH"
+			],
+			"level": 100,
+			"name": "Calculus I",
+			"num": 120,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Calculus I",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7529,
+			"credits": 1.0,
+			"crsid": 735,
+			"depts": [
+				"MATH"
+			],
+			"level": 200,
+			"name": "Principles of Math",
+			"num": 210,
+			"pf": false,
+			"places": [
+				"OM 001"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Principles of Math",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7530,
+			"credits": 1.0,
+			"crsid": 747,
+			"depts": [
+				"MATH"
+			],
+			"level": 200,
+			"name": "Abstract Algebra I",
+			"num": 252,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Abstract Algebra I",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7531,
+			"credits": 1.0,
+			"crsid": 764,
+			"depts": [
+				"MATH"
+			],
+			"level": 300,
+			"name": "Sem: Hist/Phil of Math",
+			"num": 388,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Sem: Hist/Phil of Math",
+			"type": "Seminar",
+			"year": 2003
+		},
+		{
+			"clbid": 7532,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Daniel B. Kramer"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7533,
+			"credits": 0.25,
+			"crsid": 997,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Golf",
+			"num": 103,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Golf",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7534,
+			"credits": 0.25,
+			"crsid": 998,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Rock Climbing",
+			"num": 106,
+			"pf": false,
+			"places": [
+				"TC"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Rock Climbing",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7535,
+			"credits": 0.25,
+			"crsid": 1008,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Scuba Diving",
+			"num": 126,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "Scuba Diving",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7536,
+			"credits": 0.5,
+			"crsid": 1012,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Individual Fitness.50",
+			"num": 133,
+			"pf": false,
+			"places": [
+				"TC"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0645-0745"
+			],
+			"title": "Individual Fitness.50",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7537,
+			"credits": 0.5,
+			"crsid": 1016,
+			"depts": [
+				"PEAC"
+			],
+			"level": 100,
+			"name": "Wt Training Co-Ed .50",
+			"num": 140,
+			"pf": false,
+			"places": [
+				"TC"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 0645-0745"
+			],
+			"title": "Wt Training Co-Ed .50",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7538,
+			"credits": 1.0,
+			"crsid": 1072,
+			"depts": [
+				"PHYS"
+			],
+			"level": 100,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"places": [
+				"SC 170",
+				"SC 111"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130",
+				"WTh 0100-0330PM"
+			],
+			"title": "Principles Physics I",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7539,
+			"credits": 1.0,
+			"crsid": 1122,
+			"depts": [
+				"PSCI"
+			],
+			"level": 200,
+			"name": "Politics & Developmnt",
+			"num": 252,
+			"pf": false,
+			"places": [
+				"HH 403"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Politics & Developmnt",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7540,
+			"credits": 1.0,
+			"crsid": 1179,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 200,
+			"name": "IS/Alcohol Adolescent",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "IS/Alcohol Adolescent",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7541,
+			"credits": 1.0,
+			"crsid": 1209,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "God & Human Suffering",
+			"num": 225,
+			"pf": false,
+			"places": [
+				"SC 129"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "God & Human Suffering",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7542,
+			"credits": 1.0,
+			"crsid": 1234,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "Buddhism,Peace,Justic",
+			"num": 289,
+			"pf": false,
+			"places": [
+				"RML 515"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Buddhism,Peace,Justic",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7543,
+			"credits": 1.0,
+			"crsid": 1239,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"name": "IS/Faith and Works",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Jamie A. Schillinger"
+			],
+			"sem": 4,
+			"term": 20034,
+			"title": "IS/Faith and Works",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7544,
+			"credits": 1.0,
+			"crsid": 1374,
+			"depts": [
+				"THEAT"
+			],
+			"level": 100,
+			"name": "Oral Interpretation",
+			"num": 100,
+			"pf": false,
+			"places": [
+				"TB 216/HAUGE"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Oral Interpretation",
+			"type": "Research",
+			"year": 2003
+		},
+		{
+			"clbid": 7545,
+			"credits": 1.0,
+			"crsid": 1402,
+			"depts": [
+				"STAT"
+			],
+			"level": 100,
+			"name": "Prin of Statistics",
+			"num": 110,
+			"pf": false,
+			"places": [
+				"SC 184"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 4,
+			"term": 20034,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Prin of Statistics",
+			"type": "Research",
+			"year": 2003
+		}
+	]
 }

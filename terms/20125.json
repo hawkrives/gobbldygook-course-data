@@ -1,1662 +1,1664 @@
 {
-	"88085": {
-		"clbid": 88085,
-		"credits": 1.0,
-		"crsid": 26217,
-		"depts": [
-			"HIST"
-		],
-		"desc": "This course introduces students to Mediterranean archaeological field techniques and methods such as survey, site identification, artifact processing and analysis, and site excavation. During a five-week summer session, students: visit museums in order to recognize artifacts and contextualize them in regional chronologies; practice and refine excavation and survey techniques; and critically examine how archaeological knowledge about the ancient Mediterranean is constructed and expressed.",
-		"level": 200,
-		"name": "Archaeological Methods",
-		"notes": "This is an off-campus course.",
-		"num": 202,
-		"pf": false,
-		"profs": [
-			"Timothy R. Howe"
-		],
-		"sect": "H",
-		"sem": 5,
-		"term": 20125,
-		"title": "Mediterranean Archaeology Field School",
-		"type": "Research",
-		"year": 2012
-	},
-	"91377": {
-		"clbid": 91377,
-		"credits": 1.0,
-		"crsid": 1376,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "This studio course is designed as an overview of the acting process for the non-major and includes basic acting theories, rehearsal techniques, improvisation, history, and styles. Students explore and practice exercises, scene work, and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. This course does not fulfill the acting requirement for the major. Offered each semester.",
-		"gereqs": [
-			"ALS-A",
-			"ORC"
-		],
-		"level": 100,
-		"name": "Acting for Non-Majors",
-		"num": 115,
-		"pf": false,
-		"places": [
-			"TB Haugen"
-		],
-		"profs": [
-			"Jeanne I. Willcoxon"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Acting for the Non Major",
-		"type": "Research",
-		"year": 2012
-	},
-	"91378": {
-		"clbid": 91378,
-		"credits": 1.0,
-		"crsid": 1398,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theater 110 or 180. Some topics courses may require additional prerequisites. Please inquire in the Theater Department office before registering. Offered annually.",
-		"level": 300,
-		"name": "Top: Stage Combat",
-		"num": 379,
-		"pf": false,
-		"places": [
-			"TB Kelsey"
-		],
-		"profs": [
-			"Todd F. Edwards"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Topics in Interpretation and Theater",
-		"type": "Topic",
-		"year": 2012
-	},
-	"91393": {
-		"clbid": 91393,
-		"credits": 1.0,
-		"crsid": 194,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one three-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123 and Mathematics 120 or permission of instructor. Offered annually in the spring semester.",
-		"gereqs": [
-			"SED"
-		],
-		"groupid": 194,
-		"level": 100,
-		"name": "Chemical Reactions",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 310"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Energies and Rates of Chemical Reactions",
-		"type": "Research",
-		"year": 2012
-	},
-	"91394": {
-		"clbid": 91394,
-		"credits": 0.0,
-		"crsid": 195,
-		"depts": [
-			"CHEM"
-		],
-		"groupid": 194,
-		"level": 100,
-		"name": "Chemical Reactions Lab",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 355"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Chemical Reactions Lab",
-		"type": "Lab",
-		"year": 2012
-	},
-	"91395": {
-		"clbid": 91395,
-		"credits": 1.0,
-		"crsid": 197,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
-		"groupid": 197,
-		"level": 200,
-		"num": 248,
-		"pf": false,
-		"places": [
-			"RNS 310"
-		],
-		"profs": [
-			"Wesley Pearson"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry II",
-		"type": "Research",
-		"year": 2012
-	},
-	"91396": {
-		"clbid": 91396,
-		"credits": 0.25,
-		"crsid": 200,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
-		"groupid": 197,
-		"level": 200,
-		"name": "Synthesis Lab II",
-		"num": 254,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Cassidy R. Terrell"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"TTh 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory II",
-		"type": "Lab",
-		"year": 2012
-	},
-	"91397": {
-		"clbid": 91397,
-		"credits": 0.25,
-		"crsid": 200,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
-		"groupid": 197,
-		"level": 200,
-		"name": "Synthesis Lab II",
-		"num": 254,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Cassidy R. Terrell"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory II",
-		"type": "Lab",
-		"year": 2012
-	},
-	"91398": {
-		"clbid": 91398,
-		"credits": 1.0,
-		"crsid": 499,
-		"depts": [
-			"ID"
-		],
-		"desc": "This course provides an examination and application of the key content, skills, and perspectives of human geography. The lens of the geographer focuses on the spatial distribution of phenomena over the surface of the earth, asking the questions \"where?\" and \"why there?\". The practices and skills of geography are used to investigate a variety of issues in the Middle East, including environmental problems, the culture and management of sacred places, and the reasons for war and the need for peace. Counts toward environmental studies major (social science track).",
-		"gereqs": [
-			"HBS",
-			"MCG"
-		],
-		"level": 200,
-		"name": "Human Geography",
-		"num": 234,
-		"pf": false,
-		"places": [
-			"TOH 212"
-		],
-		"profs": [
-			"Robert W. McClure"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Human Geography of the Middle East",
-		"type": "Research",
-		"year": 2012
-	},
-	"91401": {
-		"clbid": 91401,
-		"credits": 1.0,
-		"crsid": 1176,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "Why are certain experiences or patterns of behavior considered psychologically \"abnormal?\" Students investigate a wide array of psychological disorders, including anxiety disorders, depression, eating disorders, and schizophrenia. Students examine models used to conceptualize abnormal behavior, as well as current evidence and theories regarding the etiology and treatment of these important and sometimes devastating disorders. Prerequisite: Psychology 125. Offered each semester.",
-		"gereqs": [
-			"HBS"
-		],
-		"level": 200,
-		"num": 247,
-		"pf": false,
-		"places": [
-			"RNS 124"
-		],
-		"profs": [
-			"Carlo O. Veltri"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Psychopathology",
-		"type": "Research",
-		"year": 2012
-	},
-	"91410": {
-		"clbid": 91410,
-		"credits": 1.0,
-		"crsid": 108,
-		"depts": [
-			"BIO"
-		],
-		"desc": "In this core course, students study the mechanisms of evolution, the evolutionary history of biological diversity, and the diversity of life. The structure and function of organisms are compared within an ecological/evolutionary context. Key adaptations to survival are examined among organisms from bacteria and protists to plants, fungi, and animals. Labs investigate population genetics, phylogeny, form, and behavior of selected organisms and provide experience in experimental design and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Prerequisite: Biology 125 or Chemistry/Biology 125-127.",
-		"gereqs": [
-			"SED"
-		],
-		"groupid": 108,
-		"level": 100,
-		"notes": "This course has been canceled.",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 435"
-		],
-		"profs": [
-			"Jean C. Porterfield"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-Th 1000-1130"
-		],
-		"title": "Evolution and Diversity",
-		"type": "Research",
-		"year": 2012
-	},
-	"91411": {
-		"clbid": 91411,
-		"credits": 0.0,
-		"crsid": 109,
-		"depts": [
-			"BIO"
-		],
-		"groupid": 108,
-		"level": 100,
-		"name": "Evolution & Diversity Lab",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 455"
-		],
-		"profs": [
-			"Jean C. Porterfield"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"TTh 0100-0400PM"
-		],
-		"title": "Evolution & Diversity Lab",
-		"type": "Lab",
-		"year": 2012
-	},
-	"91419": {
-		"clbid": 91419,
-		"credits": 0.5,
-		"crsid": 1016,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Wt Training Co-Ed .50",
-		"num": 140,
-		"pf": false,
-		"places": [
-			"SAC 112"
-		],
-		"profs": [
-			"Andrea J. Gelle"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Weight Training",
-		"type": "Research",
-		"year": 2012
-	},
-	"91420": {
-		"clbid": 91420,
-		"credits": 0.5,
-		"crsid": 1012,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Individual Fitness.50",
-		"num": 133,
-		"pf": false,
-		"places": [
-			"SAC 112"
-		],
-		"profs": [
-			"Andrea J. Gelle"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Individual Fitness",
-		"type": "Research",
-		"year": 2012
-	},
-	"91460": {
-		"clbid": 91460,
-		"credits": 1.0,
-		"crsid": 20060,
-		"depts": [
-			"REL"
-		],
-		"desc": "Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered during Interim.",
-		"gereqs": [
-			"BTS-T",
-			"WRI"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Quest of Ring/Grail/Cross",
-		"notes": "WRI pending approval.",
-		"num": 238,
-		"pf": false,
-		"places": [
-			"OM 110"
-		],
-		"profs": [
-			"Gregory A. Walter"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Quest of the Ring, the Grail, and the Cross",
-		"type": "Research",
-		"year": 2012
-	},
-	"91461": {
-		"clbid": 91461,
-		"credits": 1.0,
-		"crsid": 1237,
-		"depts": [
-			"REL"
-		],
-		"desc": "The nature and boundaries of communities, as well as the quality of relationships within communities, are determined by theology as well as by social, political, and ethnic factors. Students examine the ways in which the world's religions, particularly Christianity, have interpreted each other's significance and truth claims and considers the ethical implications of these different responses. Prerequisite: completion of BTS-T or permission of instructor.",
-		"gereqs": [
-			"EIN",
-			"WRI"
-		],
-		"level": 200,
-		"name": "Rel Pluralsm/Communit",
-		"num": 295,
-		"pf": false,
-		"places": [
-			"OM 110"
-		],
-		"profs": [
-			"Gregory A. Walter"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Religious Pluralism and the Nature of Community",
-		"type": "Research",
-		"year": 2012
-	},
-	"91629": {
-		"clbid": 91629,
-		"credits": 1.0,
-		"crsid": 609,
-		"depts": [
-			"ASIAN",
-			"HIST"
-		],
-		"desc": "This class examines reform and revolution at the end of Qing dynasty; the creation and collapse of the first Republic; warlordism, the New Culture Movement, social and cultural change, and the rise of Chinese nationalism; Japanese invasion, civil war, and the Communist victory; the People\u0092s Republic since 1949; economic and social change, conflict with the Soviet Union, the Cultural Revolution, Maoism and Mao\u0092s legacy; and China\u0092s recent economic and political transformation. Foreign Language Across the Curriculum course available in Chinese for students at the third-year level in the language. Offered most years.",
-		"gereqs": [
-			"MCG"
-		],
-		"level": 200,
-		"num": 251,
-		"pf": false,
-		"places": [
-			"HH 514"
-		],
-		"profs": [
-			"Robert Entenmann"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Modern China",
-		"type": "Research",
-		"year": 2012
-	},
-	"91630": {
-		"clbid": 91630,
-		"credits": 1.0,
-		"crsid": 406,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Students read and discuss children's literature from a variety of cultures and time periods. Beginning with world folklore and children's classics as background, students explore an array of picture books, poetry, fiction, and nonfiction that exemplifies the best in fantasy, science fiction, and realism for children and young adults. Special emphasis is given to two relatively new subgenres: multicultural literature and the contemporary problem novel. Prerequisite: FYW. Counts toward women's and gender studies major and concentration.",
-		"gereqs": [
-			"ALS-L"
-		],
-		"level": 200,
-		"name": "Children's Literature",
-		"num": 242,
-		"pf": false,
-		"places": [
-			"RML 420"
-		],
-		"profs": [
-			"Jan C. Hill"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-Th 0230-0400PM"
-		],
-		"title": "Children's and Young Adult Literature",
-		"type": "Research",
-		"year": 2012
-	},
-	"91631": {
-		"clbid": 91631,
-		"credits": 1.0,
-		"crsid": 24362,
-		"depts": [
-			"PHIL"
-		],
-		"desc": "Judo is an Olympic sport and martial art widely known for its dynamic throws, slick submissions, and grueling conditioning. However, the founder of judo also intended it to be a system of moral education rooted in the philosophical traditions of Japan. In this course students learn the physical aspects of judo through intensive practice and the philosophical aspects of judo through studying Zen Buddhism and the writings of judo's founder, Jigoro Kano. Offered during Interim.",
-		"gereqs": [
-			"SPM"
-		],
-		"grouptype": "R",
-		"level": 100,
-		"name": "Zen and Art of Judo",
-		"num": 127,
-		"pf": false,
-		"places": [
-			"SAC Wr Rm"
-		],
-		"profs": [
-			"Danny Munoz-Hutchinson"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Zen and the Art of Judo",
-		"type": "Research",
-		"year": 2012
-	},
-	"91736": {
-		"clbid": 91736,
-		"credits": 1.0,
-		"crsid": 745,
-		"depts": [
-			"MATH"
-		],
-		"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Permission of instructor required for first year students. Offered each semester.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"num": 244,
-		"pf": false,
-		"places": [
-			"TOH 186"
-		],
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Real Analysis I",
-		"type": "Research",
-		"year": 2012
-	},
-	"91751": {
-		"clbid": 91751,
-		"credits": 1.0,
-		"crsid": 1104,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "Why do some societies have democratic political systems and others authoritarian ones? What is democracy? Is it the norm or the exception? The course provides a foundation for the understanding of contemporary political regimes. It applies the major concepts of comparative analysis to the political systems of Western and non-Western societies. Offered annually.",
-		"gereqs": [
-			"HBS",
-			"MCG"
-		],
-		"level": 100,
-		"num": 112,
-		"pf": false,
-		"places": [
-			"HH 319"
-		],
-		"profs": [
-			"Kristina Thalhammer"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Comparative Politics",
-		"type": "Research",
-		"year": 2012
-	},
-	"91752": {
-		"clbid": 91752,
-		"credits": 1.0,
-		"crsid": 1127,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "Often controversial, U.S.-Latin American relations occupy a special place in the foreign policy of the United States. Students compare differing views of political issues of importance to both regions and explore the emergence of U.S. power, interventionism, cooperation, revolution, collective security, the transition to democracy, and the influence of economic factors on the relationship between Latin America and the U.S. Counts toward Hispanic studies major and Latin American/Latino studies concentration.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"name": "US/Latin Am Relations",
-		"num": 257,
-		"pf": false,
-		"places": [
-			"HH 319"
-		],
-		"profs": [
-			"Kristina Thalhammer"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "U.S. - Latin American Relations",
-		"type": "Research",
-		"year": 2012
-	},
-	"91952": {
-		"clbid": 91952,
-		"credits": 0.25,
-		"crsid": 624,
-		"depts": [
-			"HIST"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Timothy R. Howe"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92014": {
-		"clbid": 92014,
-		"credits": 1.0,
-		"crsid": 24281,
-		"depts": [
-			"ID"
-		],
-		"desc": "This course prepares McNair Scholars for the rigors of academic writing. Because the enrolled students represent a variety of disciplines, this course serves as a general introduction to writing in research; it is not meant to replace discipline-specific research methods or writing courses. Students read scholarly literature in their disciplines, write a literature review, draft various sections of a research paper, and prepare for a formal poster presentation. Offered every summer.",
-		"gereqs": [
-			"WRI"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "McNair Research Writing",
-		"num": 237,
-		"pf": false,
-		"profs": [
-			"Heather Campbell"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "McNair Research Writing Across the Disciplines",
-		"type": "Research",
-		"year": 2012
-	},
-	"92015": {
-		"clbid": 92015,
-		"credits": 1.0,
-		"crsid": 1289,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is open to first-year students or students in certain accredited programs. Open to all students when taught during the summer. Offered each semester. Counts towards American studies major.",
-		"gereqs": [
-			"HBS",
-			"MCD"
-		],
-		"level": 100,
-		"name": "Intro to Sociology",
-		"notes": "This course has been canceled.",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Ibtesam Al Atiyat"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Introduction to Sociology",
-		"type": "Research",
-		"year": 2012
-	},
-	"92016": {
-		"clbid": 92016,
-		"credits": 1.0,
-		"crsid": 23944,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "This course focuses on the theories, political goals, strategies, and activities of the emerging trends of Islamic feminisms. After mapping the landscape of this movement and identifying its different manifestations, students investigate Islamic feminists' readings and interpretations of the Quran, Hadith, and Islamic history. The course examines methods Islamic feminists use in interpreting and reinterpreting such sources, politics and strategies they employ, and the impact of their work on Muslim women's lives worldwide. Offered during Interim. Counts toward women's and gender studies major and concentration.",
-		"gereqs": [
-			"MCG"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Intro Islamic Feminisms",
-		"notes": "This course has been canceled.",
-		"num": 235,
-		"pf": false,
-		"profs": [
-			"Ibtesam Al Atiyat"
-		],
-		"sem": 5,
-		"term": 20125,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Introduction to Islamic Feminisms",
-		"type": "Research",
-		"year": 2012
-	},
-	"92037": {
-		"clbid": 92037,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Rebecca S. Richards"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92067": {
-		"clbid": 92067,
-		"credits": 0.25,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Michael Swift"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92097": {
-		"clbid": 92097,
-		"credits": 1.0,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"John A. Bazzachini"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92111": {
-		"clbid": 92111,
-		"credits": 1.0,
-		"crsid": 1179,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This opportunity to investigate in depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for Psychology 398. Prerequisite: Psychology 125, at least three courses in the department, and permission of instructor. Psychology 230 is strongly recommended. Offered each semester.",
-		"level": 200,
-		"name": "IS/",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2012
-	},
-	"92115": {
-		"clbid": 92115,
-		"credits": 1.0,
-		"crsid": 24395,
-		"depts": [
-			"FILM"
-		],
-		"grouptype": "R",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Diana Postlethwaite"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92120": {
-		"clbid": 92120,
-		"credits": 0.25,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Robert W. McClure"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92121": {
-		"clbid": 92121,
-		"credits": 0.25,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Jean C. Porterfield"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92124": {
-		"clbid": 92124,
-		"credits": 0.25,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"John Giannini"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92128": {
-		"clbid": 92128,
-		"credits": 0.25,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Richard Goedde"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92129": {
-		"clbid": 92129,
-		"credits": 0.25,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Sian E. Muir"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92130": {
-		"clbid": 92130,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Ryan R. Sheppard"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92134": {
-		"clbid": 92134,
-		"credits": 0.25,
-		"crsid": 961,
-		"depts": [
-			"NURS"
-		],
-		"desc": "Does not count toward the major.",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Mary Kuehn"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92135": {
-		"clbid": 92135,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Anthony Becker"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92136": {
-		"clbid": 92136,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Sian E. Muir"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92137": {
-		"clbid": 92137,
-		"credits": 0.25,
-		"crsid": 1315,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Ibtesam Al Atiyat"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92146": {
-		"clbid": 92146,
-		"credits": 0.25,
-		"crsid": 306,
-		"depts": [
-			"CSCI"
-		],
-		"desc": "Students gain experience in computer-industry positions. Projects have included contributions to team programming, implementation of solid modeling (NURBS), documentation, business applications of computing, and applications of computer graphics in medical research. Internship experiences (whether for credit or not) are strongly encouraged for anyone considering a career in computing.",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Richard Brown"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92147": {
-		"clbid": 92147,
-		"credits": 1.0,
-		"crsid": 1057,
-		"depts": [
-			"ESTH"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Sean Goldsworthy"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92148": {
-		"clbid": 92148,
-		"credits": 0.25,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Sonnega"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92149": {
-		"clbid": 92149,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Richard Goedde"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92150": {
-		"clbid": 92150,
-		"credits": 1.0,
-		"crsid": 1067,
-		"depts": [
-			"ESTH"
-		],
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"William Sean Goldsworthy"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92153": {
-		"clbid": 92153,
-		"credits": 0.5,
-		"crsid": 313,
-		"depts": [
-			"EDUC"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Robert W. McClure"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92154": {
-		"clbid": 92154,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Jeanne I. Willcoxon"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92155": {
-		"clbid": 92155,
-		"credits": 0.25,
-		"crsid": 433,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92156": {
-		"clbid": 92156,
-		"credits": 0.25,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Jan C. Hill"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92157": {
-		"clbid": 92157,
-		"credits": 0.25,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Justin W. Merritt"
-		],
-		"sect": "D",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92159": {
-		"clbid": 92159,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Katherine S. Tegtmeyer Pak"
-		],
-		"sect": "D",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92161": {
-		"clbid": 92161,
-		"credits": 0.25,
-		"crsid": 846,
-		"depts": [
-			"MUSIC"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Karen Wilkerson"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92166": {
-		"clbid": 92166,
-		"credits": 0.25,
-		"crsid": 788,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Richard Goedde"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92168": {
-		"clbid": 92168,
-		"credits": 1.0,
-		"crsid": 375,
-		"depts": [
-			"DANCE"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Video Dance Animation",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Anthony Roberts"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2012
-	},
-	"92169": {
-		"clbid": 92169,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Paul Wojick"
-		],
-		"sect": "E",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92179": {
-		"clbid": 92179,
-		"credits": 1.0,
-		"crsid": 154,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Registrar's Office or its Web site.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"name": "IS/Climate Change Reefs",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Jean C. Porterfield"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2012
-	},
-	"92185": {
-		"clbid": 92185,
-		"credits": 0.25,
-		"crsid": 276,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Richard M. Hirsch"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92191": {
-		"clbid": 92191,
-		"credits": 0.25,
-		"crsid": 1315,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Ibtesam Al Atiyat"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92192": {
-		"clbid": 92192,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Katherine S. Tegtmeyer Pak"
-		],
-		"sect": "F",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92193": {
-		"clbid": 92193,
-		"credits": 0.25,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Sian E. Muir"
-		],
-		"sect": "D",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92194": {
-		"clbid": 92194,
-		"credits": 0.25,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Sian E. Muir"
-		],
-		"sect": "G",
-		"sem": 5,
-		"term": 20125,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92241": {
-		"clbid": 92241,
-		"credits": 0.25,
-		"crsid": 1366,
-		"depts": [
-			"SWRK"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Mary Carlsen"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92246": {
-		"clbid": 92246,
-		"credits": 0.5,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Anne Walter"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"92394": {
-		"clbid": 92394,
-		"credits": 1.0,
-		"crsid": 738,
-		"depts": [
-			"MATH"
-		],
-		"desc": "This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered each semester.",
-		"level": 200,
-		"name": "Multivariable Calc",
-		"num": 226,
-		"pf": false,
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Multivariable Calculus",
-		"type": "Research",
-		"year": 2012
-	},
-	"92395": {
-		"clbid": 92395,
-		"credits": 1.0,
-		"crsid": 27057,
-		"depts": [
-			"ID"
-		],
-		"desc": "This interdisciplinary, topics-based course explores contemporary issues in science with emphasis on developing students' understanding of scientific and quantitiative approaches to problem solving. Specific topics, ranging from environmental chemistry and public health to biomechanics and genetics, vary from year to year. Students attend nine hours of lectures or small group discussion sections, two to three hours of quantitative workshops, and four hours of laboratory per week. Does not count toward any major. The course is taught with WRI 109. Prerequisite: acceptance into the Summer Bridge Program. Offered annually during the summer.",
-		"gereqs": [
-			"IST",
-			"SED"
-		],
-		"grouptype": "R",
-		"level": 100,
-		"num": 150,
-		"pf": false,
-		"profs": [
-			"Lisa M. Bowers",
-			"Michael Swift",
-			"Anne Walter"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Explorations in Science",
-		"type": "Research",
-		"year": 2012
-	},
-	"92396": {
-		"clbid": 92396,
-		"credits": 0.25,
-		"crsid": 23391,
-		"depts": [
-			"WRIT"
-		],
-		"desc": "This course provides supplemental instruction in reading, writing, and critical thinking in conjunction with a designated course. Students practice reading course-specific texts, focusing writing topics, writing essay and short answer exams, developing research habits, indentifying and using discipline-specific sources, and writing for general and specific audiences. Supplemental assignments complement writing in the designated course. Prerequisite: concurrent enrollment in a designated full-credit course. May be repeated once with a different designated course.",
-		"grouptype": "R",
-		"level": 100,
-		"name": "Top: Supplemental Writing",
-		"num": 109,
-		"pf": true,
-		"profs": [
-			"Maria L. Kelly"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Topics: Supplemental Writing",
-		"type": "Topic",
-		"year": 2012
-	},
-	"92521": {
-		"clbid": 92521,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Kurt Anderson"
-		],
-		"sect": "E",
-		"sem": 5,
-		"term": 20125,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2012
-	},
-	"93702": {
-		"clbid": 93702,
-		"credits": 1.0,
-		"crsid": 19402,
-		"depts": [
-			"LATIN"
-		],
-		"level": 100,
-		"name": "Introduction to Latin",
-		"num": 101,
-		"pf": false,
-		"profs": [
-			"Mary Cisar",
-			"Kathy T. Granquist"
-		],
-		"sem": 5,
-		"term": 20125,
-		"title": "Introduction to Latin",
-		"type": "Research",
-		"year": 2012
-	}
+	"courses": [
+		{
+			"clbid": 88085,
+			"credits": 1.0,
+			"crsid": 26217,
+			"depts": [
+				"HIST"
+			],
+			"desc": "This course introduces students to Mediterranean archaeological field techniques and methods such as survey, site identification, artifact processing and analysis, and site excavation. During a five-week summer session, students: visit museums in order to recognize artifacts and contextualize them in regional chronologies; practice and refine excavation and survey techniques; and critically examine how archaeological knowledge about the ancient Mediterranean is constructed and expressed.",
+			"level": 200,
+			"name": "Archaeological Methods",
+			"notes": "This is an off-campus course.",
+			"num": 202,
+			"pf": false,
+			"profs": [
+				"Timothy R. Howe"
+			],
+			"sect": "H",
+			"sem": 5,
+			"term": 20125,
+			"title": "Mediterranean Archaeology Field School",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91377,
+			"credits": 1.0,
+			"crsid": 1376,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "This studio course is designed as an overview of the acting process for the non-major and includes basic acting theories, rehearsal techniques, improvisation, history, and styles. Students explore and practice exercises, scene work, and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. This course does not fulfill the acting requirement for the major. Offered each semester.",
+			"gereqs": [
+				"ALS-A",
+				"ORC"
+			],
+			"level": 100,
+			"name": "Acting for Non-Majors",
+			"num": 115,
+			"pf": false,
+			"places": [
+				"TB Haugen"
+			],
+			"profs": [
+				"Jeanne I. Willcoxon"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Acting for the Non Major",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91378,
+			"credits": 1.0,
+			"crsid": 1398,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theater 110 or 180. Some topics courses may require additional prerequisites. Please inquire in the Theater Department office before registering. Offered annually.",
+			"level": 300,
+			"name": "Top: Stage Combat",
+			"num": 379,
+			"pf": false,
+			"places": [
+				"TB Kelsey"
+			],
+			"profs": [
+				"Todd F. Edwards"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Topics in Interpretation and Theater",
+			"type": "Topic",
+			"year": 2012
+		},
+		{
+			"clbid": 91393,
+			"credits": 1.0,
+			"crsid": 194,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one three-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123 and Mathematics 120 or permission of instructor. Offered annually in the spring semester.",
+			"gereqs": [
+				"SED"
+			],
+			"groupid": 194,
+			"level": 100,
+			"name": "Chemical Reactions",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 310"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Energies and Rates of Chemical Reactions",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91394,
+			"credits": 0.0,
+			"crsid": 195,
+			"depts": [
+				"CHEM"
+			],
+			"groupid": 194,
+			"level": 100,
+			"name": "Chemical Reactions Lab",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 355"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Chemical Reactions Lab",
+			"type": "Lab",
+			"year": 2012
+		},
+		{
+			"clbid": 91395,
+			"credits": 1.0,
+			"crsid": 197,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"groupid": 197,
+			"level": 200,
+			"num": 248,
+			"pf": false,
+			"places": [
+				"RNS 310"
+			],
+			"profs": [
+				"Wesley Pearson"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry II",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91396,
+			"credits": 0.25,
+			"crsid": 200,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"groupid": 197,
+			"level": 200,
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Cassidy R. Terrell"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory II",
+			"type": "Lab",
+			"year": 2012
+		},
+		{
+			"clbid": 91397,
+			"credits": 0.25,
+			"crsid": 200,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"groupid": 197,
+			"level": 200,
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Cassidy R. Terrell"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory II",
+			"type": "Lab",
+			"year": 2012
+		},
+		{
+			"clbid": 91398,
+			"credits": 1.0,
+			"crsid": 499,
+			"depts": [
+				"ID"
+			],
+			"desc": "This course provides an examination and application of the key content, skills, and perspectives of human geography. The lens of the geographer focuses on the spatial distribution of phenomena over the surface of the earth, asking the questions \"where?\" and \"why there?\". The practices and skills of geography are used to investigate a variety of issues in the Middle East, including environmental problems, the culture and management of sacred places, and the reasons for war and the need for peace. Counts toward environmental studies major (social science track).",
+			"gereqs": [
+				"HBS",
+				"MCG"
+			],
+			"level": 200,
+			"name": "Human Geography",
+			"num": 234,
+			"pf": false,
+			"places": [
+				"TOH 212"
+			],
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Human Geography of the Middle East",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91401,
+			"credits": 1.0,
+			"crsid": 1176,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Why are certain experiences or patterns of behavior considered psychologically \"abnormal?\" Students investigate a wide array of psychological disorders, including anxiety disorders, depression, eating disorders, and schizophrenia. Students examine models used to conceptualize abnormal behavior, as well as current evidence and theories regarding the etiology and treatment of these important and sometimes devastating disorders. Prerequisite: Psychology 125. Offered each semester.",
+			"gereqs": [
+				"HBS"
+			],
+			"level": 200,
+			"num": 247,
+			"pf": false,
+			"places": [
+				"RNS 124"
+			],
+			"profs": [
+				"Carlo O. Veltri"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Psychopathology",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91410,
+			"credits": 1.0,
+			"crsid": 108,
+			"depts": [
+				"BIO"
+			],
+			"desc": "In this core course, students study the mechanisms of evolution, the evolutionary history of biological diversity, and the diversity of life. The structure and function of organisms are compared within an ecological/evolutionary context. Key adaptations to survival are examined among organisms from bacteria and protists to plants, fungi, and animals. Labs investigate population genetics, phylogeny, form, and behavior of selected organisms and provide experience in experimental design and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Prerequisite: Biology 125 or Chemistry/Biology 125-127.",
+			"gereqs": [
+				"SED"
+			],
+			"groupid": 108,
+			"level": 100,
+			"notes": "This course has been canceled.",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 435"
+			],
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-Th 1000-1130"
+			],
+			"title": "Evolution and Diversity",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91411,
+			"credits": 0.0,
+			"crsid": 109,
+			"depts": [
+				"BIO"
+			],
+			"groupid": 108,
+			"level": 100,
+			"name": "Evolution & Diversity Lab",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 455"
+			],
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": "Evolution & Diversity Lab",
+			"type": "Lab",
+			"year": 2012
+		},
+		{
+			"clbid": 91419,
+			"credits": 0.5,
+			"crsid": 1016,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Wt Training Co-Ed .50",
+			"num": 140,
+			"pf": false,
+			"places": [
+				"SAC 112"
+			],
+			"profs": [
+				"Andrea J. Gelle"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Weight Training",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91420,
+			"credits": 0.5,
+			"crsid": 1012,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Individual Fitness.50",
+			"num": 133,
+			"pf": false,
+			"places": [
+				"SAC 112"
+			],
+			"profs": [
+				"Andrea J. Gelle"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Individual Fitness",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91460,
+			"credits": 1.0,
+			"crsid": 20060,
+			"depts": [
+				"REL"
+			],
+			"desc": "Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered during Interim.",
+			"gereqs": [
+				"BTS-T",
+				"WRI"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Quest of Ring/Grail/Cross",
+			"notes": "WRI pending approval.",
+			"num": 238,
+			"pf": false,
+			"places": [
+				"OM 110"
+			],
+			"profs": [
+				"Gregory A. Walter"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Quest of the Ring, the Grail, and the Cross",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91461,
+			"credits": 1.0,
+			"crsid": 1237,
+			"depts": [
+				"REL"
+			],
+			"desc": "The nature and boundaries of communities, as well as the quality of relationships within communities, are determined by theology as well as by social, political, and ethnic factors. Students examine the ways in which the world's religions, particularly Christianity, have interpreted each other's significance and truth claims and considers the ethical implications of these different responses. Prerequisite: completion of BTS-T or permission of instructor.",
+			"gereqs": [
+				"EIN",
+				"WRI"
+			],
+			"level": 200,
+			"name": "Rel Pluralsm/Communit",
+			"num": 295,
+			"pf": false,
+			"places": [
+				"OM 110"
+			],
+			"profs": [
+				"Gregory A. Walter"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Religious Pluralism and the Nature of Community",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91629,
+			"credits": 1.0,
+			"crsid": 609,
+			"depts": [
+				"ASIAN",
+				"HIST"
+			],
+			"desc": "This class examines reform and revolution at the end of Qing dynasty; the creation and collapse of the first Republic; warlordism, the New Culture Movement, social and cultural change, and the rise of Chinese nationalism; Japanese invasion, civil war, and the Communist victory; the People\u0092s Republic since 1949; economic and social change, conflict with the Soviet Union, the Cultural Revolution, Maoism and Mao\u0092s legacy; and China\u0092s recent economic and political transformation. Foreign Language Across the Curriculum course available in Chinese for students at the third-year level in the language. Offered most years.",
+			"gereqs": [
+				"MCG"
+			],
+			"level": 200,
+			"num": 251,
+			"pf": false,
+			"places": [
+				"HH 514"
+			],
+			"profs": [
+				"Robert Entenmann"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Modern China",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91630,
+			"credits": 1.0,
+			"crsid": 406,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students read and discuss children's literature from a variety of cultures and time periods. Beginning with world folklore and children's classics as background, students explore an array of picture books, poetry, fiction, and nonfiction that exemplifies the best in fantasy, science fiction, and realism for children and young adults. Special emphasis is given to two relatively new subgenres: multicultural literature and the contemporary problem novel. Prerequisite: FYW. Counts toward women's and gender studies major and concentration.",
+			"gereqs": [
+				"ALS-L"
+			],
+			"level": 200,
+			"name": "Children's Literature",
+			"num": 242,
+			"pf": false,
+			"places": [
+				"RML 420"
+			],
+			"profs": [
+				"Jan C. Hill"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-Th 0230-0400PM"
+			],
+			"title": "Children's and Young Adult Literature",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91631,
+			"credits": 1.0,
+			"crsid": 24362,
+			"depts": [
+				"PHIL"
+			],
+			"desc": "Judo is an Olympic sport and martial art widely known for its dynamic throws, slick submissions, and grueling conditioning. However, the founder of judo also intended it to be a system of moral education rooted in the philosophical traditions of Japan. In this course students learn the physical aspects of judo through intensive practice and the philosophical aspects of judo through studying Zen Buddhism and the writings of judo's founder, Jigoro Kano. Offered during Interim.",
+			"gereqs": [
+				"SPM"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"name": "Zen and Art of Judo",
+			"num": 127,
+			"pf": false,
+			"places": [
+				"SAC Wr Rm"
+			],
+			"profs": [
+				"Danny Munoz-Hutchinson"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Zen and the Art of Judo",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91736,
+			"credits": 1.0,
+			"crsid": 745,
+			"depts": [
+				"MATH"
+			],
+			"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Permission of instructor required for first year students. Offered each semester.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"num": 244,
+			"pf": false,
+			"places": [
+				"TOH 186"
+			],
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Real Analysis I",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91751,
+			"credits": 1.0,
+			"crsid": 1104,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Why do some societies have democratic political systems and others authoritarian ones? What is democracy? Is it the norm or the exception? The course provides a foundation for the understanding of contemporary political regimes. It applies the major concepts of comparative analysis to the political systems of Western and non-Western societies. Offered annually.",
+			"gereqs": [
+				"HBS",
+				"MCG"
+			],
+			"level": 100,
+			"num": 112,
+			"pf": false,
+			"places": [
+				"HH 319"
+			],
+			"profs": [
+				"Kristina Thalhammer"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Comparative Politics",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91752,
+			"credits": 1.0,
+			"crsid": 1127,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Often controversial, U.S.-Latin American relations occupy a special place in the foreign policy of the United States. Students compare differing views of political issues of importance to both regions and explore the emergence of U.S. power, interventionism, cooperation, revolution, collective security, the transition to democracy, and the influence of economic factors on the relationship between Latin America and the U.S. Counts toward Hispanic studies major and Latin American/Latino studies concentration.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "US/Latin Am Relations",
+			"num": 257,
+			"pf": false,
+			"places": [
+				"HH 319"
+			],
+			"profs": [
+				"Kristina Thalhammer"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "U.S. - Latin American Relations",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 91952,
+			"credits": 0.25,
+			"crsid": 624,
+			"depts": [
+				"HIST"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Timothy R. Howe"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92014,
+			"credits": 1.0,
+			"crsid": 24281,
+			"depts": [
+				"ID"
+			],
+			"desc": "This course prepares McNair Scholars for the rigors of academic writing. Because the enrolled students represent a variety of disciplines, this course serves as a general introduction to writing in research; it is not meant to replace discipline-specific research methods or writing courses. Students read scholarly literature in their disciplines, write a literature review, draft various sections of a research paper, and prepare for a formal poster presentation. Offered every summer.",
+			"gereqs": [
+				"WRI"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "McNair Research Writing",
+			"num": 237,
+			"pf": false,
+			"profs": [
+				"Heather Campbell"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "McNair Research Writing Across the Disciplines",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92015,
+			"credits": 1.0,
+			"crsid": 1289,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is open to first-year students or students in certain accredited programs. Open to all students when taught during the summer. Offered each semester. Counts towards American studies major.",
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"level": 100,
+			"name": "Intro to Sociology",
+			"notes": "This course has been canceled.",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Ibtesam Al Atiyat"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Introduction to Sociology",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92016,
+			"credits": 1.0,
+			"crsid": 23944,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course focuses on the theories, political goals, strategies, and activities of the emerging trends of Islamic feminisms. After mapping the landscape of this movement and identifying its different manifestations, students investigate Islamic feminists' readings and interpretations of the Quran, Hadith, and Islamic history. The course examines methods Islamic feminists use in interpreting and reinterpreting such sources, politics and strategies they employ, and the impact of their work on Muslim women's lives worldwide. Offered during Interim. Counts toward women's and gender studies major and concentration.",
+			"gereqs": [
+				"MCG"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Intro Islamic Feminisms",
+			"notes": "This course has been canceled.",
+			"num": 235,
+			"pf": false,
+			"profs": [
+				"Ibtesam Al Atiyat"
+			],
+			"sem": 5,
+			"term": 20125,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Introduction to Islamic Feminisms",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92037,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Rebecca S. Richards"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92067,
+			"credits": 0.25,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Michael Swift"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92097,
+			"credits": 1.0,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"John A. Bazzachini"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92111,
+			"credits": 1.0,
+			"crsid": 1179,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This opportunity to investigate in depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for Psychology 398. Prerequisite: Psychology 125, at least three courses in the department, and permission of instructor. Psychology 230 is strongly recommended. Offered each semester.",
+			"level": 200,
+			"name": "IS/",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92115,
+			"credits": 1.0,
+			"crsid": 24395,
+			"depts": [
+				"FILM"
+			],
+			"grouptype": "R",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Diana Postlethwaite"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92120,
+			"credits": 0.25,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92121,
+			"credits": 0.25,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92124,
+			"credits": 0.25,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"John Giannini"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92128,
+			"credits": 0.25,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard Goedde"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92129,
+			"credits": 0.25,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92130,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Ryan R. Sheppard"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92134,
+			"credits": 0.25,
+			"crsid": 961,
+			"depts": [
+				"NURS"
+			],
+			"desc": "Does not count toward the major.",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Mary Kuehn"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92135,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anthony Becker"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92136,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92137,
+			"credits": 0.25,
+			"crsid": 1315,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Ibtesam Al Atiyat"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92146,
+			"credits": 0.25,
+			"crsid": 306,
+			"depts": [
+				"CSCI"
+			],
+			"desc": "Students gain experience in computer-industry positions. Projects have included contributions to team programming, implementation of solid modeling (NURBS), documentation, business applications of computing, and applications of computer graphics in medical research. Internship experiences (whether for credit or not) are strongly encouraged for anyone considering a career in computing.",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Richard Brown"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92147,
+			"credits": 1.0,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Sean Goldsworthy"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92148,
+			"credits": 0.25,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Sonnega"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92149,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard Goedde"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92150,
+			"credits": 1.0,
+			"crsid": 1067,
+			"depts": [
+				"ESTH"
+			],
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"William Sean Goldsworthy"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92153,
+			"credits": 0.5,
+			"crsid": 313,
+			"depts": [
+				"EDUC"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92154,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Jeanne I. Willcoxon"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92155,
+			"credits": 0.25,
+			"crsid": 433,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92156,
+			"credits": 0.25,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Jan C. Hill"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92157,
+			"credits": 0.25,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Justin W. Merritt"
+			],
+			"sect": "D",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92159,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Katherine S. Tegtmeyer Pak"
+			],
+			"sect": "D",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92161,
+			"credits": 0.25,
+			"crsid": 846,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Karen Wilkerson"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92166,
+			"credits": 0.25,
+			"crsid": 788,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Richard Goedde"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92168,
+			"credits": 1.0,
+			"crsid": 375,
+			"depts": [
+				"DANCE"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Video Dance Animation",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Anthony Roberts"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92169,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Paul Wojick"
+			],
+			"sect": "E",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92179,
+			"credits": 1.0,
+			"crsid": 154,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Registrar's Office or its Web site.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "IS/Climate Change Reefs",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92185,
+			"credits": 0.25,
+			"crsid": 276,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard M. Hirsch"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92191,
+			"credits": 0.25,
+			"crsid": 1315,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Ibtesam Al Atiyat"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92192,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Katherine S. Tegtmeyer Pak"
+			],
+			"sect": "F",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92193,
+			"credits": 0.25,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sect": "D",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92194,
+			"credits": 0.25,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sect": "G",
+			"sem": 5,
+			"term": 20125,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92241,
+			"credits": 0.25,
+			"crsid": 1366,
+			"depts": [
+				"SWRK"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Mary Carlsen"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92246,
+			"credits": 0.5,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anne Walter"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92394,
+			"credits": 1.0,
+			"crsid": 738,
+			"depts": [
+				"MATH"
+			],
+			"desc": "This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered each semester.",
+			"level": 200,
+			"name": "Multivariable Calc",
+			"num": 226,
+			"pf": false,
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Multivariable Calculus",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92395,
+			"credits": 1.0,
+			"crsid": 27057,
+			"depts": [
+				"ID"
+			],
+			"desc": "This interdisciplinary, topics-based course explores contemporary issues in science with emphasis on developing students' understanding of scientific and quantitiative approaches to problem solving. Specific topics, ranging from environmental chemistry and public health to biomechanics and genetics, vary from year to year. Students attend nine hours of lectures or small group discussion sections, two to three hours of quantitative workshops, and four hours of laboratory per week. Does not count toward any major. The course is taught with WRI 109. Prerequisite: acceptance into the Summer Bridge Program. Offered annually during the summer.",
+			"gereqs": [
+				"IST",
+				"SED"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"num": 150,
+			"pf": false,
+			"profs": [
+				"Lisa M. Bowers",
+				"Michael Swift",
+				"Anne Walter"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Explorations in Science",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 92396,
+			"credits": 0.25,
+			"crsid": 23391,
+			"depts": [
+				"WRIT"
+			],
+			"desc": "This course provides supplemental instruction in reading, writing, and critical thinking in conjunction with a designated course. Students practice reading course-specific texts, focusing writing topics, writing essay and short answer exams, developing research habits, indentifying and using discipline-specific sources, and writing for general and specific audiences. Supplemental assignments complement writing in the designated course. Prerequisite: concurrent enrollment in a designated full-credit course. May be repeated once with a different designated course.",
+			"grouptype": "R",
+			"level": 100,
+			"name": "Top: Supplemental Writing",
+			"num": 109,
+			"pf": true,
+			"profs": [
+				"Maria L. Kelly"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Topics: Supplemental Writing",
+			"type": "Topic",
+			"year": 2012
+		},
+		{
+			"clbid": 92521,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Kurt Anderson"
+			],
+			"sect": "E",
+			"sem": 5,
+			"term": 20125,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2012
+		},
+		{
+			"clbid": 93702,
+			"credits": 1.0,
+			"crsid": 19402,
+			"depts": [
+				"LATIN"
+			],
+			"level": 100,
+			"name": "Introduction to Latin",
+			"num": 101,
+			"pf": false,
+			"profs": [
+				"Mary Cisar",
+				"Kathy T. Granquist"
+			],
+			"sem": 5,
+			"term": 20125,
+			"title": "Introduction to Latin",
+			"type": "Research",
+			"year": 2012
+		}
+	]
 }

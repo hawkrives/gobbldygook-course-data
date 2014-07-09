@@ -1,1041 +1,1043 @@
 {
-	"80430": {
-		"clbid": 80430,
-		"credits": 1.0,
-		"crsid": 106,
-		"depts": [
-			"BIO"
-		],
-		"desc": "This core course explores major principles of cellular and molecular biology and it or the Chemistry/Biology 125-127 series is a prerequisite for all level II biology courses. Emphases include the structural and chemical composition of cells, crucial metabolic pathways, fundamentals of cell division, basic genetics, and the scientific method. Materials integrate concepts with problem-solving. Students are introduced to state-of-the-art library search technologies and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Offered annually in the fall semester and during interim.",
-		"gereqs": [
-			"IST",
-			"SED"
-		],
-		"groupid": 106,
-		"level": 100,
-		"name": "Cell Bio & Genetics",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 390"
-		],
-		"profs": [
-			"John Giannini"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Cellular Biology and Genetics",
-		"type": "Research",
-		"year": 2010
-	},
-	"80431": {
-		"clbid": 80431,
-		"credits": 0.0,
-		"crsid": 107,
-		"depts": [
-			"BIO"
-		],
-		"groupid": 106,
-		"level": 100,
-		"name": "Cell Bio & Genetics Lab",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 255"
-		],
-		"profs": [
-			"John Giannini"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"TW 0100-0330PM"
-		],
-		"title": "Cell Bio & Genetics Lab",
-		"type": "Lab",
-		"year": 2010
-	},
-	"80432": {
-		"clbid": 80432,
-		"credits": 1.0,
-		"crsid": 126,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Students journey toward greater understanding of the human body through an integrated study of the structure of the body (anatomy) and how organs such as the brain, heart, and kidney perform their remarkable functions (physiology). The course is designed primarily for students intending careers in the health sciences. Students attend lectures plus one three-hour laboratory per week. Prerequisite: Biology 125, or Chemistry/Biology 125-127. Offered annually.",
-		"groupid": 126,
-		"level": 200,
-		"name": "Human Anatomy & Physiol",
-		"num": 243,
-		"pf": false,
-		"places": [
-			"RNS 410"
-		],
-		"profs": [
-			"Kevin M. Crisp"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Human Anatomy and Physiology",
-		"type": "Research",
-		"year": 2010
-	},
-	"80433": {
-		"clbid": 80433,
-		"credits": 0.0,
-		"crsid": 127,
-		"depts": [
-			"BIO"
-		],
-		"groupid": 126,
-		"level": 200,
-		"name": "Human Anatomy & Physiol L",
-		"num": 243,
-		"pf": false,
-		"places": [
-			"RNS 254"
-		],
-		"profs": [
-			"Kevin M. Crisp"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"TTh 0100-0400PM"
-		],
-		"title": "Human Anatomy & Physiol L",
-		"type": "Lab",
-		"year": 2010
-	},
-	"80435": {
-		"clbid": 80435,
-		"credits": 1.0,
-		"crsid": 192,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This study of chemical stoichiometry, equilibrium, acid-base chemistry, coordination chemistry, and atomic and molecular structure supplies the fundamental background on which all later chemistry courses depend. It includes applications of equilibrium principles to acid-base chemistry. Students attend three classes and one three-hour laboratory each week. Prerequisites: high school chemistry and physics. Students planning to continue in chemistry should consider concurrent registration in Mathematics 120 or 121. Placement via online placement exam is required. The course cannot be taken in conjunction with or after credit in Chemistry 121. Offered annually in the fall semester.",
-		"gereqs": [
-			"SED"
-		],
-		"groupid": 192,
-		"level": 100,
-		"name": "Struct Chem & Equilib",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 310"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Structural Chemistry and Equilibrium",
-		"type": "Research",
-		"year": 2010
-	},
-	"80436": {
-		"clbid": 80436,
-		"credits": 0.0,
-		"crsid": 193,
-		"depts": [
-			"CHEM"
-		],
-		"groupid": 192,
-		"level": 100,
-		"name": "Struct Chem & Equilib Lab",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 350"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Struct Chem & Equilib Lab",
-		"type": "Lab",
-		"year": 2010
-	},
-	"80438": {
-		"clbid": 80438,
-		"credits": 1.0,
-		"crsid": 196,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered annually in the fall semester.",
-		"groupid": 196,
-		"level": 200,
-		"notes": "Concurrent registration in Chem 253 A or B lab is recommended, but not required.",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"RNS 310"
-		],
-		"profs": [
-			"Peter J. Gittins"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry I",
-		"type": "Research",
-		"year": 2010
-	},
-	"80439": {
-		"clbid": 80439,
-		"credits": 0.25,
-		"crsid": 199,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
-		"groupid": 196,
-		"level": 200,
-		"name": "Synthesis Lab I",
-		"num": 253,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Robert Hanson"
-		],
-		"sect": "A",
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory I",
-		"type": "Lab",
-		"year": 2010
-	},
-	"80442": {
-		"clbid": 80442,
-		"credits": 0.25,
-		"crsid": 199,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
-		"groupid": 196,
-		"level": 200,
-		"name": "Synthesis Lab I",
-		"num": 253,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Staff"
-		],
-		"sect": "B",
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"TTh 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory I",
-		"type": "Lab",
-		"year": 2010
-	},
-	"80443": {
-		"clbid": 80443,
-		"credits": 1.0,
-		"crsid": 214,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course presents fundamental biological processes at the molecular level and serves as a general introduction to biochemistry. Topics include the structure and function of proteins, carbohydrates, lipids and nucleic acids, enzyme catalysis and regulation, bioenergetics and an introduction to carbohydrate metabolism. Subsequent enrollment in Chemistry 385 is recommended for students desiring greater breadth and depth in the subject. Prerequisite: Chemistry 248. Offered each semester.",
-		"gereqs": [
-			"IST"
-		],
-		"level": 300,
-		"num": 379,
-		"pf": false,
-		"places": [
-			"RNS 435"
-		],
-		"profs": [
-			"Beth Abdella"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Biochemistry I",
-		"type": "Research",
-		"year": 2010
-	},
-	"80452": {
-		"clbid": 80452,
-		"credits": 1.0,
-		"crsid": 411,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Students encounter literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW.",
-		"gereqs": [
-			"ALS-L",
-			"MCG"
-		],
-		"level": 200,
-		"name": "Post-Colonial Lit",
-		"num": 210,
-		"pf": false,
-		"places": [
-			"TOH 200"
-		],
-		"profs": [
-			"Joseph L. Mbele"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Post-Colonial Literatures",
-		"type": "Research",
-		"year": 2010
-	},
-	"80454": {
-		"clbid": 80454,
-		"credits": 1.0,
-		"crsid": 20060,
-		"depts": [
-			"REL"
-		],
-		"desc": "Modern and ancient sagas and fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered during interim.",
-		"gereqs": [
-			"BTS-T"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Quest of Ring/Grail/Cross",
-		"num": 238,
-		"pf": false,
-		"places": [
-			"TOH 184"
-		],
-		"profs": [
-			"Gregory A. Walter"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Quest of the Ring, the Grail, and the Cross",
-		"type": "Research",
-		"year": 2010
-	},
-	"80455": {
-		"clbid": 80455,
-		"credits": 1.0,
-		"crsid": 1237,
-		"depts": [
-			"REL"
-		],
-		"desc": "The nature and boundaries of communities, as well as the quality of relationships within communities, are determined by theology as well as by social, political, and ethnic factors. Students examine the ways in which the world's religions, particularly Christianity, have interpreted each other's significance and truth claims and considers the ethical implications of these different responses. Prerequisite: BTS-T or permission of instructor.",
-		"gereqs": [
-			"EIN",
-			"WRI"
-		],
-		"level": 200,
-		"name": "Rel Pluralsm/Communit",
-		"num": 295,
-		"pf": false,
-		"places": [
-			"TOH 212"
-		],
-		"profs": [
-			"Gregory A. Walter"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Religious Pluralism and the Nature of Community",
-		"type": "Research",
-		"year": 2010
-	},
-	"80460": {
-		"clbid": 80460,
-		"credits": 1.0,
-		"crsid": 189,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course, a continuation of Chemistry 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. Chemistry 121 and 123 together are equivalent in content to Chemistry 125 and are designed to prepare students for Chemistry 126. Prerequisite: Chemistry 121. Offered during interim.",
-		"level": 100,
-		"name": "Atom/Molec Structure",
-		"notes": "See department chair about this course.",
-		"num": 123,
-		"pf": false,
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 4,
-		"term": 20104,
-		"title": "Atomic and Molecular Structure",
-		"type": "Research",
-		"year": 2010
-	},
-	"80461": {
-		"clbid": 80461,
-		"credits": 0.5,
-		"crsid": 1012,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Individual Fitness.50",
-		"notes": "1st day of class students will meet at the bleachers in Tostrud Center.",
-		"num": 133,
-		"pf": false,
-		"profs": [
-			"Shahram Ahrar"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Individual Fitness",
-		"type": "Research",
-		"year": 2010
-	},
-	"80462": {
-		"clbid": 80462,
-		"credits": 0.5,
-		"crsid": 1016,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Wt Training Co-Ed .50",
-		"num": 140,
-		"pf": false,
-		"places": [
-			"TBA"
-		],
-		"profs": [
-			"Jerry Olszewski"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Weight Training",
-		"type": "Research",
-		"year": 2010
-	},
-	"80464": {
-		"clbid": 80464,
-		"credits": 1.0,
-		"crsid": 1496,
-		"depts": [
-			"ART"
-		],
-		"desc": "This course introduces students to the ceramic processes of wheel throwing and hand building as means for creating works of art. Students learn terminology and critical approaches to ceramics. Students develop critical skills and the ability to analyze and interpret ceramic art work. Class emphasizes creative approaches to solving visual problems through ceramic work. Slide presentations on contemporary and historical ceramics provide background for assignments and highlight the role of ceramics in various cultural contexts. Materials fee. Offered each semester. Credit will not be given for both Art 121 and Art 207.",
-		"gereqs": [
-			"ALS-A"
-		],
-		"level": 200,
-		"num": 207,
-		"pf": false,
-		"places": [
-			"DC 115"
-		],
-		"profs": [
-			"Kathryne Fisher"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Ceramics",
-		"type": "Research",
-		"year": 2010
-	},
-	"80465": {
-		"clbid": 80465,
-		"credits": 1.0,
-		"crsid": 20055,
-		"depts": [
-			"ART"
-		],
-		"desc": "This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of new media art-making and ways new media inform the creation and understanding of art in cultural contexts, with special emphasis on cyberculture and hypertext. Students explore the form and space of new media images through a wide variety of materials and media. The course emphasizes strategies for idea generation. Students engage in dynamic activity, spirited investigation, and thoughtful creative expression. Materials fee. Offered each semester.",
-		"gereqs": [
-			"ALS-A"
-		],
-		"grouptype": "R",
-		"level": 100,
-		"num": 104,
-		"pf": false,
-		"places": [
-			"DC 100"
-		],
-		"profs": [
-			"Guido Alvarez"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-Th 0230-0430PM"
-		],
-		"title": "Foundation New Media",
-		"type": "Research",
-		"year": 2010
-	},
-	"80642": {
-		"clbid": 80642,
-		"credits": 1.0,
-		"crsid": 1154,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester.",
-		"gereqs": [
-			"HBS",
-			"IST"
-		],
-		"level": 100,
-		"name": "Principles: Psych",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 208"
-		],
-		"profs": [
-			"Jeremy Loebach"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Principles of Psychology",
-		"type": "Research",
-		"year": 2010
-	},
-	"80643": {
-		"clbid": 80643,
-		"credits": 1.0,
-		"crsid": 23946,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This course integrates on-campus classroom activities with service-learning placements in and around Northfield. Scholarly readings, classroom discussions, and assignments highlight the unique theoretical perspectives, skills, and methodological approaches that psychologists use to address social problems and community needs through research, practice, and policy. Students' on-site experiences and observations provide opportunities for the application of previous coursework as well as guided reflection and exploration of goals for personal and vocational development. Prerequisite: Psychology 130. Offered periodically.",
-		"gereqs": [
-			"WRI"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Community Applications",
-		"num": 224,
-		"pf": false,
-		"places": [
-			"RNS 316"
-		],
-		"profs": [
-			"Dana Gross"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Community Applications of Psychology",
-		"type": "Research",
-		"year": 2010
-	},
-	"80644": {
-		"clbid": 80644,
-		"credits": 1.0,
-		"crsid": 1165,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "How do biological factors influence fundamental aspects of psychology and behavior? In this course, students learn about relationships between the brain and behavior and use neuroanatomical, physiological, and biochemical levels of analysis to understand basic behavioral processes and systems, including sensation, movement, emotion, sleep and arousal, hunger, motivation, learning, and psychopathology. Prerequisite: Psychology 125 or Biology 123 or 125. Offered each semester.",
-		"gereqs": [
-			"IST"
-		],
-		"level": 200,
-		"num": 238,
-		"pf": false,
-		"places": [
-			"RNS 124"
-		],
-		"profs": [
-			"Shelly D. Dickinson"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Biopsychology",
-		"type": "Research",
-		"year": 2010
-	},
-	"80645": {
-		"clbid": 80645,
-		"credits": 1.0,
-		"crsid": 1170,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "Why are people prejudiced and how can we reduce prejudice? Why do people help others? What is self-esteem and how do we defend it? How does romantic attraction develop? What are emotions and how do they influence us? In this introduction to the ways people interact and think about each other, students design their own theories of social behavior. Prerequisite: Psychology 125. Offered annually.",
-		"gereqs": [
-			"HBS"
-		],
-		"level": 200,
-		"num": 249,
-		"pf": false,
-		"places": [
-			"RNS 208"
-		],
-		"profs": [
-			"M. Minda Ori\u00f1a"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Social Psychology",
-		"type": "Research",
-		"year": 2010
-	},
-	"80646": {
-		"clbid": 80646,
-		"credits": 1.0,
-		"crsid": 19414,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision.",
-		"level": 300,
-		"name": "Res: Reward/Reinf/Addict",
-		"notes": "Dates and Times TBA - please talk to professor.",
-		"num": 396,
-		"pf": false,
-		"profs": [
-			"Shelly D. Dickinson"
-		],
-		"sem": 4,
-		"term": 20104,
-		"title": "Directed Undergraduate Research",
-		"type": "Research",
-		"year": 2010
-	},
-	"80687": {
-		"clbid": 80687,
-		"credits": 1.0,
-		"crsid": 21399,
-		"depts": [
-			"NORW"
-		],
-		"desc": "This interdisciplinary course explores the S\u00e1mi, an indigenous people living mainly in the northern parts of Norway, Sweden, Finland, and Russia. Students first place the S\u00e1mi in a historical-cultural context by examining the S\u00e1mi's social and economic systems, religion, customs, and values. The major portion of the course examines the S\u00e1mi primarily from within: the S\u00e1mi will present themselves through their literature, film, music, and art. Taught in English. Offered periodically.",
-		"gereqs": [
-			"HBS",
-			"MCG",
-			"ORC"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Sami:Tradition/Transition",
-		"num": 244,
-		"pf": false,
-		"places": [
-			"TOH 308"
-		],
-		"profs": [
-			"Dorer Kari L."
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "The S\u00e1mi: Traditions in Transition",
-		"type": "Research",
-		"year": 2010
-	},
-	"80718": {
-		"clbid": 80718,
-		"credits": 1.0,
-		"crsid": 19735,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "How ought citizens respond to threats to national security from terrorists and distant states? The course examines Just War theory and Jihad to enquire about the connections between religions and political violence. It considers the strategic logic of terrorism and the ethical \"costs\" of responses to it. It examines conflicts between Islamic \"moderates\" and \"extremists\" to reveal the ethical and political spectrums within Islam. Prerequisite: completion of BTS-T. Required prior experience of political analysis or the study of religion. Offered annually.",
-		"gereqs": [
-			"EIN"
-		],
-		"level": 200,
-		"name": "Citizenship War Terror",
-		"num": 284,
-		"pf": false,
-		"places": [
-			"DC 204"
-		],
-		"profs": [
-			"J. Patrick Dale"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-Th 1000-1130"
-		],
-		"title": "Ethics of Citizenship in Times of War and Terrorism",
-		"type": "Research",
-		"year": 2010
-	},
-	"80720": {
-		"clbid": 80720,
-		"credits": 1.0,
-		"crsid": 18785,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "This course examines the European working classes' struggle for political representation and social welfare after World War II. Attention is given to the Norwegian, French, British, and Czech cases. The course inquires whether social democracy has become a victim of its own success. Offered annually in the fall semester.",
-		"gereqs": [
-			"HBS",
-			"HWC"
-		],
-		"level": 200,
-		"num": 283,
-		"pf": false,
-		"places": [
-			"DC 204"
-		],
-		"profs": [
-			"J. Patrick Dale"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-Th 1230-0200PM"
-		],
-		"title": "European Social Democracy",
-		"type": "Research",
-		"year": 2010
-	},
-	"80722": {
-		"clbid": 80722,
-		"credits": 1.0,
-		"crsid": 1324,
-		"depts": [
-			"SPAN"
-		],
-		"desc": "Students begin learning Spanish through listening, speaking, reading, and writing about topics familiar to them, including family, academic, and social life, in an intercultural context. They reinforce these skills through complementary exercises in the World Languages Center. Open only to students with no prior experience in Spanish or who have placed into Spanish 111. Offered during interim.",
-		"level": 100,
-		"num": 111,
-		"pf": false,
-		"places": [
-			"TOH 308"
-		],
-		"profs": [
-			"Kris A. Cropsey"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Beginning Spanish I",
-		"type": "Research",
-		"year": 2010
-	},
-	"80864": {
-		"clbid": 80864,
-		"credits": 1.0,
-		"crsid": 733,
-		"depts": [
-			"MATH"
-		],
-		"desc": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
-		"gereqs": [
-			"AQR"
-		],
-		"level": 100,
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 204"
-		],
-		"profs": [
-			"Adam C. McDougall"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Calculus II",
-		"type": "Research",
-		"year": 2010
-	},
-	"80865": {
-		"clbid": 80865,
-		"credits": 1.0,
-		"crsid": 745,
-		"depts": [
-			"MATH"
-		],
-		"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Offered each semester.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"num": 244,
-		"pf": false,
-		"places": [
-			"TOH 186"
-		],
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Real Analysis I",
-		"type": "Research",
-		"year": 2010
-	},
-	"81004": {
-		"clbid": 81004,
-		"credits": 1.0,
-		"crsid": 1289,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is open to first-year students or students in certain accredited programs. Open to all students when taught during the summer. Offered each semester.",
-		"gereqs": [
-			"HBS",
-			"MCD"
-		],
-		"level": 100,
-		"name": "Intro to Sociology",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"TOH 314"
-		],
-		"profs": [
-			"Ryan R. Sheppard"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Introduction to Sociology",
-		"type": "Research",
-		"year": 2010
-	},
-	"81005": {
-		"clbid": 81005,
-		"credits": 1.0,
-		"crsid": 1310,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "This course provides a social science understanding of the \"contemporary American family\" and analysis of marriage and family issues from a cross-cultural perspective. Students discuss issues of dating and mate selection, marital and parent-child relationships over the family life cycle, gender issues, work and family roles, and problem-related issues affecting families (divorce, violence and death) caused by rapid changes in society. Offered annually in the fall or spring semester.",
-		"gereqs": [
-			"HBS",
-			"MCD"
-		],
-		"level": 200,
-		"name": "Marriage & the Family",
-		"num": 260,
-		"pf": false,
-		"places": [
-			"TOH 314"
-		],
-		"profs": [
-			"Ryan R. Sheppard"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Marriage and the Family",
-		"type": "Research",
-		"year": 2010
-	},
-	"81017": {
-		"clbid": 81017,
-		"credits": 1.0,
-		"crsid": 17675,
-		"depts": [
-			"EDUC"
-		],
-		"desc": "The course includes strategies and materials for teaching English to speakers of other languages. Students learn strategies that focus on the development of listening, speaking, reading, and writing skills in English language learners. Students review materials appropriate for non-native English speakers and create their own materials and lesson plans. Fulfills Education 382: Human Relations requirement. Required field experience component. Prerequisites: Education 246 and Education 330. Offered annually (until 2011) in the summer and during interim.",
-		"level": 300,
-		"num": 347,
-		"pf": false,
-		"profs": [
-			"Jessica L. Tesdall"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-1130"
-		],
-		"title": "Teaching ESL K-12",
-		"type": "Research",
-		"year": 2010
-	},
-	"81018": {
-		"clbid": 81018,
-		"credits": 1.0,
-		"crsid": 17676,
-		"depts": [
-			"EDUC"
-		],
-		"desc": "This course provides students with theoretical and practical knowledge about assessing the language proficiency of English Language Learners. Students learn how to construct and administer appropriate and non-discriminatory assessment and evaluation tools. Students administer several assessments and write a formal report. Required field experience component. Prerequisite: Education 330. Offered annually (until 2011) in the summer and in the spring semester.",
-		"level": 300,
-		"num": 348,
-		"pf": false,
-		"profs": [
-			"Jessica L. Tesdall"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 1230-0400PM"
-		],
-		"title": "Assessment of ESL K-12",
-		"type": "Research",
-		"year": 2010
-	},
-	"81279": {
-		"clbid": 81279,
-		"credits": 1.0,
-		"crsid": 431,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Students study individual texts as well as the development of women's literary tradition(s). How do women writers conform to and/or challenge the dominant paradigm for female identity, women's social roles and women's literary practice? Topics may include women's autobiographies, women writers and the land, contemporary women's fiction, and major women writers. Prerequisite: FYW.",
-		"gereqs": [
-			"ALS-L"
-		],
-		"level": 200,
-		"num": 246,
-		"pf": false,
-		"places": [
-			"RML 420"
-		],
-		"profs": [
-			"Kaethe Schwehn"
-		],
-		"sem": 4,
-		"term": 20104,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Women's Literature",
-		"type": "Research",
-		"year": 2010
-	},
-	"81303": {
-		"clbid": 81303,
-		"credits": 1.0,
-		"crsid": 314,
-		"depts": [
-			"EDUC"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Hmong Culture/Schools",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Heather Campbell"
-		],
-		"sem": 4,
-		"term": 20104,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2010
-	},
-	"81434": {
-		"clbid": 81434,
-		"credits": 1.0,
-		"crsid": 1104,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "Why do some societies have democratic political systems and others authoritarian ones? What is democracy? Is it the norm or the exception? The course provides a foundation for the understanding of contemporary political regimes. It applies the major concepts of comparative analysis to the political systems of Western and non-Western societies. Offered annually.",
-		"gereqs": [
-			"HBS",
-			"MCG"
-		],
-		"level": 100,
-		"num": 112,
-		"pf": false,
-		"profs": [
-			"Kristina Thalhammer"
-		],
-		"sem": 4,
-		"term": 20104,
-		"title": "Comparative Politics",
-		"type": "Research",
-		"year": 2010
-	},
-	"81472": {
-		"clbid": 81472,
-		"credits": 0.5,
-		"crsid": 93,
-		"depts": [
-			"ASIAN"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Rika Ito"
-		],
-		"sem": 4,
-		"term": 20104,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2010
-	}
+	"courses": [
+		{
+			"clbid": 80430,
+			"credits": 1.0,
+			"crsid": 106,
+			"depts": [
+				"BIO"
+			],
+			"desc": "This core course explores major principles of cellular and molecular biology and it or the Chemistry/Biology 125-127 series is a prerequisite for all level II biology courses. Emphases include the structural and chemical composition of cells, crucial metabolic pathways, fundamentals of cell division, basic genetics, and the scientific method. Materials integrate concepts with problem-solving. Students are introduced to state-of-the-art library search technologies and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Offered annually in the fall semester and during interim.",
+			"gereqs": [
+				"IST",
+				"SED"
+			],
+			"groupid": 106,
+			"level": 100,
+			"name": "Cell Bio & Genetics",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 390"
+			],
+			"profs": [
+				"John Giannini"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Cellular Biology and Genetics",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80431,
+			"credits": 0.0,
+			"crsid": 107,
+			"depts": [
+				"BIO"
+			],
+			"groupid": 106,
+			"level": 100,
+			"name": "Cell Bio & Genetics Lab",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 255"
+			],
+			"profs": [
+				"John Giannini"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"TW 0100-0330PM"
+			],
+			"title": "Cell Bio & Genetics Lab",
+			"type": "Lab",
+			"year": 2010
+		},
+		{
+			"clbid": 80432,
+			"credits": 1.0,
+			"crsid": 126,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Students journey toward greater understanding of the human body through an integrated study of the structure of the body (anatomy) and how organs such as the brain, heart, and kidney perform their remarkable functions (physiology). The course is designed primarily for students intending careers in the health sciences. Students attend lectures plus one three-hour laboratory per week. Prerequisite: Biology 125, or Chemistry/Biology 125-127. Offered annually.",
+			"groupid": 126,
+			"level": 200,
+			"name": "Human Anatomy & Physiol",
+			"num": 243,
+			"pf": false,
+			"places": [
+				"RNS 410"
+			],
+			"profs": [
+				"Kevin M. Crisp"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Human Anatomy and Physiology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80433,
+			"credits": 0.0,
+			"crsid": 127,
+			"depts": [
+				"BIO"
+			],
+			"groupid": 126,
+			"level": 200,
+			"name": "Human Anatomy & Physiol L",
+			"num": 243,
+			"pf": false,
+			"places": [
+				"RNS 254"
+			],
+			"profs": [
+				"Kevin M. Crisp"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": "Human Anatomy & Physiol L",
+			"type": "Lab",
+			"year": 2010
+		},
+		{
+			"clbid": 80435,
+			"credits": 1.0,
+			"crsid": 192,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This study of chemical stoichiometry, equilibrium, acid-base chemistry, coordination chemistry, and atomic and molecular structure supplies the fundamental background on which all later chemistry courses depend. It includes applications of equilibrium principles to acid-base chemistry. Students attend three classes and one three-hour laboratory each week. Prerequisites: high school chemistry and physics. Students planning to continue in chemistry should consider concurrent registration in Mathematics 120 or 121. Placement via online placement exam is required. The course cannot be taken in conjunction with or after credit in Chemistry 121. Offered annually in the fall semester.",
+			"gereqs": [
+				"SED"
+			],
+			"groupid": 192,
+			"level": 100,
+			"name": "Struct Chem & Equilib",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 310"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Structural Chemistry and Equilibrium",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80436,
+			"credits": 0.0,
+			"crsid": 193,
+			"depts": [
+				"CHEM"
+			],
+			"groupid": 192,
+			"level": 100,
+			"name": "Struct Chem & Equilib Lab",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 350"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Struct Chem & Equilib Lab",
+			"type": "Lab",
+			"year": 2010
+		},
+		{
+			"clbid": 80438,
+			"credits": 1.0,
+			"crsid": 196,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered annually in the fall semester.",
+			"groupid": 196,
+			"level": 200,
+			"notes": "Concurrent registration in Chem 253 A or B lab is recommended, but not required.",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"RNS 310"
+			],
+			"profs": [
+				"Peter J. Gittins"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry I",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80439,
+			"credits": 0.25,
+			"crsid": 199,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"groupid": 196,
+			"level": 200,
+			"name": "Synthesis Lab I",
+			"num": 253,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Robert Hanson"
+			],
+			"sect": "A",
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory I",
+			"type": "Lab",
+			"year": 2010
+		},
+		{
+			"clbid": 80442,
+			"credits": 0.25,
+			"crsid": 199,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"groupid": 196,
+			"level": 200,
+			"name": "Synthesis Lab I",
+			"num": 253,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sect": "B",
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory I",
+			"type": "Lab",
+			"year": 2010
+		},
+		{
+			"clbid": 80443,
+			"credits": 1.0,
+			"crsid": 214,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course presents fundamental biological processes at the molecular level and serves as a general introduction to biochemistry. Topics include the structure and function of proteins, carbohydrates, lipids and nucleic acids, enzyme catalysis and regulation, bioenergetics and an introduction to carbohydrate metabolism. Subsequent enrollment in Chemistry 385 is recommended for students desiring greater breadth and depth in the subject. Prerequisite: Chemistry 248. Offered each semester.",
+			"gereqs": [
+				"IST"
+			],
+			"level": 300,
+			"num": 379,
+			"pf": false,
+			"places": [
+				"RNS 435"
+			],
+			"profs": [
+				"Beth Abdella"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Biochemistry I",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80452,
+			"credits": 1.0,
+			"crsid": 411,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students encounter literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW.",
+			"gereqs": [
+				"ALS-L",
+				"MCG"
+			],
+			"level": 200,
+			"name": "Post-Colonial Lit",
+			"num": 210,
+			"pf": false,
+			"places": [
+				"TOH 200"
+			],
+			"profs": [
+				"Joseph L. Mbele"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Post-Colonial Literatures",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80454,
+			"credits": 1.0,
+			"crsid": 20060,
+			"depts": [
+				"REL"
+			],
+			"desc": "Modern and ancient sagas and fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered during interim.",
+			"gereqs": [
+				"BTS-T"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Quest of Ring/Grail/Cross",
+			"num": 238,
+			"pf": false,
+			"places": [
+				"TOH 184"
+			],
+			"profs": [
+				"Gregory A. Walter"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Quest of the Ring, the Grail, and the Cross",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80455,
+			"credits": 1.0,
+			"crsid": 1237,
+			"depts": [
+				"REL"
+			],
+			"desc": "The nature and boundaries of communities, as well as the quality of relationships within communities, are determined by theology as well as by social, political, and ethnic factors. Students examine the ways in which the world's religions, particularly Christianity, have interpreted each other's significance and truth claims and considers the ethical implications of these different responses. Prerequisite: BTS-T or permission of instructor.",
+			"gereqs": [
+				"EIN",
+				"WRI"
+			],
+			"level": 200,
+			"name": "Rel Pluralsm/Communit",
+			"num": 295,
+			"pf": false,
+			"places": [
+				"TOH 212"
+			],
+			"profs": [
+				"Gregory A. Walter"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Religious Pluralism and the Nature of Community",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80460,
+			"credits": 1.0,
+			"crsid": 189,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course, a continuation of Chemistry 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. Chemistry 121 and 123 together are equivalent in content to Chemistry 125 and are designed to prepare students for Chemistry 126. Prerequisite: Chemistry 121. Offered during interim.",
+			"level": 100,
+			"name": "Atom/Molec Structure",
+			"notes": "See department chair about this course.",
+			"num": 123,
+			"pf": false,
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 4,
+			"term": 20104,
+			"title": "Atomic and Molecular Structure",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80461,
+			"credits": 0.5,
+			"crsid": 1012,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Individual Fitness.50",
+			"notes": "1st day of class students will meet at the bleachers in Tostrud Center.",
+			"num": 133,
+			"pf": false,
+			"profs": [
+				"Shahram Ahrar"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Individual Fitness",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80462,
+			"credits": 0.5,
+			"crsid": 1016,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Wt Training Co-Ed .50",
+			"num": 140,
+			"pf": false,
+			"places": [
+				"TBA"
+			],
+			"profs": [
+				"Jerry Olszewski"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Weight Training",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80464,
+			"credits": 1.0,
+			"crsid": 1496,
+			"depts": [
+				"ART"
+			],
+			"desc": "This course introduces students to the ceramic processes of wheel throwing and hand building as means for creating works of art. Students learn terminology and critical approaches to ceramics. Students develop critical skills and the ability to analyze and interpret ceramic art work. Class emphasizes creative approaches to solving visual problems through ceramic work. Slide presentations on contemporary and historical ceramics provide background for assignments and highlight the role of ceramics in various cultural contexts. Materials fee. Offered each semester. Credit will not be given for both Art 121 and Art 207.",
+			"gereqs": [
+				"ALS-A"
+			],
+			"level": 200,
+			"num": 207,
+			"pf": false,
+			"places": [
+				"DC 115"
+			],
+			"profs": [
+				"Kathryne Fisher"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Ceramics",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80465,
+			"credits": 1.0,
+			"crsid": 20055,
+			"depts": [
+				"ART"
+			],
+			"desc": "This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of new media art-making and ways new media inform the creation and understanding of art in cultural contexts, with special emphasis on cyberculture and hypertext. Students explore the form and space of new media images through a wide variety of materials and media. The course emphasizes strategies for idea generation. Students engage in dynamic activity, spirited investigation, and thoughtful creative expression. Materials fee. Offered each semester.",
+			"gereqs": [
+				"ALS-A"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"num": 104,
+			"pf": false,
+			"places": [
+				"DC 100"
+			],
+			"profs": [
+				"Guido Alvarez"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-Th 0230-0430PM"
+			],
+			"title": "Foundation New Media",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80642,
+			"credits": 1.0,
+			"crsid": 1154,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester.",
+			"gereqs": [
+				"HBS",
+				"IST"
+			],
+			"level": 100,
+			"name": "Principles: Psych",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 208"
+			],
+			"profs": [
+				"Jeremy Loebach"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Principles of Psychology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80643,
+			"credits": 1.0,
+			"crsid": 23946,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This course integrates on-campus classroom activities with service-learning placements in and around Northfield. Scholarly readings, classroom discussions, and assignments highlight the unique theoretical perspectives, skills, and methodological approaches that psychologists use to address social problems and community needs through research, practice, and policy. Students' on-site experiences and observations provide opportunities for the application of previous coursework as well as guided reflection and exploration of goals for personal and vocational development. Prerequisite: Psychology 130. Offered periodically.",
+			"gereqs": [
+				"WRI"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Community Applications",
+			"num": 224,
+			"pf": false,
+			"places": [
+				"RNS 316"
+			],
+			"profs": [
+				"Dana Gross"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Community Applications of Psychology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80644,
+			"credits": 1.0,
+			"crsid": 1165,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "How do biological factors influence fundamental aspects of psychology and behavior? In this course, students learn about relationships between the brain and behavior and use neuroanatomical, physiological, and biochemical levels of analysis to understand basic behavioral processes and systems, including sensation, movement, emotion, sleep and arousal, hunger, motivation, learning, and psychopathology. Prerequisite: Psychology 125 or Biology 123 or 125. Offered each semester.",
+			"gereqs": [
+				"IST"
+			],
+			"level": 200,
+			"num": 238,
+			"pf": false,
+			"places": [
+				"RNS 124"
+			],
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Biopsychology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80645,
+			"credits": 1.0,
+			"crsid": 1170,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Why are people prejudiced and how can we reduce prejudice? Why do people help others? What is self-esteem and how do we defend it? How does romantic attraction develop? What are emotions and how do they influence us? In this introduction to the ways people interact and think about each other, students design their own theories of social behavior. Prerequisite: Psychology 125. Offered annually.",
+			"gereqs": [
+				"HBS"
+			],
+			"level": 200,
+			"num": 249,
+			"pf": false,
+			"places": [
+				"RNS 208"
+			],
+			"profs": [
+				"M. Minda Ori\u00f1a"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Social Psychology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80646,
+			"credits": 1.0,
+			"crsid": 19414,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision.",
+			"level": 300,
+			"name": "Res: Reward/Reinf/Addict",
+			"notes": "Dates and Times TBA - please talk to professor.",
+			"num": 396,
+			"pf": false,
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sem": 4,
+			"term": 20104,
+			"title": "Directed Undergraduate Research",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80687,
+			"credits": 1.0,
+			"crsid": 21399,
+			"depts": [
+				"NORW"
+			],
+			"desc": "This interdisciplinary course explores the S\u00e1mi, an indigenous people living mainly in the northern parts of Norway, Sweden, Finland, and Russia. Students first place the S\u00e1mi in a historical-cultural context by examining the S\u00e1mi's social and economic systems, religion, customs, and values. The major portion of the course examines the S\u00e1mi primarily from within: the S\u00e1mi will present themselves through their literature, film, music, and art. Taught in English. Offered periodically.",
+			"gereqs": [
+				"HBS",
+				"MCG",
+				"ORC"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Sami:Tradition/Transition",
+			"num": 244,
+			"pf": false,
+			"places": [
+				"TOH 308"
+			],
+			"profs": [
+				"Dorer Kari L."
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "The S\u00e1mi: Traditions in Transition",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80718,
+			"credits": 1.0,
+			"crsid": 19735,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "How ought citizens respond to threats to national security from terrorists and distant states? The course examines Just War theory and Jihad to enquire about the connections between religions and political violence. It considers the strategic logic of terrorism and the ethical \"costs\" of responses to it. It examines conflicts between Islamic \"moderates\" and \"extremists\" to reveal the ethical and political spectrums within Islam. Prerequisite: completion of BTS-T. Required prior experience of political analysis or the study of religion. Offered annually.",
+			"gereqs": [
+				"EIN"
+			],
+			"level": 200,
+			"name": "Citizenship War Terror",
+			"num": 284,
+			"pf": false,
+			"places": [
+				"DC 204"
+			],
+			"profs": [
+				"J. Patrick Dale"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-Th 1000-1130"
+			],
+			"title": "Ethics of Citizenship in Times of War and Terrorism",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80720,
+			"credits": 1.0,
+			"crsid": 18785,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "This course examines the European working classes' struggle for political representation and social welfare after World War II. Attention is given to the Norwegian, French, British, and Czech cases. The course inquires whether social democracy has become a victim of its own success. Offered annually in the fall semester.",
+			"gereqs": [
+				"HBS",
+				"HWC"
+			],
+			"level": 200,
+			"num": 283,
+			"pf": false,
+			"places": [
+				"DC 204"
+			],
+			"profs": [
+				"J. Patrick Dale"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-Th 1230-0200PM"
+			],
+			"title": "European Social Democracy",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80722,
+			"credits": 1.0,
+			"crsid": 1324,
+			"depts": [
+				"SPAN"
+			],
+			"desc": "Students begin learning Spanish through listening, speaking, reading, and writing about topics familiar to them, including family, academic, and social life, in an intercultural context. They reinforce these skills through complementary exercises in the World Languages Center. Open only to students with no prior experience in Spanish or who have placed into Spanish 111. Offered during interim.",
+			"level": 100,
+			"num": 111,
+			"pf": false,
+			"places": [
+				"TOH 308"
+			],
+			"profs": [
+				"Kris A. Cropsey"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Beginning Spanish I",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80864,
+			"credits": 1.0,
+			"crsid": 733,
+			"depts": [
+				"MATH"
+			],
+			"desc": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 100,
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 204"
+			],
+			"profs": [
+				"Adam C. McDougall"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Calculus II",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 80865,
+			"credits": 1.0,
+			"crsid": 745,
+			"depts": [
+				"MATH"
+			],
+			"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Offered each semester.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"num": 244,
+			"pf": false,
+			"places": [
+				"TOH 186"
+			],
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Real Analysis I",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81004,
+			"credits": 1.0,
+			"crsid": 1289,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is open to first-year students or students in certain accredited programs. Open to all students when taught during the summer. Offered each semester.",
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"level": 100,
+			"name": "Intro to Sociology",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"TOH 314"
+			],
+			"profs": [
+				"Ryan R. Sheppard"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Introduction to Sociology",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81005,
+			"credits": 1.0,
+			"crsid": 1310,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course provides a social science understanding of the \"contemporary American family\" and analysis of marriage and family issues from a cross-cultural perspective. Students discuss issues of dating and mate selection, marital and parent-child relationships over the family life cycle, gender issues, work and family roles, and problem-related issues affecting families (divorce, violence and death) caused by rapid changes in society. Offered annually in the fall or spring semester.",
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"level": 200,
+			"name": "Marriage & the Family",
+			"num": 260,
+			"pf": false,
+			"places": [
+				"TOH 314"
+			],
+			"profs": [
+				"Ryan R. Sheppard"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Marriage and the Family",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81017,
+			"credits": 1.0,
+			"crsid": 17675,
+			"depts": [
+				"EDUC"
+			],
+			"desc": "The course includes strategies and materials for teaching English to speakers of other languages. Students learn strategies that focus on the development of listening, speaking, reading, and writing skills in English language learners. Students review materials appropriate for non-native English speakers and create their own materials and lesson plans. Fulfills Education 382: Human Relations requirement. Required field experience component. Prerequisites: Education 246 and Education 330. Offered annually (until 2011) in the summer and during interim.",
+			"level": 300,
+			"num": 347,
+			"pf": false,
+			"profs": [
+				"Jessica L. Tesdall"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-1130"
+			],
+			"title": "Teaching ESL K-12",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81018,
+			"credits": 1.0,
+			"crsid": 17676,
+			"depts": [
+				"EDUC"
+			],
+			"desc": "This course provides students with theoretical and practical knowledge about assessing the language proficiency of English Language Learners. Students learn how to construct and administer appropriate and non-discriminatory assessment and evaluation tools. Students administer several assessments and write a formal report. Required field experience component. Prerequisite: Education 330. Offered annually (until 2011) in the summer and in the spring semester.",
+			"level": 300,
+			"num": 348,
+			"pf": false,
+			"profs": [
+				"Jessica L. Tesdall"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 1230-0400PM"
+			],
+			"title": "Assessment of ESL K-12",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81279,
+			"credits": 1.0,
+			"crsid": 431,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students study individual texts as well as the development of women's literary tradition(s). How do women writers conform to and/or challenge the dominant paradigm for female identity, women's social roles and women's literary practice? Topics may include women's autobiographies, women writers and the land, contemporary women's fiction, and major women writers. Prerequisite: FYW.",
+			"gereqs": [
+				"ALS-L"
+			],
+			"level": 200,
+			"num": 246,
+			"pf": false,
+			"places": [
+				"RML 420"
+			],
+			"profs": [
+				"Kaethe Schwehn"
+			],
+			"sem": 4,
+			"term": 20104,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Women's Literature",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81303,
+			"credits": 1.0,
+			"crsid": 314,
+			"depts": [
+				"EDUC"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Hmong Culture/Schools",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Heather Campbell"
+			],
+			"sem": 4,
+			"term": 20104,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81434,
+			"credits": 1.0,
+			"crsid": 1104,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Why do some societies have democratic political systems and others authoritarian ones? What is democracy? Is it the norm or the exception? The course provides a foundation for the understanding of contemporary political regimes. It applies the major concepts of comparative analysis to the political systems of Western and non-Western societies. Offered annually.",
+			"gereqs": [
+				"HBS",
+				"MCG"
+			],
+			"level": 100,
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Kristina Thalhammer"
+			],
+			"sem": 4,
+			"term": 20104,
+			"title": "Comparative Politics",
+			"type": "Research",
+			"year": 2010
+		},
+		{
+			"clbid": 81472,
+			"credits": 0.5,
+			"crsid": 93,
+			"depts": [
+				"ASIAN"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Rika Ito"
+			],
+			"sem": 4,
+			"term": 20104,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2010
+		}
+	]
 }

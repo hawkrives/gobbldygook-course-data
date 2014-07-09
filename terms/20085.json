@@ -1,1720 +1,1722 @@
 {
-	"69538": {
-		"clbid": 69538,
-		"credits": 1.0,
-		"crsid": 1207,
-		"depts": [
-			"REL"
-		],
-		"desc": "Students read Pauline letters carefully for their major issues, such as apocalyptic, gospel, apostleship, Jew and Gentile, faith, Torah, community. Considering Paul in the context of his times and Paul in the context of later Christianity, students discuss topics such as Jews and Christians, men and women, creation, grace in Paul and present day experience. Prerequisite: BTS-B",
-		"gereqs": [
-			"BTS-T",
-			"WRI"
-		],
-		"level": 200,
-		"name": "St. Paul/Letter/Gospel",
-		"num": 223,
-		"pf": false,
-		"places": [
-			"DC 204"
-		],
-		"profs": [
-			"James Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Paul: His Letters, His Gospel",
-		"type": "Research",
-		"year": 2008
-	},
-	"69539": {
-		"clbid": 69539,
-		"credits": 1.0,
-		"crsid": 1232,
-		"depts": [
-			"REL"
-		],
-		"desc": "This course examines the ethical teachings of Jesus as found in the canonical Gospels (with special focus on the Sermon on the Mount), explores how these teachings have been understood at some major moments in Western history, and brings them to bear on the task of contemporary ethical reflection. Issues examined include, for example, non-violence, social and economic justice, sexuality, and ethnic conflict. Prerequisites: completion of BTS-B and BTS-T.",
-		"gereqs": [
-			"EIN",
-			"WRI"
-		],
-		"level": 200,
-		"num": 276,
-		"pf": false,
-		"places": [
-			"DC 204"
-		],
-		"profs": [
-			"James Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "The Ethics of Jesus",
-		"type": "Research",
-		"year": 2008
-	},
-	"69546": {
-		"clbid": 69546,
-		"credits": 1.0,
-		"crsid": 194,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one 3-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123 and Mathematics 120 or 121 or permission of instructor. Offered Spring Semester.",
-		"gereqs": [
-			"SED"
-		],
-		"groupid": 194,
-		"level": 100,
-		"name": "Chemical Reactions",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 435"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Energies and Rates of Chemical Reactions",
-		"type": "Research",
-		"year": 2008
-	},
-	"69547": {
-		"clbid": 69547,
-		"credits": 0.0,
-		"crsid": 195,
-		"depts": [
-			"CHEM"
-		],
-		"groupid": 194,
-		"level": 100,
-		"name": "Chemical Reactions Lab",
-		"num": 126,
-		"pf": false,
-		"places": [
-			"RNS 350"
-		],
-		"profs": [
-			"Patrick N. Riley"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Chemical Reactions Lab",
-		"type": "Lab",
-		"year": 2008
-	},
-	"69548": {
-		"clbid": 69548,
-		"credits": 1.0,
-		"crsid": 197,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered Spring Semester.",
-		"level": 200,
-		"num": 248,
-		"pf": false,
-		"places": [
-			"RNS 310"
-		],
-		"profs": [
-			"Peter J. Gittins",
-			"Wesley Pearson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Organic Chemistry II",
-		"type": "Research",
-		"year": 2008
-	},
-	"69549": {
-		"clbid": 69549,
-		"credits": 0.25,
-		"crsid": 200,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
-		"level": 200,
-		"name": "Synthesis Lab II",
-		"num": 254,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Peter J. Gittins",
-			"Wesley Pearson"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"MW 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory II",
-		"type": "Lab",
-		"year": 2008
-	},
-	"69550": {
-		"clbid": 69550,
-		"credits": 0.25,
-		"crsid": 200,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
-		"level": 200,
-		"name": "Synthesis Lab II",
-		"num": 254,
-		"pf": true,
-		"places": [
-			"RNS 340"
-		],
-		"profs": [
-			"Peter J. Gittins",
-			"Wesley Pearson"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"TTh 0100-0400PM"
-		],
-		"title": "Synthesis Laboratory II",
-		"type": "Lab",
-		"year": 2008
-	},
-	"69629": {
-		"clbid": 69629,
-		"credits": 1.0,
-		"crsid": 1398,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theatre 110. Some topics courses may require additional prerequisites. Please inquire in the Theatre Department office before registering. Offered every year.",
-		"level": 300,
-		"name": "Top: Stage Combat",
-		"num": 379,
-		"pf": false,
-		"places": [
-			"TB Haugen"
-		],
-		"profs": [
-			"Todd F. Edwards"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Topics in Interpretation and Theater",
-		"type": "Topic",
-		"year": 2008
-	},
-	"69630": {
-		"clbid": 69630,
-		"credits": 1.0,
-		"crsid": 1376,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "This studio course is designed as an overview of the acting process for the non-major: basic acting theories, rehearsal techniques, improvisation, history and styles. Students explore and practice exercises, scene work and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. No prerequisites. This course does not fulfill the acting requirement for the major. Offered each semester.",
-		"gereqs": [
-			"ALS-A",
-			"ORC"
-		],
-		"level": 100,
-		"name": "Acting for Non-Majors",
-		"num": 115,
-		"pf": false,
-		"places": [
-			"TB Haugen"
-		],
-		"profs": [
-			"Jeanne I. Willcoxon"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Acting for the Non-Major",
-		"type": "Research",
-		"year": 2008
-	},
-	"69696": {
-		"clbid": 69696,
-		"credits": 1.0,
-		"crsid": 1476,
-		"depts": [
-			"WMNST"
-		],
-		"desc": "Required for the women's studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered both Fall and Spring Semesters.",
-		"gereqs": [
-			"MCD"
-		],
-		"level": 100,
-		"name": "Intro Womens Studies",
-		"num": 121,
-		"pf": false,
-		"places": [
-			"HH 302"
-		],
-		"profs": [
-			"Anna Kuxhausen"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Introduction to Women's Studies",
-		"type": "Research",
-		"year": 2008
-	},
-	"69700": {
-		"clbid": 69700,
-		"credits": 1.0,
-		"crsid": 311,
-		"depts": [
-			"EDUC"
-		],
-		"desc": "Students study theories of and research into human behavior, growth, and development. Through lectures, discussions, case studies and field experiences, students analyze the impact of applied psychology upon schools, teachers, and students. Students also examine the interaction between individual characteristics and needs and political, economic and philosophical issues confronting contemporary American students. Required 20-hour field experience. Recommended to be taken sophomore year to begin the licensure sequence. Offered both semesters.",
-		"gereqs": [
-			"HBS",
-			"WRI"
-		],
-		"level": 200,
-		"name": "Educ Psychology",
-		"num": 290,
-		"pf": false,
-		"places": [
-			"TBA"
-		],
-		"profs": [
-			"Robert W. McClure"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0900-1200PM"
-		],
-		"title": "Educational Psychology",
-		"type": "Research",
-		"year": 2008
-	},
-	"69721": {
-		"clbid": 69721,
-		"credits": 0.5,
-		"crsid": 1012,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Individual Fitness.50",
-		"num": 133,
-		"pf": false,
-		"places": [
-			"SAC 112"
-		],
-		"profs": [
-			"William Sean Goldsworthy"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Individual Fitness",
-		"type": "Research",
-		"year": 2008
-	},
-	"69722": {
-		"clbid": 69722,
-		"credits": 0.5,
-		"crsid": 1016,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"name": "Wt Training Co-Ed .50",
-		"num": 140,
-		"pf": false,
-		"places": [
-			"SAC 112"
-		],
-		"profs": [
-			"William Sean Goldsworthy"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0400-0530PM"
-		],
-		"title": "Weight Training",
-		"type": "Research",
-		"year": 2008
-	},
-	"69723": {
-		"clbid": 69723,
-		"credits": 0.25,
-		"crsid": 997,
-		"depts": [
-			"ESAC"
-		],
-		"desc": "This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee.",
-		"gereqs": [
-			"SPM"
-		],
-		"level": 100,
-		"num": 103,
-		"pf": false,
-		"profs": [
-			"Luke Benoit"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0300-0500PM"
-		],
-		"title": "Golf",
-		"type": "Research",
-		"year": 2008
-	},
-	"69930": {
-		"clbid": 69930,
-		"credits": 1.0,
-		"crsid": 411,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Students encounter the literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW or equivalent.",
-		"gereqs": [
-			"ALS-L",
-			"MCG"
-		],
-		"level": 200,
-		"name": "Post-Colonial Lit",
-		"num": 247,
-		"pf": false,
-		"places": [
-			"TB 227"
-		],
-		"profs": [
-			"Joseph L. Mbele"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Post-Colonial Literatures",
-		"type": "Research",
-		"year": 2008
-	},
-	"69931": {
-		"clbid": 69931,
-		"credits": 1.0,
-		"crsid": 406,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Students read and discuss children's literature from a variety of cultures and time periods. Beginning with world folklore and children's classics as background, students explore an array of picture books, poetry, fiction, and nonfiction that exemplifies the best in fantasy, science fiction, and realism for children and young adults. Special emphasis is given to two relatively new subgenres: multicultural literature and the contemporary problem novel. Prerequisite: FYW or equivalent.",
-		"gereqs": [
-			"ALS-L"
-		],
-		"level": 200,
-		"name": "Children's Literature",
-		"num": 233,
-		"pf": false,
-		"places": [
-			"RNS 208"
-		],
-		"profs": [
-			"Jan C. Hill"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Children's and Young Adult Literature",
-		"type": "Research",
-		"year": 2008
-	},
-	"69935": {
-		"clbid": 69935,
-		"credits": 1.0,
-		"crsid": 1154,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester.",
-		"gereqs": [
-			"HBS",
-			"IST"
-		],
-		"level": 100,
-		"name": "Principles: Psych",
-		"num": 125,
-		"pf": false,
-		"places": [
-			"RNS 208"
-		],
-		"profs": [
-			"Jeremy Loebach"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Principles of Psychology",
-		"type": "Research",
-		"year": 2008
-	},
-	"69936": {
-		"clbid": 69936,
-		"credits": 1.0,
-		"crsid": 19414,
-		"depts": [
-			"PSYCH"
-		],
-		"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: Determined by individual instructor. Offer based on department decision.",
-		"level": 300,
-		"name": "Res:Dev Psych Emotion",
-		"num": 396,
-		"pf": false,
-		"places": [
-			"RNS 136"
-		],
-		"profs": [
-			"Grace E. Cho"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Directed Undergraduate Research: \"Topic Description\"",
-		"type": "Research",
-		"year": 2008
-	},
-	"69974": {
-		"clbid": 69974,
-		"credits": 1.0,
-		"crsid": 417,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "This class covers the basics of news and public affairs writing. Students learn how to find a good story, interview, research, write, and ultimately edit their own stories. And because print news heads the twenty-first century endangered-industry list and several iconic newspapers have recently shut down in this country, the course confronts squarely the question of where news writing -- and the field of journalism itself -- is heading. Students learn to write for online news sources and to design a news blog -- and maybe even write a twitter or two.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"num": 255,
-		"pf": false,
-		"places": [
-			"RNS 208"
-		],
-		"profs": [
-			"Jan C. Hill"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Journalistic Writing",
-		"type": "Research",
-		"year": 2008
-	},
-	"70035": {
-		"clbid": 70035,
-		"credits": 1.0,
-		"crsid": 21546,
-		"depts": [
-			"ID"
-		],
-		"desc": "A pilot course of the College's Emergency Curriculum, this is an online, Moodle-based course. \"Class time \" will be one of the online activities: students and professors will communicate using the real-time chat function that Moodle provides.",
-		"gereqs": [
-			"ALS-L",
-			"HWC"
-		],
-		"grouptype": "R",
-		"level": 200,
-		"name": "Lit and Common Good",
-		"notes": "Taught online via Moodle; includes online class meeting component. Students register for this course for Term 2, but course begins June 10 and continues through both summer sessions.",
-		"num": 240,
-		"pf": false,
-		"profs": [
-			"David R. Castro"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Literature and the Preservation of the Common Good",
-		"type": "Research",
-		"year": 2008
-	},
-	"70042": {
-		"clbid": 70042,
-		"credits": 1.0,
-		"crsid": 1496,
-		"depts": [
-			"ART"
-		],
-		"desc": "This course introduces students to the ceramic processes of wheel throwing and hand building as means for creating works of art. Students learn terminology and critical approaches to ceramics. Students develop critical skills and the ability to analyze and interpret ceramic art work. Class emphasizes creative approaches to solving visual problems through ceramic work. Slide presentations on contemporary and historical ceramics provide background for assignments and highlight the role of ceramics in various cultural contexts. Materials fee. Offered each semester. Credit will not be given for both Art 121 and Art 207.",
-		"gereqs": [
-			"ALS-A"
-		],
-		"level": 200,
-		"num": 207,
-		"pf": false,
-		"places": [
-			"DC 115"
-		],
-		"profs": [
-			"Kathryne Fisher"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0230-0400PM"
-		],
-		"title": "Ceramics",
-		"type": "Research",
-		"year": 2008
-	},
-	"70048": {
-		"clbid": 70048,
-		"credits": 1.0,
-		"crsid": 982,
-		"depts": [
-			"PHIL"
-		],
-		"desc": "Valuing nature raises significant philosophical and ethical issues. This course considers the nature of animal life, the character and control of pollution, the conflict between preservationism and conservationism, corporate and governmental responsibility for the eco-crisis, the use of economic categories to assess wilderness areas and endangered species, the conflict between eco-holism and individualism, and the philosophy of wilderness management. Prerequisite: completion of BTS-T. Offered every year.",
-		"gereqs": [
-			"EIN"
-		],
-		"level": 200,
-		"num": 257,
-		"pf": false,
-		"places": [
-			"TB 216"
-		],
-		"profs": [
-			"Deepanwita Dasgupta"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1230-0200PM"
-		],
-		"title": "Environmental Ethics",
-		"type": "Research",
-		"year": 2008
-	},
-	"70088": {
-		"clbid": 70088,
-		"credits": 1.0,
-		"crsid": 731,
-		"depts": [
-			"MATH"
-		],
-		"desc": "This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Offered both semesters.",
-		"gereqs": [
-			"AQR"
-		],
-		"level": 100,
-		"num": 120,
-		"pf": false,
-		"places": [
-			"SC 186"
-		],
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Calculus I",
-		"type": "Research",
-		"year": 2008
-	},
-	"70089": {
-		"clbid": 70089,
-		"credits": 1.0,
-		"crsid": 733,
-		"depts": [
-			"MATH"
-		],
-		"desc": "This continuation of Mathematics 120 concentrates on methods and applications of integration and infinite sequences and series. May also include elementary differential equations and multiple integrals. Prerequisite: Mathematics 120, 121, or equivalent, or Mathematics Placement Recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered both semesters.",
-		"gereqs": [
-			"AQR"
-		],
-		"level": 100,
-		"num": 126,
-		"pf": false,
-		"places": [
-			"SC 186"
-		],
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 0800-0930"
-		],
-		"title": "Calculus II",
-		"type": "Research",
-		"year": 2008
-	},
-	"70090": {
-		"clbid": 70090,
-		"credits": 1.0,
-		"crsid": 745,
-		"depts": [
-			"MATH"
-		],
-		"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the continuity of the uniform limit of continuous functions, and the Bolzano-Weierstrass Theorem. Prerequisite: Mathematics 126 or 128. Offered both semesters.",
-		"gereqs": [
-			"WRI"
-		],
-		"level": 200,
-		"name": "Elem Real Analysis",
-		"num": 244,
-		"pf": false,
-		"places": [
-			"SC 186"
-		],
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"times": [
-			"M-F 1000-1130"
-		],
-		"title": "Elementary Real Analysis",
-		"type": "Research",
-		"year": 2008
-	},
-	"70400": {
-		"clbid": 70400,
-		"credits": 0.5,
-		"crsid": 464,
-		"depts": [
-			"ENVST"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"John D. Schade"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70401": {
-		"clbid": 70401,
-		"credits": 0.5,
-		"crsid": 1057,
-		"depts": [
-			"ESTH"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Sean Goldsworthy"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70411": {
-		"clbid": 70411,
-		"credits": 0.5,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Theodore Johnson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70428": {
-		"clbid": 70428,
-		"credits": 0.5,
-		"crsid": 797,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Jan C. Hill"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70432": {
-		"clbid": 70432,
-		"credits": 1.0,
-		"crsid": 378,
-		"depts": [
-			"DANCE"
-		],
-		"desc": "Independent Research",
-		"level": 300,
-		"name": "IR/Fem Dance Crit Lit Rev",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Susan Bauer"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Research",
-		"type": "Research",
-		"year": 2008
-	},
-	"70438": {
-		"clbid": 70438,
-		"credits": 0.5,
-		"crsid": 1236,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Anantanand Rambachan"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70439": {
-		"clbid": 70439,
-		"credits": 1.0,
-		"crsid": 625,
-		"depts": [
-			"HIST"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Russian Ntl Identity",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Anna Kuxhausen"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70463": {
-		"clbid": 70463,
-		"credits": 1.0,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Sian E. Muir"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70464": {
-		"clbid": 70464,
-		"credits": 1.0,
-		"crsid": 1401,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "Prerequisite: at least five previous courses in the department.",
-		"level": 300,
-		"name": "IR/Advanced Scene Design",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Todd F. Edwards"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Research",
-		"type": "Research",
-		"year": 2008
-	},
-	"70498": {
-		"clbid": 70498,
-		"credits": 0.5,
-		"crsid": 1236,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"L. DeAne Lagerquist"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70499": {
-		"clbid": 70499,
-		"credits": 1.0,
-		"crsid": 1058,
-		"depts": [
-			"ESTH"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Condition Non-Athlete",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Daniel Hagen"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70507": {
-		"clbid": 70507,
-		"credits": 1.0,
-		"crsid": 276,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Mary Ann Emery"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70513": {
-		"clbid": 70513,
-		"credits": 0.5,
-		"crsid": 691,
-		"depts": [
-			"IS"
-		],
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Douglas Schuurman"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70520": {
-		"clbid": 70520,
-		"credits": 0.5,
-		"crsid": 961,
-		"depts": [
-			"NURS"
-		],
-		"desc": "Does not count toward the major.",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"Diana Neal"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70521": {
-		"clbid": 70521,
-		"credits": 1.0,
-		"crsid": 1395,
-		"depts": [
-			"THEAT"
-		],
-		"desc": "Prerequisite: at least three previous courses in department.",
-		"level": 200,
-		"name": "IS/Gender & Gods in Theat",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Jeanne I. Willcoxon"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70523": {
-		"clbid": 70523,
-		"credits": 1.0,
-		"crsid": 15,
-		"depts": [
-			"AMST"
-		],
-		"desc": "Independent Research",
-		"level": 300,
-		"name": "IR/Image/Women/Pop Media",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Jeanne I. Willcoxon"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Research",
-		"type": "Research",
-		"year": 2008
-	},
-	"70529": {
-		"clbid": 70529,
-		"credits": 0.5,
-		"crsid": 1366,
-		"depts": [
-			"SWRK"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70530": {
-		"clbid": 70530,
-		"credits": 0.5,
-		"crsid": 624,
-		"depts": [
-			"HIST"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Eric J. Fure-Slocum"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70531": {
-		"clbid": 70531,
-		"credits": 0.5,
-		"crsid": 1315,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Carolyn Anderson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70532": {
-		"clbid": 70532,
-		"credits": 1.0,
-		"crsid": 1139,
-		"depts": [
-			"PSCI"
-		],
-		"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Steven C. Hahn"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70539": {
-		"clbid": 70539,
-		"credits": 1.0,
-		"crsid": 69,
-		"depts": [
-			"ART"
-		],
-		"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.",
-		"level": 200,
-		"name": "IS/Mixed Media Painting",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Wendell Arneson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70544": {
-		"clbid": 70544,
-		"credits": 0.5,
-		"crsid": 153,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Jean C. Porterfield"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70592": {
-		"clbid": 70592,
-		"credits": 1.0,
-		"crsid": 1057,
-		"depts": [
-			"ESTH"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Cynthia Book"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70606": {
-		"clbid": 70606,
-		"credits": 0.5,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Bruce Dalgaard"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70608": {
-		"clbid": 70608,
-		"credits": 0.5,
-		"crsid": 20628,
-		"depts": [
-			"ID"
-		],
-		"desc": "This course familiarizes students with research strategies in their respective disciplines and prepares them to successfully complete their faculty-led research projects through the TRiO McNair program. Students read research articles written by their faculty mentor, complete a literature search, and design a poster for a research symposium.",
-		"grouptype": "R",
-		"level": 200,
-		"name": "Research Across Disciplin",
-		"num": 236,
-		"pf": true,
-		"profs": [
-			"Heather Campbell"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Research Strategies Across the Disciplines",
-		"type": "Research",
-		"year": 2008
-	},
-	"70612": {
-		"clbid": 70612,
-		"credits": 0.5,
-		"crsid": 784,
-		"depts": [
-			"MGMT"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Anne Walter"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70614": {
-		"clbid": 70614,
-		"credits": 0.5,
-		"crsid": 1236,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Douglas Schuurman"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70647": {
-		"clbid": 70647,
-		"credits": 1.0,
-		"crsid": 752,
-		"depts": [
-			"MATH"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70649": {
-		"clbid": 70649,
-		"credits": 0.5,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Mary Carlsen"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70650": {
-		"clbid": 70650,
-		"credits": 0.5,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Thomas A. Williamson"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70651": {
-		"clbid": 70651,
-		"credits": 0.5,
-		"crsid": 707,
-		"depts": [
-			"ID"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Eric J. Fure-Slocum"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70652": {
-		"clbid": 70652,
-		"credits": 0.5,
-		"crsid": 276,
-		"depts": [
-			"ECON"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"David Schodt"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70654": {
-		"clbid": 70654,
-		"credits": 1.0,
-		"crsid": 69,
-		"depts": [
-			"ART"
-		],
-		"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.",
-		"level": 200,
-		"name": "IS/Mod Architects: Brazil",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Nancy M. Thompson"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70656": {
-		"clbid": 70656,
-		"credits": 0.5,
-		"crsid": 795,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Sonnega"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70658": {
-		"clbid": 70658,
-		"credits": 0.5,
-		"crsid": 1236,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"William Poehlmann"
-		],
-		"sect": "C",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70659": {
-		"clbid": 70659,
-		"credits": 1.0,
-		"crsid": 747,
-		"depts": [
-			"MATH"
-		],
-		"desc": "Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings, and fields. Prerequisite: Mathematics 220. Offered both semesters.",
-		"level": 200,
-		"num": 252,
-		"pf": false,
-		"profs": [
-			"Bruce Hanson"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Abstract Algebra I",
-		"type": "Research",
-		"year": 2008
-	},
-	"70660": {
-		"clbid": 70660,
-		"credits": 0.5,
-		"crsid": 1236,
-		"depts": [
-			"REL"
-		],
-		"level": 200,
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"David Booth"
-		],
-		"sect": "D",
-		"sem": 5,
-		"term": 20085,
-		"title": "Academic Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70668": {
-		"clbid": 70668,
-		"credits": 1.0,
-		"crsid": 1057,
-		"depts": [
-			"ESTH"
-		],
-		"level": 200,
-		"name": "Academic Internship",
-		"num": 294,
-		"pf": true,
-		"profs": [
-			"Cynthia Book"
-		],
-		"sect": "B",
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"70676": {
-		"clbid": 70676,
-		"credits": 1.0,
-		"crsid": 100,
-		"depts": [
-			"BIO"
-		],
-		"desc": "Contemporary biological issues related to health and the environment are explored, with the goal of fostering informed citizens prepared for current biological debates. Students learn the relevant biological principles in lecture and lab followed by appropriate lab or field research. Specific topics vary from year to year and may include emerging diseases, cardiovascular health, genetics, specific groups of organisms, behavior, and environmental dynamics. The course includes lectures plus one 2-hour laboratory per week.",
-		"gereqs": [
-			"IST",
-			"SED"
-		],
-		"groupid": 100,
-		"level": 100,
-		"name": "Biological Science",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Eric McDonald",
-			"Michael Swift",
-			"Anne Walter"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Biological Science: Issues in Biology",
-		"type": "Research",
-		"year": 2008
-	},
-	"70677": {
-		"clbid": 70677,
-		"credits": 0.0,
-		"crsid": 101,
-		"depts": [
-			"BIO"
-		],
-		"groupid": 100,
-		"level": 100,
-		"name": "Biological Science Lab",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Eric McDonald",
-			"Michael Swift",
-			"Anne Walter"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Biological Science Lab",
-		"type": "Lab",
-		"year": 2008
-	},
-	"70684": {
-		"clbid": 70684,
-		"credits": 1.0,
-		"crsid": 1289,
-		"depts": [
-			"SOAN"
-		],
-		"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is primarily open to first year students or students in certain accredited programs. Offered both semesters. Open to first-year students only. Open to all students when taught during the summer.",
-		"gereqs": [
-			"HBS",
-			"MCD"
-		],
-		"level": 100,
-		"name": "Intro to Sociology",
-		"num": 121,
-		"pf": false,
-		"profs": [
-			"Michael Leming"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Introduction to Sociology",
-		"type": "Research",
-		"year": 2008
-	},
-	"70737": {
-		"clbid": 70737,
-		"credits": 1.0,
-		"crsid": 223,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "Independent Research",
-		"level": 300,
-		"name": "IR/Maldi-Tof Proteomics",
-		"num": 398,
-		"pf": false,
-		"profs": [
-			"Douglas J. Beussman"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Research",
-		"type": "Research",
-		"year": 2008
-	},
-	"70739": {
-		"clbid": 70739,
-		"credits": 1.0,
-		"crsid": 434,
-		"depts": [
-			"ENGL"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Summer at Walden Pond",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Carol Holly"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70754": {
-		"clbid": 70754,
-		"credits": 1.0,
-		"crsid": 94,
-		"depts": [
-			"ASIAN"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Ancient SE Asian Hist",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Robert Entenmann"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"70758": {
-		"clbid": 70758,
-		"credits": 1.0,
-		"crsid": 797,
-		"depts": [
-			"MEDIA"
-		],
-		"desc": "Internship",
-		"level": 300,
-		"name": "Academic Internship",
-		"num": 394,
-		"pf": true,
-		"profs": [
-			"William Sonnega"
-		],
-		"sect": "A",
-		"sem": 5,
-		"term": 20085,
-		"title": "Internship",
-		"type": "Research",
-		"year": 2008
-	},
-	"71275": {
-		"clbid": 71275,
-		"credits": 1.0,
-		"crsid": 205,
-		"depts": [
-			"CHEM"
-		],
-		"desc": "Independent Study",
-		"level": 200,
-		"name": "IS/Lake Water Quality",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Mary Walczak"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "Independent Study",
-		"type": "Research",
-		"year": 2008
-	},
-	"75435": {
-		"clbid": 75435,
-		"credits": 1.0,
-		"crsid": 687,
-		"depts": [
-			"IS"
-		],
-		"level": 200,
-		"name": "IS/",
-		"num": 298,
-		"pf": false,
-		"profs": [
-			"Staff"
-		],
-		"sem": 5,
-		"term": 20085,
-		"title": "IS/",
-		"type": "Research",
-		"year": 2008
-	}
+	"courses": [
+		{
+			"clbid": 69538,
+			"credits": 1.0,
+			"crsid": 1207,
+			"depts": [
+				"REL"
+			],
+			"desc": "Students read Pauline letters carefully for their major issues, such as apocalyptic, gospel, apostleship, Jew and Gentile, faith, Torah, community. Considering Paul in the context of his times and Paul in the context of later Christianity, students discuss topics such as Jews and Christians, men and women, creation, grace in Paul and present day experience. Prerequisite: BTS-B",
+			"gereqs": [
+				"BTS-T",
+				"WRI"
+			],
+			"level": 200,
+			"name": "St. Paul/Letter/Gospel",
+			"num": 223,
+			"pf": false,
+			"places": [
+				"DC 204"
+			],
+			"profs": [
+				"James Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Paul: His Letters, His Gospel",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69539,
+			"credits": 1.0,
+			"crsid": 1232,
+			"depts": [
+				"REL"
+			],
+			"desc": "This course examines the ethical teachings of Jesus as found in the canonical Gospels (with special focus on the Sermon on the Mount), explores how these teachings have been understood at some major moments in Western history, and brings them to bear on the task of contemporary ethical reflection. Issues examined include, for example, non-violence, social and economic justice, sexuality, and ethnic conflict. Prerequisites: completion of BTS-B and BTS-T.",
+			"gereqs": [
+				"EIN",
+				"WRI"
+			],
+			"level": 200,
+			"num": 276,
+			"pf": false,
+			"places": [
+				"DC 204"
+			],
+			"profs": [
+				"James Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "The Ethics of Jesus",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69546,
+			"credits": 1.0,
+			"crsid": 194,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one 3-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123 and Mathematics 120 or 121 or permission of instructor. Offered Spring Semester.",
+			"gereqs": [
+				"SED"
+			],
+			"groupid": 194,
+			"level": 100,
+			"name": "Chemical Reactions",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 435"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Energies and Rates of Chemical Reactions",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69547,
+			"credits": 0.0,
+			"crsid": 195,
+			"depts": [
+				"CHEM"
+			],
+			"groupid": 194,
+			"level": 100,
+			"name": "Chemical Reactions Lab",
+			"num": 126,
+			"pf": false,
+			"places": [
+				"RNS 350"
+			],
+			"profs": [
+				"Patrick N. Riley"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Chemical Reactions Lab",
+			"type": "Lab",
+			"year": 2008
+		},
+		{
+			"clbid": 69548,
+			"credits": 1.0,
+			"crsid": 197,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered Spring Semester.",
+			"level": 200,
+			"num": 248,
+			"pf": false,
+			"places": [
+				"RNS 310"
+			],
+			"profs": [
+				"Peter J. Gittins",
+				"Wesley Pearson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Organic Chemistry II",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69549,
+			"credits": 0.25,
+			"crsid": 200,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
+			"level": 200,
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Peter J. Gittins",
+				"Wesley Pearson"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"MW 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory II",
+			"type": "Lab",
+			"year": 2008
+		},
+		{
+			"clbid": 69550,
+			"credits": 0.25,
+			"crsid": 200,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
+			"level": 200,
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"places": [
+				"RNS 340"
+			],
+			"profs": [
+				"Peter J. Gittins",
+				"Wesley Pearson"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": "Synthesis Laboratory II",
+			"type": "Lab",
+			"year": 2008
+		},
+		{
+			"clbid": 69629,
+			"credits": 1.0,
+			"crsid": 1398,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theatre 110. Some topics courses may require additional prerequisites. Please inquire in the Theatre Department office before registering. Offered every year.",
+			"level": 300,
+			"name": "Top: Stage Combat",
+			"num": 379,
+			"pf": false,
+			"places": [
+				"TB Haugen"
+			],
+			"profs": [
+				"Todd F. Edwards"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Topics in Interpretation and Theater",
+			"type": "Topic",
+			"year": 2008
+		},
+		{
+			"clbid": 69630,
+			"credits": 1.0,
+			"crsid": 1376,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "This studio course is designed as an overview of the acting process for the non-major: basic acting theories, rehearsal techniques, improvisation, history and styles. Students explore and practice exercises, scene work and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. No prerequisites. This course does not fulfill the acting requirement for the major. Offered each semester.",
+			"gereqs": [
+				"ALS-A",
+				"ORC"
+			],
+			"level": 100,
+			"name": "Acting for Non-Majors",
+			"num": 115,
+			"pf": false,
+			"places": [
+				"TB Haugen"
+			],
+			"profs": [
+				"Jeanne I. Willcoxon"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Acting for the Non-Major",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69696,
+			"credits": 1.0,
+			"crsid": 1476,
+			"depts": [
+				"WMNST"
+			],
+			"desc": "Required for the women's studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered both Fall and Spring Semesters.",
+			"gereqs": [
+				"MCD"
+			],
+			"level": 100,
+			"name": "Intro Womens Studies",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"HH 302"
+			],
+			"profs": [
+				"Anna Kuxhausen"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Introduction to Women's Studies",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69700,
+			"credits": 1.0,
+			"crsid": 311,
+			"depts": [
+				"EDUC"
+			],
+			"desc": "Students study theories of and research into human behavior, growth, and development. Through lectures, discussions, case studies and field experiences, students analyze the impact of applied psychology upon schools, teachers, and students. Students also examine the interaction between individual characteristics and needs and political, economic and philosophical issues confronting contemporary American students. Required 20-hour field experience. Recommended to be taken sophomore year to begin the licensure sequence. Offered both semesters.",
+			"gereqs": [
+				"HBS",
+				"WRI"
+			],
+			"level": 200,
+			"name": "Educ Psychology",
+			"num": 290,
+			"pf": false,
+			"places": [
+				"TBA"
+			],
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0900-1200PM"
+			],
+			"title": "Educational Psychology",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69721,
+			"credits": 0.5,
+			"crsid": 1012,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Individual Fitness.50",
+			"num": 133,
+			"pf": false,
+			"places": [
+				"SAC 112"
+			],
+			"profs": [
+				"William Sean Goldsworthy"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Individual Fitness",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69722,
+			"credits": 0.5,
+			"crsid": 1016,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"name": "Wt Training Co-Ed .50",
+			"num": 140,
+			"pf": false,
+			"places": [
+				"SAC 112"
+			],
+			"profs": [
+				"William Sean Goldsworthy"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0400-0530PM"
+			],
+			"title": "Weight Training",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69723,
+			"credits": 0.25,
+			"crsid": 997,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"num": 103,
+			"pf": false,
+			"profs": [
+				"Luke Benoit"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0300-0500PM"
+			],
+			"title": "Golf",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69930,
+			"credits": 1.0,
+			"crsid": 411,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students encounter the literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW or equivalent.",
+			"gereqs": [
+				"ALS-L",
+				"MCG"
+			],
+			"level": 200,
+			"name": "Post-Colonial Lit",
+			"num": 247,
+			"pf": false,
+			"places": [
+				"TB 227"
+			],
+			"profs": [
+				"Joseph L. Mbele"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Post-Colonial Literatures",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69931,
+			"credits": 1.0,
+			"crsid": 406,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students read and discuss children's literature from a variety of cultures and time periods. Beginning with world folklore and children's classics as background, students explore an array of picture books, poetry, fiction, and nonfiction that exemplifies the best in fantasy, science fiction, and realism for children and young adults. Special emphasis is given to two relatively new subgenres: multicultural literature and the contemporary problem novel. Prerequisite: FYW or equivalent.",
+			"gereqs": [
+				"ALS-L"
+			],
+			"level": 200,
+			"name": "Children's Literature",
+			"num": 233,
+			"pf": false,
+			"places": [
+				"RNS 208"
+			],
+			"profs": [
+				"Jan C. Hill"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Children's and Young Adult Literature",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69935,
+			"credits": 1.0,
+			"crsid": 1154,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester.",
+			"gereqs": [
+				"HBS",
+				"IST"
+			],
+			"level": 100,
+			"name": "Principles: Psych",
+			"num": 125,
+			"pf": false,
+			"places": [
+				"RNS 208"
+			],
+			"profs": [
+				"Jeremy Loebach"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Principles of Psychology",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69936,
+			"credits": 1.0,
+			"crsid": 19414,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: Determined by individual instructor. Offer based on department decision.",
+			"level": 300,
+			"name": "Res:Dev Psych Emotion",
+			"num": 396,
+			"pf": false,
+			"places": [
+				"RNS 136"
+			],
+			"profs": [
+				"Grace E. Cho"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Directed Undergraduate Research: \"Topic Description\"",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 69974,
+			"credits": 1.0,
+			"crsid": 417,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "This class covers the basics of news and public affairs writing. Students learn how to find a good story, interview, research, write, and ultimately edit their own stories. And because print news heads the twenty-first century endangered-industry list and several iconic newspapers have recently shut down in this country, the course confronts squarely the question of where news writing -- and the field of journalism itself -- is heading. Students learn to write for online news sources and to design a news blog -- and maybe even write a twitter or two.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"num": 255,
+			"pf": false,
+			"places": [
+				"RNS 208"
+			],
+			"profs": [
+				"Jan C. Hill"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Journalistic Writing",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70035,
+			"credits": 1.0,
+			"crsid": 21546,
+			"depts": [
+				"ID"
+			],
+			"desc": "A pilot course of the College's Emergency Curriculum, this is an online, Moodle-based course. \"Class time \" will be one of the online activities: students and professors will communicate using the real-time chat function that Moodle provides.",
+			"gereqs": [
+				"ALS-L",
+				"HWC"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Lit and Common Good",
+			"notes": "Taught online via Moodle; includes online class meeting component. Students register for this course for Term 2, but course begins June 10 and continues through both summer sessions.",
+			"num": 240,
+			"pf": false,
+			"profs": [
+				"David R. Castro"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Literature and the Preservation of the Common Good",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70042,
+			"credits": 1.0,
+			"crsid": 1496,
+			"depts": [
+				"ART"
+			],
+			"desc": "This course introduces students to the ceramic processes of wheel throwing and hand building as means for creating works of art. Students learn terminology and critical approaches to ceramics. Students develop critical skills and the ability to analyze and interpret ceramic art work. Class emphasizes creative approaches to solving visual problems through ceramic work. Slide presentations on contemporary and historical ceramics provide background for assignments and highlight the role of ceramics in various cultural contexts. Materials fee. Offered each semester. Credit will not be given for both Art 121 and Art 207.",
+			"gereqs": [
+				"ALS-A"
+			],
+			"level": 200,
+			"num": 207,
+			"pf": false,
+			"places": [
+				"DC 115"
+			],
+			"profs": [
+				"Kathryne Fisher"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0230-0400PM"
+			],
+			"title": "Ceramics",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70048,
+			"credits": 1.0,
+			"crsid": 982,
+			"depts": [
+				"PHIL"
+			],
+			"desc": "Valuing nature raises significant philosophical and ethical issues. This course considers the nature of animal life, the character and control of pollution, the conflict between preservationism and conservationism, corporate and governmental responsibility for the eco-crisis, the use of economic categories to assess wilderness areas and endangered species, the conflict between eco-holism and individualism, and the philosophy of wilderness management. Prerequisite: completion of BTS-T. Offered every year.",
+			"gereqs": [
+				"EIN"
+			],
+			"level": 200,
+			"num": 257,
+			"pf": false,
+			"places": [
+				"TB 216"
+			],
+			"profs": [
+				"Deepanwita Dasgupta"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1230-0200PM"
+			],
+			"title": "Environmental Ethics",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70088,
+			"credits": 1.0,
+			"crsid": 731,
+			"depts": [
+				"MATH"
+			],
+			"desc": "This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Offered both semesters.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 100,
+			"num": 120,
+			"pf": false,
+			"places": [
+				"SC 186"
+			],
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Calculus I",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70089,
+			"credits": 1.0,
+			"crsid": 733,
+			"depts": [
+				"MATH"
+			],
+			"desc": "This continuation of Mathematics 120 concentrates on methods and applications of integration and infinite sequences and series. May also include elementary differential equations and multiple integrals. Prerequisite: Mathematics 120, 121, or equivalent, or Mathematics Placement Recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered both semesters.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 100,
+			"num": 126,
+			"pf": false,
+			"places": [
+				"SC 186"
+			],
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 0800-0930"
+			],
+			"title": "Calculus II",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70090,
+			"credits": 1.0,
+			"crsid": 745,
+			"depts": [
+				"MATH"
+			],
+			"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the continuity of the uniform limit of continuous functions, and the Bolzano-Weierstrass Theorem. Prerequisite: Mathematics 126 or 128. Offered both semesters.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "Elem Real Analysis",
+			"num": 244,
+			"pf": false,
+			"places": [
+				"SC 186"
+			],
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "Elementary Real Analysis",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70400,
+			"credits": 0.5,
+			"crsid": 464,
+			"depts": [
+				"ENVST"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"John D. Schade"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70401,
+			"credits": 0.5,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Sean Goldsworthy"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70411,
+			"credits": 0.5,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Theodore Johnson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70428,
+			"credits": 0.5,
+			"crsid": 797,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Jan C. Hill"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70432,
+			"credits": 1.0,
+			"crsid": 378,
+			"depts": [
+				"DANCE"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Fem Dance Crit Lit Rev",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Susan Bauer"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70438,
+			"credits": 0.5,
+			"crsid": 1236,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anantanand Rambachan"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70439,
+			"credits": 1.0,
+			"crsid": 625,
+			"depts": [
+				"HIST"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Russian Ntl Identity",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Anna Kuxhausen"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70463,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70464,
+			"credits": 1.0,
+			"crsid": 1401,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "Prerequisite: at least five previous courses in the department.",
+			"level": 300,
+			"name": "IR/Advanced Scene Design",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Todd F. Edwards"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70498,
+			"credits": 0.5,
+			"crsid": 1236,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"L. DeAne Lagerquist"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70499,
+			"credits": 1.0,
+			"crsid": 1058,
+			"depts": [
+				"ESTH"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Condition Non-Athlete",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Daniel Hagen"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70507,
+			"credits": 1.0,
+			"crsid": 276,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Mary Ann Emery"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70513,
+			"credits": 0.5,
+			"crsid": 691,
+			"depts": [
+				"IS"
+			],
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Douglas Schuurman"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70520,
+			"credits": 0.5,
+			"crsid": 961,
+			"depts": [
+				"NURS"
+			],
+			"desc": "Does not count toward the major.",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Diana Neal"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70521,
+			"credits": 1.0,
+			"crsid": 1395,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "Prerequisite: at least three previous courses in department.",
+			"level": 200,
+			"name": "IS/Gender & Gods in Theat",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Jeanne I. Willcoxon"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70523,
+			"credits": 1.0,
+			"crsid": 15,
+			"depts": [
+				"AMST"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Image/Women/Pop Media",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Jeanne I. Willcoxon"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70529,
+			"credits": 0.5,
+			"crsid": 1366,
+			"depts": [
+				"SWRK"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70530,
+			"credits": 0.5,
+			"crsid": 624,
+			"depts": [
+				"HIST"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Eric J. Fure-Slocum"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70531,
+			"credits": 0.5,
+			"crsid": 1315,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Carolyn Anderson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70532,
+			"credits": 1.0,
+			"crsid": 1139,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Steven C. Hahn"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70539,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.",
+			"level": 200,
+			"name": "IS/Mixed Media Painting",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Wendell Arneson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70544,
+			"credits": 0.5,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70592,
+			"credits": 1.0,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Cynthia Book"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70606,
+			"credits": 0.5,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Bruce Dalgaard"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70608,
+			"credits": 0.5,
+			"crsid": 20628,
+			"depts": [
+				"ID"
+			],
+			"desc": "This course familiarizes students with research strategies in their respective disciplines and prepares them to successfully complete their faculty-led research projects through the TRiO McNair program. Students read research articles written by their faculty mentor, complete a literature search, and design a poster for a research symposium.",
+			"grouptype": "R",
+			"level": 200,
+			"name": "Research Across Disciplin",
+			"num": 236,
+			"pf": true,
+			"profs": [
+				"Heather Campbell"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Research Strategies Across the Disciplines",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70612,
+			"credits": 0.5,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anne Walter"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70614,
+			"credits": 0.5,
+			"crsid": 1236,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Douglas Schuurman"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70647,
+			"credits": 1.0,
+			"crsid": 752,
+			"depts": [
+				"MATH"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70649,
+			"credits": 0.5,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Mary Carlsen"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70650,
+			"credits": 0.5,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Thomas A. Williamson"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70651,
+			"credits": 0.5,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Eric J. Fure-Slocum"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70652,
+			"credits": 0.5,
+			"crsid": 276,
+			"depts": [
+				"ECON"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"David Schodt"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70654,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.",
+			"level": 200,
+			"name": "IS/Mod Architects: Brazil",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Nancy M. Thompson"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70656,
+			"credits": 0.5,
+			"crsid": 795,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Sonnega"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70658,
+			"credits": 0.5,
+			"crsid": 1236,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"William Poehlmann"
+			],
+			"sect": "C",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70659,
+			"credits": 1.0,
+			"crsid": 747,
+			"depts": [
+				"MATH"
+			],
+			"desc": "Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings, and fields. Prerequisite: Mathematics 220. Offered both semesters.",
+			"level": 200,
+			"num": 252,
+			"pf": false,
+			"profs": [
+				"Bruce Hanson"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Abstract Algebra I",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70660,
+			"credits": 0.5,
+			"crsid": 1236,
+			"depts": [
+				"REL"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"David Booth"
+			],
+			"sect": "D",
+			"sem": 5,
+			"term": 20085,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70668,
+			"credits": 1.0,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Cynthia Book"
+			],
+			"sect": "B",
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70676,
+			"credits": 1.0,
+			"crsid": 100,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Contemporary biological issues related to health and the environment are explored, with the goal of fostering informed citizens prepared for current biological debates. Students learn the relevant biological principles in lecture and lab followed by appropriate lab or field research. Specific topics vary from year to year and may include emerging diseases, cardiovascular health, genetics, specific groups of organisms, behavior, and environmental dynamics. The course includes lectures plus one 2-hour laboratory per week.",
+			"gereqs": [
+				"IST",
+				"SED"
+			],
+			"groupid": 100,
+			"level": 100,
+			"name": "Biological Science",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Eric McDonald",
+				"Michael Swift",
+				"Anne Walter"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Biological Science: Issues in Biology",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70677,
+			"credits": 0.0,
+			"crsid": 101,
+			"depts": [
+				"BIO"
+			],
+			"groupid": 100,
+			"level": 100,
+			"name": "Biological Science Lab",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Eric McDonald",
+				"Michael Swift",
+				"Anne Walter"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Biological Science Lab",
+			"type": "Lab",
+			"year": 2008
+		},
+		{
+			"clbid": 70684,
+			"credits": 1.0,
+			"crsid": 1289,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course helps students explore the connections between society and their own lives. Students answer challenging questions such as \"Do we have a 'human nature'?,\" \"Why does social inequality exist?,\" \"What is race?,\" and \"How do societies change?\" In answering these questions students learn to develop a sociological imagination. In doing so they review the various research methods and theories that form the sociological tradition. This course is primarily open to first year students or students in certain accredited programs. Offered both semesters. Open to first-year students only. Open to all students when taught during the summer.",
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"level": 100,
+			"name": "Intro to Sociology",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Michael Leming"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Introduction to Sociology",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70737,
+			"credits": 1.0,
+			"crsid": 223,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Maldi-Tof Proteomics",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Douglas J. Beussman"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70739,
+			"credits": 1.0,
+			"crsid": 434,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Summer at Walden Pond",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Carol Holly"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70754,
+			"credits": 1.0,
+			"crsid": 94,
+			"depts": [
+				"ASIAN"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Ancient SE Asian Hist",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Robert Entenmann"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 70758,
+			"credits": 1.0,
+			"crsid": 797,
+			"depts": [
+				"MEDIA"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"William Sonnega"
+			],
+			"sect": "A",
+			"sem": 5,
+			"term": 20085,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 71275,
+			"credits": 1.0,
+			"crsid": 205,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Independent Study",
+			"level": 200,
+			"name": "IS/Lake Water Quality",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Mary Walczak"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2008
+		},
+		{
+			"clbid": 75435,
+			"credits": 1.0,
+			"crsid": 687,
+			"depts": [
+				"IS"
+			],
+			"level": 200,
+			"name": "IS/",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sem": 5,
+			"term": 20085,
+			"title": "IS/",
+			"type": "Research",
+			"year": 2008
+		}
+	]
 }
