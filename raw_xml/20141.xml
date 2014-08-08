@@ -578,7 +578,7 @@
 
 	<course>
 	<clbid>0000094158</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ART</deptname>
 	<coursenumber>103</coursenumber>
 	<coursesection></coursesection>
@@ -1686,7 +1686,7 @@
 	<coursename>Cells and Tissues Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17430&apos;)"&gt;Crisp, Kevin M.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26303&apos;)"&gt;Son, Nicole&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -1711,7 +1711,7 @@
 	<coursename>Cells and Tissues Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17430&apos;)"&gt;Crisp, Kevin M.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26303&apos;)"&gt;Son, Nicole&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -1736,7 +1736,7 @@
 	<coursename>Cells and Tissues Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17430&apos;)"&gt;Crisp, Kevin M.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26303&apos;)"&gt;Son, Nicole&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -2981,12 +2981,37 @@
 	<coursestatus>C</coursestatus>
 	<deptname>BIO</deptname>
 	<coursenumber>396</coursenumber>
-	<coursesection></coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Research:</coursename>
 	<pn>N</pn>
 	<notes>Registration by permission of the instructor.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23548&apos;)"&gt;Bowers, Lisa M.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000018801</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000098742</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>BIO</deptname>
+	<coursenumber>396</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Research: Neuroscience</coursename>
+	<pn>N</pn>
+	<notes>Registration by permission of instructor.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26303&apos;)"&gt;Son, Nicole&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -3390,8 +3415,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS390&apos;);"&gt;RNS 390&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS390&apos;);"&gt;RNS 390&lt;/a&gt;</meetinglocations>
+	<meetingtimes>MWF 1255-0150PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS390&apos;);"&gt;RNS 390&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000192</groupid>
 	<grouptype></grouptype>
@@ -5436,7 +5461,7 @@
 	<coursename>Intro to Dance</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26208&apos;)"&gt;Anderson, Gabriel R.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
@@ -8153,7 +8178,7 @@
 
 	<course>
 	<clbid>0000097116</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENVST</deptname>
 	<coursenumber>123</coursenumber>
 	<coursesection></coursesection>
@@ -8686,7 +8711,7 @@
 	<coursename>Aerobics</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14953&apos;)"&gt;McCarthy, Robert K.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;18428&apos;)"&gt;Lerfald, Justin&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -8836,7 +8861,7 @@
 	<coursename>Fitness Walking</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;228&apos;)"&gt;Anderson, Kurt&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;18395&apos;)"&gt;Driver, Jeremy B.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -8861,7 +8886,7 @@
 	<coursename>Wt Training Co-Ed .50</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14953&apos;)"&gt;McCarthy, Robert K.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;18428&apos;)"&gt;Lerfald, Justin&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.50</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -8961,7 +8986,7 @@
 	<coursename>Wt Training-Women</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1358&apos;)"&gt;Daymont, Christine&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;19448&apos;)"&gt;Hamilton, Maya&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -9136,7 +9161,7 @@
 	<coursename>Self-Defense</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;19448&apos;)"&gt;Hamilton, Maya&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26226&apos;)"&gt;Burset, Sebastian N.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -14836,7 +14861,7 @@
 	<coursename>Collegium Musicum</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17590&apos;)"&gt;Maeda, Dana L.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;13280&apos;)"&gt;Elhard, Julie&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17590&apos;)"&gt;Maeda, Dana L.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -18953,7 +18978,7 @@
 
 	<course>
 	<clbid>0000094081</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>241</coursenumber>
 	<coursesection>B</coursesection>
@@ -19003,7 +19028,7 @@
 
 	<course>
 	<clbid>0000094725</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>244</coursenumber>
 	<coursesection>A</coursesection>
@@ -19437,6 +19462,31 @@
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;3556&apos;)"&gt;Huff, Charles&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001190</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000098683</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>PSYCH</deptname>
+	<coursenumber>398</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>IR/Psyc Interventions</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5220&apos;)"&gt;McMillan, Donna&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -20116,7 +20166,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 0905-1000</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;OM010&apos;);"&gt;OM 010&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;OM030&apos;);"&gt;OM 030&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -21186,7 +21236,7 @@
 	<coursename>Int/Cult Anthropology</coursename>
 	<pn>N</pn>
 	<notes>Open to first-year students only.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;179&apos;)"&gt;Anderson, Carolyn&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
@@ -21253,15 +21303,15 @@
 
 	<course>
 	<clbid>0000097012</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>X</coursestatus>
 	<deptname>SOAN</deptname>
 	<coursenumber>242</coursenumber>
 	<coursesection>A</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Contemp Native Am</coursename>
 	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;179&apos;)"&gt;Anderson, Carolyn&lt;/a&gt;</instructors>
+	<notes>This course has been canceled.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)</gereqs>
@@ -21278,15 +21328,15 @@
 
 	<course>
 	<clbid>0000097013</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>X</coursestatus>
 	<deptname>SOAN</deptname>
 	<coursenumber>242</coursenumber>
 	<coursesection>B</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Contemp Native Am</coursename>
 	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;179&apos;)"&gt;Anderson, Carolyn&lt;/a&gt;</instructors>
+	<notes>This course has been canceled.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)</gereqs>
@@ -21586,7 +21636,7 @@
 	<coursename>IS/Native American Health</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;179&apos;)"&gt;Anderson, Carolyn&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14223&apos;)"&gt;Williamson, Thomas A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -22586,7 +22636,7 @@
 	<coursename>Statistics for Science</coursename>
 	<pn>N</pn>
 	<notes>This course has class-year limits.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26276&apos;)"&gt;Musselman, Jessica&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
@@ -22611,7 +22661,7 @@
 	<coursename>Statistics for Science</coursename>
 	<pn>N</pn>
 	<notes>This course has class-year limits.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14114&apos;)"&gt;Legler, Julie M.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;16855&apos;)"&gt;Boehm, Laura F.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
@@ -22736,7 +22786,7 @@
 	<coursename>Statistical Modeling</coursename>
 	<pn>N</pn>
 	<notes>Open to first-year students by permission only.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;16855&apos;)"&gt;Boehm, Laura F.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14114&apos;)"&gt;Legler, Julie M.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
@@ -23191,7 +23241,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://www.stolaf.edu/committees/curriculum/ge/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 0905-1000</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TBHaugen&apos;);"&gt;TB Haugen&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TBKelsey&apos;);"&gt;TB Kelsey&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -23587,6 +23637,31 @@
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;9093&apos;)"&gt;Wilson, Karen&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001395</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000098681</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>THEAT</deptname>
+	<coursenumber>298</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>IS/Light &amp;amp; Sound Systems</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;611&apos;)"&gt;Bjorklund, Brian&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
