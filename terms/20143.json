@@ -2382,6 +2382,7 @@
 			"profs": [
 				"Staff"
 			],
+			"sect": "B",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -2472,7 +2473,7 @@
 				"HH 501"
 			],
 			"profs": [
-				"Staff"
+				"Megan J. Feeney"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -2832,7 +2833,7 @@
 				"TOH 214"
 			],
 			"profs": [
-				"Staff",
+				"Ruben Alvarez",
 				"Heather Campbell"
 			],
 			"sem": 3,
@@ -4313,7 +4314,7 @@
 				"OM 340"
 			],
 			"profs": [
-				"Staff"
+				"Kiara Esterbrooks"
 			],
 			"sect": "K",
 			"sem": 3,
@@ -5422,7 +5423,7 @@
 			"profs": [
 				"Jennifer Wilcox"
 			],
-			"sect": "F",
+			"sect": "E",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -5450,7 +5451,7 @@
 			"profs": [
 				"Daniel A. Everson"
 			],
-			"sect": "G",
+			"sect": "F",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -5645,7 +5646,7 @@
 			"profs": [
 				"Jennifer Wilcox"
 			],
-			"sect": "H",
+			"sect": "G",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -5673,7 +5674,7 @@
 			"profs": [
 				"Keir Fogarty"
 			],
-			"sect": "I",
+			"sect": "H",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -7140,7 +7141,7 @@
 				"TOH 210"
 			],
 			"profs": [
-				"Robert W. McClure"
+				"Maurella Cunningham"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -7577,7 +7578,7 @@
 			],
 			"desc": "Social work majors study scientific philosophies and approaches to ethical knowledge building for social work practice. The course includes an overview of the research process using both quantitative and qualitative methods with special attention to how research knowledge informs generalist social work practice. Students apply course concepts in the field through an academic civic engagement component. Open only to social work majors. Offered annually in the spring semester.",
 			"level": 200,
-			"name": "Eval/SW Practice/Prog",
+			"name": "Res Methods/Social Work",
 			"notes": "This course is open to Social Work majors only. This course has class-year limits.",
 			"num": 274,
 			"pf": false,
@@ -8633,45 +8634,11 @@
 			"profs": [
 				"Katherine S. Tegtmeyer Pak"
 			],
-			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
 				"T 0935-1100",
 				"Th 0930-1050"
-			],
-			"title": "Global Democracy",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 95911,
-			"credits": 1.0,
-			"crsid": 25625,
-			"depts": [
-				"PSCI"
-			],
-			"desc": "Where does democracy originate, within nations or from international processes? What factors shape efforts around the world to claim power for the people? Should democratic states seek to promote democracy internationally? This course asks students to consider these questions by exploring global experiences of democratization from the 20th century through recent events. The course introduces ideas from political scientists and political actors and requires students to compare them. Offered annually.",
-			"gereqs": [
-				"HBS",
-				"ORC"
-			],
-			"level": 100,
-			"num": 115,
-			"pf": false,
-			"places": [
-				"HH 514",
-				"HH 514"
-			],
-			"profs": [
-				"Katherine S. Tegtmeyer Pak"
-			],
-			"sect": "B",
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"T 1145-0110PM",
-				"Th 1245-0205PM"
 			],
 			"title": "Global Democracy",
 			"type": "Research",
@@ -8931,6 +8898,9 @@
 			],
 			"sem": 3,
 			"term": 20143,
+			"times": [
+				"MWF 1150-1245PM"
+			],
 			"title": "Human Anatomy and Physiology: Organs and Organ Systems",
 			"type": "Research",
 			"year": 2014
@@ -8957,7 +8927,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"W 0200-0500PM"
+				"M 0200-0500PM"
 			],
 			"title": "Human Anatomy & Physiol L",
 			"type": "Lab",
@@ -8985,7 +8955,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"Th 0215-0515PM"
+				"T 0120-0420PM"
 			],
 			"title": "Human Anatomy & Physiol L",
 			"type": "Lab",
@@ -9013,7 +8983,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"Th 0800-1100"
+				"T 0800-1100"
 			],
 			"title": "Human Anatomy & Physiol L",
 			"type": "Lab",
@@ -10960,7 +10930,7 @@
 				"TB Haugen"
 			],
 			"profs": [
-				"Staff"
+				"Maxamilian J. Wojtanowicz"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -14097,15 +14067,17 @@
 			"num": 246,
 			"pf": false,
 			"places": [
+				"TOH 210",
 				"TOH 210"
 			],
 			"profs": [
-				"Bruce Nordstrom-Loeb"
+				"Marcel LaFlamme"
 			],
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"MWF 1045-1140"
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
 			],
 			"title": "LGBTQA Lives and Issues",
 			"type": "Research",
@@ -16927,7 +16899,7 @@
 				"HH 413"
 			],
 			"profs": [
-				"Staff"
+				"Brandt A. Richardson"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -16958,7 +16930,7 @@
 				"HH 413"
 			],
 			"profs": [
-				"Staff"
+				"Brandt A. Richardson"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -17118,7 +17090,7 @@
 				"TOH 214"
 			],
 			"profs": [
-				"Jean R. Aguilar-Valdez"
+				"Robert W. McClure"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -17248,7 +17220,7 @@
 				"RNS 150"
 			],
 			"profs": [
-				"Staff"
+				"Lindsay Matteson"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -17438,7 +17410,7 @@
 				"TOH 214"
 			],
 			"profs": [
-				"Staff"
+				"Heather Campbell"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -18844,7 +18816,7 @@
 				"HH 302"
 			],
 			"profs": [
-				"Staff"
+				"Bruce Nordstrom-Loeb"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -18875,7 +18847,7 @@
 				"HH 319"
 			],
 			"profs": [
-				"Staff"
+				"Bruce Nordstrom-Loeb"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -18904,7 +18876,7 @@
 				"TBA"
 			],
 			"profs": [
-				"Staff"
+				"Kathryn A. Hoffmann"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -18995,7 +18967,7 @@
 				"HH 319"
 			],
 			"profs": [
-				"Mary Carlsen"
+				"Shawyn Lee"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -19142,12 +19114,12 @@
 				"TOH 214"
 			],
 			"profs": [
-				"Staff"
+				"Courtney A. Humm"
 			],
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"M 0700-1000PM"
+				"Th 0700-1000PM"
 			],
 			"title": "Social Studies Perspectives",
 			"type": "Research",
@@ -19442,7 +19414,7 @@
 				"TOH 275"
 			],
 			"profs": [
-				"Jean R. Aguilar-Valdez"
+				"Elizabeth A. Leer"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -19472,7 +19444,7 @@
 				"TOH 275"
 			],
 			"profs": [
-				"Jean R. Aguilar-Valdez"
+				"Elizabeth A. Leer"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -20074,7 +20046,7 @@
 				"TOH 210"
 			],
 			"profs": [
-				"Staff"
+				"Kathryn A. Hoffmann"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -23586,7 +23558,7 @@
 				"ALS-L"
 			],
 			"level": 300,
-			"name": "Lit/Soc/Sp: Topics",
+			"name": "Top: A Meaningful Life",
 			"num": 313,
 			"pf": false,
 			"profs": [
@@ -24113,7 +24085,7 @@
 			"num": 199,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Megan J. Feeney"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -24123,6 +24095,37 @@
 				"Th 0215-0335PM"
 			],
 			"title": "American History Since 1865",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 97407,
+			"credits": 1.0,
+			"crsid": 17590,
+			"depts": [
+				"ASIAN"
+			],
+			"desc": "This course introduces students to the art form of brush-written Asian forms of calligraphy. Students explore the aesthetic concepts, the evolution of different styles, and the practical techniques of calligraphy. Class lectures complement hands-on practice in which students master the basic strokes, the structure and compositions, and the line movements that are involved in producing artistic calligraphy. No knowledge of an Asian language is required. All readings and visual demonstrations will be in English. Materials fee.",
+			"gereqs": [
+				"ALS-A",
+				"MCG"
+			],
+			"level": 200,
+			"name": "Asian Calligraphy",
+			"num": 268,
+			"pf": false,
+			"places": [
+				"HH 307"
+			],
+			"profs": [
+				"Keiko Nishioka"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"M 0700-1000PM"
+			],
+			"title": "The Art of Calligraphy: Techniques and Appreciation",
 			"type": "Research",
 			"year": 2014
 		},
@@ -24232,34 +24235,6 @@
 			],
 			"title": "Text and Performance",
 			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 97419,
-			"credits": 1.0,
-			"crsid": 27327,
-			"depts": [
-				"RACE"
-			],
-			"desc": "The course examines the historical and cultural context of public education in the United States and the role that race, class, and gender have played in framing the experience we call \"public education.\" Students explore the multicultural imperative that emerged from the school reform movements of the 1980s and 1990s. The initial work of James A. Banks and his five dimensions of multicultural education (content integration, the knowledge construction process, prejudice reduction, an equity pedagogy, and an empowering school culture and social structure) serve as the conceptual model for the course. Essential questions for the course include: To what extent has this movement transformed public school curricula and pedagogical practices? In what ways have multicultural education and critical pedagogy successfully addressed issues of inequity in public education? In society? What might a new model for the 21st century look like?",
-			"gereqs": [
-				"MCD"
-			],
-			"grouptype": "R",
-			"level": 200,
-			"name": "Top: Native Amer Imagery",
-			"num": 251,
-			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"MWF 0905-1000"
-			],
-			"title": "Top: Multiculturalism/Educ",
-			"type": "Seminar",
 			"year": 2014
 		},
 		{
@@ -25078,8 +25053,9 @@
 			"num": 264,
 			"pf": false,
 			"profs": [
-				"Bruce Nordstrom-Loeb"
+				"Marc David"
 			],
+			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -25428,6 +25404,9 @@
 			],
 			"sem": 3,
 			"term": 20143,
+			"times": [
+				"MWF 1150-1245PM"
+			],
 			"title": "History of World Architecture",
 			"type": "Research",
 			"year": 2014
@@ -25742,7 +25721,7 @@
 			"num": 115,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Maxamilian J. Wojtanowicz"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -25894,7 +25873,7 @@
 			"num": 253,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Erica J. Weekes"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -25903,6 +25882,111 @@
 				"Th 1245-0205PM"
 			],
 			"title": "Human Sexuality",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 98759,
+			"credits": 1.0,
+			"crsid": 1306,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "Students explore the continuing significance of color, class, and immigration in the U.S., with a focus on the experiences and concerns of African-Americans, Native Americans, Hispanics/Latinos, and Asian-Americans. The course examines the nature and functions of prejudice; the relationship among race, class and gender; the persistence of racism and inequality; and social policies and social movements intended to create greater social justice. Offered annually in the fall or spring semester. Counts towards American studies, race and ethnic studies, and Latin American studies majors; and race and ethnic studies, Africa and the Americas, and Latin American studies concentrations.",
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"level": 200,
+			"name": "Race/Class-Am Culture",
+			"num": 264,
+			"pf": false,
+			"profs": [
+				"Marc David"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 0200-0255PM"
+			],
+			"title": "Race and Class in American Culture",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 98761,
+			"credits": 0.25,
+			"crsid": 1011,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students learn and apply the basic principles of fitness through a variety of aerobic activities.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"num": 131,
+			"pf": false,
+			"places": [
+				"SAC Gym South"
+			],
+			"profs": [
+				"Philip Lundin"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"TTh 0800-0855"
+			],
+			"title": "Aerobics",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 98762,
+			"credits": 1.0,
+			"crsid": 940,
+			"depts": [
+				"NURS"
+			],
+			"desc": "This course examines how contemporary culture influences present-day wellness perspectives. Values, lifestyle, daily stresses, and corresponding coping mechanisms affecting one's well-being are explored. Students study health behaviors as a function of social influences and, conversely, the impact of unhealthy coping behaviors on the social enterprise. This course also includes an exploration of wellness from the perspective of non-western cultures. Offered annually during Interim, spring semester, or fall semester. Counts towards American studies major and media film studies concentration.",
+			"gereqs": [
+				"HBS"
+			],
+			"level": 100,
+			"num": 120,
+			"pf": false,
+			"profs": [
+				"Diana Neal"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"M 0700-1000PM"
+			],
+			"title": "Images of Wellness",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99137,
+			"credits": 1.0,
+			"crsid": 19730,
+			"depts": [
+				"EDUC"
+			],
+			"desc": "This course provides basic professional knowledge and skills needed for successful entry into the field of theatre education. Through readings, class discussions, and active participation in teaching situations (including microteaching), students become familiar with the theory and practice of teaching theatre K-12. Students learn about issues faced by the profession and how to manage a theatre production program. Required field experience component. Prerequisite: EDUC 330. Offered periodically in the spring semester.",
+			"level": 300,
+			"num": 367,
+			"pf": false,
+			"profs": [
+				"Howard Wilson"
+			],
+			"sem": 3,
+			"term": 20143,
+			"title": "Teaching of Theater, K-12",
 			"type": "Research",
 			"year": 2014
 		}
