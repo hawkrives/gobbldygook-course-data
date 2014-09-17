@@ -3037,7 +3037,7 @@
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: SPAN 112 or placement. Offered each semester and during Interim.",
 			"level": 200,
 			"name": "Intermed Spanish I",
-			"notes": "Open to all students who meet the prerequisites. This course has class year limits. Prerequisite: completion of Spanish placement test or preceding course.",
+			"notes": "Open to all students who meet the prerequisites. Prerequisite: completion of Spanish placement test or preceding course. This course has class-year limits.",
 			"num": 231,
 			"pf": false,
 			"places": [
@@ -3071,7 +3071,7 @@
 			],
 			"level": 200,
 			"name": "Intermed Spanish II",
-			"notes": "Open to all students who meet the prerequisites. This course has class year limits. Prerequisite: completion of Spanish placement test or preceding course.",
+			"notes": "Open to all students who meet the prerequisites. Prerequisite: completion of Spanish placement test or preceding course. This course has class-year limits.",
 			"num": 232,
 			"pf": false,
 			"places": [
@@ -3085,7 +3085,7 @@
 			"term": 20142,
 			"times": [
 				"M-F 0900-1000",
-				"M-F 1040-1240PM"
+				"M-F 0100-0300PM"
 			],
 			"title": "Intermediate Spanish II",
 			"type": "Research",
@@ -6081,7 +6081,7 @@
 			"groupid": 215,
 			"level": 300,
 			"name": "Organic Analys/Theory Lab",
-			"notes": "Lab hours arranged",
+			"notes": "Lab hours arranged.",
 			"num": 380,
 			"pf": false,
 			"profs": [
@@ -6290,7 +6290,7 @@
 				"HH 403"
 			],
 			"profs": [
-				"Staff"
+				"Kathryn R. Swanson"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -6897,6 +6897,9 @@
 			],
 			"sem": 2,
 			"term": 20142,
+			"times": [
+				"M-F 0100-0300PM"
+			],
 			"title": "Gateways to Economics: Transition Economies",
 			"type": "Research",
 			"year": 2014
@@ -7469,6 +7472,9 @@
 			],
 			"sem": 2,
 			"term": 20142,
+			"times": [
+				"M-F 1040-1240PM"
+			],
 			"title": "Gateways to Economics: Capitalism",
 			"type": "Research",
 			"year": 2014
@@ -7490,7 +7496,7 @@
 			"num": 170,
 			"pf": true,
 			"profs": [
-				"Jean R. Aguilar-Valdez"
+				"Maurella Cunningham"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -7664,30 +7670,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97188,
-			"credits": 1.0,
-			"crsid": 24139,
-			"depts": [
-				"PHIL"
-			],
-			"grouptype": "R",
-			"level": 0,
-			"name": "Placeholder Course",
-			"num": 1,
-			"pf": false,
-			"profs": [
-				"Kathryn R. Swanson"
-			],
-			"sem": 2,
-			"term": 20142,
-			"times": [
-				"M-F 0100-0300PM"
-			],
-			"title": "Placeholder Course",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 97189,
 			"credits": 1.0,
 			"crsid": 982,
@@ -7853,6 +7835,9 @@
 				"PSYCH"
 			],
 			"desc": "This course integrates on-campus classroom activities with service-learning placements in and around Northfield. Scholarly readings, classroom discussions, and assignments highlight the unique theoretical perspectives, skills, and methodological approaches that psychologists use to address social problems and community needs through research, practice, and policy. Students' on-site experiences and observations provide opportunities for the application of previous coursework as well as guided reflection and exploration of goals for personal and vocational development. Prerequisite: PSYCH 125. Offered periodically.",
+			"gereqs": [
+				"WRI"
+			],
 			"grouptype": "R",
 			"level": 200,
 			"name": "Community Applications",
@@ -8226,6 +8211,7 @@
 			"grouptype": "R",
 			"level": 100,
 			"name": "Health/Social Inequality",
+			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 			"num": 140,
 			"pf": false,
 			"profs": [
@@ -8421,7 +8407,7 @@
 				"CLASS"
 			],
 			"level": 0,
-			"name": "Placeholder Course",
+			"name": "Placeholder w/HWC",
 			"num": 0,
 			"pf": false,
 			"profs": [
@@ -8432,7 +8418,34 @@
 			"times": [
 				"M-F 1040-1240PM"
 			],
-			"title": "Placeholder Course",
+			"title": "Placeholder w/HWC",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 98760,
+			"credits": 1.0,
+			"crsid": 26500,
+			"depts": [
+				"ID"
+			],
+			"desc": "This course examines multicultural health concepts and health care systems from biological, social, psychological and practical points of view. Students examine critical global health issues, including globalization, emerging infectious diseases, women's health and economic development, food and nutrition, trends in global environmental health, chronic disease, cultural considerations, and health policy and advocacy. Students explore the course material through readings, films, case studies, debates, and expert guest speakers. Prerequisites: sophomore standing or above, and completion of at least one of the following courses: any level I biology course, ECON 121, ENVST 137, PSCI 117, PSCI 121, PSYCH 125, SOAN 121, SOAN 128. Offered occasionally in Interim.",
+			"gereqs": [
+				"IST"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"num": 256,
+			"pf": false,
+			"profs": [
+				"Sarah M. Sevcik"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 0800-1000"
+			],
+			"title": "Issues in Global Health",
 			"type": "Research",
 			"year": 2014
 		}
