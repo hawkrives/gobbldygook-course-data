@@ -14940,8 +14940,8 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 0450-0600PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
+	<meetingtimes>M 0450-0600PM&lt;br&gt;WF 0430-0600PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
@@ -16517,6 +16517,31 @@
 	<gereqs></gereqs>
 	<meetingtimes>MWF 1150-1245PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH112&apos;);"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000922</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099173</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>NORW</deptname>
+	<coursenumber>112</coursenumber>
+	<coursesection>E</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Beginning Norwegian II</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>MWF 1255-0150PM</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -19903,7 +19928,7 @@
 
 	<course>
 	<clbid>0000095668</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>121</coursenumber>
 	<coursesection>B</coursesection>
@@ -20302,25 +20327,25 @@
 
 
 	<course>
-	<clbid>0000097331</clbid>
+	<clbid>0000099170</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>REL</deptname>
-	<coursenumber>202</coursenumber>
-	<coursesection>A</coursesection>
+	<coursenumber>121</coursenumber>
+	<coursesection>R</coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>Classics and Moderns</coursename>
+	<coursename>Bible/Culture/Commun</coursename>
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23843&apos;)"&gt;Scopatz, Dana K.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;OM140&apos;);"&gt;OM 140&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;OM140&apos;);"&gt;OM 140&lt;/a&gt;</meetinglocations>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-B.pdf"&gt;BTS-B&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
-	<crsid>0000001193</crsid>
+	<crsid>0000001191</crsid>
 	</course>
 
 
@@ -20331,7 +20356,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>202</coursenumber>
-	<coursesection>B</coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Classics and Moderns</coursename>
 	<pn>N</pn>
@@ -20356,7 +20381,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>202</coursenumber>
-	<coursesection>C</coursesection>
+	<coursesection>B</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Classics and Moderns</coursename>
 	<pn>N</pn>
@@ -21203,7 +21228,7 @@
 
 	<course>
 	<clbid>0000095801</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SCICN</deptname>
 	<coursenumber>217</coursenumber>
 	<coursesection></coursesection>
@@ -23853,7 +23878,7 @@
 
 	<course>
 	<clbid>0000095860</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
 	<coursesection>I</coursesection>
