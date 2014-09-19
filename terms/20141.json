@@ -517,7 +517,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Peter B. Nelson"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -8879,8 +8879,8 @@
 			"num": 201,
 			"pf": false,
 			"places": [
-				"TOH 110",
-				"TOH 110"
+				"RNS 208",
+				"RNS 208"
 			],
 			"profs": [
 				"Anthony Pahnke"
@@ -13435,11 +13435,11 @@
 			],
 			"desc": "Independent Research",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Norw Aud/SLP Methods",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Margaret H. O'Leary"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -13687,11 +13687,11 @@
 			],
 			"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, neural networks, applications of genetic algorithms to scheduling, computational Bayesian image reconstruction, and design of software to assist choreographers.",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Therac 25 Research",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Charles Huff"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -13771,11 +13771,11 @@
 			],
 			"desc": "Independent Research",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/MCO Appeals and Race",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Ashley Hodgson"
 			],
 			"sect": "A",
 			"sem": 1,
@@ -13926,11 +13926,11 @@
 			],
 			"desc": "Independent Research",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Peru Fluorosis Study",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Mary Walczak"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -14083,11 +14083,11 @@
 			],
 			"desc": "Prerequisite: at least five previous courses in the department.",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Black Minstrelsy",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Gary C. Gisselman"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -14793,11 +14793,11 @@
 			],
 			"desc": "Independent Study",
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Anton Chekov",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Irina Walter"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -15427,7 +15427,7 @@
 			],
 			"desc": "Independent Study",
 			"level": 200,
-			"name": "IS/Early Nasrani History",
+			"name": "IS/Dalit Theology",
 			"num": 298,
 			"pf": false,
 			"profs": [
@@ -19689,8 +19689,8 @@
 			"num": 110,
 			"pf": false,
 			"places": [
-				"BMC 012",
-				"BMC 012"
+				"HH 317",
+				"HH 317"
 			],
 			"profs": [
 				"Marc David"
@@ -28022,12 +28022,15 @@
 				"PSYCH"
 			],
 			"desc": "Students have the opportunity to work in depth on a research project of interest under the supervision of a member of the psychology department faculty. Prerequisite: STAT 110, STAT 212, STAT 214 or ECON 263; PSYCH 230; four additional courses in the department; and permission of instructor. PSYCH 298 is strongly recommended. Offered each semester. Depending on course topic, may count toward the neuroscience concentration",
+			"gereqs": [
+				"WRI"
+			],
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Meta-Analys:MMPI-2-RF",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Carlo O. Veltri"
 			],
 			"sect": "E",
 			"sem": 1,
@@ -28073,6 +28076,201 @@
 				"Darrell Jodock"
 			],
 			"sect": "B",
+			"sem": 1,
+			"term": 20141,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99138,
+			"credits": 1.0,
+			"crsid": 920,
+			"depts": [
+				"NEURO"
+			],
+			"level": 300,
+			"name": "IR/Neural Mech Caff Etoh",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sect": "B",
+			"sem": 1,
+			"term": 20141,
+			"title": "IR/Neural Mech Caff Etoh",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99139,
+			"credits": 0.5,
+			"crsid": 361,
+			"depts": [
+				"DANCE"
+			],
+			"desc": "This course deepens and expands the body awareness focus of Dance 201, emphasizing the somatic perspective in which it is grounded. The somatic disciplines of Body-Mind Centering, Bartenieff Fundamentals, Ideokinesis, and Experimental Anatomy provide the theoretical foundation of this course. It includes exploration of the \"attention-intention-action cycle\" as life practice. Prerequisites: DANCE 201 and DANCE 212 or DANCE 213. Offered alternate years in the spring semester.",
+			"level": 300,
+			"name": "Advanced Body Moveable",
+			"num": 301,
+			"pf": false,
+			"profs": [
+				"Sheryl Saterstrom"
+			],
+			"sem": 1,
+			"term": 20141,
+			"title": "Advanced Body Movable",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99159,
+			"credits": 1.0,
+			"crsid": 920,
+			"depts": [
+				"NEURO"
+			],
+			"gereqs": [
+				"WRI"
+			],
+			"level": 300,
+			"name": "IR/Pinnal Aug/Sound Local",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Jeremy Loebach"
+			],
+			"sect": "C",
+			"sem": 1,
+			"term": 20141,
+			"title": "IR/Pinnal Aug/Sound Local",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99160,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Peter B. Nelson"
+			],
+			"sect": "A",
+			"sem": 1,
+			"term": 20141,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99167,
+			"credits": 1.0,
+			"crsid": 707,
+			"depts": [
+				"ID"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Peter B. Nelson"
+			],
+			"sect": "A",
+			"sem": 1,
+			"term": 20141,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99168,
+			"credits": 1.0,
+			"crsid": 1179,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "This opportunity to investigate in depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for PSYCH 398. Prerequisite: PSYCH 125, at least three courses in the department, and permission of instructor; PSYCH 230 is strongly recommended. Offered each semester.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "IS/Forensic Assessment",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Carlo O. Veltri"
+			],
+			"sect": "C",
+			"sem": 1,
+			"term": 20141,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99169,
+			"credits": 0.5,
+			"crsid": 96,
+			"depts": [
+				"ASIAN"
+			],
+			"level": 300,
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Karil J. Kucera"
+			],
+			"sem": 1,
+			"term": 20141,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99171,
+			"credits": 0.25,
+			"crsid": 284,
+			"depts": [
+				"ECON"
+			],
+			"desc": "Academic Internship.",
+			"level": 300,
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Xun Pomponio"
+			],
+			"sect": "A",
+			"sem": 1,
+			"term": 20141,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99172,
+			"credits": 1.0,
+			"crsid": 1190,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Students have the opportunity to work in depth on a research project of interest under the supervision of a member of the psychology department faculty. Prerequisite: STAT 110, STAT 212, STAT 214 or ECON 263; PSYCH 230; four additional courses in the department; and permission of instructor. PSYCH 298 is strongly recommended. Offered each semester. Depending on course topic, may count toward the neuroscience concentration",
+			"level": 300,
+			"name": "IR/Spatial Navigation",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Gary M. Muir"
+			],
+			"sect": "F",
 			"sem": 1,
 			"term": 20141,
 			"title": "Independent Research",

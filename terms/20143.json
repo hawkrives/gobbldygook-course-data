@@ -23169,38 +23169,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97331,
-			"credits": 1.0,
-			"crsid": 1193,
-			"depts": [
-				"REL"
-			],
-			"desc": "This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Prerequisite: BTS-B.",
-			"gereqs": [
-				"BTS-T"
-			],
-			"level": 200,
-			"num": 202,
-			"pf": false,
-			"places": [
-				"OM 140",
-				"OM 140"
-			],
-			"profs": [
-				"Dana K. Scopatz"
-			],
-			"sect": "A",
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"T 0800-0925",
-				"Th 0800-0920"
-			],
-			"title": "Classics and Moderns",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 97332,
 			"credits": 1.0,
 			"crsid": 1193,
@@ -23222,7 +23190,7 @@
 			"profs": [
 				"Charles Wilson"
 			],
-			"sect": "B",
+			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -24693,6 +24661,7 @@
 			"num": 111,
 			"pf": true,
 			"places": [
+				"CHM 138",
 				"CHM 138"
 			],
 			"profs": [
@@ -24701,7 +24670,8 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"MWF 0450-0600PM"
+				"M 0450-0600PM",
+				"WF 0430-0600PM"
 			],
 			"title": "Norseman Band",
 			"type": "Ensemble",
@@ -25638,7 +25608,7 @@
 			"profs": [
 				"Charles Wilson"
 			],
-			"sect": "C",
+			"sect": "B",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -25987,6 +25957,59 @@
 			"sem": 3,
 			"term": 20143,
 			"title": "Teaching of Theater, K-12",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99170,
+			"credits": 1.0,
+			"crsid": 1191,
+			"depts": [
+				"REL"
+			],
+			"desc": "http:/www.stolaf.edu/registrar/rel This course introduces first-year students to the dialogue between Biblical traditions and the cultures and communities related to them. Students study major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section.",
+			"gereqs": [
+				"BTS-B"
+			],
+			"level": 100,
+			"name": "Bible/Culture/Commun",
+			"num": 121,
+			"pf": false,
+			"profs": [
+				"Dana K. Scopatz"
+			],
+			"sect": "R",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			],
+			"title": "Bible in Culture and Community",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99173,
+			"credits": 1.0,
+			"crsid": 922,
+			"depts": [
+				"NORW"
+			],
+			"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: NORW 111 or equivalent. Offered annually in the spring semester.",
+			"level": 100,
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sect": "E",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1255-0150PM"
+			],
+			"title": "Beginning Norwegian II",
 			"type": "Research",
 			"year": 2014
 		}
