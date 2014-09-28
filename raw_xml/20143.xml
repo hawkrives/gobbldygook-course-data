@@ -1377,6 +1377,31 @@
 
 
 	<course>
+	<clbid>0000099228</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ASIAN</deptname>
+	<coursenumber>237</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>F</coursesubtype>
+	<coursename>FLC - Chinese</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;25327&apos;)"&gt;Shih, Hsiang-Lin&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.25</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000028979</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000097407</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ASIAN</deptname>
@@ -3285,7 +3310,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26273&apos;)"&gt;Everson, Daniel A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3310,7 +3335,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8868&apos;)"&gt;Walczak, Mary&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3335,7 +3360,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26281&apos;)"&gt;Anquandah, George K.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3360,7 +3385,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26296&apos;)"&gt;Samuels, William&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3381,11 +3406,11 @@
 	<coursestatus>O</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>126</coursenumber>
-	<coursesection>F</coursesection>
+	<coursesection>E</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, HL, or IL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26296&apos;)"&gt;Samuels, William&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -4911,7 +4936,7 @@
 	<coursename>Software Design</coursename>
 	<pn>N</pn>
 	<notes>This course has class-year limits.&lt;br&gt;Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;97&apos;)"&gt;Allen, Richard&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;806&apos;)"&gt;Brown, Richard&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -4936,7 +4961,7 @@
 	<coursename>Software Design</coursename>
 	<pn>N</pn>
 	<notes>This course has class-year limits.&lt;br&gt;Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;806&apos;)"&gt;Brown, Richard&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;97&apos;)"&gt;Allen, Richard&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -4965,7 +4990,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
-	<meetingtimes>W 0300-0500PM</meetingtimes>
+	<meetingtimes>Th 0900-1100</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS202&apos;);"&gt;RNS 202&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000292</groupid>
@@ -5015,7 +5040,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
-	<meetingtimes>W 0300-0500PM</meetingtimes>
+	<meetingtimes>Th 1245-0245PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000292</groupid>
@@ -5202,31 +5227,6 @@
 
 
 	<course>
-	<clbid>0000097533</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>DANCE</deptname>
-	<coursenumber>001</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Placeholder Course</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype>R</grouptype>
-	<crsid>0000028000</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000097304</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>DANCE</deptname>
@@ -5390,8 +5390,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>TTh 0800-1100</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;</meetinglocations>
+	<meetingtimes>T 0800-1100&lt;br&gt;Th 0800-1050</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -7327,6 +7327,31 @@
 
 
 	<course>
+	<clbid>0000099227</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ENGL</deptname>
+	<coursenumber>200</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>T</coursesubtype>
+	<coursename>Top: Arab American Lit</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26249&apos;)"&gt;Mokdad, Linda&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0800-0855</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000021526</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000097309</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ENGL</deptname>
@@ -7746,31 +7771,6 @@
 	<groupid></groupid>
 	<grouptype></grouptype>
 	<crsid>0000000434</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000097356</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ENGL</deptname>
-	<coursenumber>2XX</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Placeholder with ALS-L</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26249&apos;)"&gt;Mokdad, Linda&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0800-0855</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype>R</grouptype>
-	<crsid>0000021538</crsid>
 	</course>
 
 
@@ -9460,7 +9460,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Prev/Care Sport Injur</coursename>
 	<pn>N</pn>
-	<notes>Students in ESTH 255 must also register for one lab ESTH 255 AL or BL.</notes>
+	<notes>Students in ESTH 255 must also register for one lab ESTH 255 AL, BL, or CL.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2890&apos;)"&gt;Hagen, Daniel&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -9471,31 +9471,6 @@
 	<groupid>0000001051</groupid>
 	<grouptype></grouptype>
 	<crsid>0000001051</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000097584</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ESTH</deptname>
-	<coursenumber>255</coursenumber>
-	<coursesection>C</coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Prev/Care Sport Injur Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2890&apos;)"&gt;Hagen, Daniel&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>W 1045-1140</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001052</crsid>
 	</course>
 
 
@@ -9542,6 +9517,31 @@
 	<gereqs></gereqs>
 	<meetingtimes>W 1255-0150PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SACTrRm&apos;);"&gt;SAC Tr Rm&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid>0000001051</groupid>
+	<grouptype></grouptype>
+	<crsid>0000001052</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000097584</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ESTH</deptname>
+	<coursenumber>255</coursenumber>
+	<coursesection>C</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Prev/Care Sport Injur Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2890&apos;)"&gt;Hagen, Daniel&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>W 1045-1140</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000001051</groupid>
 	<grouptype></grouptype>
@@ -9660,7 +9660,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Physiology/Exercise</coursename>
 	<pn>N</pn>
-	<notes>Students in ESTH 375 must also register for lab ESTH 375 L.&lt;br&gt;Open to Juniors and Seniors only.</notes>
+	<notes>Students in ESTH 375 must also register for one lab ESTH 375 AL or BL.&lt;br&gt;Open to Juniors and Seniors only.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1358&apos;)"&gt;Daymont, Christine&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -9671,31 +9671,6 @@
 	<groupid>0000001064</groupid>
 	<grouptype></grouptype>
 	<crsid>0000001064</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000099193</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ESTH</deptname>
-	<coursenumber>375</coursenumber>
-	<coursesection>B</coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Physiology/Exercise Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>Th 0800-1100</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001065</crsid>
 	</course>
 
 
@@ -9717,6 +9692,31 @@
 	<gereqs></gereqs>
 	<meetingtimes>T 0800-1100</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC103&apos;);"&gt;SAC 103&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid>0000001064</groupid>
+	<grouptype></grouptype>
+	<crsid>0000001065</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099193</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ESTH</deptname>
+	<coursenumber>375</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Physiology/Exercise Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>Th 0800-1050</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000001064</groupid>
 	<grouptype></grouptype>
@@ -11260,7 +11260,7 @@
 	<coursesubtype>T</coursesubtype>
 	<coursename>Top:Being Green, Am Envir</coursename>
 	<pn>N</pn>
-	<notes>HWC pending committee approval.</notes>
+	<notes>HWC pending committee approval.&lt;br&gt;Open to first-year students only.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26299&apos;)"&gt;Jundt, Thomas&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -12852,31 +12852,6 @@
 
 
 	<course>
-	<clbid>0000099194</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>JAPAN</deptname>
-	<coursenumber>232</coursenumber>
-	<coursesection>B</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Intermed Japanese II</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21197&apos;)"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-J&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0200-0255PM</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000664</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000095987</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>JAPAN</deptname>
@@ -12902,25 +12877,25 @@
 
 
 	<course>
-	<clbid>0000099195</clbid>
+	<clbid>0000099194</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>JAPAN</deptname>
 	<coursenumber>232</coursenumber>
 	<coursesection>B</coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Intermed Japanese II Lab</coursename>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Intermed Japanese II</coursename>
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21197&apos;)"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>T 1040-1135</meetingtimes>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-J&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
-	<groupid></groupid>
+	<groupid>0000000664</groupid>
 	<grouptype></grouptype>
-	<crsid>0000000665</crsid>
+	<crsid>0000000664</crsid>
 	</course>
 
 
@@ -12942,6 +12917,31 @@
 	<gereqs></gereqs>
 	<meetingtimes>T 0935-1030</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH175&apos;);"&gt;TOH 175&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid>0000000664</groupid>
+	<grouptype></grouptype>
+	<crsid>0000000665</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099195</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>JAPAN</deptname>
+	<coursenumber>232</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Intermed Japanese II Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21197&apos;)"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>T 1040-1135</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000664</groupid>
 	<grouptype></grouptype>
@@ -14365,7 +14365,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>M 0700-1000PM</meetingtimes>
+	<meetingtimes>M 0700-0830PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -15015,8 +15015,8 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>WF 0430-0600PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
+	<meetingtimes>M 0450-0600PM&lt;br&gt;WF 0430-0600PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
@@ -22010,7 +22010,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish I</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Prerequisite: completion of Spanish placement test or preceding course.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14153&apos;)"&gt;Cropsey, Kris A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>

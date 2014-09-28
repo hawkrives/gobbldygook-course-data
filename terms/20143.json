@@ -5456,7 +5456,7 @@
 			"groupid": 194,
 			"level": 100,
 			"name": "Chemical Reactions",
-			"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, or HL.",
+			"notes": "Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab",
 			"num": 126,
 			"pf": false,
 			"places": [
@@ -5489,7 +5489,7 @@
 			"groupid": 194,
 			"level": 100,
 			"name": "Chemical Reactions",
-			"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, or HL.",
+			"notes": "Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab",
 			"num": 126,
 			"pf": false,
 			"places": [
@@ -5524,7 +5524,7 @@
 			"groupid": 194,
 			"level": 100,
 			"name": "Chemical Reactions",
-			"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, or HL.",
+			"notes": "Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab",
 			"num": 126,
 			"pf": false,
 			"places": [
@@ -5557,7 +5557,7 @@
 			"groupid": 194,
 			"level": 100,
 			"name": "Chemical Reactions",
-			"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, or HL.",
+			"notes": "Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab",
 			"num": 126,
 			"pf": false,
 			"places": [
@@ -5590,7 +5590,7 @@
 			"groupid": 194,
 			"level": 100,
 			"name": "Chemical Reactions",
-			"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, HL, or IL.",
+			"notes": "Students in Chem 126A, B, C, D, or E must also register for one Chem 126 lab.",
 			"num": 126,
 			"pf": false,
 			"places": [
@@ -5599,7 +5599,7 @@
 			"profs": [
 				"William Samuels"
 			],
-			"sect": "F",
+			"sect": "E",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -15987,7 +15987,7 @@
 			"groupid": 1064,
 			"level": 300,
 			"name": "Physiology/Exercise",
-			"notes": "Students in ESTH 375 must also register for lab ESTH 375 L. Open to Juniors and Seniors only.",
+			"notes": "Students in ESTH 375 must also register for one lab ESTH 375 AL or BL. Open to Juniors and Seniors only.",
 			"num": 375,
 			"pf": false,
 			"places": [
@@ -16272,7 +16272,7 @@
 			"groupid": 1051,
 			"level": 200,
 			"name": "Prev/Care Sport Injur",
-			"notes": "Students in ESTH 255 must also register for one lab ESTH 255 AL or BL.",
+			"notes": "Students in ESTH 255 must also register for one lab ESTH 255 AL, BL, or CL.",
 			"num": 255,
 			"pf": false,
 			"places": [
@@ -19027,7 +19027,7 @@
 				"RNS 203"
 			],
 			"profs": [
-				"Richard Allen"
+				"Richard Brown"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -19062,7 +19062,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"W 0300-0500PM"
+				"Th 0900-1100"
 			],
 			"title": "Software Design and Implementation Lab",
 			"type": "Lab",
@@ -22145,7 +22145,7 @@
 			"num": 251,
 			"pf": false,
 			"profs": [
-				"Richard Brown"
+				"Richard Allen"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -22177,7 +22177,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"W 0300-0500PM"
+				"Th 1245-0245PM"
 			],
 			"title": "Software Design and Implementation Lab",
 			"type": "Lab",
@@ -22228,6 +22228,7 @@
 			"num": 150,
 			"pf": false,
 			"places": [
+				"DC 100",
 				"DC 100"
 			],
 			"profs": [
@@ -22236,7 +22237,8 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"TTh 0800-1100"
+				"T 0800-1100",
+				"Th 0800-1050"
 			],
 			"title": "Movement, the Camera, and the Creative Process",
 			"type": "Research",
@@ -23226,33 +23228,6 @@
 				"Th 1245-0205PM"
 			],
 			"title": "Buddhism, Peace and Justice",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 97356,
-			"credits": 1.0,
-			"crsid": 21538,
-			"depts": [
-				"ENGL"
-			],
-			"gereqs": [
-				"ALS-L"
-			],
-			"grouptype": "R",
-			"level": 200,
-			"name": "Placeholder with ALS-L",
-			"num": "2XX",
-			"pf": false,
-			"profs": [
-				"Linda Mokdad"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"MWF 0800-0855"
-			],
-			"title": "Placeholder with ALS-L",
 			"type": "Research",
 			"year": 2014
 		},
@@ -24295,6 +24270,7 @@
 			"num": 111,
 			"pf": true,
 			"places": [
+				"CHM 138",
 				"CHM 138"
 			],
 			"profs": [
@@ -24303,6 +24279,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
+				"M 0450-0600PM",
 				"WF 0430-0600PM"
 			],
 			"title": "Norseman Band",
@@ -24668,30 +24645,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97533,
-			"credits": 1.0,
-			"crsid": 28000,
-			"depts": [
-				"DANCE"
-			],
-			"grouptype": "R",
-			"level": 0,
-			"name": "Placeholder Course",
-			"num": 1,
-			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"MWF 1045-1140"
-			],
-			"title": "Placeholder Course",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 97534,
 			"credits": 1.0,
 			"crsid": 262,
@@ -25001,6 +24954,7 @@
 			"depts": [
 				"ESTH"
 			],
+			"groupid": 1051,
 			"level": 200,
 			"name": "Prev/Care Sport Injur Lab",
 			"num": 255,
@@ -25332,7 +25286,7 @@
 			],
 			"level": 100,
 			"name": "Top:Being Green, Am Envir",
-			"notes": "HWC pending committee approval.",
+			"notes": "HWC pending committee approval. Open to first-year students only.",
 			"num": 188,
 			"pf": false,
 			"profs": [
@@ -25422,7 +25376,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"M 0700-1000PM"
+				"M 0700-0830PM"
 			],
 			"title": "Internship/Reflection Seminar",
 			"type": "Research",
@@ -25756,6 +25710,7 @@
 			"depts": [
 				"ESTH"
 			],
+			"groupid": 1064,
 			"level": 300,
 			"name": "Physiology/Exercise Lab",
 			"num": 375,
@@ -25767,7 +25722,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"Th 0800-1100"
+				"Th 0800-1050"
 			],
 			"title": "Physiology/Exercise Lab",
 			"type": "Lab",
@@ -25784,6 +25739,7 @@
 			"gereqs": [
 				"FOL-J"
 			],
+			"groupid": 664,
 			"level": 200,
 			"name": "Intermed Japanese II",
 			"num": 232,
@@ -25808,6 +25764,7 @@
 			"depts": [
 				"JAPAN"
 			],
+			"groupid": 664,
 			"level": 200,
 			"name": "Intermed Japanese II Lab",
 			"num": 232,
@@ -25909,6 +25866,7 @@
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: SPAN 112 or placement. Offered each semester and during Interim.",
 			"level": 200,
 			"name": "Intermed Spanish I",
+			"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 			"num": 231,
 			"pf": false,
 			"places": [
@@ -26159,6 +26117,55 @@
 			],
 			"title": "Mahler to Madonna",
 			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99227,
+			"credits": 1.0,
+			"crsid": 21526,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Focusing on global literatures in English and/or multicultural literatures within a single nation, this topics course examines literature as a human expression that embraces both commonality and difference within and across cultures. This course also employs critical approaches specifically designed to address cross-cultural literary issues. It may be repeated if topics are different. Prerequisite: FYW. Click on course title in the class and lab for more information about the course for that term.",
+			"gereqs": [
+				"ALS-L"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Top: Arab American Lit",
+			"num": 200,
+			"pf": false,
+			"profs": [
+				"Linda Mokdad"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 0800-0855"
+			],
+			"title": "Topics in Cross-Cultural Literature",
+			"type": "Topic",
+			"year": 2014
+		},
+		{
+			"clbid": 99228,
+			"credits": 0.25,
+			"crsid": 28979,
+			"depts": [
+				"ASIAN"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "FLC - Chinese",
+			"num": 237,
+			"pf": false,
+			"profs": [
+				"Hsiang-Lin Shih"
+			],
+			"sem": 3,
+			"term": 20143,
+			"title": "FLC - Chinese",
+			"type": "FLAC",
 			"year": 2014
 		}
 	]
