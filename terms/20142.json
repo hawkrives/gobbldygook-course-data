@@ -2578,8 +2578,8 @@
 			"sem": 2,
 			"term": 20142,
 			"times": [
-				"M-F 0800-1000",
-				"M-F 0100-0330PM"
+				"M-F 1030-1200PM",
+				"M-F 0100-0500PM"
 			],
 			"title": "Engineering Design Practicum",
 			"type": "Research",
@@ -2653,8 +2653,8 @@
 			"term": 20142,
 			"times": [
 				"M-F 0900-1000",
-				"M-F 1040-1240PM",
-				"M-F 0100-0300PM"
+				"M-F 0100-0300PM",
+				"M-F 1040-1200PM"
 			],
 			"title": "Foundation New Media",
 			"type": "Research",
@@ -2843,7 +2843,7 @@
 				"WRI"
 			],
 			"level": 100,
-			"notes": "Open only to first-year students.",
+			"notes": "This course has class year limits.",
 			"num": 120,
 			"pf": false,
 			"places": [
@@ -5863,7 +5863,7 @@
 			],
 			"desc": "Psychopaths, blazing a path of disregard and devastation through life, are a chilling example of the darker side of humanity. Students critically compare psychopathy as protrayed in the popular media to psychology's theoretical and empirical understanding. They explore questions such as: What are the hallmark characteristics of a psychopath? Where can psychopaths be found? What causes psychopathy? Students also examine the question of what the existence of psychopathy means for the rest of us. Prerequisite: PSYCH 125. Offered during Interim.",
 			"level": 200,
-			"notes": "Open to first-year students who meet the prerequisite.",
+			"notes": "Open to first-years and sophomores only. There are class year limits.",
 			"num": 221,
 			"pf": false,
 			"profs": [
@@ -6768,7 +6768,6 @@
 			"num": 391,
 			"pf": false,
 			"places": [
-				"RNS 290",
 				"RNS 290"
 			],
 			"profs": [
@@ -6778,41 +6777,9 @@
 			"sem": 2,
 			"term": 20142,
 			"times": [
-				"M-Th 1040-1200PM",
-				"M-Th 0100-0300PM"
+				"M-F 1040-1240PM"
 			],
 			"title": "Selected Topics",
-			"type": "Topic",
-			"year": 2014
-		},
-		{
-			"clbid": 95448,
-			"credits": 1.0,
-			"crsid": 19734,
-			"depts": [
-				"NORW"
-			],
-			"desc": "Recently there has been an explosion in Nordic literature translated into English, providing unprecedented access to contemporary literary texts produced in Norway, Sweden, Denmark, Finland, and Iceland. In this course students read and analyze contemporary Nordic literary texts and examine those societies through a literary perspective. Sample topics: \"Murder Nordic Style: Contemporary Crime Fiction\" and \"Gender and Nordic Society.\" Taught in English. Offered most years.",
-			"gereqs": [
-				"ALS-L"
-			],
-			"level": 200,
-			"name": "Top: Nordic Crime Fiction",
-			"notes": "Open to first-year students.",
-			"num": 224,
-			"pf": false,
-			"places": [
-				"TOH 312"
-			],
-			"profs": [
-				"Margaret H. O'Leary"
-			],
-			"sem": 2,
-			"term": 20142,
-			"times": [
-				"M-F 0100-0300PM"
-			],
-			"title": "Topics in Contemporary Nordic Literature: A Window on Society",
 			"type": "Topic",
 			"year": 2014
 		},
@@ -7597,11 +7564,11 @@
 			],
 			"desc": "EnvSt 281 Soil to Plate (ARTHUM) \u0096 Mark Allister In this course students study food and the local foods movement from soil to plate. Study takes place in and out of the classroom: students read the agricultural bill and Michael Pollan; watch documentaries about our national food issues and visit local farms; work with and on local farms to see how they do their business; and, as often as possible, cook and eat. Fine chefs welcome. Those who aren't will get some cooking lessons.",
 			"level": 200,
-			"name": "Top: Environm Humanities",
+			"name": "Top:Hist Energy U.S.&Wrld",
 			"num": 281,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Thomas Jundt"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -7868,6 +7835,7 @@
 				"BTS-T"
 			],
 			"level": 200,
+			"notes": "BTS-B required. Closed to first year students.",
 			"num": 213,
 			"pf": false,
 			"profs": [
@@ -8159,6 +8127,7 @@
 			],
 			"level": 200,
 			"name": "St. Paul/Letter/Gospel",
+			"notes": "BTS-B required. Closed to first year students.",
 			"num": 223,
 			"pf": false,
 			"profs": [
@@ -8224,56 +8193,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97531,
-			"credits": 1.0,
-			"crsid": 27999,
-			"depts": [
-				"NURS"
-			],
-			"grouptype": "R",
-			"level": 0,
-			"name": "Placeholder Course",
-			"num": 1,
-			"pf": false,
-			"profs": [
-				"Nicole B. Beckmann"
-			],
-			"sect": "A",
-			"sem": 2,
-			"term": 20142,
-			"times": [
-				"MWF 1040-0300PM"
-			],
-			"title": "Placeholder Course",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 97532,
-			"credits": 1.0,
-			"crsid": 27999,
-			"depts": [
-				"NURS"
-			],
-			"grouptype": "R",
-			"level": 0,
-			"name": "Placeholder Course",
-			"num": 1,
-			"pf": false,
-			"profs": [
-				"Susan L. Huehn"
-			],
-			"sect": "B",
-			"sem": 2,
-			"term": 20142,
-			"times": [
-				"MWF 1040-0300PM"
-			],
-			"title": "Placeholder Course",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 97546,
 			"credits": 1.0,
 			"crsid": 172,
@@ -8311,6 +8230,7 @@
 				"BTS-T"
 			],
 			"level": 200,
+			"notes": "BTS-B required. Closed to first year students.",
 			"num": 230,
 			"pf": false,
 			"profs": [
@@ -8364,6 +8284,9 @@
 			"level": 200,
 			"num": 236,
 			"pf": false,
+			"places": [
+				"DC 100"
+			],
 			"profs": [
 				"Staff"
 			],
@@ -8372,7 +8295,7 @@
 			"times": [
 				"M-F 0900-1000",
 				"M-F 1000-1200PM",
-				"M-F 0100-0300PM"
+				"M-F 0100-0330PM"
 			],
 			"title": "Graphic Design",
 			"type": "Research",
@@ -8390,35 +8313,20 @@
 			"name": "Sculpt: Metal Casting",
 			"num": 223,
 			"pf": false,
+			"places": [
+				"DC 105"
+			],
 			"profs": [
 				"Irve Dell"
 			],
 			"sem": 2,
 			"term": 20142,
-			"title": "Sculpture/Metal Casting",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 97827,
-			"credits": 1.0,
-			"crsid": 22013,
-			"depts": [
-				"CLASS"
-			],
-			"level": 0,
-			"name": "Placeholder w/HWC",
-			"num": 0,
-			"pf": false,
-			"profs": [
-				"Lisa Whitlatch"
-			],
-			"sem": 2,
-			"term": 20142,
 			"times": [
-				"M-F 1040-1240PM"
+				"M-F 0900-1000",
+				"M-F 1040-1200PM",
+				"M-F 0100-0300PM"
 			],
-			"title": "Placeholder w/HWC",
+			"title": "Sculpture/Metal Casting",
 			"type": "Research",
 			"year": 2014
 		},
@@ -8446,6 +8354,160 @@
 				"M-F 0800-1000"
 			],
 			"title": "Issues in Global Health",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99176,
+			"credits": 1.0,
+			"crsid": 19404,
+			"depts": [
+				"HIST"
+			],
+			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course.",
+			"level": 300,
+			"name": "Res: Creating So. History",
+			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
+			"num": 396,
+			"pf": false,
+			"profs": [
+				"Michael Fitzgerald"
+			],
+			"sem": 2,
+			"term": 20142,
+			"title": "Directed Undergraduate Research: \"Topic Description\"",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99205,
+			"credits": 1.0,
+			"crsid": 28963,
+			"depts": [
+				"BIO"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Top: Wiring the Brain",
+			"notes": "Course pending faculty approval. This course has some field trips.",
+			"num": 292,
+			"pf": false,
+			"profs": [
+				"Nicole Son"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-Th 1040-1240PM",
+				"M-Th 0100-0200PM"
+			],
+			"title": "Top: Wiring the Brain",
+			"type": "Topic",
+			"year": 2014
+		},
+		{
+			"clbid": 99206,
+			"credits": 1.0,
+			"crsid": 28964,
+			"depts": [
+				"CLASS"
+			],
+			"gereqs": [
+				"HWC"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"name": "The Roman Animal",
+			"notes": "Course and GE pending faculty approval.",
+			"num": 123,
+			"pf": false,
+			"profs": [
+				"Lisa Whitlatch"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 1040-1240PM"
+			],
+			"title": "The Roman Animal",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99207,
+			"credits": 1.0,
+			"crsid": 1294,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "How do anthropologists study other cultures? Peoples around the world create different realities through the ways they conceptualize experience (cultures) and how they organize themselves to do what they need to do (societies). Anthropologists describe and compare cultures and societies, focusing on different aspects such as family and kinship, inequality and power, religion and values, economy and technology, cultural and social change. This course is open to first-year students or students in certain accredited programs. Offered each semester. Counts toward race and ethnic studies and women's and gender studies majors; and Africa and the Americas, race and ethnic studies, and women's and gender studies concentrations.",
+			"gereqs": [
+				"HBS",
+				"MCG"
+			],
+			"level": 100,
+			"name": "Int/Cult Anthropology",
+			"num": 128,
+			"pf": false,
+			"profs": [
+				"Marc David"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 1040-1240PM"
+			],
+			"title": "Introduction to Cultural Anthropology",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99214,
+			"credits": 1.0,
+			"crsid": 28970,
+			"depts": [
+				"ID"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"name": "Exploration in Healthcare",
+			"num": 110,
+			"pf": false,
+			"profs": [
+				"Nicole B. Beckmann"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 1040-0300PM"
+			],
+			"title": "Exploration in Healthcare",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99215,
+			"credits": 1.0,
+			"crsid": 28970,
+			"depts": [
+				"ID"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"name": "Exploration in Healthcare",
+			"num": 110,
+			"pf": false,
+			"profs": [
+				"Susan L. Huehn"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 1040-0300PM"
+			],
+			"title": "Exploration in Healthcare",
 			"type": "Research",
 			"year": 2014
 		}

@@ -303,7 +303,7 @@
 
 	<course>
 	<clbid>0000095803</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AMCON</deptname>
 	<coursenumber>102</coursenumber>
 	<coursesection>A</coursesection>
@@ -328,7 +328,7 @@
 
 	<course>
 	<clbid>0000095804</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AMCON</deptname>
 	<coursenumber>102</coursenumber>
 	<coursesection>B</coursesection>
@@ -1227,7 +1227,7 @@
 
 
 	<course>
-	<clbid>0000096983</clbid>
+	<clbid>0000099203</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>AS/PS</deptname>
 	<coursenumber>250</coursenumber>
@@ -1244,7 +1244,7 @@
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH102&apos;);"&gt;TOH 102&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH102&apos;);"&gt;TOH 102&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
-	<grouptype>R</grouptype>
+	<grouptype></grouptype>
 	<crsid>0000022776</crsid>
 	</course>
 
@@ -1352,25 +1352,25 @@
 
 
 	<course>
-	<clbid>0000096982</clbid>
+	<clbid>0000099190</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ASIAN</deptname>
-	<coursenumber>236</coursenumber>
+	<coursenumber>237</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>Chinese Lit-Tr</coursename>
+	<coursename>Modern Chinese Lit &amp;amp; Soc</coursename>
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;25327&apos;)"&gt;Shih, Hsiang-Lin&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH102&apos;);"&gt;TOH 102&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH102&apos;);"&gt;TOH 102&lt;/a&gt;</meetinglocations>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
-	<crsid>0000000088</crsid>
+	<crsid>0000019727</crsid>
 	</course>
 
 
@@ -2315,8 +2315,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 1150-1245PM</meetingtimes>
-	<meetinglocations></meetinglocations>
+	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS150&apos;);"&gt;RNS 150&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS150&apos;);"&gt;RNS 150&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000126</groupid>
 	<grouptype></grouptype>
@@ -2390,7 +2390,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>T 0120-0420PM</meetingtimes>
+	<meetingtimes>T 0200-0500PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS254&apos;);"&gt;RNS 254&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000126</groupid>
@@ -2683,15 +2683,15 @@
 	<coursenumber>291</coursenumber>
 	<coursesection>C</coursesection>
 	<coursesubtype>T</coursesubtype>
-	<coursename>Top: Cell Biol</coursename>
+	<coursename>Top: Basis of Disease</coursename>
 	<pn>N</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21061&apos;)"&gt;Listenberger, Laura&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
+	<meetingtimes>M 0200-0400PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS316&apos;);"&gt;RNS 316&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -2960,7 +2960,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Research:</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Registration by permission of instructor. Contact Eric Cole for details.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1206&apos;)"&gt;Cole, Eric&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3190,8 +3190,8 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>Th 0215-0515</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS394&apos;);"&gt;RNS 394&lt;/a&gt;</meetinglocations>
+	<meetingtimes>Th 1245-0345PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS398&apos;);"&gt;RNS 398&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000018802</groupid>
 	<grouptype></grouptype>
@@ -3285,7 +3285,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, HL, or IL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26273&apos;)"&gt;Everson, Daniel A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3310,7 +3310,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, HL, or IL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8868&apos;)"&gt;Walczak, Mary&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3335,7 +3335,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, HL, or IL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26281&apos;)"&gt;Anquandah, George K.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3360,7 +3360,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
-	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, HL, or IL.</notes>
+	<notes>Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL,&lt;br&gt;BL, CL, DL, EL, FL, GL, or HL.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26296&apos;)"&gt;Samuels, William&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3381,7 +3381,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>126</coursenumber>
-	<coursesection>E</coursesection>
+	<coursesection>F</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Chemical Reactions</coursename>
 	<pn>N</pn>
@@ -3502,11 +3502,36 @@
 
 
 	<course>
-	<clbid>0000095736</clbid>
+	<clbid>0000095745</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>126</coursenumber>
 	<coursesection>E</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Chemical Reactions Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23839&apos;)"&gt;Fogarty, Keir&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>W 0300-0600PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS350&apos;);"&gt;RNS 350&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid>0000000194</groupid>
+	<grouptype></grouptype>
+	<crsid>0000000195</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000095736</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>CHEM</deptname>
+	<coursenumber>126</coursenumber>
+	<coursesection>F</coursesection>
 	<coursesubtype>L</coursesubtype>
 	<coursename>Chem Reactions/Lab</coursename>
 	<pn>N</pn>
@@ -3531,7 +3556,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>126</coursenumber>
-	<coursesection>F</coursesection>
+	<coursesection>G</coursesection>
 	<coursesubtype>L</coursesubtype>
 	<coursename>Chem Reactions/Lab</coursename>
 	<pn>N</pn>
@@ -3556,7 +3581,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>126</coursenumber>
-	<coursesection>G</coursesection>
+	<coursesection>H</coursesection>
 	<coursesubtype>L</coursesubtype>
 	<coursename>Chemical Reactions Lab</coursename>
 	<pn>N</pn>
@@ -3567,31 +3592,6 @@
 	<gereqs></gereqs>
 	<meetingtimes>Th 0300-0600PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS355&apos;);"&gt;RNS 355&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid>0000000194</groupid>
-	<grouptype></grouptype>
-	<crsid>0000000195</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000095745</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHEM</deptname>
-	<coursenumber>126</coursenumber>
-	<coursesection>H</coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Chemical Reactions Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23839&apos;)"&gt;Fogarty, Keir&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>W 0300-0600PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS350&apos;);"&gt;RNS 350&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000000194</groupid>
 	<grouptype></grouptype>
@@ -4065,7 +4065,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
-	<meetingtimes>T 0120-0520PM</meetingtimes>
+	<meetingtimes>W 0100-0500PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS393&apos;);"&gt;RNS 393&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -4327,31 +4327,6 @@
 
 
 	<course>
-	<clbid>0000096977</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHIN</deptname>
-	<coursenumber>112</coursenumber>
-	<coursesection>C</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Beginning Chinese II</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26220&apos;)"&gt;Zhou, Ying&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>MWF 1150-1245PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH308&apos;);"&gt;TOH 308&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000239</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000095641</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>CHIN</deptname>
@@ -4396,31 +4371,6 @@
 	<groupid>0000000239</groupid>
 	<grouptype></grouptype>
 	<crsid>0000000239</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000096978</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHIN</deptname>
-	<coursenumber>112</coursenumber>
-	<coursesection>C</coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Beginning Chinese II Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26220&apos;)"&gt;Zhou, Ying&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes>T 0120-0245PM</meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000240</crsid>
 	</course>
 
 
@@ -4631,7 +4581,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>CHIN</deptname>
 	<coursenumber>302</coursenumber>
-	<coursesection></coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Advanced Chinese II</coursename>
 	<pn>N</pn>
@@ -4652,6 +4602,31 @@
 
 
 	<course>
+	<clbid>0000099191</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>CHIN</deptname>
+	<coursenumber>302</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Advanced Chinese II</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23552&apos;)"&gt;Wong, Ka F.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-C&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH212&apos;);"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000246</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000096979</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>CHIN</deptname>
@@ -4661,11 +4636,11 @@
 	<coursename>Chinese Lang/Soc/Media</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23552&apos;)"&gt;Wong, Ka F.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26220&apos;)"&gt;Zhou, Ying&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetingtimes>MWF 1150-1245PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -5327,6 +5302,31 @@
 
 
 	<course>
+	<clbid>0000099189</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>DANCE</deptname>
+	<coursenumber>108</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Am Dance: Nat/Immigr</coursename>
+	<pn>Y</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8817&apos;)"&gt;von Bibra, Anne&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.25</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>T 0200-0255PM&lt;br&gt;Th 0240-0335PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000348</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000096253</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>DANCE</deptname>
@@ -5390,8 +5390,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0800-1000</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio1&apos;);"&gt;DC Studio 1&lt;/a&gt;</meetinglocations>
+	<meetingtimes>TTh 0800-1100</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -5452,31 +5452,6 @@
 
 
 	<course>
-	<clbid>0000096014</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>DANCE</deptname>
-	<coursenumber>209</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Intl Dance II</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8817&apos;)"&gt;von Bibra, Anne&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.25</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0200-0255PM&lt;br&gt;Th 0240-0335PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000356</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000096254</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>DANCE</deptname>
@@ -5491,7 +5466,7 @@
 	<credits>0.50</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 1255-0150PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio1&apos;);"&gt;DC Studio 1&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -5516,7 +5491,7 @@
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 1255-0150PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio1&apos;);"&gt;DC Studio 1&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -5571,31 +5546,6 @@
 	<groupid></groupid>
 	<grouptype>R</grouptype>
 	<crsid>0000025120</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000095791</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>DANCE</deptname>
-	<coursenumber>215</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Contact Improvisation</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7059&apos;)"&gt;Saterstrom, Sheryl&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.25</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0905-1000</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio3&apos;);"&gt;DC Studio 3&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000027682</crsid>
 	</course>
 
 
@@ -5821,6 +5771,31 @@
 	<groupid></groupid>
 	<grouptype></grouptype>
 	<crsid>0000000363</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099204</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>DANCE</deptname>
+	<coursenumber>315</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Performance Improvisation</coursename>
+	<pn>N</pn>
+	<notes>Course and GE pending faculty approval.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7059&apos;)"&gt;Saterstrom, Sheryl&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.25</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0905-1000</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DCStudio1&apos;);"&gt;DC Studio 1&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000028962</crsid>
 	</course>
 
 
@@ -6852,31 +6827,6 @@
 
 
 	<course>
-	<clbid>0000096528</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>EDUC</deptname>
-	<coursenumber>349</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Teaching of Latin, K-12</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5130&apos;)"&gt;May, James&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000326</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000096523</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>EDUC</deptname>
@@ -7185,7 +7135,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Student Teach: ESL</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Open to seniors only.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;10410&apos;)"&gt;Pfarr-Baker, Rosemary A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.50</credits>
@@ -7577,15 +7527,15 @@
 
 
 	<course>
-	<clbid>0000097316</clbid>
+	<clbid>0000099211</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ENGL</deptname>
-	<coursenumber>260</coursenumber>
+	<coursenumber>272</coursenumber>
 	<coursesection></coursesection>
-	<coursesubtype>T</coursesubtype>
-	<coursename>Top/Cross-Disc:Writ Amer</coursename>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Writing America 1588-1800</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Course and GE pending faculty approval.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8973&apos;)"&gt;Wells, Colin&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -7595,7 +7545,7 @@
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
-	<crsid>0000021510</crsid>
+	<crsid>0000028966</crsid>
 	</course>
 
 
@@ -8427,6 +8377,31 @@
 
 
 	<course>
+	<clbid>0000099192</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ESAC</deptname>
+	<coursenumber>108</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>In-Line Skating</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2652&apos;)"&gt;Goldsworthy, William Sean&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.25</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000999</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000095635</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ESAC</deptname>
@@ -8627,36 +8602,11 @@
 
 
 	<course>
-	<clbid>0000095949</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ESAC</deptname>
-	<coursenumber>133</coursenumber>
-	<coursesection>A</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Individual Fitness.50</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2652&apos;)"&gt;Goldsworthy, William Sean&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.50</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC103&apos;);"&gt;SAC 103&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001012</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000095950</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ESAC</deptname>
 	<coursenumber>133</coursenumber>
-	<coursesection>B</coursesection>
+	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Individual Fitness.50</coursename>
 	<pn>N</pn>
@@ -9015,8 +8965,8 @@
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 1150-1245PM&lt;br&gt;Th 1245-0140PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SACWrRm&apos;);"&gt;SAC Wr Rm&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SACWrRm&apos;);"&gt;SAC Wr Rm&lt;/a&gt;</meetinglocations>
+	<meetingtimes>F 0800-1000</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SACWrRm&apos;);"&gt;SAC Wr Rm&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -9465,7 +9415,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
+	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC112&apos;);"&gt;SAC 112&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC112&apos;);"&gt;SAC 112&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -9515,8 +9465,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC112&apos;);"&gt;SAC 112&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC112&apos;);"&gt;SAC 112&lt;/a&gt;</meetinglocations>
+	<meetingtimes>MWF 0905-1000</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;SAC112&apos;);"&gt;SAC 112&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000001051</groupid>
 	<grouptype></grouptype>
@@ -9540,7 +9490,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
+	<meetingtimes>W 1045-1140</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -9727,11 +9677,36 @@
 
 
 	<course>
+	<clbid>0000099193</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ESTH</deptname>
+	<coursenumber>375</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Physiology/Exercise Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>Th 0800-1100</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001065</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000096319</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>ESTH</deptname>
 	<coursenumber>375</coursenumber>
-	<coursesection></coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>L</coursesubtype>
 	<coursename>Physiology/Exercise Lab</coursename>
 	<pn>N</pn>
@@ -10052,31 +10027,6 @@
 
 
 	<course>
-	<clbid>0000097536</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>FILM</deptname>
-	<coursenumber>000</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Placeholder Course</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26249&apos;)"&gt;Mokdad, Linda&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000026746</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000096021</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>FILM</deptname>
@@ -10096,6 +10046,31 @@
 	<groupid></groupid>
 	<grouptype></grouptype>
 	<crsid>0000021584</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099210</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>FILM</deptname>
+	<coursenumber>240</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Film History</coursename>
+	<pn>N</pn>
+	<notes>Course and GE pending faculty approval.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26249&apos;)"&gt;Mokdad, Linda&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000028967</crsid>
 	</course>
 
 
@@ -10383,9 +10358,9 @@
 	<coursenumber>372</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>T</coursesubtype>
-	<coursename>Top: Exile, Memory &amp;amp; Narr</coursename>
+	<coursename>Top: L&apos;Etat providence</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Full title:  L'Etat providence: crise ou fin?</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;102&apos;)"&gt;Allen, Wendy&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -10478,7 +10453,7 @@
 
 	<course>
 	<clbid>0000096233</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>116</coursenumber>
 	<coursesection>A</coursesection>
@@ -10528,7 +10503,7 @@
 
 	<course>
 	<clbid>0000096235</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>116</coursenumber>
 	<coursesection>C</coursesection>
@@ -10553,7 +10528,7 @@
 
 	<course>
 	<clbid>0000096236</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>116</coursenumber>
 	<coursesection>D</coursesection>
@@ -10578,7 +10553,7 @@
 
 	<course>
 	<clbid>0000096237</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>116</coursenumber>
 	<coursesection>E</coursesection>
@@ -10603,7 +10578,7 @@
 
 	<course>
 	<clbid>0000096238</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>116</coursenumber>
 	<coursesection>F</coursesection>
@@ -10703,7 +10678,7 @@
 
 	<course>
 	<clbid>0000095820</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GCON</deptname>
 	<coursenumber>218</coursenumber>
 	<coursesection>D</coursesection>
@@ -10940,7 +10915,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
+	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH316&apos;);"&gt;TOH 316&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH316&apos;);"&gt;TOH 316&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -11316,7 +11291,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH501&apos;);"&gt;HH 501&lt;/a&gt;</meetinglocations>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -11466,7 +11441,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH317&apos;);"&gt;HH 317&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH317&apos;);"&gt;HH 317&lt;/a&gt;</meetinglocations>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -11964,13 +11939,63 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;15819&apos;)"&gt;Schillinger, Jamie A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes></meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
 	<crsid>0000021529</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099212</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ID</deptname>
+	<coursenumber>245</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Integrated Science/Societ</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14223&apos;)"&gt;Williamson, Thomas A.&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;15747&apos;)"&gt;Dickinson, Shelly D.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0905-1000</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000028968</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099213</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>ID</deptname>
+	<coursenumber>245</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Integr Sci/Soc Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14223&apos;)"&gt;Williamson, Thomas A.&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;15747&apos;)"&gt;Dickinson, Shelly D.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>W 0100-0400PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000028969</crsid>
 	</course>
 
 
@@ -12827,11 +12852,36 @@
 
 
 	<course>
+	<clbid>0000099194</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>JAPAN</deptname>
+	<coursenumber>232</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Intermed Japanese II</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21197&apos;)"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-J&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000664</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000095987</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>JAPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection></coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Japanese II</coursename>
 	<pn>N</pn>
@@ -12852,11 +12902,36 @@
 
 
 	<course>
+	<clbid>0000099195</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>JAPAN</deptname>
+	<coursenumber>232</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>L</coursesubtype>
+	<coursename>Intermed Japanese II Lab</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21197&apos;)"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>0.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>T 1040-1135</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000665</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000095988</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>JAPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection></coursesection>
+	<coursesection>A</coursesection>
 	<coursesubtype>L</coursesubtype>
 	<coursename>Intermed Japanese II Lab</coursename>
 	<pn>N</pn>
@@ -13690,8 +13765,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH184&apos;);"&gt;TOH 184&lt;/a&gt;</meetinglocations>
+	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH186&apos;);"&gt;TOH 186&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -13736,7 +13811,7 @@
 	<coursename>Math of Biology Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;22834&apos;)"&gt;Vandiver, Rebecca M.&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;22834&apos;)"&gt;Vandiver, Rebecca M.&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8876&apos;)"&gt;Walter, Anne&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -13865,7 +13940,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0200-0255PM</meetingtimes>
+	<meetingtimes>MWF 1045-1140</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH186&apos;);"&gt;TOH 186&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -14290,7 +14365,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
+	<meetingtimes>M 0700-1000PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -14940,8 +15015,8 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>M 0450-0600PM&lt;br&gt;WF 0430-0600PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
+	<meetingtimes>WF 0430-0600PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM138&apos;);"&gt;CHM 138&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
@@ -14961,7 +15036,7 @@
 	<coursename>St. Olaf Band</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;15919&apos;)"&gt;Lace, John&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -15240,7 +15315,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MF 1045-1140&lt;br&gt;T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
+	<meetingtimes>MF 1150-1245PM&lt;br&gt;T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM224&apos;);"&gt;CHM 224&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM224&apos;);"&gt;CHM 224&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM224&apos;);"&gt;CHM 224&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -15277,25 +15352,25 @@
 
 
 	<course>
-	<clbid>0000096535</clbid>
+	<clbid>0000099216</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>MUSIC</deptname>
-	<coursenumber>131</coursenumber>
+	<coursenumber>135</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>The Art of Music</coursename>
+	<coursename>Mahler to Madonna</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Course and GE pending faculty approval.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;973&apos;)"&gt;Carter, David&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)</gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 1255-0150PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM232&apos;);"&gt;CHM 232&lt;/a&gt;</meetinglocations>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000804</crsid>
+	<grouptype>R</grouptype>
+	<crsid>0000028971</crsid>
 	</course>
 
 
@@ -15565,7 +15640,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 0800-0855&lt;br&gt;Th 0215-0335PM</meetingtimes>
+	<meetingtimes>MWF 1045-1140&lt;br&gt;Th 0215-0335PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM232&apos;);"&gt;CHM 232&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM232&apos;);"&gt;CHM 232&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -15886,7 +15961,7 @@
 	<coursename>Lyric Diction II</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;Z000259&apos;)"&gt;Mooy, A&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
@@ -16040,7 +16115,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
+	<meetingtimes>MWF 1255-0150PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM239&apos;);"&gt;CHM 239&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -16065,7 +16140,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 1255-0150PM</meetingtimes>
+	<meetingtimes>MWF 1045-1140</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM232&apos;);"&gt;CHM 232&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -16090,7 +16165,7 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>MWF 1255-0150PM</meetingtimes>
+	<meetingtimes>MWF 1045-1140</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;CHM232&apos;);"&gt;CHM 232&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -16436,7 +16511,7 @@
 	<coursename>Begin Norwegian II</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;9714&apos;)"&gt;Homstad, Torild&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -16536,7 +16611,7 @@
 	<coursename>Beginning Norwegian II</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5815&apos;)"&gt;O&apos;Leary, Margaret H.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -16571,56 +16646,6 @@
 	<groupid></groupid>
 	<grouptype></grouptype>
 	<crsid>0000000924</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000096284</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>NORW</deptname>
-	<coursenumber>140</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Norway: Contin/Change</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5815&apos;)"&gt;O&apos;Leary, Margaret H.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH314&apos;);"&gt;TOH 314&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH314&apos;);"&gt;TOH 314&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000925</crsid>
-	</course>
-
-
-
-
-	<course>
-	<clbid>0000095470</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>NORW</deptname>
-	<coursenumber>140</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>F</coursesubtype>
-	<coursename>FLC - Norwegian</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5815&apos;)"&gt;O&apos;Leary, Margaret H.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.25</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000026505</crsid>
 	</course>
 
 
@@ -16810,7 +16835,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Images of Wellness</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Open to all students.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5499&apos;)"&gt;Neal, Diana&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -17164,7 +17189,7 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21884&apos;)"&gt;Munoz-Hutchinson, Danny&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)</gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -17564,7 +17589,7 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23586&apos;)"&gt;Marsh, Jason&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -17664,7 +17689,7 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5051&apos;)"&gt;Marino, Gordon D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs></gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>MWF 0200-0255PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -17711,7 +17736,7 @@
 	<coursename>Principles Physics II</coursename>
 	<pn>N</pn>
 	<notes>Students in Physics 125 must also register for one&lt;br&gt;lab Physics 125 AL, BL, CL, DL, or EL.&lt;br&gt;Closed to first-year students.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
@@ -17761,7 +17786,7 @@
 	<coursename>Prin Physics II/Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17811,7 +17836,7 @@
 	<coursename>Prin Physics II/Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17836,7 +17861,7 @@
 	<coursename>Prin Physics II/Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17861,7 +17886,7 @@
 	<coursename>Prin Physics II/Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17886,7 +17911,7 @@
 	<coursename>Analytical II</coursename>
 	<pn>N</pn>
 	<notes>Students in Physics 131 must also register for one lab Physics 131 AL, BL, or CL</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26266&apos;)"&gt;Tasson, Jay D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
@@ -17911,7 +17936,7 @@
 	<coursename>Analytical II</coursename>
 	<pn>N</pn>
 	<notes>Students in Physics 131 must also register for one lab Physics 131 AL, BL, or CL</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26266&apos;)"&gt;Tasson, Jay D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
@@ -17936,7 +17961,7 @@
 	<coursename>Analytical II Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26266&apos;)"&gt;Tasson, Jay D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17961,7 +17986,7 @@
 	<coursename>Analytical II Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26266&apos;)"&gt;Tasson, Jay D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -17986,7 +18011,7 @@
 	<coursename>Analytical II Lab</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26266&apos;)"&gt;Tasson, Jay D.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
@@ -18336,7 +18361,7 @@
 	<coursename>Adv Physics Lab (375)</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26288&apos;)"&gt;Adhikari, Prabal&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
 	<gereqs></gereqs>
@@ -18371,6 +18396,56 @@
 	<groupid></groupid>
 	<grouptype></grouptype>
 	<crsid>0000001100</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099198</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>PHYS</deptname>
+	<coursenumber>396</coursenumber>
+	<coursesection>A</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Research:</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14912&apos;)"&gt;Engbrecht, Jason J.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>MWF 0800-0855</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000019412</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099199</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>PHYS</deptname>
+	<coursenumber>396</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Research:</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26221&apos;)"&gt;Wiebold, Matt&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>MWF 0800-0855</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000019412</crsid>
 	</course>
 
 
@@ -18702,6 +18777,31 @@
 
 
 	<course>
+	<clbid>0000099200</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>PSCI</deptname>
+	<coursenumber>272</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Am Constitutional Law</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>M 0700-1000PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001134</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000097265</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>PSCI</deptname>
@@ -18910,7 +19010,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Geopolitics Eurasian Ener</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Open only to seniors during web registration.  Juniors may add on a space-&lt;br&gt;available basis during the drop/add period.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1343&apos;)"&gt;Dale, J. Patrick&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -19040,8 +19140,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS131&apos;);"&gt;RNS 131&lt;/a&gt;</meetinglocations>
+	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS131&apos;);"&gt;RNS 131&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS131&apos;);"&gt;RNS 131&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000001158</groupid>
 	<grouptype></grouptype>
@@ -19090,7 +19190,7 @@
 	<halfcredit></halfcredit>
 	<credits>0.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>T 1145-0145PM</meetingtimes>
+	<meetingtimes>T 0900-1100</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid>0000001158</groupid>
@@ -20514,7 +20614,7 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26261&apos;)"&gt;Kaden, David&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -21902,11 +22002,36 @@
 
 
 	<course>
-	<clbid>0000095995</clbid>
+	<clbid>0000099201</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>231</coursenumber>
 	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Intermed Spanish I</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14153&apos;)"&gt;Cropsey, Kris A.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes>MWF 1045-1140</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH312&apos;);"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001326</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000095995</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>SPAN</deptname>
+	<coursenumber>231</coursenumber>
+	<coursesection>C</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish I</coursename>
 	<pn>N</pn>
@@ -21931,7 +22056,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>231</coursenumber>
-	<coursesection>C</coursesection>
+	<coursesection>D</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish I</coursename>
 	<pn>N</pn>
@@ -21977,36 +22102,11 @@
 
 
 	<course>
-	<clbid>0000095997</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>SPAN</deptname>
-	<coursenumber>232</coursenumber>
-	<coursesection>B</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Intermed Spanish II</coursename>
-	<pn>N</pn>
-	<notes>Prerequisite: completion of Spanish placement test or preceding course.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14153&apos;)"&gt;Cropsey, Kris A.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-S&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 1045-1140</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH312&apos;);"&gt;TOH 312&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001327</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000096001</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>C</coursesection>
+	<coursesection>B</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22031,7 +22131,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>D</coursesection>
+	<coursesection>C</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22056,7 +22156,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>E</coursesection>
+	<coursesection>D</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22081,7 +22181,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>F</coursesection>
+	<coursesection>E</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22106,7 +22206,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>G</coursesection>
+	<coursesection>F</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22131,7 +22231,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>H</coursesection>
+	<coursesection>G</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22156,7 +22256,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>232</coursenumber>
-	<coursesection>I</coursesection>
+	<coursesection>H</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Intermed Spanish II</coursename>
 	<pn>N</pn>
@@ -22565,8 +22665,8 @@
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>MWF 0800-0855</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH182&apos;);"&gt;TOH 182&lt;/a&gt;</meetinglocations>
+	<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH182&apos;);"&gt;TOH 182&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH182&apos;);"&gt;TOH 182&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -23285,7 +23385,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Th Prac: CADD</coursename>
 	<pn>Y</pn>
-	<notes>Registration by permission of instructor only.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;611&apos;)"&gt;Bjorklund, Brian&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>0.25</credits>
@@ -23727,11 +23827,36 @@
 
 
 	<course>
-	<clbid>0000095867</clbid>
+	<clbid>0000095863</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
 	<coursesection>C</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>First-Year Writing</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26230&apos;)"&gt;David, Marc&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FYW.pdf"&gt;FYW&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 0905-1000</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000498</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000095867</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>WRIT</deptname>
+	<coursenumber>111</coursenumber>
+	<coursesection>D</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23756,7 +23881,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>D</coursesection>
+	<coursesection>E</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23781,7 +23906,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>E</coursesection>
+	<coursesection>F</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23806,7 +23931,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>F</coursesection>
+	<coursesection>G</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23827,11 +23952,36 @@
 
 
 	<course>
+	<clbid>0000099202</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>WRIT</deptname>
+	<coursenumber>111</coursenumber>
+	<coursesection>H</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>First-Year Writing</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26277&apos;)"&gt;Ng, Tiffany&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FYW.pdf"&gt;FYW&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>MWF 1255-0150PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000498</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000095866</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>G</coursesection>
+	<coursesection>I</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23856,7 +24006,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>H</coursesection>
+	<coursesection>J</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23881,7 +24031,7 @@
 	<coursestatus>C</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>I</coursesection>
+	<coursesection>K</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23906,7 +24056,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>J</coursesection>
+	<coursesection>L</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23927,36 +24077,11 @@
 
 
 	<course>
-	<clbid>0000095863</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>WRIT</deptname>
-	<coursenumber>111</coursenumber>
-	<coursesection>K</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>First-Year Writing</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26230&apos;)"&gt;David, Marc&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FYW.pdf"&gt;FYW&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML420&apos;);"&gt;RML 420&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML420&apos;);"&gt;RML 420&lt;/a&gt;</meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000498</crsid>
-	</course>
-
-
-
-
-	<course>
 	<clbid>0000095862</clbid>
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>L</coursesection>
+	<coursesection>M</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -23981,7 +24106,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>M</coursesection>
+	<coursesection>N</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
@@ -24006,7 +24131,7 @@
 	<coursestatus>O</coursestatus>
 	<deptname>WRIT</deptname>
 	<coursenumber>111</coursenumber>
-	<coursesection>N</coursesection>
+	<coursesection>O</coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>First-Year Writing</coursename>
 	<pn>N</pn>
