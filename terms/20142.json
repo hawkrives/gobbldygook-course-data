@@ -2332,7 +2332,7 @@
 				"RNS 390"
 			],
 			"profs": [
-				"William Samuels"
+				"Staff"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -2360,7 +2360,7 @@
 				"RNS 390"
 			],
 			"profs": [
-				"Jennifer Wilcox"
+				"Staff"
 			],
 			"sect": "B",
 			"sem": 2,
@@ -2760,7 +2760,7 @@
 				"HWC"
 			],
 			"level": 200,
-			"notes": "Open to all students.",
+			"notes": "Taught in English. Open to all students.",
 			"num": 249,
 			"pf": false,
 			"places": [
@@ -5960,7 +5960,7 @@
 			"num": 257,
 			"pf": false,
 			"places": [
-				"HH 317"
+				"HH 307"
 			],
 			"profs": [
 				"Sian E. Muir"
@@ -6141,7 +6141,7 @@
 			"num": 231,
 			"pf": false,
 			"places": [
-				"HH 307"
+				"RNS 150"
 			],
 			"profs": [
 				"Richard M. Hirsch"
@@ -6421,7 +6421,7 @@
 			"num": 115,
 			"pf": false,
 			"places": [
-				"RML 520"
+				"RML 515"
 			],
 			"profs": [
 				"Anthony J. Rudd"
@@ -6802,7 +6802,7 @@
 			"num": 340,
 			"pf": false,
 			"places": [
-				"RML 515"
+				"RML 520"
 			],
 			"profs": [
 				"Carol Holly"
@@ -7130,11 +7130,11 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Slavery in W Africa:Ghana",
-			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
+			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title. This course has been canceled.",
 			"num": 256,
 			"pf": false,
 			"profs": [
-				"Abdulai Iddrisu"
+				"Staff"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -7319,7 +7319,7 @@
 			"grouptype": "R",
 			"level": 100,
 			"name": "Water:Prec, Precar, &Prob",
-			"notes": "This course has some field trips.",
+			"notes": "This course has some field trips. This course has class-year limits.",
 			"num": 128,
 			"pf": false,
 			"places": [
@@ -7643,7 +7643,7 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Architecture/Bauhaus",
-			"notes": "Taught in English.",
+			"notes": "Taught in English. Open to all students.",
 			"num": 263,
 			"pf": false,
 			"places": [
@@ -7737,7 +7737,7 @@
 			"num": 260,
 			"pf": false,
 			"places": [
-				"TOH 212"
+				"HH 516"
 			],
 			"profs": [
 				"Jeanine Grenberg"
@@ -8179,10 +8179,12 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Hardboil Fic & Film",
+			"notes": "Open to first-year students.",
 			"num": 260,
 			"pf": false,
 			"places": [
-				"TOH 214"
+				"TOH 214",
+				"HH 501"
 			],
 			"profs": [
 				"Bjorn Nordfjord"
@@ -8190,7 +8192,8 @@
 			"sem": 2,
 			"term": 20142,
 			"times": [
-				"M-F 1040-1240PM"
+				"MWF 1040-1240PM",
+				"TTh 1040-1240PM"
 			],
 			"title": "Topics in Cross-Disciplinary Literary Study",
 			"type": "Topic",
@@ -8380,12 +8383,12 @@
 			"num": 236,
 			"pf": false,
 			"places": [
-				"DC 100",
-				"DC 100",
-				"DC 100"
+				"DC 116",
+				"DC 116",
+				"DC 116"
 			],
 			"profs": [
-				"Staff"
+				"Julie Boehmer"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -8442,6 +8445,7 @@
 			],
 			"grouptype": "R",
 			"level": 200,
+			"notes": "This course has class-year lilmits. Not open to first-year students.",
 			"num": 256,
 			"pf": false,
 			"places": [
@@ -8467,6 +8471,9 @@
 				"HIST"
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course.",
+			"gereqs": [
+				"WRI"
+			],
 			"level": 300,
 			"name": "Res: Creating So. History",
 			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
@@ -8524,7 +8531,6 @@
 			"grouptype": "R",
 			"level": 100,
 			"name": "The Roman Animal",
-			"notes": "Course and GE pending faculty approval.",
 			"num": 123,
 			"pf": false,
 			"places": [
@@ -8583,7 +8589,6 @@
 			"grouptype": "R",
 			"level": 100,
 			"name": "Exploration in Healthcare",
-			"notes": "Course pending faculty approval.",
 			"num": 110,
 			"pf": false,
 			"places": [
@@ -8596,7 +8601,7 @@
 			"sem": 2,
 			"term": 20142,
 			"times": [
-				"M-F 1040-0300PM"
+				"MWF 1040-0300PM"
 			],
 			"title": "Exploration in Healthcare",
 			"type": "Research",
@@ -8612,7 +8617,6 @@
 			"grouptype": "R",
 			"level": 100,
 			"name": "Exploration in Healthcare",
-			"notes": "Course pending faculty approval.",
 			"num": 110,
 			"pf": false,
 			"places": [
@@ -8625,9 +8629,80 @@
 			"sem": 2,
 			"term": 20142,
 			"times": [
-				"M-F 1040-0300PM"
+				"MWF 1040-0300PM"
 			],
 			"title": "Exploration in Healthcare",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99273,
+			"credits": 1.0,
+			"crsid": 19742,
+			"depts": [
+				"ASIAN"
+			],
+			"desc": "Students pursue guided fieldwork experience in the United States. Activities and readings in this course build on the topics from ASIAN 210 and three semesters of language study. Students reflect on the experience of Asians in America through readings, site visits, and local interviews. Students develop projects and follow a process of inquiry that will help them understand how ordinary people construct \"Asian\" culture and society today. Prerequisite: ASIAN 210. Offered during Interim.",
+			"level": 200,
+			"name": "AsianCon2:Asia in America",
+			"num": 216,
+			"pf": false,
+			"profs": [
+				"Barbara Reed"
+			],
+			"sem": 2,
+			"term": 20142,
+			"title": "Asian Conversations II: Encountering Asia in America",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99283,
+			"credits": 1.0,
+			"crsid": 21545,
+			"depts": [
+				"HIST"
+			],
+			"gereqs": [
+				"MCG"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Topics: Gender in Africa",
+			"notes": "MCG pending committee approval.",
+			"num": 289,
+			"pf": false,
+			"profs": [
+				"Abdulai Iddrisu"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 1040-1240PM"
+			],
+			"title": "Topics in History",
+			"type": "Topic",
+			"year": 2014
+		},
+		{
+			"clbid": 99284,
+			"credits": 1.0,
+			"crsid": 189,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "This course, a continuation of CHEM 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. CHEM 121 and CHEM 123 together are equivalent in content to CHEM 125 and are designed to prepare students for CHEM 126. Prerequisite: CHEM 121. Offered during Interim.",
+			"level": 100,
+			"name": "Atom/Molec Structure",
+			"num": 123,
+			"pf": false,
+			"profs": [
+				"Staff"
+			],
+			"sect": "C",
+			"sem": 2,
+			"term": 20142,
+			"title": "Atomic and Molecular Structure",
 			"type": "Research",
 			"year": 2014
 		}
