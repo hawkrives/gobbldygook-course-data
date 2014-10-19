@@ -28,7 +28,7 @@
 
 	<course>
 	<clbid>0000095073</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AFAM</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -78,7 +78,7 @@
 
 	<course>
 	<clbid>0000095074</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AFAM</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -128,7 +128,7 @@
 
 	<course>
 	<clbid>0000094991</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AMST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -178,7 +178,7 @@
 
 	<course>
 	<clbid>0000095070</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>AMST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -336,12 +336,12 @@
 	<coursename>Graphic Design</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;27137&apos;)"&gt;Boehmer, Julie&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
 	<meetingtimes>M-F 0900-1000&lt;br&gt;M-F 1040-1200PM&lt;br&gt;M-F 0100-0330PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC100&apos;);"&gt;DC 100&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC116&apos;);"&gt;DC 116&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC116&apos;);"&gt;DC 116&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;DC116&apos;);"&gt;DC 116&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
@@ -378,7 +378,7 @@
 
 	<course>
 	<clbid>0000097165</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ART</deptname>
 	<coursenumber>255</coursenumber>
 	<coursesection></coursesection>
@@ -403,7 +403,7 @@
 
 	<course>
 	<clbid>0000094992</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ART</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -478,7 +478,7 @@
 
 	<course>
 	<clbid>0000094993</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ART</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -702,8 +702,33 @@
 
 
 	<course>
+	<clbid>0000099273</clbid>
+	<coursestatus>C</coursestatus>
+	<deptname>ASIAN</deptname>
+	<coursenumber>216</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>AsianCon2:Asia in America</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6625&apos;)"&gt;Reed, Barbara&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000019742</crsid>
+	</course>
+
+
+
+
+	<course>
 	<clbid>0000094994</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ASIAN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -778,7 +803,7 @@
 
 	<course>
 	<clbid>0000094995</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ASIAN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -885,7 +910,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Water:Prec, Precar, &amp;amp;Prob</coursename>
 	<pn>N</pn>
-	<notes>This course has some field trips.</notes>
+	<notes>This course has some field trips.  This course has class-year limits.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;25382&apos;)"&gt;Whittinghill, Kyle A.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -978,7 +1003,7 @@
 
 	<course>
 	<clbid>0000097170</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>BIO</deptname>
 	<coursenumber>287</coursenumber>
 	<coursesection></coursesection>
@@ -1053,7 +1078,7 @@
 
 	<course>
 	<clbid>0000094996</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>BIO</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -1203,7 +1228,7 @@
 
 	<course>
 	<clbid>0000094997</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>BIO</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -1278,7 +1303,7 @@
 
 	<course>
 	<clbid>0000095075</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>BMOLS</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -1328,7 +1353,7 @@
 
 	<course>
 	<clbid>0000095076</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>BMOLS</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -1461,7 +1486,7 @@
 	<coursename>Atom/Molec Structure</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26296&apos;)"&gt;Samuels, William&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -1486,12 +1511,37 @@
 	<coursename>Atom/Molec Structure</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26289&apos;)"&gt;Wilcox, Jennifer&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
 	<meetingtimes>M-F 1040-1240PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS390&apos;);"&gt;RNS 390&lt;/a&gt;</meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000189</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099284</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>CHEM</deptname>
+	<coursenumber>123</coursenumber>
+	<coursesection>C</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Atom/Molec Structure</coursename>
+	<pn>N</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -1578,7 +1628,7 @@
 
 	<course>
 	<clbid>0000094998</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -1703,7 +1753,7 @@
 
 	<course>
 	<clbid>0000094999</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -1728,7 +1778,7 @@
 
 	<course>
 	<clbid>0000095092</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CHEM</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection>A</coursesection>
@@ -1778,7 +1828,7 @@
 
 	<course>
 	<clbid>0000095002</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CHIN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -1828,7 +1878,7 @@
 
 	<course>
 	<clbid>0000095003</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CHIN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -1885,7 +1935,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>The Roman Animal</coursename>
 	<pn>N</pn>
-	<notes>Course and GE pending faculty approval.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26264&apos;)"&gt;Whitlatch, Lisa&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -1903,7 +1953,7 @@
 
 	<course>
 	<clbid>0000095140</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CLASS</deptname>
 	<coursenumber>251</coursenumber>
 	<coursesection></coursesection>
@@ -1928,7 +1978,7 @@
 
 	<course>
 	<clbid>0000095000</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CLASS</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -1978,7 +2028,7 @@
 
 	<course>
 	<clbid>0000095001</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CLASS</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -2028,7 +2078,7 @@
 
 	<course>
 	<clbid>0000095006</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CSCI</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -2103,7 +2153,7 @@
 
 	<course>
 	<clbid>0000095007</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>CSCI</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -2178,7 +2228,7 @@
 
 	<course>
 	<clbid>0000095010</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>DANCE</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -2253,7 +2303,7 @@
 
 	<course>
 	<clbid>0000095011</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>DANCE</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -2353,7 +2403,7 @@
 
 	<course>
 	<clbid>0000095004</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ECON</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -2428,7 +2478,7 @@
 
 	<course>
 	<clbid>0000095005</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ECON</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -2528,7 +2578,7 @@
 
 	<course>
 	<clbid>0000095008</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>EDUC</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -2653,7 +2703,7 @@
 
 	<course>
 	<clbid>0000095009</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>EDUC</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -2810,13 +2860,13 @@
 	<coursesubtype>T</coursesubtype>
 	<coursename>Top: Hardboil Fic &amp;amp; Film</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>Open to first-year students.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26260&apos;)"&gt;Nordfjord, Bjorn&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
-	<meetingtimes>M-F 1040-1240PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH214&apos;);"&gt;TOH 214&lt;/a&gt;</meetinglocations>
+	<meetingtimes>MWF 1040-1240PM&lt;br&gt;TTh 1040-1240PM</meetingtimes>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH214&apos;);"&gt;TOH 214&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH501&apos;);"&gt;HH 501&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype>R</grouptype>
@@ -2903,7 +2953,7 @@
 
 	<course>
 	<clbid>0000095012</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENGL</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -2991,7 +3041,7 @@
 	<credits>1.00</credits>
 	<gereqs></gereqs>
 	<meetingtimes>M-F 1040-1240PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML515&apos;);"&gt;RML 515&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML520&apos;);"&gt;RML 520&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -3003,7 +3053,7 @@
 
 	<course>
 	<clbid>0000095013</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENGL</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3103,7 +3153,7 @@
 
 	<course>
 	<clbid>0000095014</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENVST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -3128,7 +3178,7 @@
 
 	<course>
 	<clbid>0000095095</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENVST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -3178,7 +3228,7 @@
 
 	<course>
 	<clbid>0000095015</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ENVST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3228,7 +3278,7 @@
 
 	<course>
 	<clbid>0000095047</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ESTH</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -3303,7 +3353,7 @@
 
 	<course>
 	<clbid>0000095048</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ESTH</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3328,7 +3378,7 @@
 
 	<course>
 	<clbid>0000095096</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ESTH</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection>A</coursesection>
@@ -3403,7 +3453,7 @@
 
 	<course>
 	<clbid>0000095024</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>FAMST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -3453,7 +3503,7 @@
 
 	<course>
 	<clbid>0000095025</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>FAMST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3553,7 +3603,7 @@
 
 	<course>
 	<clbid>0000095016</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>FREN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -3603,7 +3653,7 @@
 
 	<course>
 	<clbid>0000095017</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>FREN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3716,7 +3766,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-B.pdf"&gt;BTS-B&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>M-F 1040-1240PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML520&apos;);"&gt;RML 520&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RML515&apos;);"&gt;RML 515&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -3835,7 +3885,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>German Cinema</coursename>
 	<pn>N</pn>
-	<notes>Open to all students.</notes>
+	<notes>Taught in English.  Open to all students.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;26204&apos;)"&gt;Martinson, Kirk&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3860,7 +3910,7 @@
 	<coursesubtype>T</coursesubtype>
 	<coursename>Top: Architecture/Bauhaus</coursename>
 	<pn>N</pn>
-	<notes>Taught in English.</notes>
+	<notes>Taught in English.  Open to all students.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6671&apos;)"&gt;Rippley, Lavern&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -3878,7 +3928,7 @@
 
 	<course>
 	<clbid>0000095018</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GERM</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -3928,7 +3978,7 @@
 
 	<course>
 	<clbid>0000095019</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GERM</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -3978,7 +4028,7 @@
 
 	<course>
 	<clbid>0000095020</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GREEK</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -4028,7 +4078,7 @@
 
 	<course>
 	<clbid>0000095021</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>GREEK</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -4178,15 +4228,15 @@
 
 	<course>
 	<clbid>0000097032</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>X</coursestatus>
 	<deptname>HIST</deptname>
 	<coursenumber>256</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Slavery in W Africa:Ghana</coursename>
 	<pn>N</pn>
-	<notes>This is an off-campus course.  You will find this course listed in Studio Abroad&lt;br&gt;under its course title.</notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21082&apos;)"&gt;Iddrisu, Abdulai&lt;/a&gt;</instructors>
+	<notes>This is an off-campus course.  You will find this course listed in Studio Abroad&lt;br&gt;under its course title.&lt;br&gt;This course has been canceled.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
@@ -4227,8 +4277,33 @@
 
 
 	<course>
-	<clbid>0000095022</clbid>
+	<clbid>0000099283</clbid>
 	<coursestatus>O</coursestatus>
+	<deptname>HIST</deptname>
+	<coursenumber>289</coursenumber>
+	<coursesection></coursesection>
+	<coursesubtype>T</coursesubtype>
+	<coursename>Topics: Gender in Africa</coursename>
+	<pn>N</pn>
+	<notes>MCG pending committee approval.</notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21082&apos;)"&gt;Iddrisu, Abdulai&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
+	<meetingtimes>M-F 1040-1240PM</meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype>R</grouptype>
+	<crsid>0000021545</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000095022</clbid>
+	<coursestatus>C</coursestatus>
 	<deptname>HIST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -4303,7 +4378,7 @@
 
 	<course>
 	<clbid>0000095023</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>HIST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -4328,7 +4403,7 @@
 
 	<course>
 	<clbid>0000099176</clbid>
-	<coursestatus>C</coursestatus>
+	<coursestatus>O</coursestatus>
 	<deptname>HIST</deptname>
 	<coursenumber>396</coursenumber>
 	<coursesection></coursesection>
@@ -4339,7 +4414,7 @@
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2113&apos;)"&gt;Fitzgerald, Michael&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs></gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes></meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -4410,12 +4485,12 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Exploration in Healthcare</coursename>
 	<pn>N</pn>
-	<notes>Course pending faculty approval.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23816&apos;)"&gt;Beckmann, Nicole B.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>M-F 1040-0300PM</meetingtimes>
+	<meetingtimes>MWF 1040-0300PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH501&apos;);"&gt;HH 501&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -4435,12 +4510,12 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Exploration in Healthcare</coursename>
 	<pn>N</pn>
-	<notes>Course pending faculty approval.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17526&apos;)"&gt;Huehn, Susan L.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
-	<meetingtimes>M-F 1040-0300PM</meetingtimes>
+	<meetingtimes>MWF 1040-0300PM</meetingtimes>
 	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH501&apos;);"&gt;HH 501&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
@@ -4453,7 +4528,7 @@
 
 	<course>
 	<clbid>0000095182</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>255</coursenumber>
 	<coursesection></coursesection>
@@ -4485,7 +4560,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Issues in Global Health</coursename>
 	<pn>N</pn>
-	<notes></notes>
+	<notes>This course has class-year lilmits.  Not open to first-year students.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;13983&apos;)"&gt;Sevcik, Sarah M.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -4503,7 +4578,7 @@
 
 	<course>
 	<clbid>0000095439</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>258</coursenumber>
 	<coursesection></coursesection>
@@ -4528,7 +4603,7 @@
 
 	<course>
 	<clbid>0000095028</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -4553,7 +4628,7 @@
 
 	<course>
 	<clbid>0000095098</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -4603,7 +4678,7 @@
 
 	<course>
 	<clbid>0000095029</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -4628,7 +4703,7 @@
 
 	<course>
 	<clbid>0000095100</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>ID</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection>A</coursesection>
@@ -4703,7 +4778,7 @@
 
 	<course>
 	<clbid>0000095069</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>IDFA</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -4753,7 +4828,7 @@
 
 	<course>
 	<clbid>0000095071</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>IDFA</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -4853,7 +4928,7 @@
 
 	<course>
 	<clbid>0000095026</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>IS</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -4903,7 +4978,7 @@
 
 	<course>
 	<clbid>0000095027</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>IS</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -4953,7 +5028,7 @@
 
 	<course>
 	<clbid>0000095078</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>JAPAN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5003,7 +5078,7 @@
 
 	<course>
 	<clbid>0000095077</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>JAPAN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5053,7 +5128,7 @@
 
 	<course>
 	<clbid>0000095087</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>LAMST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5103,7 +5178,7 @@
 
 	<course>
 	<clbid>0000095088</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>LAMST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5203,7 +5278,7 @@
 
 	<course>
 	<clbid>0000095031</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>LATIN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5353,7 +5428,7 @@
 
 	<course>
 	<clbid>0000095032</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MATH</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5453,7 +5528,7 @@
 
 	<course>
 	<clbid>0000095072</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MATH</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5528,7 +5603,7 @@
 
 	<course>
 	<clbid>0000095035</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MEDIA</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5578,7 +5653,7 @@
 
 	<course>
 	<clbid>0000095036</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MEDIA</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5628,7 +5703,7 @@
 
 	<course>
 	<clbid>0000095079</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MEDVL</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5678,7 +5753,7 @@
 
 	<course>
 	<clbid>0000095080</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MEDVL</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -5741,7 +5816,7 @@
 	<credits>1.00</credits>
 	<gereqs></gereqs>
 	<meetingtimes>M-F 0100-0300PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH307&apos;);"&gt;HH 307&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;RNS150&apos;);"&gt;RNS 150&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -5766,7 +5841,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>M-F 1040-1240PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH317&apos;);"&gt;HH 317&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH307&apos;);"&gt;HH 307&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -5778,7 +5853,7 @@
 
 	<course>
 	<clbid>0000095033</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MGMT</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -5803,7 +5878,7 @@
 
 	<course>
 	<clbid>0000095090</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MGMT</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -5853,7 +5928,7 @@
 
 	<course>
 	<clbid>0000095034</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MGMT</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6003,7 +6078,7 @@
 
 	<course>
 	<clbid>0000095037</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MUSIC</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6078,7 +6153,7 @@
 
 	<course>
 	<clbid>0000095038</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MUSIC</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6128,7 +6203,7 @@
 
 	<course>
 	<clbid>0000095039</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NEURO</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6178,7 +6253,7 @@
 
 	<course>
 	<clbid>0000095040</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NEURO</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6253,7 +6328,7 @@
 
 	<course>
 	<clbid>0000095041</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NORW</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6303,7 +6378,7 @@
 
 	<course>
 	<clbid>0000095042</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NORW</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6403,7 +6478,7 @@
 
 	<course>
 	<clbid>0000095043</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NURS</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6478,7 +6553,7 @@
 
 	<course>
 	<clbid>0000095044</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>NURS</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6641,7 +6716,7 @@
 	<credits>1.00</credits>
 	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes>M-F 1040-1240PM</meetingtimes>
-	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;TOH212&apos;);"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+	<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow(&apos;HH516&apos;);"&gt;HH 516&lt;/a&gt;</meetinglocations>
 	<varcredits>N</varcredits>
 	<groupid></groupid>
 	<grouptype></grouptype>
@@ -6653,7 +6728,7 @@
 
 	<course>
 	<clbid>0000095045</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PHIL</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6703,7 +6778,7 @@
 
 	<course>
 	<clbid>0000095046</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PHIL</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -6803,7 +6878,7 @@
 
 	<course>
 	<clbid>0000095049</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PHYS</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -6903,7 +6978,7 @@
 
 	<course>
 	<clbid>0000095050</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PHYS</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7028,7 +7103,7 @@
 
 	<course>
 	<clbid>0000095051</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSCI</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -7053,7 +7128,7 @@
 
 	<course>
 	<clbid>0000095089</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSCI</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -7103,7 +7178,7 @@
 
 	<course>
 	<clbid>0000095052</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSCI</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7228,7 +7303,7 @@
 
 	<course>
 	<clbid>0000097195</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>227</coursenumber>
 	<coursesection></coursesection>
@@ -7253,7 +7328,7 @@
 
 	<course>
 	<clbid>0000095053</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -7278,7 +7353,7 @@
 
 	<course>
 	<clbid>0000095099</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -7353,7 +7428,7 @@
 
 	<course>
 	<clbid>0000095054</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PSYCH</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7428,7 +7503,7 @@
 
 	<course>
 	<clbid>0000095085</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RACE</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -7478,7 +7553,7 @@
 
 	<course>
 	<clbid>0000095086</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RACE</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7653,7 +7728,7 @@
 
 	<course>
 	<clbid>0000095413</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>262</coursenumber>
 	<coursesection></coursesection>
@@ -7703,7 +7778,7 @@
 
 	<course>
 	<clbid>0000097200</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>271</coursenumber>
 	<coursesection></coursesection>
@@ -7728,7 +7803,7 @@
 
 	<course>
 	<clbid>0000095055</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -7778,7 +7853,7 @@
 
 	<course>
 	<clbid>0000095056</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>REL</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7828,7 +7903,7 @@
 
 	<course>
 	<clbid>0000095057</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RUSSN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -7903,7 +7978,7 @@
 
 	<course>
 	<clbid>0000095058</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RUSSN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -7978,7 +8053,7 @@
 
 	<course>
 	<clbid>0000095081</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RUSST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8028,7 +8103,7 @@
 
 	<course>
 	<clbid>0000095082</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>RUSST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8153,7 +8228,7 @@
 
 	<course>
 	<clbid>0000095059</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SOAN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8178,7 +8253,7 @@
 
 	<course>
 	<clbid>0000095093</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SOAN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection>A</coursesection>
@@ -8228,7 +8303,7 @@
 
 	<course>
 	<clbid>0000095060</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SOAN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8428,7 +8503,7 @@
 
 	<course>
 	<clbid>0000095061</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8478,7 +8553,7 @@
 
 	<course>
 	<clbid>0000095062</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SPAN</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8528,7 +8603,7 @@
 
 	<course>
 	<clbid>0000095067</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>STAT</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8578,7 +8653,7 @@
 
 	<course>
 	<clbid>0000095068</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>STAT</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8678,7 +8753,7 @@
 
 	<course>
 	<clbid>0000097204</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SWRK</deptname>
 	<coursenumber>280</coursenumber>
 	<coursesection></coursesection>
@@ -8703,7 +8778,7 @@
 
 	<course>
 	<clbid>0000095063</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SWRK</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8778,7 +8853,7 @@
 
 	<course>
 	<clbid>0000095064</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>SWRK</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8878,7 +8953,7 @@
 
 	<course>
 	<clbid>0000095065</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>THEAT</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -8928,7 +9003,7 @@
 
 	<course>
 	<clbid>0000095066</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>THEAT</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
@@ -8978,7 +9053,7 @@
 
 	<course>
 	<clbid>0000095083</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>WMGST</deptname>
 	<coursenumber>294</coursenumber>
 	<coursesection></coursesection>
@@ -9003,7 +9078,7 @@
 
 	<course>
 	<clbid>0000095316</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>WMGST</deptname>
 	<coursenumber>298</coursenumber>
 	<coursesection></coursesection>
@@ -9053,7 +9128,7 @@
 
 	<course>
 	<clbid>0000095084</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>WMGST</deptname>
 	<coursenumber>394</coursenumber>
 	<coursesection></coursesection>
