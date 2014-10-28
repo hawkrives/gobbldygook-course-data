@@ -2595,6 +2595,9 @@
 				"BIO"
 			],
 			"desc": "This course offers intensive field-biology experiences within three equatorial New World environments: the Amazon rainforest, the Andes cloud forests, and the Galapagos Islands. Students compare the rich biodiversity, the adaptations and natural history of species, and the influence of human impact on these areas. Preparation for class requires readings from texts and primary literature concerning ecological and environmental issues specific to each of these regions. Based in Quito, the three field expeditions alternate with home-based rest days allowing for reflective writing in journals, assimilation, and discussion. Prerequisite: BIO 150, or BIO 126, or permission of instructor. Offered during Interim.",
+			"gereqs": [
+				"SPM"
+			],
 			"level": 200,
 			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 			"num": 288,
@@ -5836,9 +5839,9 @@
 			"num": 390,
 			"pf": false,
 			"places": [
-				"TOH 182",
-				"TOH 182",
-				"TOH 182"
+				"RNS 316",
+				"RNS 316",
+				"RNS 316"
 			],
 			"profs": [
 				"Rebecca M. Vandiver",
@@ -6769,7 +6772,7 @@
 			"desc": "Specific topics announced prior to each term are based on student interests and available staff. Past offerings include cardiovascular physiology, evolution, stress biology, and animal behavior. Class work includes comprehensive review of literature on the specific topic. Class meetings present topics in discussion format. Prerequisites: vary. May be repeated if topics are different. Counts toward environmental studies major (all tracks) and concentration when taught with environmental science focus and approved by chair.",
 			"level": 300,
 			"name": "Top: Lipid Biochem",
-			"notes": "Open to juniors and seniors only.",
+			"notes": "Open only to juniors and seniors.",
 			"num": 391,
 			"pf": false,
 			"places": [
@@ -7068,6 +7071,7 @@
 				"HWC"
 			],
 			"level": 200,
+			"notes": "Not open to first-year students during web registration. First-year students may add this course with the instructor's permission during the drop/add period.",
 			"num": 218,
 			"pf": false,
 			"places": [
@@ -7098,6 +7102,7 @@
 			],
 			"level": 200,
 			"name": "Revolutionary Cuba",
+			"notes": "Not open to first-year students during web registration. First-year students may add this course with the instructor's permission during the drop/add period.",
 			"num": 243,
 			"pf": false,
 			"places": [
@@ -7183,6 +7188,7 @@
 				"MCG"
 			],
 			"level": 200,
+			"notes": "This course is open to a limited number of first-year students.",
 			"num": 239,
 			"pf": false,
 			"places": [
@@ -7347,7 +7353,8 @@
 			],
 			"desc": "From tiny ion channels to the basis for learning, neuroscience is a rapidly developing area. Using texts, reviews, and current literature, students examine in depth the fundamental unit of the nervous system, the neuron. The goals are to understand how neurons accomplish their unique functions: electrical signaling, synaptic transmission, and directed growth and remodeling. Prerequisites: BIO 125, or BIO 227 or CH/BI 125, CH/BI 126, and CH/BI 227, and progress toward a major in any of the natural sciences.",
 			"gereqs": [
-				"IST"
+				"IST",
+				"ORC"
 			],
 			"level": 300,
 			"name": "The Neuron",
@@ -7377,6 +7384,9 @@
 				"BIO"
 			],
 			"desc": "Intensive study of the biology that created the Bahamas and that now constitutes the living structure of these islands. Staying at the Gerace Research Center provides access to a diversity of marine and terrestrial habitats including coral reefs, seagrass beds, mangrove forests, hypersaline ponds, limestone caverns, and the \"blue-holes\" that connect inland waterways to the sea. The Gerace Research Center is located on San Salvador Island. Counts toward major: Biology. Prerequisite: BIO 150, or BIO 126 , or permission of instructor. Offered during Interim.",
+			"gereqs": [
+				"SPM"
+			],
 			"level": 200,
 			"name": "Island Biology in Bahamas",
 			"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
@@ -7554,6 +7564,7 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Lit and Modern Philosophy",
+			"notes": "Not open to first-year students.",
 			"num": 268,
 			"pf": false,
 			"places": [
@@ -7585,6 +7596,7 @@
 			],
 			"level": 200,
 			"name": "Personal Essay",
+			"notes": "Not open to first-year students.",
 			"num": 288,
 			"pf": false,
 			"places": [
@@ -7615,7 +7627,7 @@
 			"num": 281,
 			"pf": false,
 			"places": [
-				"RNS 390"
+				"TOH 212"
 			],
 			"profs": [
 				"Thomas Jundt"
@@ -7764,6 +7776,7 @@
 			],
 			"grouptype": "R",
 			"level": 200,
+			"notes": "Open to first-year students.",
 			"num": 211,
 			"pf": false,
 			"places": [
@@ -8092,6 +8105,7 @@
 			],
 			"level": 200,
 			"name": "Munch and Nordic Lit",
+			"notes": "This course is open to a limited number of first-year students.",
 			"num": 246,
 			"pf": false,
 			"places": [
@@ -8290,6 +8304,7 @@
 			"desc": "Specific topics announced prior to each term are based on student interests and available staff. Past offerings include cardiovascular physiology, evolution, stress biology, and animal behavior. Class work includes comprehensive review of literature on the specific topic. Class meetings present topics in discussion format. Prerequisites: vary. May be repeated if topics are different. Counts toward environmental studies major (all tracks) and concentration when taught with environmental science focus and approved by chair.",
 			"level": 300,
 			"name": "Top: Zooplankton Ecology",
+			"notes": "Not open to first-year students.",
 			"num": 391,
 			"pf": false,
 			"places": [
@@ -8395,7 +8410,7 @@
 			"times": [
 				"M-F 0900-1000",
 				"M-F 1040-1200PM",
-				"M-F 0100-0330PM"
+				"M-F 0100-0300PM"
 			],
 			"title": "Graphic Design",
 			"type": "Research",
@@ -8426,7 +8441,7 @@
 			"times": [
 				"M-F 0900-1000",
 				"M-F 1040-1200PM",
-				"M-F 0100-0330PM"
+				"M-F 0100-0300PM"
 			],
 			"title": "Sculpture/Metal Casting",
 			"type": "Research",
@@ -8498,7 +8513,7 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Wiring the Brain",
-			"notes": "Course pending faculty approval. This course has some field trips.",
+			"notes": "Closed to first-year students. This course has class-year limits. This course has some field trips.",
 			"num": 292,
 			"pf": false,
 			"places": [
@@ -8669,9 +8684,12 @@
 			"grouptype": "R",
 			"level": 200,
 			"name": "Topics: Gender in Africa",
-			"notes": "MCG pending committee approval.",
+			"notes": "Not open to first-year students during web registration. First-year students may add this course with the instructor's permission during the drop/add period. MCG pending committee approval.",
 			"num": 289,
 			"pf": false,
+			"places": [
+				"TOH 212"
+			],
 			"profs": [
 				"Abdulai Iddrisu"
 			],
@@ -8696,13 +8714,85 @@
 			"name": "Atom/Molec Structure",
 			"num": 123,
 			"pf": false,
+			"places": [
+				"RNS 390"
+			],
 			"profs": [
 				"Staff"
 			],
 			"sect": "C",
 			"sem": 2,
 			"term": 20142,
+			"times": [
+				"M-F 0100-0300PM"
+			],
 			"title": "Atomic and Molecular Structure",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99287,
+			"credits": 1.0,
+			"crsid": 1402,
+			"depts": [
+				"STAT"
+			],
+			"desc": "This is an introductory course for the liberal arts. Students learn study design principles and develop statistical literacy and reasoning. They learn to describe distributions, assess if known distributions fit their data, estimate population values with confidence intervals, and assess statistical significance with hypothesis tests (e.g., chi-square, z-, and t-tests, ANOVA, correlation, and regression). In addition to lectures, there is a weekly computer lab. Not recommended for students who have completed a term of calculus. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics, and students should not take more than one; they all can serve as a prerequisite for further courses. Offered each semester.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 100,
+			"name": "Prin of Statistics",
+			"num": 110,
+			"pf": false,
+			"places": [
+				"TOH 182",
+				"TOH 182",
+				"TOH 182"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"MTWF 0900-1000",
+				"MTWF 1040-1200PM",
+				"MTWF 0100-0230PM"
+			],
+			"title": "Principles of Statistics",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99300,
+			"credits": 1.0,
+			"crsid": 27324,
+			"depts": [
+				"RACE"
+			],
+			"desc": "This course provides an introduction to the cultural and historical background of four groups in the United States: African Americans, Native Americans, Latinos, and Asian Americans. Emphasis is on race relations and the distinguishing characteristics of these cultures as reflected in the academic disciplines of the creative and performing arts, the humanities, the social and behavioral sciences, and the general area of popular culture. Contributions to cultural pluralism are accentuated as well as the special issues of identity faced by these Americans. This course emphasizes literary texts. Counts toward American studies major and Africa and the Americas concentration.",
+			"gereqs": [
+				"ALS-L",
+				"MCD"
+			],
+			"grouptype": "R",
+			"level": 100,
+			"name": "Intro to Race & Ethnic St",
+			"num": 121,
+			"pf": false,
+			"places": [
+				"TOH 214"
+			],
+			"profs": [
+				"Staff"
+			],
+			"sem": 2,
+			"term": 20142,
+			"times": [
+				"M-F 0100-0300PM"
+			],
+			"title": "Introduction to Race and Ethnic Studies",
 			"type": "Research",
 			"year": 2014
 		}
