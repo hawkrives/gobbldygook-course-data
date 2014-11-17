@@ -965,7 +965,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Sian E. Muir"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -1947,7 +1947,6 @@
 			"depts": [
 				"RACE"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
@@ -1968,7 +1967,6 @@
 			"depts": [
 				"RACE"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
@@ -1989,7 +1987,6 @@
 			"depts": [
 				"LAMST"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
@@ -2010,7 +2007,6 @@
 			"depts": [
 				"LAMST"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
@@ -2175,7 +2171,7 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Julie M. Legler"
+				"Laura F. Boehm"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -2269,34 +2265,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 95587,
-			"credits": 1.0,
-			"crsid": 441,
-			"depts": [
-				"ENGL"
-			],
-			"desc": "Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: Completion of ENGL 293 or permission of the instructor.",
-			"level": 300,
-			"name": "Advanced Fiction Wrtg",
-			"notes": "Open to students who have taken a 200-level workshop in that genre or by permission of the instructor. Any student who does not meet the requirements will be removed from the class after registration.",
-			"num": 372,
-			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"M 0700-1000PM"
-			],
-			"title": "Advanced Fiction Writing Workshop",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 95588,
 			"credits": 1.0,
 			"crsid": 667,
@@ -2364,7 +2332,7 @@
 				"Tostrud Ctr"
 			],
 			"profs": [
-				"Staff"
+				"Justin Lerfald"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -2452,8 +2420,8 @@
 			"num": 199,
 			"pf": false,
 			"places": [
-				"TOH 108",
-				"TOH 108"
+				"HH 501",
+				"HH 501"
 			],
 			"profs": [
 				"Megan J. Feeney"
@@ -2826,7 +2794,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"Th 0600-0900PM"
+				"T 0600-0900PM"
 			],
 			"title": "Assessment of ESL, K-12",
 			"type": "Research",
@@ -3220,7 +3188,6 @@
 			],
 			"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: NORW 111 or equivalent. Offered annually in the spring semester.",
 			"level": 100,
-			"name": "Begin Norwegian II",
 			"num": 112,
 			"pf": false,
 			"places": [
@@ -3248,7 +3215,6 @@
 			],
 			"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: NORW 111 or equivalent. Offered annually in the spring semester.",
 			"level": 100,
-			"name": "Begin Norwegian II",
 			"num": 112,
 			"pf": false,
 			"places": [
@@ -3276,7 +3242,6 @@
 			],
 			"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: NORW 111 or equivalent. Offered annually in the spring semester.",
 			"level": 100,
-			"name": "Begin Norwegian II",
 			"num": 112,
 			"pf": false,
 			"places": [
@@ -3978,6 +3943,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Encountering Others in the Bible",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4009,7 +3975,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
-			"notes": "Open to Environmental Conversations students only.",
+			"notes": "Open to Environmental Conversations students only. Subtitle: The Bible and the Idea of Nature",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4041,6 +4007,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Is the Bible Immoral?",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4072,6 +4039,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Women and/in the Bible",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4103,6 +4071,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Is the Bible Immoral?",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4134,6 +4103,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Journeys and the Bible: Travel and Transformation",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4165,6 +4135,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Women and/in the Bible",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4196,6 +4167,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Gender Imaginings",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4227,6 +4199,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Encountering Others in the Bible",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4258,6 +4231,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Gender Imaginings",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4289,6 +4263,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Call and Response in Biblical Traditions",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4320,6 +4295,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: From Sinai to Facebook: Laws, Rules, and Customs",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4353,6 +4329,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: From Sinai to Facebook: Laws, Rules, and Customs",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4386,6 +4363,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Story and Law",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4419,6 +4397,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: The Bible and Salvation",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4452,6 +4431,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Story and Law",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4485,6 +4465,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: The Bible as Screen Play",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -4661,7 +4642,7 @@
 			"num": 150,
 			"pf": false,
 			"places": [
-				"RNS 455"
+				"RNS 255"
 			],
 			"profs": [
 				"Charles Jr. Umbanhowar"
@@ -4695,6 +4676,9 @@
 			"notes": "Students in Bio 150A must also register for one lab Bio 150 AL or BL.",
 			"num": 150,
 			"pf": false,
+			"places": [
+				"RNS 410"
+			],
 			"profs": [
 				"Jean C. Porterfield"
 			],
@@ -5285,7 +5269,7 @@
 			"num": 239,
 			"pf": false,
 			"places": [
-				"RNS 190"
+				"RNS 290"
 			],
 			"profs": [
 				"Kevin M. Crisp"
@@ -5315,7 +5299,7 @@
 				"RNS 350"
 			],
 			"profs": [
-				"Daniel A. Everson"
+				"William Samuels"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -5399,7 +5383,7 @@
 				"RNS 350"
 			],
 			"profs": [
-				"Daniel A. Everson"
+				"William Samuels"
 			],
 			"sect": "D",
 			"sem": 3,
@@ -5455,7 +5439,7 @@
 				"RNS 350"
 			],
 			"profs": [
-				"Daniel A. Everson"
+				"William Samuels"
 			],
 			"sect": "G",
 			"sem": 3,
@@ -5589,7 +5573,7 @@
 				"RNS 390"
 			],
 			"profs": [
-				"Staff"
+				"Daniel A. Everson"
 			],
 			"sect": "D",
 			"sem": 3,
@@ -5622,7 +5606,7 @@
 				"RNS 390"
 			],
 			"profs": [
-				"Staff"
+				"William Samuels"
 			],
 			"sect": "E",
 			"sem": 3,
@@ -5705,7 +5689,7 @@
 			"groupid": 182,
 			"level": 100,
 			"name": "Chemistry & the World",
-			"notes": "Students in Chem 111 must also register for lab Chem 111 L.",
+			"notes": "Students in Chem 111 must also register for one lab Chem 111 AL or BL.",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -5918,8 +5902,8 @@
 			"num": 288,
 			"pf": false,
 			"places": [
-				"TOH 212",
-				"TOH 212"
+				"TOH 108",
+				"TOH 108"
 			],
 			"profs": [
 				"Michael Fitzgerald"
@@ -6336,7 +6320,7 @@
 			"num": 372,
 			"pf": false,
 			"places": [
-				"TOH 112"
+				"TOH 212"
 			],
 			"profs": [
 				"Rosemary A. Pfarr-Baker"
@@ -6592,7 +6576,7 @@
 			"num": 241,
 			"pf": false,
 			"places": [
-				"RNS 290"
+				"OM 310"
 			],
 			"profs": [
 				"Anna E. Johnson"
@@ -6730,6 +6714,7 @@
 			],
 			"desc": "Using problem solving techniques, students study topics from non-continuous mathematics, including basic counting principles, mathematical induction, recursion, efficiency of algorithms, and graph theory. Prerequisite: MATH 119 or MATH 120 or CSCI 121 or CSCI 125 or permission of instructor. Offered in 2012-13 and alternate years. Students may not take this course after MATH 244, MATH 252, or MATH 282 without permission of instructor.",
 			"level": 200,
+			"notes": "No credit for anyone who has taken Math 244, 252, or 282 (unless you have permission of the instructor).",
 			"num": 232,
 			"pf": false,
 			"places": [
@@ -7742,6 +7727,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Page, Stage, and Screen: Telling Stories",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7774,6 +7760,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Text and the City",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7804,6 +7791,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Language Matters",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7836,7 +7824,7 @@
 				"FYW"
 			],
 			"level": 100,
-			"notes": "Open to Environmental Conversations students only.",
+			"notes": "Open to Environmental Conversations students only. Subtitle: The Nature of Nature Writing",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7869,6 +7857,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Telling Stores About Climate Change",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7899,6 +7888,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Rates and Ratings",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7931,6 +7921,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Memorializing the Past",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7961,6 +7952,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Seeing Race in the Twenty-First Century",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7991,13 +7983,14 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Please note change of instructor and topic. Subtitle: Food Writing: Adventures in Gastronomy",
 			"num": 111,
 			"pf": false,
 			"places": [
 				"RML 421"
 			],
 			"profs": [
-				"Joseph L. Mbele"
+				"Lise R. Hoy"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -8021,6 +8014,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Personal Ecology",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -8051,6 +8045,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Seeing Race in the Twenty-First Century",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -8081,6 +8076,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Reading Cultural Texts",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -8111,6 +8107,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Writing Funny",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -8143,6 +8140,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: Reading Other People's Lives",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -8356,6 +8354,7 @@
 			"num": 102,
 			"pf": false,
 			"places": [
+				"DC 216",
 				"DC 216"
 			],
 			"profs": [
@@ -8365,7 +8364,8 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"TTh 1145-0245PM"
+				"T 1145-0245PM",
+				"Th 1245-0345PM"
 			],
 			"title": "Foundation Two-Dimensional Media",
 			"type": "Research",
@@ -8611,6 +8611,7 @@
 				"ORC"
 			],
 			"level": 100,
+			"notes": "This course has class-year limits.",
 			"num": 115,
 			"pf": false,
 			"places": [
@@ -8701,7 +8702,9 @@
 			"gereqs": [
 				"SPM"
 			],
+			"halfcredit": "2",
 			"level": 100,
+			"notes": "Second half of semester course.",
 			"num": 103,
 			"pf": false,
 			"places": [
@@ -8731,7 +8734,9 @@
 			"gereqs": [
 				"SPM"
 			],
+			"halfcredit": "2",
 			"level": 100,
+			"notes": "Second half of semester course.",
 			"num": 103,
 			"pf": false,
 			"places": [
@@ -8879,7 +8884,7 @@
 			"groupid": 126,
 			"level": 200,
 			"name": "Human Anatomy & Physiol",
-			"notes": "Students in Bio 243 must also register for one lab Bio 243 AL, BL or CL. This course has class-year limits.",
+			"notes": "Students in Bio 243 must also register for one lab Bio 243 AL, BL, or CL. This course has class-year limits.",
 			"num": 243,
 			"pf": false,
 			"places": [
@@ -9997,7 +10002,7 @@
 			"groupid": 664,
 			"level": 200,
 			"name": "Intermed Japanese II",
-			"notes": "Students in Japanese 232 must also register for lab Japanese 232 L.",
+			"notes": "Students in Japanese 232A and B must also register for one lab Japanese 232 AL or BL",
 			"num": 232,
 			"pf": false,
 			"places": [
@@ -10096,8 +10101,8 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"T 1145-0110PM",
-				"Th 1245-0205PM"
+				"T 1145-0245PM",
+				"Th 1245-0345PM"
 			],
 			"title": "Intermediate Photography",
 			"type": "Research",
@@ -10434,8 +10439,8 @@
 			"num": 232,
 			"pf": false,
 			"places": [
-				"TOH 316",
-				"TOH 316"
+				"TOH 314",
+				"TOH 314"
 			],
 			"profs": [
 				"Ariel Strichartz"
@@ -10552,11 +10557,11 @@
 			"desc": "Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures in this core course cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week. Prerequisites: BIO 150, and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125; or BIO 125 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125. Counts as \"genetics\" core category. Offered each semester. Counts toward neuroscience concentration.",
 			"groupid": 122,
 			"level": 200,
-			"notes": "Students in Bio 233A must also register for one lab Bio 233 AL, BL or CL. This course has class-year limits.",
+			"notes": "Students in Bio 233 must also register for one lab Bio 233 AL, BL or CL. This course has class-year limits.",
 			"num": 233,
 			"pf": false,
 			"places": [
-				"RNS 150"
+				"RNS 310"
 			],
 			"profs": [
 				"Kimberly A. Kandl"
@@ -10852,6 +10857,7 @@
 			"halfcredit": "2",
 			"level": 200,
 			"name": "Intro to Coaching",
+			"notes": "Second half of semester course.",
 			"num": 238,
 			"pf": false,
 			"places": [
@@ -11022,7 +11028,7 @@
 			"num": 110,
 			"pf": false,
 			"places": [
-				"TB Kelsey"
+				"HH 501"
 			],
 			"profs": [
 				"Karen Wilson"
@@ -11113,6 +11119,7 @@
 			],
 			"level": 100,
 			"name": "Intro: Pol Theory",
+			"notes": "This course has class-year limits.",
 			"num": 113,
 			"pf": false,
 			"places": [
@@ -11145,6 +11152,7 @@
 			],
 			"level": 100,
 			"name": "Intro: Pol Theory",
+			"notes": "This course has class-year limits.",
 			"num": 113,
 			"pf": false,
 			"places": [
@@ -11304,11 +11312,11 @@
 			],
 			"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, neural networks, applications of genetic algorithms to scheduling, computational Bayesian image reconstruction, and design of software to assist choreographers.",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Therac 25 Research",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Charles Huff"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -12284,7 +12292,6 @@
 			"depts": [
 				"RACE"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
@@ -12305,7 +12312,6 @@
 			"depts": [
 				"LAMST"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
@@ -12394,11 +12400,11 @@
 			],
 			"desc": "Independent Research",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Capitalism & Defiance",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Ibtesam Al Atiyat"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -12416,11 +12422,11 @@
 			],
 			"desc": "Students pursue an independent topic of study with a faculty director. Cannot count as one of two required level III courses for the major.",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Wyatt in Context",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Mary E. Trull"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -12550,11 +12556,11 @@
 			],
 			"desc": "Independent Study in studio art prerequisites: four foundation courses and two upper-division courses in area of study.",
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Large Format Photo",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Margaret Ojala"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -13505,7 +13511,6 @@
 			"depts": [
 				"WMGST"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
@@ -13527,7 +13532,6 @@
 			"depts": [
 				"RACE"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
@@ -13548,7 +13552,6 @@
 			"depts": [
 				"LAMST"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
@@ -13657,11 +13660,11 @@
 			],
 			"desc": "Independent Study in studio art prerequisites: four foundation courses and two upper-division courses in area of study.",
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Jugtown Pottery",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Kathryne Fisher"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -14008,7 +14011,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"TTh 1255-0150PM"
+				"TTh 0935-1030"
 			],
 			"title": "Lifeguard Training",
 			"type": "Research",
@@ -14457,6 +14460,7 @@
 			"groupid": 743,
 			"level": 200,
 			"name": "Math of Biology",
+			"notes": "Students in Math 236 must also register for lab Math 236 L.",
 			"num": 236,
 			"pf": false,
 			"places": [
@@ -16276,6 +16280,7 @@
 			],
 			"level": 100,
 			"name": "Politics Human Rights",
+			"notes": "This course has class-year limits.",
 			"num": 117,
 			"pf": false,
 			"places": [
@@ -16307,6 +16312,7 @@
 			],
 			"level": 100,
 			"name": "Politics Human Rights",
+			"notes": "This course has class-year limits.",
 			"num": 117,
 			"pf": false,
 			"places": [
@@ -16432,7 +16438,7 @@
 				"RNS 150"
 			],
 			"profs": [
-				"Paul J. Roback"
+				"Laura F. Boehm"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -16460,7 +16466,7 @@
 				"RML 115"
 			],
 			"profs": [
-				"Paul J. Roback"
+				"Laura F. Boehm"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -16488,7 +16494,7 @@
 				"RML 115"
 			],
 			"profs": [
-				"Paul J. Roback"
+				"Laura F. Boehm"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -16516,13 +16522,13 @@
 				"RML 115"
 			],
 			"profs": [
-				"Paul J. Roback"
+				"Laura F. Boehm"
 			],
 			"sect": "C",
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"F 1045-1140"
+				"F 1255-0150PM"
 			],
 			"title": "Prin of Statistics Lab",
 			"type": "Lab",
@@ -17403,7 +17409,7 @@
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. Depending on course topic, may count toward the neuroscience concentration. May be offered as a 1.00 credit course or .50 credit course.",
 			"level": 300,
-			"name": "Res:",
+			"name": "Res: Aging Mind",
 			"notes": "Prerequisite: permission of instructor required. Closed during web registration",
 			"num": 396,
 			"pf": false,
@@ -17432,7 +17438,7 @@
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. Depending on course topic, may count toward the neuroscience concentration. May be offered as a 1.00 credit course or .50 credit course.",
 			"level": 300,
-			"name": "Res:",
+			"name": "Res: Psych Well-Being",
 			"notes": "Prerequisite: permission of instructor required. Closed during web registration",
 			"num": 396,
 			"pf": false,
@@ -17492,7 +17498,7 @@
 			"groupid": 1158,
 			"level": 200,
 			"name": "Research Methods",
-			"notes": "Students in Psych 230A must also register for lab Psych 230 AL.",
+			"notes": "Students in Psych 230 must also register for onr lab Psych 230 AL or BL.",
 			"num": 230,
 			"pf": false,
 			"places": [
@@ -17531,7 +17537,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"M 1:00-3:00PM"
+				"M 0100-0300PM"
 			],
 			"title": "Research Methods Lab",
 			"type": "Lab",
@@ -17837,7 +17843,7 @@
 				"SAC Wr Rm"
 			],
 			"profs": [
-				"Maya Hamilton"
+				"Staff"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -17960,8 +17966,8 @@
 			"num": 370,
 			"pf": false,
 			"places": [
-				"RML 515",
-				"RML 515"
+				"HH 515",
+				"HH 515"
 			],
 			"profs": [
 				"Steven C. Hahn"
@@ -18114,7 +18120,7 @@
 			"desc": "Students explore the literature of chemistry in a seminar setting. Experience is gained in reading, discussing, and presenting chemistry-related results from the current scientific literature. Each section has a distinct topical focus selected by the chemistry faculty from suggestions made by junior chemistry majors during the spring of the previous year. Open to senior chemistry majors only. Offered spring semester.",
 			"level": 300,
 			"name": "Sem: Lit of Chemistry",
-			"notes": "This course open to seniors only.",
+			"notes": "Closed during web registration. Permission required to register. Contact Professor Hanson for details.",
 			"num": 390,
 			"pf": true,
 			"places": [
@@ -18141,7 +18147,7 @@
 			],
 			"desc": "This course undertakes an intensive study of a particular period or topic through the interdisciplinary perspective of American studies. This course employs a seminar format, with concentration on student research. Recent topics include: \"Disney's America,\" \"American Women of Color,\" \"Man and Nature,\" and \"California Dreams.\" Offered annually in the spring semester. May be repeated if topics are different.",
 			"level": 300,
-			"name": "Sem:\"1968:New Am Revolut\"",
+			"name": "Sem:1968:New Am Revolut",
 			"notes": "Open to seniors and juniors only.",
 			"num": 301,
 			"pf": false,
@@ -18303,342 +18309,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 96451,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Brian Bjorklund"
-			],
-			"sect": "A",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96452,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sect": "B",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96453,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Todd F. Edwards"
-			],
-			"sect": "C",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96454,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sect": "D",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96455,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Steven Edwins"
-			],
-			"sect": "E",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96456,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "F",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96457,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Abdulai Iddrisu"
-			],
-			"sect": "G",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96458,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Brian Bjorklund"
-			],
-			"sect": "H",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96459,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sect": "I",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96460,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sect": "J",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96461,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sect": "K",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96462,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Mary Griep"
-			],
-			"sect": "L",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96463,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "M",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96464,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Matthew Rohn"
-			],
-			"sect": "N",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96465,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sect": "O",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
-			"clbid": 96466,
-			"credits": 1.0,
-			"crsid": 690,
-			"depts": [
-				"IS"
-			],
-			"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
-			"level": 300,
-			"num": 392,
-			"pf": false,
-			"profs": [
-				"Mark Allister"
-			],
-			"sect": "P",
-			"sem": 3,
-			"term": 20143,
-			"title": "Senior Project II",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 96467,
 			"credits": 0.25,
 			"crsid": 1102,
@@ -18768,7 +18438,7 @@
 			"groupid": 1159,
 			"level": 200,
 			"name": "Sensation/Perception",
-			"notes": "Students in Psych 235 must also register for lab Psych 235 AL BL or CL.",
+			"notes": "Students in Psych 235 must also register for lab Psych 235 AL, BL, or CL.",
 			"num": 235,
 			"pf": false,
 			"places": [
@@ -18947,7 +18617,7 @@
 			"num": 249,
 			"pf": false,
 			"places": [
-				"TBA"
+				"RNS 190"
 			],
 			"profs": [
 				"M. Minda Ori\u00f1a"
@@ -19005,7 +18675,7 @@
 			],
 			"level": 200,
 			"name": "Sociological Theory",
-			"notes": "Open to Sociology/Anthropology majors only.",
+			"notes": "Open to Sociology/Anthropology majors only. This section has been canceled",
 			"num": 291,
 			"pf": false,
 			"places": [
@@ -19342,7 +19012,7 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Laura F. Boehm"
+				"Paul J. Roback"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -19374,7 +19044,7 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Laura F. Boehm"
+				"Paul J. Roback"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -19435,6 +19105,7 @@
 			"profs": [
 				"Xun Pomponio"
 			],
+			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -19632,7 +19303,7 @@
 				"RNS 340"
 			],
 			"profs": [
-				"Robert Hanson"
+				"William P. Roberts"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -19719,7 +19390,7 @@
 				"RNS 340"
 			],
 			"profs": [
-				"William P. Roberts"
+				"Robert Hanson"
 			],
 			"sect": "G",
 			"sem": 3,
@@ -19943,6 +19614,7 @@
 			"halfcredit": "1",
 			"level": 300,
 			"name": "Teaching Reading 5-12",
+			"notes": "Open to Juniors and Seniors only.",
 			"num": 321,
 			"pf": false,
 			"places": [
@@ -20549,15 +20221,18 @@
 			"desc": "For science majors, learning to read the primary literature and other professional sources is an important transition from classroom learning to post-graduate endeavors. Students read, present, and discuss scientific literature in a field selected by participating faculty. The goal is to garner sufficient expertise to allow critical analysis of the particular field. Requires permission of instructor. May be repeated if topics are different.",
 			"level": 200,
 			"name": "Top: Medical Terminology",
-			"notes": "Closed during web registration. Registration by permission only; see Professor Jean Porterfield. Class meeting time TBA. This course is intended only for for students who need it as a prerequisite for specific graduate programs.",
+			"notes": "Closed during web registration. Registration by permission only; see Professor Jean Porterfield. This course is intended only for for students who need it as a prerequisite for specific graduate programs.",
 			"num": 291,
 			"pf": false,
 			"profs": [
-				"Nicole Son"
+				"Staff"
 			],
 			"sect": "B",
 			"sem": 3,
 			"term": 20143,
+			"times": [
+				"Th 0700-0900PM"
+			],
 			"title": "Topics in Biological Research",
 			"type": "Topic",
 			"year": 2014
@@ -21059,13 +20734,13 @@
 				"TPH Wt Rm"
 			],
 			"profs": [
-				"Staff"
+				"Vincent Varpness"
 			],
 			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"MW 0800-0855"
+				"TTh 0800-0855"
 			],
 			"title": "Weight Training Women",
 			"type": "Research",
@@ -21090,7 +20765,7 @@
 				"TPH Wt Rm"
 			],
 			"profs": [
-				"Staff"
+				"Justin Lerfald"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -21110,7 +20785,6 @@
 				"CHIN"
 			],
 			"desc": "This advanced Chinese language course aims to develop students' language proficiency and introduce students to various aspects of contemporary Chinese social life and culture. Course materials include films with excerpts of written scripts, newspapers, television, and essays related to the unit topics. Classroom activities include lectures, language drills, discussions, debates, presentations, and performances. Prerequisite: CHIN 302 or permission of instructor.",
-			"grouptype": "R",
 			"level": 300,
 			"name": "Chinese Lang/Soc/Media",
 			"num": 351,
@@ -21270,7 +20944,7 @@
 				"WRI"
 			],
 			"level": 300,
-			"name": "Sem: Nation/Emp Mod Russ",
+			"name": "Sem: Nation/Emp Russ Hist",
 			"notes": "Especially for junior and senior history and Russian studies majors. Others need permission of instructor.",
 			"num": 320,
 			"pf": false,
@@ -21331,7 +21005,6 @@
 			"gereqs": [
 				"MCG"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "Contemp Latin Am Issues",
 			"notes": "Pre-requisite: Previous coursework related to Latin America or permission of instructor.",
@@ -21396,7 +21069,6 @@
 				"ALS-A",
 				"ORC"
 			],
-			"grouptype": "R",
 			"level": 100,
 			"name": "Intro to Art History",
 			"num": 153,
@@ -21455,7 +21127,6 @@
 				"ALS-A",
 				"ORC"
 			],
-			"grouptype": "R",
 			"level": 100,
 			"name": "Intro to Art History",
 			"num": 153,
@@ -21544,7 +21215,6 @@
 				"ART"
 			],
 			"desc": "This course explores in depth the issues most crucial to artists working today in an increasingly globalized art scene. Students investigate the complexities of new media, new methods of production and exhibition, and theoretical models through readings and a required field trip to a contemporary art museum. Students analyze both journalistic criticism and theoretical texts, encompassing a wide variety of perspectives, and respond through short writing assignments and classroom discussion. Fee for field trip may be required. Prerequisite: at least one art history or studio art course, or permission of the instructor. Offered alternate years.",
-			"grouptype": "R",
 			"level": 200,
 			"name": "Art Now",
 			"num": 280,
@@ -21586,7 +21256,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"T 1145-0245"
+				"T 1145-0245PM"
 			],
 			"title": "Chemistry & the World Lab",
 			"type": "Lab",
@@ -21630,7 +21300,7 @@
 			],
 			"desc": "Students apply theories and methods of culture studies to a selected major topic in American culture. The course employs a discussion format, focusing on critical reading, analytic essays. Recent topics include \"Masculinity in America,\" \"American Adolescence,\" and \"Campus Ecology.\" Usually offered annually in the spring semester. May be repeated if topics are different.",
 			"level": 200,
-			"name": "Top: \"Cities in Mod Amer\"",
+			"name": "Top: Cities in Mod Amer",
 			"num": 207,
 			"pf": false,
 			"places": [
@@ -21754,6 +21424,7 @@
 			],
 			"level": 200,
 			"name": "Citizenship War Terror",
+			"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 			"num": 284,
 			"pf": false,
 			"places": [
@@ -21779,8 +21450,11 @@
 				"PSCI"
 			],
 			"desc": "Students examine the geopolitics and political economy of Russia as an energy producing and consuming \"Petrostate.\" Beginning with the domestic political economy of the Russian energy industries, students proceed to Russia's relations with Central Asia from which it imports gas and with Europe to which it exports oil and gas. The course also considers Russia's relationships with the U.S.A., India, and China. Special attention given to Russian/Norwegian energy relations in the Barents Sea. Prerequisite: PSCI 220 and at least one comparative politics course or permission of instructor.",
+			"gereqs": [
+				"WRI"
+			],
 			"level": 300,
-			"name": "Geopolitics Eurasian Ener",
+			"name": "Sem:Geopolitics Eurasian",
 			"notes": "Open only to seniors during web registration. Juniors may add on a space- available basis during the drop/add period.",
 			"num": 382,
 			"pf": false,
@@ -22213,7 +21887,6 @@
 			"gereqs": [
 				"AQR"
 			],
-			"grouptype": "R",
 			"level": 100,
 			"name": "Comp Sci for Science/Math",
 			"num": 125,
@@ -22355,7 +22028,6 @@
 				"DANCE"
 			],
 			"desc": "This movement intensive class is a blend of the art and the science of the body in dancing. It integrates an artistic approach to moving with a physical experience that deepens awareness of the body in motion and enhances understanding of body structure and function. This class also links to the content and focus in DANCE 201and DANCE 301. Prerequisite: DANCE 111 or DANCE 121 or DANCE 210/DANCE 211 or DANCE 220/DANCE 221, or permission of instructor. Offered each semester.",
-			"grouptype": "R",
 			"level": 200,
 			"num": 212,
 			"pf": false,
@@ -22384,7 +22056,6 @@
 				"DANCE"
 			],
 			"desc": "This movement intensive class is a blend of the art and the science of the body in dancing. It integrates an artistic approach to moving with a physical experience that deepens awareness of the body in motion and enhances understanding of body structure and function. This class also links to the content and focus in DANCE 201 and DANCE 301. Prerequisite: DANCE 111 or DANCE 121 or DANCE 210/DANCE 211 or DANCE 220/DANCE 221, or permission of instructor. Offered each semester.",
-			"grouptype": "R",
 			"level": 200,
 			"num": 213,
 			"pf": false,
@@ -22465,38 +22136,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97312,
-			"credits": 1.0,
-			"crsid": 21392,
-			"depts": [
-				"ENGL"
-			],
-			"desc": "Students explore African literature as it has evolved from oral traditions like folktales and epics into fiction, poetry, and drama in written form. Topics studied might include literature of particular geographical areas, such as East Africa, a genre such as poetry, or the influence of western literature on that of Africa. Authors studied may include Chinua Achebe, J. M. Coetzee, Nadine Gordimer, Arthur Nortje, Wole Soyinka, Ngugi wa Thiong'o, and Alex La Guma. Prerequisite: FYW.",
-			"gereqs": [
-				"ALS-L",
-				"MCG"
-			],
-			"grouptype": "R",
-			"level": 200,
-			"name": "Top: African Literature",
-			"num": 206,
-			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"MWF 1150-1245PM"
-			],
-			"title": "African Literature",
-			"type": "Topic",
-			"year": 2014
-		},
-		{
 			"clbid": 97313,
 			"credits": 1.0,
 			"crsid": 25457,
@@ -22508,7 +22147,6 @@
 				"ALS-L",
 				"WRI"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "20C British & Irish Lit",
 			"num": 229,
@@ -22630,7 +22268,6 @@
 			"gereqs": [
 				"WRI"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Creative Writing: Poetry",
 			"num": 292,
@@ -22751,7 +22388,7 @@
 			],
 			"level": 200,
 			"name": "Law,Politics,Morality",
-			"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and a limited number of juniors during web registration.",
+			"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 			"num": 254,
 			"pf": false,
 			"places": [
@@ -22783,7 +22420,7 @@
 			],
 			"level": 300,
 			"name": "Sem: Eth/Theory/Value",
-			"notes": "Prerequisites: Two courses in Philosophy, one of which must be Phil 235 or Phil 236.",
+			"notes": "Prerequisites: Completion of BTS-T, and two courses in Philosophy, one of which must be Phil 235 or Phil 236. Open only to seniors and juniors during web registration.",
 			"num": 373,
 			"pf": false,
 			"places": [
@@ -22848,7 +22485,7 @@
 			],
 			"level": 300,
 			"name": "Sem: Kierk/Nietz/Freud",
-			"notes": "Prerequisite: upper level philosophy major",
+			"notes": "Prerequisite: upper-level philosophy major",
 			"num": 399,
 			"pf": false,
 			"places": [
@@ -23160,7 +22797,6 @@
 			"gereqs": [
 				"EIN"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 			"num": 277,
@@ -23377,7 +23013,6 @@
 				"ALS-L",
 				"MCD"
 			],
-			"grouptype": "R",
 			"level": 100,
 			"name": "Intro to Race & Ethnic St",
 			"notes": "Open to all students.",
@@ -23503,7 +23138,9 @@
 			"gereqs": [
 				"SED"
 			],
+			"groupid": 124,
 			"level": 200,
+			"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL.",
 			"num": 242,
 			"pf": false,
 			"places": [
@@ -23530,6 +23167,7 @@
 			"depts": [
 				"BIO"
 			],
+			"groupid": 124,
 			"level": 200,
 			"name": "Vertebrate Biology Lab",
 			"num": 242,
@@ -23557,6 +23195,7 @@
 			"depts": [
 				"BIO"
 			],
+			"groupid": 124,
 			"level": 200,
 			"name": "Vertebrate Biology Lab",
 			"num": 242,
@@ -23585,8 +23224,9 @@
 				"BIO"
 			],
 			"desc": "This course begins with an in-depth look at a plant cell and its physiology, followed by a discussion of whole plant physiology as it relates to cellular functions. Students attend lectures CHEM 126. BIO 227 recommended. Counts as \"comparative organismal biology\" core category. Prerequisites: BIO 227, or BIO 125 and BIO 126, and CHEM 125 and CHEM 126, or CH/BI 125, CH/BI 126, and CH/BI 227 and BIO 126. Counts as \"comparative organismal biology\" core category.",
+			"groupid": 134,
 			"level": 200,
-			"notes": "Students in Bio 251 must also register for one lab Bio 251 AL orBL.",
+			"notes": "Students in Bio 251 must also register for one lab Bio 251 AL or BL.",
 			"num": 251,
 			"pf": false,
 			"places": [
@@ -23611,6 +23251,7 @@
 			"depts": [
 				"BIO"
 			],
+			"groupid": 134,
 			"level": 200,
 			"name": "Plant Physiology Lab",
 			"num": 251,
@@ -23638,6 +23279,7 @@
 			"depts": [
 				"BIO"
 			],
+			"groupid": 134,
 			"level": 200,
 			"name": "Plant Physiology Lab",
 			"num": 251,
@@ -23694,7 +23336,6 @@
 				"BIO"
 			],
 			"desc": "Students work on special projects during one afternoon of laboratory per week. Each student must have the sponsorship of a faculty member. This course does not count toward the biology major. P/N only. Offered each semester. May be repeated if topic is different.",
-			"grouptype": "R",
 			"level": 300,
 			"name": "Supplemental Research",
 			"num": 375,
@@ -23721,9 +23362,12 @@
 			],
 			"groupid": 166,
 			"level": 300,
-			"notes": "Students in Bio 382 must also register for one discussion section Bio 382 AD or BD.",
+			"notes": "Students in Bio 382 must also register for one discussion section Bio 382 AD or BD. Open only to juniors and seniors.",
 			"num": 382,
 			"pf": false,
+			"places": [
+				"TOH 210"
+			],
 			"profs": [
 				"Theodore Johnson"
 			],
@@ -23899,8 +23543,8 @@
 			"num": 199,
 			"pf": false,
 			"places": [
-				"TOH 108",
-				"TOH 108"
+				"HH 501",
+				"HH 501"
 			],
 			"profs": [
 				"Megan J. Feeney"
@@ -24017,7 +23661,6 @@
 			"gereqs": [
 				"AQR"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Honors Stats for Science",
 			"notes": "This course has class year limits. FOR STAT 263, PLEASE SEE ECON 263.",
@@ -24027,7 +23670,7 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Laura F. Boehm"
+				"Julie M. Legler"
 			],
 			"sect": "B",
 			"sem": 3,
@@ -24312,7 +23955,6 @@
 			"gereqs": [
 				"MCG"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Life/Death in Africa",
 			"num": 299,
@@ -24340,7 +23982,6 @@
 				"MUSEN"
 			],
 			"desc": "This choral ensemble of 12 to 16 mixed voices focuses primarily on music of the Middle Ages, Renaissance and Baroque eras. Besides small-group choral singing, students have the opportunity for some one-to-a-part singing. Performances are often in collaboration with the Collegium Musicum. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 102,
 			"pf": true,
@@ -24369,7 +24010,6 @@
 				"MUSEN"
 			],
 			"desc": "The 100-voice first-year women's chorus performs a wide range of choral repertoire. Participation is by audition for first-year women only. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated once for a maximum total of two semesters.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 103,
 			"pf": true,
@@ -24396,7 +24036,6 @@
 				"MUSEN"
 			],
 			"desc": "This choir of 95 mixed voices performs a wide range of choral repertoire that often includes music for choir and instruments or organ as well as congregation. Participation is by audition and does not include first-year students. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in the St. Olaf Cantorei are encouraged to register for voice lessons.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 104,
 			"pf": true,
@@ -24427,7 +24066,6 @@
 				"MUSEN"
 			],
 			"desc": "This choir of 120 mixed voices performs a wide range of choral repertoire that includes larger works for choir and orchestra. Participation is by audition and does not include first-year students. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in the St. Olaf Chapel Choir are encouraged to register for voice lessons.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 105,
 			"pf": true,
@@ -24454,7 +24092,6 @@
 				"MUSEN"
 			],
 			"desc": "The college's touring choir of 75 mixed voices continues its original mission of primarily focusing on a wide range of sacred choral literature. Participation is by audition and does not include first-year students. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in the St. Olaf Choir are required to register for voice lessons.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 106,
 			"pf": true,
@@ -24483,7 +24120,6 @@
 				"MUSEN"
 			],
 			"desc": "The 85-voice first-year men's chorus performs a wide range of choral repertoire. Participation is by audition for first-year men only. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated once for a maximum total of two semesters.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 107,
 			"pf": true,
@@ -24511,7 +24147,6 @@
 				"MUSEN"
 			],
 			"desc": "This full symphonic band performs a broad range of repertoire for wind and percussion instruments. Participation is by audition. The ensemble conductor provides full details for all rehearsal and performance obligations. May be repeated. Students in the Norseman Band are encouraged to register for lessons on their band instrument.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 111,
 			"pf": true,
@@ -24540,7 +24175,6 @@
 				"MUSEN"
 			],
 			"desc": "The college's touring symphonic band of approximately 90-95 instrumentalists performs a broad range of repertoire for winds and percussion. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in the St. Olaf Band are required to register for lessons on their band instrument.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 112,
 			"pf": true,
@@ -24571,7 +24205,6 @@
 				"MUSEN"
 			],
 			"desc": "This full symphony orchestra performs a broad range of repertoire. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in Philharmonia are encouraged to register for lessons on their orchestral instrument.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 121,
 			"pf": true,
@@ -24600,7 +24233,6 @@
 				"MUSEN"
 			],
 			"desc": "The college's touring symphony orchestra of approximately 90-95 instrumentalists performs a broad range of repertoire. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated. Students in the St. Olaf Orchestra are required to register for lessons on their orchestral instrument.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 122,
 			"pf": true,
@@ -24627,7 +24259,6 @@
 				"MUSEN"
 			],
 			"desc": "The Jazz Ensemble program offers the opportunity to play the music of the big bands of the 20th and 21st centuries as well as exploring newer forms of the genre. Admission to one of the three jazz ensembles is based on yearly auditions and available openings. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 131,
 			"pf": true,
@@ -24654,7 +24285,6 @@
 				"MUSEN"
 			],
 			"desc": "The Jazz Ensemble program offers the opportunity to play the music of the big bands of the 20th and 21st centuries as well as exploring newer forms of the genre. Admission to one of the three jazz ensembles is based on yearly auditions and available openings. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 132,
 			"pf": true,
@@ -24681,7 +24311,6 @@
 				"MUSEN"
 			],
 			"desc": "The Jazz Ensemble program offers the opportunity to play the music of the big bands of the 20th and 21st centuries as well as exploring newer forms of the genre. Admission to one of the three jazz ensembles is based on yearly auditions and available openings. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 133,
 			"pf": true,
@@ -24708,7 +24337,6 @@
 				"MUSEN"
 			],
 			"desc": "This instrumental ensemble performs music of the Medieval, Renaissance and Baroque eras on historical instruments. Students learn and perform on early instruments such as recorders, viols, sackbuts, lutes and cornets that are owned by the college. Performances are often in collaboration with the Early Music Singers. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 151,
 			"pf": true,
@@ -24736,7 +24364,6 @@
 				"MUSEN"
 			],
 			"desc": "This non-auditioned women's ensemble is open to students in all four class years as well as faculty, staff and emerita. Emphasis is on a less-demanding rehearsal schedule to create an enjoyable choral experience for all members. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 101,
 			"pf": true,
@@ -24763,7 +24390,6 @@
 				"MUSEN"
 			],
 			"desc": "This handbell ensemble is comprised of students who already possess proficient handbell technique. Emphasis is on improving technique and creating a musical ensemble. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 141,
 			"pf": true,
@@ -24790,7 +24416,6 @@
 				"MUSEN"
 			],
 			"desc": "This handbell ensemble features a high level of literature and a demanding performance schedule. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 142,
 			"pf": true,
@@ -24817,7 +24442,6 @@
 				"MUSEN"
 			],
 			"desc": "This ensemble is comprised of a wide array of percussion instruments. Membership is open to all interested student percussionists. The ensemble conductor provides full details of all rehearsal and performance obligations. May be repeated.",
-			"grouptype": "R",
 			"level": 100,
 			"num": 161,
 			"pf": true,
@@ -24908,6 +24532,7 @@
 				"EIN"
 			],
 			"level": 200,
+			"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 			"num": 220,
 			"pf": false,
 			"places": [
@@ -24938,6 +24563,7 @@
 				"EIN"
 			],
 			"level": 200,
+			"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 			"num": 220,
 			"pf": false,
 			"places": [
@@ -24957,32 +24583,6 @@
 			"year": 2014
 		},
 		{
-			"clbid": 97537,
-			"credits": 1.0,
-			"crsid": 28001,
-			"depts": [
-				"PSCI"
-			],
-			"level": 200,
-			"name": "Internship/Reflection Sem",
-			"num": 295,
-			"pf": false,
-			"places": [
-				"HH 319"
-			],
-			"profs": [
-				"Anthony Pahnke"
-			],
-			"sem": 3,
-			"term": 20143,
-			"times": [
-				"M 0700-0830PM"
-			],
-			"title": "Internship/Reflection Sem",
-			"type": "Research",
-			"year": 2014
-		},
-		{
 			"clbid": 97539,
 			"credits": 1.0,
 			"crsid": 22130,
@@ -24993,7 +24593,6 @@
 			"gereqs": [
 				"ALS-L"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Memoir Boom",
 			"num": 280,
@@ -25028,7 +24627,6 @@
 				"MCG",
 				"WRI"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Mid-East Studies",
 			"num": 235,
@@ -25056,7 +24654,6 @@
 				"MUSIC"
 			],
 			"desc": "Students learn to create improvised solos based on standard jazz practice from different historical eras. To internalize the styles of jazz masters from different time periods, participants transcribe recorded jazz solos by ear and perform them in class. Students gain appreciation of and experience with different harmonic and scalar conceptions through performing and analyzing selected jazz solos. Open to instrumentalists and vocalists. Generally offered every fall semester.",
-			"grouptype": "R",
 			"level": 200,
 			"num": 229,
 			"pf": false,
@@ -25264,7 +24861,6 @@
 			"gereqs": [
 				"MCG"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Intro Islamic Feminisms",
 			"num": 235,
@@ -25354,9 +24950,8 @@
 			"gereqs": [
 				"EIN"
 			],
-			"grouptype": "R",
 			"level": 300,
-			"notes": "Prerequisite: Completion of BTS-T or permission of the instructor. Open only to seniors during web registration.",
+			"notes": "Prerequisites: Completion of BTS-T or permission of the instructor. See course description for additional prerequisites. Open only to seniors during web registration.",
 			"num": 393,
 			"pf": false,
 			"places": [
@@ -25443,7 +25038,6 @@
 				"PSYCH"
 			],
 			"desc": "In this course, students explore methods that psychologists use to develop meaningful, nuanced understandings of individual persons. The richness and complexity of personality is seen as students get first-hand experience interviewing a hired subject, interpreting personality tests, analyzing personal narratives, and applying theories and concepts used in personality and clinical psychology. Integrating information about unique personal history, personality dynamics, and life story, students learn to develop coherent conceptualizations of the signature-like features of another's personality. Prerequisite: PSYCH 230 and PSYCH 244 or permission of instructor. Counts toward psychology major.",
-			"grouptype": "R",
 			"level": 300,
 			"num": 344,
 			"pf": false,
@@ -25539,7 +25133,6 @@
 			"gereqs": [
 				"ALS-L"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"num": 284,
 			"pf": false,
@@ -25662,11 +25255,12 @@
 			],
 			"desc": "This course offers selected surveys in historical studies. Topics depend on instructor. Recent topics have included \"Women in Early America,\" \"U.S.-Latin American Relations,\" and \"Doing Public History.\" May be repeated if topics are different. Offered periodically.",
 			"gereqs": [
-				"HWC"
+				"HWC",
+				"WRI"
 			],
 			"level": 200,
 			"name": "U.S. Topics:Consumer Cul",
-			"notes": "HWC pending committee approval.",
+			"notes": "HWC and WRI pending committee approval.",
 			"num": 299,
 			"pf": false,
 			"places": [
@@ -25694,7 +25288,6 @@
 				"MEDIA"
 			],
 			"desc": "This seminar integrates the liberal arts with the experience of work and the search for a vocation or career. Course content will include both an off-campus internship and on- campus class sessions that connect academic theories/analyses of work with their particular internship experience. Students will also consider and articulate the value of the liberal arts for their pursuit of a creative, productive, and satisfying professional life.",
-			"grouptype": "R",
 			"level": 200,
 			"name": "Internship/Reflection Sem",
 			"num": 295,
@@ -25722,22 +25315,16 @@
 				"ESTH"
 			],
 			"desc": "This seminar integrates the liberal arts with the experience of work and the search for a vocation or career. Course content will include both an off-campus internship and on-campus class sessions that connect academic theories/analyses of work with their particular internship experience. Students will also consider and articulate the value of the liberal arts for their pursuit of a creative, productive, and satisfying professional life.",
-			"grouptype": "R",
 			"level": 200,
 			"name": "Internship/Reflection Sem",
+			"notes": "Class time/day TBA.",
 			"num": 295,
 			"pf": false,
-			"places": [
-				"Tostrud Ctr"
-			],
 			"profs": [
-				"Maya Hamilton"
+				"Cynthia Book"
 			],
 			"sem": 3,
 			"term": 20143,
-			"times": [
-				"M 0700-1000PM"
-			],
 			"title": "Internship and Reflection Seminar",
 			"type": "Research",
 			"year": 2014
@@ -25893,6 +25480,7 @@
 			],
 			"level": 100,
 			"name": "Bible/Culture/Commun",
+			"notes": "Subtitle: Story and Law",
 			"num": 121,
 			"pf": false,
 			"places": [
@@ -26044,9 +25632,14 @@
 			"gereqs": [
 				"SPM"
 			],
+			"halfcredit": "2",
 			"level": 100,
+			"notes": "Second half of semester course.",
 			"num": 108,
 			"pf": false,
+			"places": [
+				"Tostrud Ctr"
+			],
 			"profs": [
 				"William Sean Goldsworthy"
 			],
@@ -26189,7 +25782,7 @@
 				"HH 403"
 			],
 			"profs": [
-				"Staff"
+				"Maron W. Sorenson"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -26241,6 +25834,7 @@
 				"FYW"
 			],
 			"level": 100,
+			"notes": "Subtitle: From Automata to Auto-Tune: The Long History of Music Technology",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -26304,10 +25898,8 @@
 			"gereqs": [
 				"SPM"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "Performance Improvisation",
-			"notes": "Course and GE pending faculty approval.",
 			"num": 315,
 			"pf": false,
 			"places": [
@@ -26335,10 +25927,9 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Film History",
-			"notes": "Film screenings Monday evenings.",
+			"notes": "Film screenings Thursday evenings.",
 			"num": 240,
 			"pf": false,
 			"places": [
@@ -26368,10 +25959,8 @@
 			"gereqs": [
 				"ALS-L"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Writing America 1588-1800",
-			"notes": "Course and GE pending faculty approval.",
 			"num": 272,
 			"pf": false,
 			"places": [
@@ -26401,10 +25990,10 @@
 				"IST",
 				"SED"
 			],
-			"grouptype": "R",
+			"groupid": 28968,
 			"level": 200,
 			"name": "Integrated Science/Societ",
-			"notes": "Full course title: Integrated Science and Society: Addiction from the Brain to the Social. Open to juniors and seniors only. This course is intended for for students who do not major in one of the natural sciences.",
+			"notes": "Full course title: Integrated Science and Society: Addiction from the Brain to the Social. Not open to first-year students. This course is intended for for students who do not major in one of the natural sciences.",
 			"num": 245,
 			"pf": false,
 			"places": [
@@ -26430,7 +26019,7 @@
 			"depts": [
 				"ID"
 			],
-			"grouptype": "R",
+			"groupid": 28968,
 			"level": 200,
 			"name": "Integr Sci/Soc Lab",
 			"num": 245,
@@ -26462,7 +26051,6 @@
 				"ALS-A",
 				"ORC"
 			],
-			"grouptype": "R",
 			"level": 100,
 			"name": "Mahler to Madonna",
 			"num": 135,
@@ -26493,7 +26081,6 @@
 			"gereqs": [
 				"ALS-L"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Arab American Lit",
 			"num": 200,
@@ -26520,7 +26107,6 @@
 			"depts": [
 				"ASIAN"
 			],
-			"grouptype": "R",
 			"level": 200,
 			"name": "FLC - Chinese",
 			"num": 237,
@@ -26542,9 +26128,9 @@
 				"ALSO"
 			],
 			"desc": "Students learn a language such as Arabic, Korean, or Italian in a guided, independent study program offered through the World Languages Center. They meet with a native speaker conversation partner for three hours a week, in addition to ten hours of study on their own and mandatory tutorial sessions. Syllabi and tests are developed and administered in consultation with an expert outside examiner. Students in this program are strongly encouraged to take courses in the general curriculum that provide important cultural context for the study of their language. The language(s) offered in any semester depend(s) on student interest, usually requiring 2-5 students to offer a section. Prerequisite: Completion of FOL requirement. For additional course info see http://www.stolaf.edu/services/wlc/also.html",
-			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Intermed Arabic II",
+			"notes": "Prerequisite: Permission of instructor required to register.",
 			"num": 201,
 			"pf": false,
 			"places": [
@@ -26572,7 +26158,7 @@
 				"SOAN"
 			],
 			"level": 200,
-			"name": "FLC-Spanish",
+			"name": "FLC - Spanish",
 			"num": 237,
 			"pf": false,
 			"profs": [
@@ -26580,7 +26166,7 @@
 			],
 			"sem": 3,
 			"term": 20143,
-			"title": "FLC-Spanish",
+			"title": "FLC - Spanish",
 			"type": "FLAC",
 			"year": 2014
 		},
@@ -26591,7 +26177,6 @@
 			"depts": [
 				"HIST"
 			],
-			"grouptype": "R",
 			"level": 300,
 			"name": "FLC - Russian",
 			"num": 320,
@@ -26614,9 +26199,9 @@
 				"ALSO"
 			],
 			"desc": "Students learn a language such as Arabic, Korean, or Italian in a guided, independent study program offered through the World Languages Center. They meet with a native speaker conversation partner for three hours a week, in addition to ten hours of study on their own and mandatory tutorial sessions. Syllabi and tests are developed and administered in consultation with an expert outside examiner. Students in this program are strongly encouraged to take courses in the general curriculum that provide important cultural context for the study of their language. The language(s) offered in any semester depend(s) on student interest, usually requiring 2-5 students to offer a section. Prerequisite: Completion of FOL requirement. For additional course info see http://www.stolaf.edu/services/wlc/also.html",
-			"grouptype": "R",
 			"level": 200,
 			"name": "Top: Intermed Arabic I",
+			"notes": "Prerequisite: Permission of instructor required to register.",
 			"num": 200,
 			"pf": false,
 			"places": [
@@ -26661,6 +26246,373 @@
 				"TTh 0935-1030"
 			],
 			"title": "Fitness Walking",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99305,
+			"credits": 0.25,
+			"crsid": 27685,
+			"depts": [
+				"ESAC"
+			],
+			"desc": "Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness.",
+			"gereqs": [
+				"SPM"
+			],
+			"level": 100,
+			"notes": "Open to seniors only.",
+			"num": 162,
+			"pf": false,
+			"places": [
+				"SAC Wr Rm"
+			],
+			"profs": [
+				"Dennis Bengtson"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"TTh 0935-1030"
+			],
+			"title": "Hatha Yoga",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99315,
+			"credits": 0.5,
+			"crsid": 19435,
+			"depts": [
+				"DANCE"
+			],
+			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course.",
+			"level": 300,
+			"name": "Research:",
+			"notes": "Registration by permission of the instructor. Closed during web registration.",
+			"num": 396,
+			"pf": false,
+			"profs": [
+				"Sheryl Saterstrom"
+			],
+			"sem": 3,
+			"term": 20143,
+			"title": "Directed Undergraduate Research: \"Topic Description\"",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99328,
+			"credits": 1.0,
+			"crsid": 441,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: Completion of ENGL 293 or permission of the instructor.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 300,
+			"name": "Advanced Fiction Wrtg",
+			"notes": "Open to students who have taken a 200-level workshop in that genre or by permission of the instructor. Any student who does not meet the requirements will be removed from the class after registration.",
+			"num": 372,
+			"pf": false,
+			"places": [
+				"RML 520"
+			],
+			"profs": [
+				"James Heynen"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"Th 6:30-9:30PM"
+			],
+			"title": "Advanced Fiction Writing Workshop",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99339,
+			"credits": 1.0,
+			"crsid": 411,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students encounter literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW.",
+			"gereqs": [
+				"ALS-L",
+				"MCG"
+			],
+			"level": 200,
+			"name": "Post-Colonial Lit",
+			"num": 210,
+			"pf": false,
+			"places": [
+				"RML 515"
+			],
+			"profs": [
+				"Joseph L. Mbele"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1150-1245PM"
+			],
+			"title": "Post-Colonial Literatures",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99340,
+			"credits": 1.0,
+			"crsid": 434,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students pursue an independent topic of study with a faculty director.",
+			"level": 200,
+			"name": "IS/Spoken Word in the US",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Juliet Patterson"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99342,
+			"credits": 1.0,
+			"crsid": 378,
+			"depts": [
+				"DANCE"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Exploring Performance",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Janice Roberts"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99345,
+			"credits": 1.0,
+			"crsid": 75,
+			"depts": [
+				"ART"
+			],
+			"desc": "Independent Research in studio art prerequisites: four foundation courses and three courses in area of study.",
+			"level": 300,
+			"name": "IR/Game Design Practicum",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Peter B. Nelson"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research: Art History",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99346,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"desc": "Independent Study in studio art prerequisites: four foundation courses and two upper-division courses in area of study.",
+			"level": 200,
+			"name": "IS/Psychology of Ceramics",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Kathryne Fisher"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99348,
+			"credits": 1.0,
+			"crsid": 1403,
+			"depts": [
+				"STAT"
+			],
+			"desc": "A first course in statistical methods for scientists, this course addresses issues for proposing/designing an experiment, as well as exploratory and inferential techniques for analyzing and modeling scientific data. Topics include probability models, exploratory graphics, descriptive techniques, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Prerequisite: MATH 119 or MATH 120 or equivalent. Offered each semester. Enrollment limited for seniors. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Counts toward the mathematical biology concentration.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 200,
+			"name": "Statistics for Science",
+			"num": 212,
+			"pf": false,
+			"places": [
+				"TOH 182"
+			],
+			"profs": [
+				"Julie M. Legler"
+			],
+			"sect": "C",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1150-1245PM"
+			],
+			"title": "Statistics for the Sciences",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99349,
+			"credits": 1.0,
+			"crsid": 1403,
+			"depts": [
+				"STAT"
+			],
+			"desc": "A first course in statistical methods for scientists, this course addresses issues for proposing/designing an experiment, as well as exploratory and inferential techniques for analyzing and modeling scientific data. Topics include probability models, exploratory graphics, descriptive techniques, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Prerequisite: MATH 119 or MATH 120 or equivalent. Offered each semester. Enrollment limited for seniors. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Counts toward the mathematical biology concentration.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 200,
+			"name": "Statistics for Science",
+			"num": 212,
+			"pf": false,
+			"places": [
+				"TOH 182"
+			],
+			"profs": [
+				"Julie M. Legler"
+			],
+			"sect": "D",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1255-0150PM"
+			],
+			"title": "Statistics for the Sciences",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99350,
+			"credits": 1.0,
+			"crsid": 1104,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Why do some societies have democratic political systems and others authoritarian ones? What is democracy? Is it the norm or the exception? The course provides a foundation for the understanding of contemporary political regimes. It applies the major concepts of comparative analysis to the political systems of Western and non-Western societies. Offered annually.",
+			"gereqs": [
+				"HBS",
+				"MCG"
+			],
+			"level": 100,
+			"num": 112,
+			"pf": false,
+			"profs": [
+				"Anthony Pahnke"
+			],
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1255-0150PM"
+			],
+			"title": "Comparative Politics",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99352,
+			"credits": 1.0,
+			"crsid": 23944,
+			"depts": [
+				"SOAN"
+			],
+			"desc": "This course focuses on the theories, political goals, strategies, and activities of the emerging trends of Islamic feminisms. After mapping the landscape of this movement and identifying its different manifestations, students investigate Islamic feminists' readings and interpretations of the Quran, Hadith, and Islamic history. The course examines methods Islamic feminists use in interpreting and reinterpreting such sources, politics and strategies they employ, and the impact of their work on Muslim women's lives worldwide. Offered during fall or spring semester. Counts toward women's and gender studies major and concentration.",
+			"gereqs": [
+				"MCG"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Intro Islamic Feminisms",
+			"num": 235,
+			"pf": false,
+			"profs": [
+				"Ibtesam Al Atiyat"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			],
+			"title": "Introduction to Islamic Feminisms",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99356,
+			"credits": 1.0,
+			"crsid": 1404,
+			"depts": [
+				"ECON"
+			],
+			"desc": "This course emphasizes skills necessary to understand and analyze economic data. Topics include descriptive statistics, probability and random variables, sampling theory, estimation and hypothesis testing, and practical and theoretical understanding of simple and multiple regression analysis. Applications to economic and business problems use real data, realistic applications, and econometric/statistical software. Prerequisite: MATH 119 or MATH 120 and one of Economics 110-121, or consent of the instructor. Offered each semester. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics. ECON 263 is recommended for economics majors who do not plan to take both STAT 272 and ECON 385. Credit will not be given for more than one of STAT 110, STAT 212, or ECON 263; credit will not be given for STAT 110, STAT 212, or ECON 263 following completion of STAT 272.",
+			"level": 200,
+			"num": 263,
+			"pf": false,
+			"profs": [
+				"Xun Pomponio"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"MWF 1255-0150PM"
+			],
+			"title": "Statistics for Economics",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99359,
+			"credits": 1.0,
+			"crsid": 1395,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "Prerequisite: at least three previous courses in department.",
+			"level": 200,
+			"name": "IS/Scenic Art & Tech",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Todd F. Edwards"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
 			"type": "Research",
 			"year": 2014
 		}

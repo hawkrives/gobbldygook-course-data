@@ -2311,7 +2311,7 @@
 			"num": 375,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Robert Hanson"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -7692,7 +7692,8 @@
 				"RML 420"
 			],
 			"profs": [
-				"Joseph L. Mbele"
+				"Joseph L. Mbele",
+				"Richard Bodman"
 			],
 			"sect": "G",
 			"sem": 1,
@@ -13140,11 +13141,11 @@
 			],
 			"desc": "Independent Research",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Investigating Change",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Thomas A. Williamson"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -20002,7 +20003,8 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Julie M. Legler"
+				"Julie M. Legler",
+				"Sharon Lane-Getaz"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -25082,7 +25084,8 @@
 				"TOH 182"
 			],
 			"profs": [
-				"Julie M. Legler"
+				"Julie M. Legler",
+				"Jessica Musselman"
 			],
 			"sem": 1,
 			"term": 20141,
@@ -28322,6 +28325,50 @@
 			"sem": 1,
 			"term": 20141,
 			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99341,
+			"credits": 0.5,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"desc": "Internship",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Ashley Hodgson"
+			],
+			"sect": "C",
+			"sem": 1,
+			"term": 20141,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99343,
+			"credits": 1.0,
+			"crsid": 1068,
+			"depts": [
+				"ESTH"
+			],
+			"desc": "Research",
+			"level": 300,
+			"name": "IR/Eval Fitness Monitors",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Cynthia Book"
+			],
+			"sect": "A",
+			"sem": 1,
+			"term": 20141,
+			"title": "Independent Research",
 			"type": "Research",
 			"year": 2014
 		}
