@@ -12,11 +12,6 @@
 	},
 	"author": "Hawken Rives",
 	"license": "GPLv3",
-	"files": [
-		"!details/*",
-		"!raw_xml/*",
-		"!compressed_terms/*"
-	],
 	"bugs": {
 		"url": "https://github.com/hawkrives/gobbldygook-course-data/issues"
 	},
