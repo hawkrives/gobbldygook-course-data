@@ -303,7 +303,7 @@
 
 	<course>
 	<clbid>0000095102</clbid>
-	<coursestatus>C</coursestatus>
+	<coursestatus>O</coursestatus>
 	<deptname>ART</deptname>
 	<coursenumber>233</coursenumber>
 	<coursesection></coursesection>
@@ -411,7 +411,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14964&apos;)"&gt;Kucera, Karil J.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -1087,6 +1087,81 @@
 	<pn>Y</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;14015&apos;)"&gt;Porterfield, Jean C.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000153</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099368</clbid>
+	<coursestatus>C</coursestatus>
+	<deptname>BIO</deptname>
+	<coursenumber>294</coursenumber>
+	<coursesection>A</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Academic Internship</coursename>
+	<pn>Y</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23548&apos;)"&gt;Bowers, Lisa M.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000153</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099369</clbid>
+	<coursestatus>C</coursestatus>
+	<deptname>BIO</deptname>
+	<coursenumber>294</coursenumber>
+	<coursesection>B</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Academic Internship</coursename>
+	<pn>Y</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17430&apos;)"&gt;Crisp, Kevin M.&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000000153</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099370</clbid>
+	<coursestatus>C</coursestatus>
+	<deptname>BIO</deptname>
+	<coursenumber>294</coursenumber>
+	<coursesection>C</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Academic Internship</coursename>
+	<pn>Y</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8876&apos;)"&gt;Walter, Anne&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -2286,7 +2361,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8817&apos;)"&gt;von Bibra, Anne&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -2403,14 +2478,14 @@
 
 	<course>
 	<clbid>0000095454</clbid>
-	<coursestatus>C</coursestatus>
+	<coursestatus>X</coursestatus>
 	<deptname>ECON</deptname>
 	<coursenumber>111</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
 	<coursename>Transition Economies</coursename>
 	<pn>N</pn>
-	<notes>Open to all students.&lt;br&gt;This course has been canceled.</notes>
+	<notes>This course has been canceled.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6399&apos;)"&gt;Pomponio, Xun&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -2636,7 +2711,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;8876&apos;)"&gt;Walter, Anne&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -3283,10 +3358,10 @@
 	<coursenumber>298</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>IS/</coursename>
+	<coursename>IS/Religion &amp;amp; Ecology</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;712&apos;)"&gt;Booth, David&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -4003,14 +4078,14 @@
 
 	<course>
 	<clbid>0000097183</clbid>
-	<coursestatus>C</coursestatus>
+	<coursestatus>X</coursestatus>
 	<deptname>GERM</deptname>
 	<coursenumber>263</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>T</coursesubtype>
 	<coursename>Top: Architecture/Bauhaus</coursename>
 	<pn>N</pn>
-	<notes>Taught in English.  Open to all students.&lt;br&gt;This course has been canceled.</notes>
+	<notes>This course has been canceled.</notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6671&apos;)"&gt;Rippley, Lavern&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -4385,7 +4460,7 @@
 	<coursesubtype>T</coursesubtype>
 	<coursename>Topics: Gender in Africa</coursename>
 	<pn>N</pn>
-	<notes>MCG pending committee approval.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;21082&apos;)"&gt;Iddrisu, Abdulai&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -6078,15 +6153,15 @@
 
 	<course>
 	<clbid>0000095281</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>MGMT</deptname>
 	<coursenumber>298</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>IS/</coursename>
+	<coursename>IS/Mgmt &amp;amp; Leadership Lit</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2661&apos;)"&gt;Goedde, Richard&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -6235,7 +6310,7 @@
 	<coursesubtype>R</coursesubtype>
 	<coursename>Opera Workshop</coursename>
 	<pn>N</pn>
-	<notes>Open to first-year students.</notes>
+	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5210&apos;)"&gt;McKeel, James&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
@@ -6261,7 +6336,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;17590&apos;)"&gt;Maeda, Dana L.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -7028,18 +7103,18 @@
 
 	<course>
 	<clbid>0000095233</clbid>
-	<coursestatus>O</coursestatus>
+	<coursestatus>C</coursestatus>
 	<deptname>PHIL</deptname>
 	<coursenumber>398</coursenumber>
 	<coursesection></coursesection>
 	<coursesubtype>R</coursesubtype>
-	<coursename>IR/</coursename>
+	<coursename>IR/Kant Moral Theory Adv.</coursename>
 	<pn>N</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2752&apos;)"&gt;Grenberg, Jeanine&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
-	<gereqs></gereqs>
+	<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 	<meetingtimes></meetingtimes>
 	<meetinglocations></meetinglocations>
 	<varcredits>N</varcredits>
@@ -7586,7 +7661,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2768&apos;)"&gt;Gross, Dana&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -7687,6 +7762,31 @@
 	<pn>Y</pn>
 	<notes></notes>
 	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<halfcredit></halfcredit>
+	<credits>1.00</credits>
+	<gereqs></gereqs>
+	<meetingtimes></meetingtimes>
+	<meetinglocations></meetinglocations>
+	<varcredits>N</varcredits>
+	<groupid></groupid>
+	<grouptype></grouptype>
+	<crsid>0000001188</crsid>
+	</course>
+
+
+
+
+	<course>
+	<clbid>0000099378</clbid>
+	<coursestatus>O</coursestatus>
+	<deptname>PSYCH</deptname>
+	<coursenumber>394</coursenumber>
+	<coursesection>A</coursesection>
+	<coursesubtype>R</coursesubtype>
+	<coursename>Academic Internship</coursename>
+	<pn>Y</pn>
+	<notes></notes>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;23549&apos;)"&gt;Veltri, Carlo O.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -8511,7 +8611,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;5728&apos;)"&gt;Nordstrom-Loeb, Bruce&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>
@@ -8536,7 +8636,7 @@
 	<coursename>Academic Internship</coursename>
 	<pn>Y</pn>
 	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
+	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;10036&apos;)"&gt;Chiappari, Christopher L.&lt;/a&gt;</instructors>
 	<halfcredit></halfcredit>
 	<credits>1.00</credits>
 	<gereqs></gereqs>

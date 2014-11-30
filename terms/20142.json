@@ -92,7 +92,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Karil J. Kucera"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -409,7 +409,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Anne Walter"
+				"Staff"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -451,7 +451,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Anne von Bibra"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -998,7 +998,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Dana L. Maeda"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -1325,7 +1325,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Dana Gross"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -1444,7 +1444,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Bruce Nordstrom-Loeb"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -2112,7 +2112,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Christopher L. Chiappari"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -3845,12 +3845,15 @@
 				"PHIL"
 			],
 			"desc": "Prerequisite: one level III course in philosophy.",
+			"gereqs": [
+				"WRI"
+			],
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Kant Moral Theory Adv.",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Jeanine Grenberg"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -4551,11 +4554,11 @@
 			],
 			"desc": "Independent Study",
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Religion & Ecology",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"David Booth"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -4654,11 +4657,11 @@
 				"MGMT"
 			],
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Mgmt & Leadership Lit",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Richard Goedde"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -6857,7 +6860,7 @@
 			],
 			"level": 100,
 			"name": "Transition Economies",
-			"notes": "Open to all students. This course has been canceled.",
+			"notes": "This course has been canceled.",
 			"num": 111,
 			"pf": false,
 			"places": [
@@ -7608,7 +7611,7 @@
 			],
 			"level": 200,
 			"name": "Top: Architecture/Bauhaus",
-			"notes": "Taught in English. Open to all students. This course has been canceled.",
+			"notes": "This course has been canceled.",
 			"num": 263,
 			"pf": false,
 			"places": [
@@ -8112,7 +8115,6 @@
 			],
 			"desc": "Participants prepare for performance of a one-act opera or opera scenes. Students receive coaching and performance experience through individual and group singing/acting exercises. The course culminates with staged and costumed public performances. May be repeated once. A class fee may be required. Offered Interim 2014-15 and alternate years.",
 			"level": 200,
-			"notes": "Open to first-year students.",
 			"num": 269,
 			"pf": false,
 			"profs": [
@@ -8631,7 +8633,6 @@
 			],
 			"level": 200,
 			"name": "Topics: Gender in Africa",
-			"notes": "MCG pending committee approval.",
 			"num": 289,
 			"pf": false,
 			"places": [
@@ -8993,6 +8994,93 @@
 			"sem": 2,
 			"term": 20142,
 			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99368,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Lisa M. Bowers"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99369,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Kevin M. Crisp"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99370,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anne Walter"
+			],
+			"sect": "C",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99378,
+			"credits": 1.0,
+			"crsid": 1188,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Carlo O. Veltri"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
 			"type": "Research",
 			"year": 2014
 		}
