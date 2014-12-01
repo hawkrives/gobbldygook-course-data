@@ -1,7 +1,6 @@
 {
-  "name": "gobbldygook-course-data",
+  "name": "sto-courses",
   "version": "2.0.2014-11-30.6",
-  "private": true,
   "description": "Course data for St. Olaf college",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1"
@@ -23,9 +22,5 @@
     "url": "https://github.com/hawkrives/gobbldygook-course-data/issues",
     "email": "rives@stolaf.edu"
   },
-  "homepage": "https://github.com/hawkrives/gobbldygook-course-data",
-  "devDependencies": {
-    "github-release": "^0.2.0",
-    "vinyl-fs": "^0.3.13"
-  }
+  "homepage": "https://github.com/hawkrives/gobbldygook-course-data"
 }
