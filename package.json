@@ -1,0 +1,22 @@
+{
+  "name": "gobbldygook-course-data",
+  "version": "2.0.2014-11-30.1",
+  "private": true,
+  "description": "Course data for St. Olaf college",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1",
+    "prepublish": "make prepare-install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hawkrives/gobbldygook-course-data"
+  },
+  "author": "Hawken Rives <rives@stolaf.edu>",
+  "contributors": ["St. Olaf College"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hawkrives/gobbldygook-course-data/issues",
+    "email": "rives@stolaf.edu"
+  },
+  "homepage": "https://github.com/hawkrives/gobbldygook-course-data"
+}
