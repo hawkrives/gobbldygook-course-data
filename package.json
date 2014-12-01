@@ -23,5 +23,9 @@
     "url": "https://github.com/hawkrives/gobbldygook-course-data/issues",
     "email": "rives@stolaf.edu"
   },
-  "homepage": "https://github.com/hawkrives/gobbldygook-course-data"
+  "homepage": "https://github.com/hawkrives/gobbldygook-course-data",
+  "devDependencies": {
+    "github-release": "^0.2.0",
+    "vinyl-fs": "^0.3.13"
+  }
 }
