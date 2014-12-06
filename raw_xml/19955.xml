@@ -1,925 +1,759 @@
-<?xml version="1.0"?>
-
-<!DOCTYPE searchresults [
-        <!ELEMENT course (clbid, coursestatus, deptname, coursenumber, coursesection, coursesubtype, coursename, pn, notes, instructors, halfcredit, credits, meetingtimes, gereqs, meetinglocations, varcredits, groupid, grouptype)>
-	<!ELEMENT clbid (#PCDATA)>
-	<!ELEMENT coursestatus (#PCDATA)>
-	<!ELEMENT coursename (#PCDATA)>
-	<!ELEMENT deptname (#PCDATA)>
-	<!ELEMENT coursesection (#PCDATA)>
-	<!ELEMENT coursesubtype (#PCDATA)>
-	<!ELEMENT pn (#PCDATA)>
-	<!ELEMENT notes (#PCDATA)>
-	<!ELEMENT instructors (#PCDATA)>
-	<!ELEMENT halfcredit (#PCDATA)>
-	<!ELEMENT credits (#PCDATA)>
-	<!ELEMENT meetingtimes (#PCDATA)>
-	<!ELEMENT gereqs (#PCDATA)>
-	<!ELEMENT meetinglocations (#PCDATA)>
-	<!ELEMENT varcredits (#PCDATA)>
-	<!ELEMENT groupid (#PCDATA)>
-	<!ELEMENT grouptype (#PCDATA)>
-	<!ELEMENT crsid (#PCDATA)>
-]>
+<?xml version="1.0" encoding="utf-8"?>
 <searchresults>
-
-
-
-
 	<course>
-	<clbid>0000018848</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>BIO</deptname>
-	<coursenumber>123</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Human Biology</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;4110&apos;)"&gt;Johnson, Theodore&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000102</crsid>
+		<clbid>0000018848</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>123</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Human Biology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4110')"&gt;Johnson, Theodore&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000102</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018849</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>BIO</deptname>
-	<coursenumber>123</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Human Bio/Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000103</crsid>
+		<clbid>0000018849</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>123</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Human Bio/Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000103</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018850</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHEM</deptname>
-	<coursenumber>126</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Chemical Reactions</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6161&apos;)"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000194</crsid>
+		<clbid>0000018850</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>126</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Chemical Reactions</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6161')"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000194</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018851</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHEM</deptname>
-	<coursenumber>126</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Chem Reactions/Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;3335&apos;)"&gt;Hildebrandt, Kim M.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000195</crsid>
+		<clbid>0000018851</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>126</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Chem Reactions/Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3335')"&gt;Hildebrandt, Kim M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000195</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018852</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHEM</deptname>
-	<coursenumber>248</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Organic Chemistry</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6161&apos;)"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000197</crsid>
+		<clbid>0000018852</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>248</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Organic Chemistry</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6161')"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000197</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018853</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>CHEM</deptname>
-	<coursenumber>254</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Synthesis Lab</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6161&apos;)"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.25</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000200</crsid>
+		<clbid>0000018853</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>254</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Synthesis Lab</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6161')"&gt;Pearson, Wesley&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000200</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018854</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ECON</deptname>
-	<coursenumber>298</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>IS/Topics in Micro</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7636&apos;)"&gt;Soderlind, Steve&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000277</crsid>
+		<clbid>0000018854</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ECON</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Topics in Micro</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7636')"&gt;Soderlind, Steve&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000277</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018855</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ECON</deptname>
-	<coursenumber>389</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Senior Project</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2661&apos;)"&gt;Goedde, Richard&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000283</crsid>
+		<clbid>0000018855</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ECON</deptname>
+		<coursenumber>389</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Senior Project</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2661')"&gt;Goedde, Richard&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000283</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018856</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ECON</deptname>
-	<coursenumber>394</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1333&apos;)"&gt;Dalgaard, Bruce&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000284</crsid>
+		<clbid>0000018856</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ECON</deptname>
+		<coursenumber>394</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1333')"&gt;Dalgaard, Bruce&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000284</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018857</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ENGL</deptname>
-	<coursenumber>244</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Amer Lit Since 1945</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001698</crsid>
+		<clbid>0000018857</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>244</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Amer Lit Since 1945</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001698</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018858</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ENGL</deptname>
-	<coursenumber>251</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Expository Writing</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000413</crsid>
+		<clbid>0000018858</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>251</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Expository Writing</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000413</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018859</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>ENGL</deptname>
-	<coursenumber>373</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Cr Writ II: Nonfiction</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000442</crsid>
+		<clbid>0000018859</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>373</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Cr Writ II: Nonfiction</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000442</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018860</clbid>
-	<coursestatus>C</coursestatus>
-	<deptname>ENGL</deptname>
-	<coursenumber>391</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>S</coursesubtype>
-	<coursename>Brit Auth: Major Briti</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000446</crsid>
+		<clbid>0000018860</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>391</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>S</coursesubtype>
+		<coursename>Brit Auth: Major Briti</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000446</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018861</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>FREN</deptname>
-	<coursenumber>398</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>IR/French Short Story</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;337&apos;)"&gt;Barjasteh, Jolene&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000496</crsid>
+		<clbid>0000018861</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>FREN</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/French Short Story</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('337')"&gt;Barjasteh, Jolene&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000496</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018862</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>HIST</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2030&apos;)"&gt;Farrell, James&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000624</crsid>
+		<clbid>0000018862</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>HIST</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2030')"&gt;Farrell, James&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000624</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018887</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PEAC</deptname>
-	<coursenumber>157</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Beginning Tennis</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;976&apos;)"&gt;Carroll, Todd R.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.25</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001022</crsid>
+		<clbid>0000018885</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>252</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Ethics/The Good Life</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6392')"&gt;Poling, John&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000979</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018885</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PHIL</deptname>
-	<coursenumber>252</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Ethics/The Good Life</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;6392&apos;)"&gt;Poling, John&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000979</crsid>
+		<clbid>0000018886</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>254</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Law,Politics,Morality</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2022')"&gt;Fairbanks, Rick A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000980</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018886</clbid>
-	<coursestatus>C</coursestatus>
-	<deptname>PHIL</deptname>
-	<coursenumber>254</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Law,Politics,Morality</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2022&apos;)"&gt;Fairbanks, Rick A.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000000980</crsid>
+		<clbid>0000018887</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PEAC</deptname>
+		<coursenumber>157</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Beginning Tennis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('976')"&gt;Carroll, Todd R.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001022</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018888</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PHYS</deptname>
-	<coursenumber>125</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Principles Physics II</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1345&apos;)"&gt;Dahl, David&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001074</crsid>
+		<clbid>0000018888</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHYS</deptname>
+		<coursenumber>125</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Principles Physics II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1345')"&gt;Dahl, David&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001074</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018889</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PHYS</deptname>
-	<coursenumber>125</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>L</coursesubtype>
-	<coursename>Prin Physics II/Lab</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>0.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001075</crsid>
+		<clbid>0000018889</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHYS</deptname>
+		<coursenumber>125</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Prin Physics II/Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001075</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018890</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PHYS</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1345&apos;)"&gt;Dahl, David&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001090</crsid>
+		<clbid>0000018890</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHYS</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1345')"&gt;Dahl, David&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001090</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018891</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSCI</deptname>
-	<coursenumber>112</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Comparative Politics</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;2776&apos;)"&gt;Grubb, Rodney G.&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001104</crsid>
+		<clbid>0000018891</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSCI</deptname>
+		<coursenumber>112</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Comparative Politics</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2776')"&gt;Grubb, Rodney G.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001104</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018892</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSCI</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;3418&apos;)"&gt;Hofrenning, Daniel&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001139</crsid>
+		<clbid>0000018892</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSCI</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3418')"&gt;Hofrenning, Daniel&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001139</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018893</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSYCH</deptname>
-	<coursenumber>125</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Intro Psychology(Psi)</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1366&apos;)"&gt;Dickson Jr., James&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001154</crsid>
+		<clbid>0000018893</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>125</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Intro Psychology(Psi)</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1366')"&gt;Dickson Jr., James&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001154</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018894</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSYCH</deptname>
-	<coursenumber>231</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Research Methods</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1366&apos;)"&gt;Dickson Jr., James&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001158</crsid>
+		<clbid>0000018894</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>231</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Research Methods</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1366')"&gt;Dickson Jr., James&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001158</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018895</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSYCH</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;186&apos;)"&gt;Anderson, Deborah&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001178</crsid>
+		<clbid>0000018895</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('186')"&gt;Anderson, Deborah&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001178</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018896</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>PSYCH</deptname>
-	<coursenumber>394</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001188</crsid>
+		<clbid>0000018896</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>394</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001188</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018897</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>REL</deptname>
-	<coursenumber>207</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Chri Theol/Moral Life</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7020&apos;)"&gt;Santurri, Edmund&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001195</crsid>
+		<clbid>0000018897</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>207</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Chri Theol/Moral Life</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7020')"&gt;Santurri, Edmund&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001195</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018898</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>REL</deptname>
-	<coursenumber>208</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Chr Theol/Human Exist</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7020&apos;)"&gt;Santurri, Edmund&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001196</crsid>
+		<clbid>0000018898</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>208</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Chr Theol/Human Exist</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7020')"&gt;Santurri, Edmund&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001196</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018899</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>SOAN</deptname>
-	<coursenumber>121</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Intro to Sociology</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1367&apos;)"&gt;DeVries, Raymond&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001289</crsid>
+		<clbid>0000018899</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>SOAN</deptname>
+		<coursenumber>121</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Intro to Sociology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1367')"&gt;DeVries, Raymond&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001289</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018900</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>SPAN</deptname>
-	<coursenumber>112</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Beginning Spanish II</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;3139&apos;)"&gt;Hasbrouck, Michael&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001325</crsid>
+		<clbid>0000018900</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>SPAN</deptname>
+		<coursenumber>112</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Beginning Spanish II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3139')"&gt;Hasbrouck, Michael&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001325</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018901</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>SPAN</deptname>
-	<coursenumber>298</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>IS/Cult &amp;amp; Civ of Spain</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;3139&apos;)"&gt;Hasbrouck, Michael&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001342</crsid>
+		<clbid>0000018901</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>SPAN</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Cult &amp;amp; Civ of Spain</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3139')"&gt;Hasbrouck, Michael&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001342</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018902</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>THEAT</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;1558&apos;)"&gt;Edelmayer, Kathleen&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001394</crsid>
+		<clbid>0000018902</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>THEAT</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1558')"&gt;Edelmayer, Kathleen&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001394</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018903</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>THEAT</deptname>
-	<coursenumber>294</coursenumber>
-	<coursesection>A</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7676&apos;)"&gt;Sonnega, William&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001394</crsid>
+		<clbid>0000018903</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>THEAT</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7676')"&gt;Sonnega, William&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001394</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018904</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>THEAT</deptname>
-	<coursenumber>298</coursenumber>
-	<coursesection>E</coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>IS/Corporate Culture</coursename>
-	<pn>N</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;&apos;)"&gt;Staff&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001395</crsid>
+		<clbid>0000018904</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>THEAT</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>E</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Corporate Culture</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001395</crsid>
 	</course>
-
-
-
-
 	<course>
-	<clbid>0000018905</clbid>
-	<coursestatus>O</coursestatus>
-	<deptname>THEAT</deptname>
-	<coursenumber>394</coursenumber>
-	<coursesection></coursesection>
-	<coursesubtype>R</coursesubtype>
-	<coursename>Internship</coursename>
-	<pn>Y</pn>
-	<notes></notes>
-	<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow(&apos;7676&apos;)"&gt;Sonnega, William&lt;/a&gt;</instructors>
-	<halfcredit></halfcredit>
-	<credits>1.00</credits>
-	<gereqs></gereqs>
-	<meetingtimes></meetingtimes>
-	<meetinglocations></meetinglocations>
-	<varcredits>N</varcredits>
-	<groupid></groupid>
-	<grouptype></grouptype>
-	<crsid>0000001400</crsid>
+		<clbid>0000018905</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>THEAT</deptname>
+		<coursenumber>394</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7676')"&gt;Sonnega, William&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001400</crsid>
 	</course>
 </searchresults>
