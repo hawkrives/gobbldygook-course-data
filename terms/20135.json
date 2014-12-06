@@ -404,7 +404,7 @@
 			"depts": [
 				"PHYS"
 			],
-			"desc": "This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level.",
+			"desc": "This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level.\nPhysics 125 explores the character of electric and magnetic forces and fields, then takes up the extended description of matter (vibrations, waves - sound and light). Finally, both particle and wave descriptions are shown to be necessary for discussing quantum mechanics and its application to atomic physics. One laboratory meeting per week. Prerequisites: Mathematics 120 or equivalent and Physics 124. Offered annually in the spring semester.",
 			"gereqs": [
 				"SED"
 			],
@@ -505,7 +505,7 @@
 			"num": 244,
 			"pf": false,
 			"places": [
-				"RML 515"
+				"RNS 284"
 			],
 			"profs": [
 				"Joshua Anderson"
@@ -536,7 +536,7 @@
 			"num": 134,
 			"pf": false,
 			"places": [
-				"CHM 232"
+				"CHM 239"
 			],
 			"profs": [
 				"David R. Castro"
@@ -716,6 +716,9 @@
 				"ID"
 			],
 			"desc": "This course prepares McNair Scholars for the rigors of academic writing. Because the enrolled students represent a variety of disciplines, this course serves as a general introduction to writing in research; it is not meant to replace discipline-specific research methods or writing courses. Students read scholarly literature in their disciplines, write a literature review, draft various sections of a research paper, and prepare for a formal poster presentation. Offered every summer.",
+			"gereqs": [
+				"WRI"
+			],
 			"grouptype": "R",
 			"level": 200,
 			"name": "McNair Research Writing",
@@ -1271,7 +1274,7 @@
 			"num": 109,
 			"pf": true,
 			"profs": [
-				"Jean R. Aguilar-Valdez"
+				"Wendy D. Gonzalez"
 			],
 			"sem": 5,
 			"term": 20135,
@@ -1422,6 +1425,68 @@
 			"profs": [
 				"Cynthia Book"
 			],
+			"sem": 5,
+			"term": 20135,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2013
+		},
+		{
+			"clbid": 98095,
+			"credits": 0.25,
+			"crsid": 846,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Timothy Mahr"
+			],
+			"sem": 5,
+			"term": 20135,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2013
+		},
+		{
+			"clbid": 98103,
+			"credits": 1.0,
+			"crsid": 785,
+			"depts": [
+				"MGMT"
+			],
+			"level": 200,
+			"name": "IS/Aspects of Corp Law",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Sian E. Muir"
+			],
+			"sem": 5,
+			"term": 20135,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2013
+		},
+		{
+			"clbid": 98749,
+			"credits": 0.25,
+			"crsid": 961,
+			"depts": [
+				"NURS"
+			],
+			"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Mary Kuehn"
+			],
+			"sect": "A",
 			"sem": 5,
 			"term": 20135,
 			"title": "Internship",

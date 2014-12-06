@@ -1646,13 +1646,17 @@
 			"depts": [
 				"LATIN"
 			],
+			"gereqs": [
+				"ORC",
+				"WRI"
+			],
 			"level": 100,
 			"name": "Introduction to Latin",
 			"num": 101,
 			"pf": false,
 			"profs": [
-				"Mary Cisar",
-				"Kathy T. Granquist"
+				"Kathy T. Granquist",
+				"Nanette Schroeder"
 			],
 			"sem": 5,
 			"term": 20125,
