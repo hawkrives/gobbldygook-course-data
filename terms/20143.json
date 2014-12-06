@@ -21951,7 +21951,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"MWF 1150-1245PM"
+				"MW 1150-1245PM"
 			],
 			"title": "The Beat Goes On",
 			"type": "Research",
@@ -22296,8 +22296,8 @@
 			"num": 382,
 			"pf": false,
 			"places": [
-				"RNS 206",
-				"RNS 206"
+				"RNS 316",
+				"RNS 316"
 			],
 			"profs": [
 				"Paul Zorn"
@@ -26294,7 +26294,7 @@
 			"sem": 3,
 			"term": 20143,
 			"times": [
-				"Th 6:30-9:30PM"
+				"Th 0630-0930PM"
 			],
 			"title": "Advanced Fiction Writing Workshop",
 			"type": "Research",
@@ -26794,6 +26794,72 @@
 				"Bruce Nordstrom-Loeb"
 			],
 			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 99382,
+			"credits": 1.0,
+			"crsid": 223,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Decarboxylation",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Dipannita Kalyani"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102302,
+			"credits": 1.0,
+			"crsid": 223,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Conducting Polymer Syn",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Daniel A. Everson"
+			],
+			"sect": "C",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102304,
+			"credits": 1.0,
+			"crsid": 223,
+			"depts": [
+				"CHEM"
+			],
+			"desc": "Independent Research",
+			"level": 300,
+			"name": "IR/Organomet Catal II",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Dipannita Kalyani"
+			],
+			"sect": "D",
 			"sem": 3,
 			"term": 20143,
 			"title": "Independent Research",
