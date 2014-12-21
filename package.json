@@ -3,7 +3,11 @@
   "version": "2.1.2014-12-08.0",
   "description": "Course data for St. Olaf college",
   "scripts": {
-    "test": "echo 'Error: no test specified' && exit 1"
+    "test": "echo 'Error: no test specified' && exit 1",
+    "start": "python3 ./getData.py --force",
+    "update": "date +\"%Y\" | xargs python3 ./getData.py --years",
+    "update-details": "rm -rf details/; python3 ./getData.py --force",
+    "publish": "scripts/version.sh"
   },
   "files": [
     "terms/",
