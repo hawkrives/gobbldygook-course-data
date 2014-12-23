@@ -1,6 +1,6 @@
 {
   "name": "sto-courses",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Course data for St. Olaf college",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "python3 ./getData.py --force",
     "update": "date +\"%Y\" | xargs python3 ./getData.py --years",
     "update-details": "rm -rf details/; python3 ./getData.py --force",
-    "publish": "scripts/version.sh"
+    "pre-publish": "scripts/version.sh"
   },
   "files": [
     "terms/",
