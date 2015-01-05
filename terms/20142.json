@@ -920,7 +920,7 @@
 			"num": 394,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Sian E. Muir"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -2098,7 +2098,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Daniel Hofrenning"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -2119,7 +2119,7 @@
 			"num": 394,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Cynthia Book"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -2159,7 +2159,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"M. Minda Ori\u00f1a"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -4105,11 +4105,11 @@
 			],
 			"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, and middleware for interdisciplinary web applications.",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/CS125 Development",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Olaf A. Hall-Holt"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -4170,11 +4170,11 @@
 				"HIST"
 			],
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Verdi Natnalism Music",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"J. L. Carrington"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -4426,11 +4426,11 @@
 				"ECON"
 			],
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Modern Economic Lit",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Rebecca Judge"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -5506,12 +5506,15 @@
 				"BIO"
 			],
 			"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Office of the Registrar and Academic Advising or its Web site.",
+			"gereqs": [
+				"WRI"
+			],
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Comprehensive Cataract",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"John Giannini"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -8888,7 +8891,7 @@
 			"num": 294,
 			"pf": true,
 			"profs": [
-				"Staff"
+				"Richard Goedde"
 			],
 			"sect": "C",
 			"sem": 2,
@@ -9107,6 +9110,516 @@
 			"sem": 2,
 			"term": 20142,
 			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102309,
+			"credits": 1.0,
+			"crsid": 1188,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102310,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Diane K. Angell"
+			],
+			"sect": "D",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102315,
+			"credits": 1.0,
+			"crsid": 1316,
+			"depts": [
+				"SOAN"
+			],
+			"level": 200,
+			"name": "IS/Medical Missions",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Susi K. Keefe"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102316,
+			"credits": 1.0,
+			"crsid": 847,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "IS/Flute Pedagogy",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Catherine Ramirez"
+			],
+			"sect": "C",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102318,
+			"credits": 1.0,
+			"crsid": 847,
+			"depts": [
+				"MUSIC"
+			],
+			"level": 200,
+			"name": "IS/Sing Act Stagecraft",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Christopher P. Aspaas"
+			],
+			"sect": "D",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102319,
+			"credits": 1.0,
+			"crsid": 465,
+			"depts": [
+				"ENVST"
+			],
+			"level": 200,
+			"name": "IS/Urban as Local Agri",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Kathleen L. Shea"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102328,
+			"credits": 1.0,
+			"crsid": 313,
+			"depts": [
+				"EDUC"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Elizabeth A. Leer"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102330,
+			"credits": 1.0,
+			"crsid": 204,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Keir Fogarty"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102331,
+			"credits": 1.0,
+			"crsid": 1315,
+			"depts": [
+				"SOAN"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Thomas A. Williamson"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102333,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sect": "E",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102334,
+			"credits": 1.0,
+			"crsid": 1341,
+			"depts": [
+				"SPAN"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Gwendolyn Barnes-Karol"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102335,
+			"credits": 1.0,
+			"crsid": 1178,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Donna McMillan"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102336,
+			"credits": 1.0,
+			"crsid": 1139,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Anthony Pahnke"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102337,
+			"credits": 1.0,
+			"crsid": 175,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Independent research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, a student conceives and performs a research project leading to the writing of a major research paper and a poster presentation. Independent research requires permission of a supervisor, a secondary faculty reader of the paper, and completion of an independent research form available at the Office of the Registrar and Academic Advising or its Web site.",
+			"level": 300,
+			"name": "IR/Arctic Ecosystems",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Kyle A. Whittinghill"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102338,
+			"credits": 1.0,
+			"crsid": 1188,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Internship",
+			"level": 300,
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Carlo O. Veltri"
+			],
+			"sect": "C",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102339,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sect": "F",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102340,
+			"credits": 1.0,
+			"crsid": 1067,
+			"depts": [
+				"ESTH"
+			],
+			"level": 300,
+			"name": "Academic Internship",
+			"num": 394,
+			"pf": true,
+			"profs": [
+				"Cynthia Book"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102341,
+			"credits": 1.0,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Cynthia Book"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102342,
+			"credits": 1.0,
+			"crsid": 153,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Robert W. McClure"
+			],
+			"sect": "G",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102343,
+			"credits": 1.0,
+			"crsid": 1178,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"M. Minda Ori\u00f1a"
+			],
+			"sect": "C",
+			"sem": 2,
+			"term": 20142,
+			"title": "Academic Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102347,
+			"credits": 1.0,
+			"crsid": 154,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Office of the Registrar and Academic Advising or its Web site.",
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "IS/Arctic Ecosystems",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Kyle A. Whittinghill"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102349,
+			"credits": 1.0,
+			"crsid": 1057,
+			"depts": [
+				"ESTH"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Robert Hauck"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102350,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Kenneth Creech"
+			],
+			"sect": "D",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102362,
+			"credits": 1.0,
+			"crsid": 204,
+			"depts": [
+				"CHEM"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Douglas J. Beussman"
+			],
+			"sect": "B",
+			"sem": 2,
+			"term": 20142,
+			"title": "Internship",
 			"type": "Research",
 			"year": 2014
 		}

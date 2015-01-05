@@ -6111,7 +6111,7 @@
 			"num": 324,
 			"pf": false,
 			"places": [
-				"CHM 232"
+				"CHM 224"
 			],
 			"profs": [
 				"Justin W. Merritt"
@@ -6137,7 +6137,7 @@
 			"num": 325,
 			"pf": false,
 			"places": [
-				"CHM 232"
+				"CHM 224"
 			],
 			"profs": [
 				"Justin W. Merritt"
@@ -8523,6 +8523,7 @@
 			"profs": [
 				"Joseph Benson"
 			],
+			"sect": "A",
 			"sem": 3,
 			"term": 20143,
 			"times": [
@@ -11247,7 +11248,7 @@
 			],
 			"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, and middleware for interdisciplinary web applications.",
 			"level": 300,
-			"name": "IR/Therac 25 Research",
+			"name": "IR/Adv.Therac 25 Research",
 			"num": 398,
 			"pf": false,
 			"profs": [
@@ -12403,11 +12404,11 @@
 			],
 			"desc": "Students have the opportunity to work in depth on a research project of interest under the supervision of a member of the psychology department faculty. Prerequisite: STAT 110, STAT 212, STAT 214 or ECON 263; PSYCH 230; four additional courses in the department; and permission of instructor. PSYCH 298 is strongly recommended. Offered each semester. Depending on course topic, may count toward the neuroscience concentration",
 			"level": 300,
-			"name": "IR/",
+			"name": "IR/Groups & Mort Salience",
 			"num": 398,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"M. Minda Ori\u00f1a"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -19761,8 +19762,8 @@
 			"num": 214,
 			"pf": false,
 			"places": [
-				"CHM 232",
-				"CHM 232"
+				"CHM 239",
+				"CHM 239"
 			],
 			"profs": [
 				"David R. Castro"
@@ -20076,14 +20077,20 @@
 			],
 			"level": 300,
 			"name": "Top: L'Etat providence",
-			"notes": "Full title: L'Etat providence: crise ou fin? Days/times to be determined.",
+			"notes": "Full title: L'Etat providence: crise ou fin?",
 			"num": 372,
 			"pf": false,
+			"places": [
+				"TOH 308"
+			],
 			"profs": [
 				"Wendy Allen"
 			],
 			"sem": 3,
 			"term": 20143,
+			"times": [
+				"TTh 0630-0800PM"
+			],
 			"title": "Topics in Francophone Studies",
 			"type": "Topic",
 			"year": 2014
@@ -20826,7 +20833,7 @@
 			"num": 320,
 			"pf": false,
 			"places": [
-				"RNS 124"
+				"OM 210"
 			],
 			"profs": [
 				"Anna Kuxhausen"
@@ -22333,8 +22340,8 @@
 			"num": 245,
 			"pf": false,
 			"places": [
-				"HH 307",
-				"HH 307"
+				"HH 317",
+				"HH 317"
 			],
 			"profs": [
 				"Corliss Swain"
@@ -23654,7 +23661,7 @@
 			"num": 313,
 			"pf": false,
 			"places": [
-				"CHM 239"
+				"CHM 232"
 			],
 			"profs": [
 				"David R. Castro"
@@ -26770,6 +26777,192 @@
 			"sem": 3,
 			"term": 20143,
 			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102311,
+			"credits": 1.0,
+			"crsid": 451,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "Students pursue an independent topic of study with a faculty director. Cannot count as one of two required level III courses for the major.",
+			"level": 300,
+			"name": "IR/Womn Writers/1890-1910",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Jonathan T. Naito"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102317,
+			"credits": 1.0,
+			"crsid": 1152,
+			"depts": [
+				"PSCI"
+			],
+			"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty. Prerequisite: PSCI 220 and one course in the subfield or permission of instructor.",
+			"level": 300,
+			"name": "IR/Political Psychology",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Christopher B. Chapp"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102320,
+			"credits": 1.0,
+			"crsid": 1190,
+			"depts": [
+				"PSYCH"
+			],
+			"desc": "Students have the opportunity to work in depth on a research project of interest under the supervision of a member of the psychology department faculty. Prerequisite: STAT 110, STAT 212, STAT 214 or ECON 263; PSYCH 230; four additional courses in the department; and permission of instructor. PSYCH 298 is strongly recommended. Offered each semester. Depending on course topic, may count toward the neuroscience concentration",
+			"level": 300,
+			"name": "IR/I/O Psych-Work Design",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Shelly D. Dickinson"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102344,
+			"credits": 1.0,
+			"crsid": 154,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Office of the Registrar and Academic Advising or its Web site.",
+			"level": 200,
+			"name": "IS/Bioremediation",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Jean C. Porterfield"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102345,
+			"credits": 1.0,
+			"crsid": 465,
+			"depts": [
+				"ENVST"
+			],
+			"level": 200,
+			"name": "IS/Organic Farm Practices",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Kathleen L. Shea"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102346,
+			"credits": 1.0,
+			"crsid": 69,
+			"depts": [
+				"ART"
+			],
+			"desc": "Independent Study in studio art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in art history prerequisites: two upper-division courses in area of study.",
+			"level": 200,
+			"name": "IS/History of Steensland",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Karil J. Kucera"
+			],
+			"sect": "C",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102348,
+			"credits": 0.25,
+			"crsid": 1394,
+			"depts": [
+				"THEAT"
+			],
+			"desc": "Prerequisite: at least three previous courses in department.",
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Karen Wilson"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Internships",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102370,
+			"credits": 1.0,
+			"crsid": 728,
+			"depts": [
+				"MATH"
+			],
+			"desc": "This course explores the nature of mathematics and its role in contemporary society. The content and format of the course vary depending on the instructor's interests. In particular, the course may focus on one or two mathematical topics in depth or survey a wider range of topics. Recent topics have included mathematics of voting, probability, game theory, finance, and connections between mathematics and the arts. Prerequisites: high school algebra and geometry. Offered annually.",
+			"gereqs": [
+				"AQR"
+			],
+			"level": 100,
+			"name": "Gateways/Mathematics",
+			"num": 117,
+			"pf": false,
+			"places": [
+				"RNS 206",
+				"RNS 206"
+			],
+			"profs": [
+				"Kristina Garrett"
+			],
+			"sect": "B",
+			"sem": 3,
+			"term": 20143,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			],
+			"title": "Gateways to Mathematics",
 			"type": "Research",
 			"year": 2014
 		}
