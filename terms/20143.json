@@ -3298,7 +3298,7 @@
 			"num": 112,
 			"pf": false,
 			"places": [
-				"TOH 112"
+				"RML 115"
 			],
 			"profs": [
 				"Ying Zhou"
@@ -3326,7 +3326,7 @@
 			"num": 112,
 			"pf": false,
 			"places": [
-				"TOH 112"
+				"RML 115"
 			],
 			"profs": [
 				"Ying Zhou"
@@ -9728,7 +9728,7 @@
 			"num": 232,
 			"pf": false,
 			"places": [
-				"TOH 112"
+				"RML 115"
 			],
 			"profs": [
 				"Hsiang-Lin Shih"
@@ -9756,7 +9756,7 @@
 			"num": 232,
 			"pf": false,
 			"places": [
-				"TOH 112"
+				"RML 115"
 			],
 			"profs": [
 				"Hsiang-Lin Shih"
@@ -18949,7 +18949,7 @@
 				"ORC"
 			],
 			"level": 300,
-			"name": "Statistical Research",
+			"name": "MSCS Research Methods",
 			"notes": "Open only to students accepted into the CIR.",
 			"num": 389,
 			"pf": false,
@@ -26963,6 +26963,51 @@
 				"Th 0930-1050"
 			],
 			"title": "Gateways to Mathematics",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102447,
+			"credits": 1.0,
+			"crsid": 687,
+			"depts": [
+				"IS"
+			],
+			"level": 200,
+			"name": "IS/Creativity & Lib Arts",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Maggie Broner"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "IS/Creativity & Lib Arts",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102456,
+			"credits": 1.0,
+			"crsid": 669,
+			"depts": [
+				"JAPAN"
+			],
+			"gereqs": [
+				"WRI"
+			],
+			"level": 200,
+			"name": "IS/Writing in Japanese",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Hiroe Akimoto"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Study",
 			"type": "Research",
 			"year": 2014
 		}

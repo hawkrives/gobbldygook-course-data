@@ -2312,7 +2312,7 @@
 	</course>
 	<course>
 		<clbid>0000095591</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ESAC</deptname>
 		<coursenumber>131</coursenumber>
 		<coursesection>B</coursesection>
@@ -2816,7 +2816,7 @@
 	</course>
 	<course>
 		<clbid>0000095631</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>DANCE</deptname>
 		<coursenumber>106</coursenumber>
 		<coursesection>B</coursesection>
@@ -3018,7 +3018,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>T 0935-1100</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH112');"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000239</groupid>
 		<grouptype></grouptype>
@@ -3039,7 +3039,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>T 1145-0110PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH112');"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000239</groupid>
 		<grouptype></grouptype>
@@ -7554,7 +7554,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>Th 0800-0920</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH112');"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000243</groupid>
 		<grouptype></grouptype>
@@ -7575,7 +7575,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>Th 0930-1050</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH112');"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000243</groupid>
 		<grouptype></grouptype>
@@ -8318,7 +8318,7 @@
 	</course>
 	<course>
 		<clbid>0000096021</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>FILM</deptname>
 		<coursenumber>101</coursenumber>
 		<coursesection></coursesection>
@@ -14770,7 +14770,7 @@
 		<coursenumber>389</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>Statistical Research</coursename>
+		<coursename>MSCS Research Methods</coursename>
 		<pn>N</pn>
 		<notes>Open only to students accepted into the CIR.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15751')"&gt;Roback, Paul J.&lt;/a&gt;</instructors>
@@ -16193,7 +16193,7 @@
 	</course>
 	<course>
 		<clbid>0000097223</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ART</deptname>
 		<coursenumber>153</coursenumber>
 		<coursesection>A</coursesection>
@@ -20642,5 +20642,47 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000728</crsid>
+	</course>
+	<course>
+		<clbid>0000102447</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>IS</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Creativity &amp;amp; Lib Arts</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('792')"&gt;Broner, Maggie&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000687</crsid>
+	</course>
+	<course>
+		<clbid>0000102456</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>JAPAN</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Writing in Japanese</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21197')"&gt;Akimoto, Hiroe&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000669</crsid>
 	</course>
 </searchresults>
