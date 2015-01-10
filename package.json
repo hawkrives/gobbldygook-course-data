@@ -8,7 +8,7 @@
     "start": "python3 ./getData.py --force",
     "update": "date +\"%Y\" | xargs python3 ./getData.py --years",
     "update-details": "rm -rf details/; python3 ./getData.py --force",
-    "pre-publish": "scripts/version.sh"
+    "push": "scripts/version.sh"
   },
   "files": [
     "terms/",
