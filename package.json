@@ -3,6 +3,11 @@
   "version": "2.2.5",
   "description": "Course data for St. Olaf college",
   "main": "index.js",
+  "repository": "hawkrives/gobbldygook-course-data",
+  "author": "Hawken Rives <hawkrives@gmail.com>",
+  "contributors": [
+    "St. Olaf College"
+  ],
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
     "start": "python3 ./getData.py --force",
@@ -15,19 +20,5 @@
     "info.json",
     "mappings/",
     "index.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hawkrives/gobbldygook-course-data"
-  },
-  "author": "Hawken Rives <rives@stolaf.edu>",
-  "contributors": [
-    "St. Olaf College"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hawkrives/gobbldygook-course-data/issues",
-    "email": "rives@stolaf.edu"
-  },
-  "homepage": "https://github.com/hawkrives/gobbldygook-course-data"
+  ]
 }
