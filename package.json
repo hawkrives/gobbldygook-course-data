@@ -10,8 +10,9 @@
   ],
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
-    "start": "python3 ./getData.py --force",
-    "update": "date +\"%Y\" | xargs python3 ./getData.py --years",
+    "refresh": "python3 ./getData.py",
+    "update": "python3 ./getData.py --force --years 0",
+    "update-all": "python3 ./getData.py --force",
     "update-details": "rm -rf details/; python3 ./getData.py --force",
     "push": "scripts/publish.sh"
   },
