@@ -8,6 +8,6 @@ module.exports = {
 		locations: require('./mappings/valid_locations.json'),
 		professors: require('./mappings/valid_professors.json'),
 		times: require('./mappings/valid_times.json'),
-		types: require('./mappings/valid_types.json')
-	}
+		types: require('./mappings/valid_types.json'),
+	},
 }
