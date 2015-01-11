@@ -1,13 +1,5 @@
 {
-  "name": "sto-courses",
-  "version": "2.2.6",
-  "description": "Course data for St. Olaf college",
-  "main": "index.js",
-  "repository": "hawkrives/gobbldygook-course-data",
-  "author": "Hawken Rives <hawkrives@gmail.com>",
-  "contributors": [
-    "St. Olaf College"
-  ],
+  "private": true,
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
     "getData": "python3 ./scripts/getData.py",
@@ -16,12 +8,5 @@
     "update-all": "python3 ./scripts/getData.py --force",
     "update-details": "rm -rf ./source/details/; python3 ./scripts/getData.py --force",
     "push": "scripts/publish.sh"
-  },
-  "files": [
-    "terms/",
-    "generated/",
-    "handmade/",
-    "index.js",
-    "README.md"
-  ]
+  }
 }
