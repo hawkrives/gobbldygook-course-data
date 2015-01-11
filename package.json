@@ -10,16 +10,18 @@
   ],
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
-    "refresh": "python3 ./getData.py",
-    "update": "python3 ./getData.py --force --years 0",
-    "update-all": "python3 ./getData.py --force",
-    "update-details": "rm -rf details/; python3 ./getData.py --force",
+    "getData": "python3 ./scripts/getData.py",
+    "refresh": "python3 ./scripts/getData.py",
+    "update": "python3 ./scripts/getData.py --force --years 0",
+    "update-all": "python3 ./scripts/getData.py --force",
+    "update-details": "rm -rf details/; python3 ./scripts/getData.py --force",
     "push": "scripts/publish.sh"
   },
   "files": [
     "terms/",
-    "info.json",
-    "mappings/",
-    "index.js"
+    "generated/",
+    "handmade/",
+    "index.js",
+    "README.md"
   ]
 }

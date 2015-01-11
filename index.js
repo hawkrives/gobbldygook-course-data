@@ -1,13 +1,13 @@
 module.exports = {
-	departmentNameToAbbr: require('./mappings/to_department_abbreviations.json'),
-	departmentAbbrToName: require('./mappings/to_department_names.json'),
-	gereqTitleToAbbr: require('./mappings/to_gereq_abbreviations.json'),
+	departmentNameToAbbr: require('./handmade/to_department_abbreviations.json'),
+	departmentAbbrToName: require('./handmade/to_department_names.json'),
+	gereqTitleToAbbr: require('./handmade/to_gereq_abbreviations.json'),
 	valid: {
-		departments: require('./mappings/valid_departments.json'),
-		gereqs: require('./mappings/valid_gereqs.json'),
-		locations: require('./mappings/valid_locations.json'),
-		professors: require('./mappings/valid_professors.json'),
-		times: require('./mappings/valid_times.json'),
-		types: require('./mappings/valid_types.json'),
+		departments: require('./generated/valid_departments.json'),
+		gereqs: require('./generated/valid_gereqs.json'),
+		locations: require('./generated/valid_locations.json'),
+		professors: require('./generated/valid_professors.json'),
+		times: require('./generated/valid_times.json'),
+		types: require('./generated/valid_types.json'),
 	},
 }
