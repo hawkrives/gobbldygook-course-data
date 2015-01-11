@@ -14,7 +14,7 @@
     "refresh": "python3 ./scripts/getData.py",
     "update": "python3 ./scripts/getData.py --force --years 0",
     "update-all": "python3 ./scripts/getData.py --force",
-    "update-details": "rm -rf details/; python3 ./scripts/getData.py --force",
+    "update-details": "rm -rf ./source/details/; python3 ./scripts/getData.py --force",
     "push": "scripts/publish.sh"
   },
   "files": [
