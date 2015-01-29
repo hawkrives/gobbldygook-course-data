@@ -2237,7 +2237,7 @@
 			"num": 253,
 			"pf": false,
 			"places": [
-				"DC 305"
+				"RNS 310"
 			],
 			"profs": [
 				"Christopher Tradowsky"
@@ -4989,11 +4989,11 @@
 				"HIST"
 			],
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Ancient Tatu Mediterr",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Abdulai Iddrisu"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -5714,7 +5714,7 @@
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Robert Entenmann"
 			],
 			"sect": "A",
 			"sem": 2,
@@ -5935,7 +5935,7 @@
 			"pf": false,
 			"places": [
 				"CHM 239",
-				"CHM 232"
+				"CHM 239"
 			],
 			"profs": [
 				"David Carter"
@@ -7524,7 +7524,7 @@
 				"TOH 314"
 			],
 			"profs": [
-				"Lavern Rippley"
+				"Staff"
 			],
 			"sem": 2,
 			"term": 20142,
@@ -7579,7 +7579,7 @@
 			"num": 257,
 			"pf": false,
 			"places": [
-				"HH 413"
+				"OM 310"
 			],
 			"profs": [
 				"Michael Fuerstein"
@@ -8023,6 +8023,10 @@
 			"level": 200,
 			"num": 269,
 			"pf": false,
+			"places": [
+				"CHM Urness",
+				"CHM Urness"
+			],
 			"profs": [
 				"James McKeel"
 			],
@@ -9835,6 +9839,29 @@
 			"sem": 2,
 			"term": 20142,
 			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102553,
+			"credits": 1.0,
+			"crsid": 29128,
+			"depts": [
+				"ASIAN",
+				"HIST"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "IS/China Imagined Commun",
+			"num": 298,
+			"pf": false,
+			"profs": [
+				"Robert Entenmann"
+			],
+			"sect": "A",
+			"sem": 2,
+			"term": 20142,
+			"title": "IS/China Imagined Commun",
 			"type": "Research",
 			"year": 2014
 		}
