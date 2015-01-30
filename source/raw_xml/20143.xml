@@ -11032,10 +11032,10 @@
 		<coursenumber>298</coursenumber>
 		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Wittgenstein</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14139')"&gt;Rudd, Anthony J.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -12812,7 +12812,7 @@
 	</course>
 	<course>
 		<clbid>0000096336</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MUSIC</deptname>
 		<coursenumber>262</coursenumber>
 		<coursesection>A</coursesection>
@@ -14626,7 +14626,7 @@
 		<coursename>Sport and Exercise Psych</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('19448')"&gt;Hamilton, Maya&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -15857,7 +15857,7 @@
 	</course>
 	<course>
 		<clbid>0000096649</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>O</coursestatus>
 		<deptname>ART</deptname>
 		<coursenumber>277</coursenumber>
 		<coursesection></coursesection>
@@ -20120,7 +20120,7 @@
 	</course>
 	<course>
 		<clbid>0000099350</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PSCI</deptname>
 		<coursenumber>112</coursenumber>
 		<coursesection></coursesection>
@@ -20810,5 +20810,89 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000069</crsid>
+	</course>
+	<course>
+		<clbid>0000102641</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>F</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/PPCP/Drugs via LC-MS</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15745')"&gt;Beussman, Douglas J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
+	</course>
+	<course>
+		<clbid>0000102643</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Tonb Machine Learning</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23548')"&gt;Bowers, Lisa M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
+	</course>
+	<course>
+		<clbid>0000102644</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MGMT</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2661')"&gt;Goedde, Richard&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000784</crsid>
+	</course>
+	<course>
+		<clbid>0000102645</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('20155')"&gt;Oriña, M. Minda&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001178</crsid>
 	</course>
 </searchresults>

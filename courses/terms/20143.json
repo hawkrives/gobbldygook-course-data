@@ -13607,11 +13607,11 @@
 				"PHIL"
 			],
 			"level": 200,
-			"name": "IS/",
+			"name": "IS/Wittgenstein",
 			"num": 298,
 			"pf": false,
 			"profs": [
-				"Staff"
+				"Anthony J. Rudd"
 			],
 			"sect": "A",
 			"sem": 3,
@@ -18741,7 +18741,7 @@
 				"RNS 290"
 			],
 			"profs": [
-				"Maya Hamilton"
+				"Staff"
 			],
 			"sem": 3,
 			"term": 20143,
@@ -27141,6 +27141,90 @@
 			"sem": 3,
 			"term": 20143,
 			"title": "Independent Study",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102641,
+			"credits": 1.0,
+			"crsid": 223,
+			"depts": [
+				"CHEM"
+			],
+			"level": 300,
+			"name": "IR/PPCP/Drugs via LC-MS",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Douglas J. Beussman"
+			],
+			"sect": "F",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102643,
+			"credits": 1.0,
+			"crsid": 175,
+			"depts": [
+				"BIO"
+			],
+			"desc": "Independent research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, a student conceives and performs a research project leading to the writing of a major research paper and a poster presentation. Independent research requires permission of a supervisor, a secondary faculty reader of the paper, and completion of an independent research form available at the Office of the Registrar and Academic Advising or its Web site.",
+			"level": 300,
+			"name": "IR/Tonb Machine Learning",
+			"num": 398,
+			"pf": false,
+			"profs": [
+				"Lisa M. Bowers"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Independent Research",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102644,
+			"credits": 1.0,
+			"crsid": 784,
+			"depts": [
+				"MGMT"
+			],
+			"level": 200,
+			"name": "Academic Internship",
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"Richard Goedde"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Internship",
+			"type": "Research",
+			"year": 2014
+		},
+		{
+			"clbid": 102645,
+			"credits": 1.0,
+			"crsid": 1178,
+			"depts": [
+				"PSYCH"
+			],
+			"level": 200,
+			"num": 294,
+			"pf": true,
+			"profs": [
+				"M. Minda Ori\u00f1a"
+			],
+			"sect": "A",
+			"sem": 3,
+			"term": 20143,
+			"title": "Academic Internship",
 			"type": "Research",
 			"year": 2014
 		}

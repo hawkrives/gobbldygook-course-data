@@ -17,7 +17,7 @@
 		<meetingtimes>M-F 1000-1130</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS310');"&gt;RNS 310&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
-		<groupid></groupid>
+		<groupid>0000000192</groupid>
 		<grouptype></grouptype>
 		<crsid>0000000192</crsid>
 	</course>
@@ -38,7 +38,7 @@
 		<meetingtimes>MW 0100-0400PM</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS355');"&gt;RNS 355&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
-		<groupid></groupid>
+		<groupid>0000000192</groupid>
 		<grouptype></grouptype>
 		<crsid>0000000193</crsid>
 	</course>
@@ -122,7 +122,7 @@
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
-		<groupid></groupid>
+		<groupid>0000001072</groupid>
 		<grouptype></grouptype>
 		<crsid>0000001072</crsid>
 	</course>
@@ -143,7 +143,7 @@
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
-		<groupid></groupid>
+		<groupid>0000001072</groupid>
 		<grouptype></grouptype>
 		<crsid>0000001073</crsid>
 	</course>
@@ -209,5 +209,26 @@
 		<groupid></groupid>
 		<grouptype>R</grouptype>
 		<crsid>0000023461</crsid>
+	</course>
+	<course>
+		<clbid>0000102639</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>261</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Beat Generation</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8973')"&gt;Wells, Colin&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>M-F 1000-1130</meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000025192</crsid>
 	</course>
 </searchresults>

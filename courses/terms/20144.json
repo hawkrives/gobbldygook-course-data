@@ -11,6 +11,7 @@
 			"gereqs": [
 				"SED"
 			],
+			"groupid": 192,
 			"level": 100,
 			"name": "Struct Chem & Equilib",
 			"num": 125,
@@ -37,6 +38,7 @@
 			"depts": [
 				"CHEM"
 			],
+			"groupid": 192,
 			"level": 100,
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
@@ -150,6 +152,7 @@
 			"gereqs": [
 				"SED"
 			],
+			"groupid": 1072,
 			"level": 100,
 			"name": "Principles Physics I",
 			"num": 124,
@@ -170,6 +173,7 @@
 			"depts": [
 				"PHYS"
 			],
+			"groupid": 1072,
 			"level": 100,
 			"name": "Principles Physics I Lab",
 			"num": 124,
@@ -266,6 +270,34 @@
 			],
 			"title": "Topics in Asian Studies",
 			"type": "Topic",
+			"year": 2014
+		},
+		{
+			"clbid": 102639,
+			"credits": 1.0,
+			"crsid": 25192,
+			"depts": [
+				"ENGL"
+			],
+			"desc": "This course examines the Beat movement in American literature and culture from its emergence in the 1950s to its various literary, musical, and social outgrowths in the 1960s and after. Students read works by Kerouac, Ginsberg, Ferlinghetti, Snyder, DiPrima, and others; trace connections between the literature and such topics as the Cold War and gay rights; and examine the influence of the Beats on popular music, visual art, and film. Prerequisite: FYW. Offered periodically.",
+			"gereqs": [
+				"ALS-L"
+			],
+			"grouptype": "R",
+			"level": 200,
+			"name": "Beat Generation",
+			"num": 261,
+			"pf": false,
+			"profs": [
+				"Colin Wells"
+			],
+			"sem": 4,
+			"term": 20144,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": "The Beat Generation",
+			"type": "Research",
 			"year": 2014
 		}
 	]
