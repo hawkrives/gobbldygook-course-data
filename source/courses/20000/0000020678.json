@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Prin: Experimental Psy",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

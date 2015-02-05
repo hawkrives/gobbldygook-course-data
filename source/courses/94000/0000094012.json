@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Joseph Benson"
+	],
 	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 210",
 		"TOH 210"
 	],
-	"profs": [
-		"Joseph Benson"
-	],
-	"sect": "D",
-	"sem": 1,
+	"num": 120,
+	"pf": false,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 1145-0110PM",

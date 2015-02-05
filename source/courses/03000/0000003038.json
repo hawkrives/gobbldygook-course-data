@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"DC  STUDIO 2"
+	],
 	"name": "Ballet II",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 2"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

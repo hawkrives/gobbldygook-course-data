@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ORC"
 	],
-	"level": 300,
-	"num": 390,
-	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
+	"instructors": [
 		"Paul J. Roback"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"TOH 182"
+	],
+	"num": 390,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0200-0255PM"

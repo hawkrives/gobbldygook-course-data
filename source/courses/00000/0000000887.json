@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"James McKeel"
+	],
 	"level": 200,
-	"name": "Opera Workshop",
-	"num": 269,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM URNESS",
 		"CHM URNESS"
 	],
-	"profs": [
-		"James McKeel"
-	],
-	"sem": 2,
+	"name": "Opera Workshop",
+	"num": 269,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-Th 1040-1230PM",

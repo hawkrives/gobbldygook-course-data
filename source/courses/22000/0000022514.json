@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Age of Renaissance",
 	"num": 213,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0245PM"

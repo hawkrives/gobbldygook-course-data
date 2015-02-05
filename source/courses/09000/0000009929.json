@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 200,
+	"locations": [
+		"OM 031"
+	],
 	"name": "Race/Class-Am Culture",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

@@ -5,18 +5,19 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Charlynn Overvoorde"
+	],
 	"level": 300,
-	"name": "Social Worker as Prof",
-	"num": 381,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Charlynn Overvoorde"
-	],
-	"sem": 3,
+	"name": "Social Worker as Prof",
+	"num": 381,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

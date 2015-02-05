@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 514",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"times": [
 		"M-F 0100-0300PM",

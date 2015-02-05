@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"John E. Bower"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 233",
+		"CHM 222"
+	],
 	"name": "Music/Electronic Med",
 	"notes": "Not Open to First-Year Students.",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"CHM 233",
-		"CHM 222"
-	],
-	"profs": [
-		"John E. Bower"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1200-0100PM",

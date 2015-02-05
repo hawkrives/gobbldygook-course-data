@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Pamela Bacon"
+	],
 	"level": 200,
+	"locations": [
+		"H 307"
+	],
 	"name": "Social Psychology",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Pamela Bacon"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20011,
 	"times": [
 		"MWF 1150-1245PM"

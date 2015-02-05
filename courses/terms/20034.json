@@ -7,17 +7,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"DC 216"
+			],
 			"name": "Foundation Drawing",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"DC 216"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -33,17 +34,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"DC 115E"
+			],
 			"name": "Foundations Ceramics",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"DC 115E"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -59,17 +61,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"DC 102"
+			],
 			"name": "Found Photography",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"DC 102"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -85,17 +88,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Renaissance--Present",
 			"num": 151,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -111,17 +115,18 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Asian Cultures",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -137,18 +142,19 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
-			"name": "Biological Science",
-			"num": 121,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 278",
 				"SC 273"
 			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"name": "Biological Science",
+			"num": 121,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930",
@@ -165,18 +171,19 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
-			"name": "Intermediate Genetics",
-			"num": 233,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 274",
 				"SC 211"
 			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"name": "Intermediate Genetics",
+			"num": 233,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130",
@@ -193,17 +200,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930"
@@ -219,17 +227,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"MT 0100-0400PM"
@@ -245,18 +254,19 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
-			"name": "Soc St-Elem Classroom",
-			"num": 314,
-			"pf": false,
-			"places": [
+			"locations": [
 				"FH 10L",
 				"FH 10L"
 			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"name": "Soc St-Elem Classroom",
+			"num": 314,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0900-1200PM",
@@ -273,18 +283,19 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
-			"name": "Reading Comm Literacy",
-			"num": 315,
-			"pf": false,
-			"places": [
+			"locations": [
 				"FH 10L",
 				"FH 10L"
 			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"name": "Reading Comm Literacy",
+			"num": 315,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0900-1200PM",
@@ -301,17 +312,18 @@
 			"depts": [
 				"DNCTE"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"DC _STUDIO_2"
+			],
 			"name": "Ballet I",
 			"num": 121,
 			"pf": true,
-			"places": [
-				"DC _STUDIO_2"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -327,17 +339,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930"
@@ -353,17 +366,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Literature & Film",
 			"num": 275,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -379,17 +393,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Studies in Prose",
 			"num": 283,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -405,17 +420,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Top: Post Colonial Lit",
 			"num": 347,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930"
@@ -431,14 +447,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -451,14 +468,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -471,17 +489,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930"
@@ -497,17 +516,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -523,14 +543,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Calculus I",
 			"type": "Research",
@@ -543,17 +564,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"OM 001"
+			],
 			"name": "Principles of Math",
 			"num": 210,
 			"pf": false,
-			"places": [
-				"OM 001"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0800-0930"
@@ -569,14 +591,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Abstract Algebra I",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Abstract Algebra I",
 			"type": "Research",
@@ -589,14 +612,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Sem: Hist/Phil of Math",
 			"num": 388,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Sem: Hist/Phil of Math",
 			"type": "Seminar",
@@ -609,14 +633,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Daniel B. Kramer"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Daniel B. Kramer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -629,14 +654,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Golf",
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Golf",
 			"type": "Research",
@@ -649,17 +675,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"TC"
+			],
 			"name": "Rock Climbing",
 			"num": 106,
 			"pf": false,
-			"places": [
-				"TC"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -675,14 +702,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Scuba Diving",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "Scuba Diving",
 			"type": "Research",
@@ -695,17 +723,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"TC"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"TC"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0645-0745"
@@ -721,17 +750,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"TC"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"TC"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 0645-0745"
@@ -747,18 +777,19 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
-			"name": "Principles Physics I",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 170",
 				"SC 111"
 			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130",
@@ -775,17 +806,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Politics & Developmnt",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -801,14 +833,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 200,
 			"name": "IS/Alcohol Adolescent",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "IS/Alcohol Adolescent",
 			"type": "Research",
@@ -821,17 +854,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"SC 129"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"SC 129"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -847,17 +881,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Buddhism,Peace,Justic",
 			"num": 289,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1230-0200PM"
@@ -873,14 +908,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Jamie A. Schillinger"
+			],
 			"level": 200,
 			"name": "IS/Faith and Works",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Jamie A. Schillinger"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"title": "IS/Faith and Works",
 			"type": "Research",
@@ -893,17 +929,18 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"TB 216/HAUGE"
+			],
 			"name": "Oral Interpretation",
 			"num": 100,
 			"pf": false,
-			"places": [
-				"TB 216/HAUGE"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"
@@ -919,17 +956,18 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"SC 184"
+			],
 			"name": "Prin of Statistics",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"SC 184"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20034,
 			"times": [
 				"M-F 1000-1130"

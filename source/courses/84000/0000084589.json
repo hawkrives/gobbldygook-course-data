@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sect": "K",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "K",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Sarah B. Stein"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Sarah B. Stein"
-	],
-	"sect": "N",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

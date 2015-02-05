@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"WR ROOM"
+	],
 	"name": "Self Defense",
 	"num": 161,
 	"pf": false,
-	"places": [
-		"WR ROOM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1005-1100"

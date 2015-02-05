@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 100,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855"

@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Paul P. Moran"
+	],
 	"level": 200,
+	"locations": [
+		"OM 003"
+	],
 	"name": "New Testament Greek",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
-		"Paul P. Moran"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

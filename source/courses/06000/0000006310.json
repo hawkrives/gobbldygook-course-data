@@ -5,19 +5,20 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "C",
-	"sem": 1,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 1145-0110PM",

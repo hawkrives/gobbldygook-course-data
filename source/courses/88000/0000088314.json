@@ -6,17 +6,18 @@
 		"NORW"
 	],
 	"desc": "Proficiency in a second language opens the door to another culture and another way of viewing the world. This course starts students on the road to achieving such a proficiency. Students begin learning to speak, understand, read, and write Norwegian and learn about Norwegian culture through the language. Offered annually in the fall semester.",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
+	"instructors": [
 		"Pi\u00f1ero Christine H."
 	],
-	"sect": "D",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"TOH 110"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"MWF 0200-0255PM"

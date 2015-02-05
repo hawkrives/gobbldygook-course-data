@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Cryptology",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

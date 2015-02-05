@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
 	"name": "FLC-French",
 	"num": 212,
 	"pf": false,
-	"profs": [
-		"Wendy Allen"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "FLC-French",
 	"type": "Research",

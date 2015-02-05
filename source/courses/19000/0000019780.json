@@ -5,18 +5,19 @@
 	"depts": [
 		"ARMS"
 	],
-	"level": 100,
-	"name": "Intro to Arms",
-	"num": 121,
-	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
+	"instructors": [
 		"Michael Fitzgerald",
 		"Joan Hepburn"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"M 4"
+	],
+	"name": "Intro to Arms",
+	"num": 121,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 0120-0245PM"

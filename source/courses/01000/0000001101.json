@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 300,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Physical Chemistry",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Mary Walczak"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

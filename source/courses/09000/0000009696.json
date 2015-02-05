@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
-	"name": "Phil of Mind/Behavior",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sem": 3,
+	"name": "Phil of Mind/Behavior",
+	"num": 231,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

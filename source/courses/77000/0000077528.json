@@ -10,18 +10,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 200,
-	"name": "Econ Develop in Japan",
-	"num": 238,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 1,
+	"name": "Econ Develop in Japan",
+	"num": 238,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"T 0935-1100",

@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Academic Internship",
 	"type": "Research",

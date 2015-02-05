@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Early Modern Europe",
 	"num": 309,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Samiha Peterson"
+	],
 	"level": 300,
+	"locations": [
+		"H 301"
+	],
 	"name": "Soc/Anthro and Ethics",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 301"
-	],
-	"profs": [
-		"Samiha Peterson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0245PM"

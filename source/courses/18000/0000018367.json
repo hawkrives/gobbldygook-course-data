@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Kierkegaard & Existen",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1100"

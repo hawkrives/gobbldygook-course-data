@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Laura Chihara"
+	],
 	"level": 100,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Math Analysis II",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Laura Chihara"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

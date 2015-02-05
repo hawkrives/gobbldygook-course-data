@@ -5,19 +5,20 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Ann (wagner) Wagner"
+	],
 	"level": 200,
-	"name": "Dance/Big Bnd(Men)",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SPT GREEN RM",
 		"CTR ST"
 	],
-	"profs": [
-		"Ann (wagner) Wagner"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Dance/Big Bnd(Men)",
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"times": [
 		"MW 1150-1245PM",

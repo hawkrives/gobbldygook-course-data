@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Joseph L. Mbele"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Joseph L. Mbele"
-	],
-	"sect": "L",
-	"sem": 3,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

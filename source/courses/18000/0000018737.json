@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Adrienne H. Daniels"
+	],
 	"level": 300,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Persuasion",
 	"num": 384,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"Adrienne H. Daniels"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0120-0245PM"

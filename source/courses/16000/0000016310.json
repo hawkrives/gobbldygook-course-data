@@ -5,18 +5,19 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 2"
+	],
 	"name": "Anat & Kinesiol/Lab",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"SAC 2"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"Th 1145-0245PM"

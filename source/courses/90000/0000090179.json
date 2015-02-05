@@ -10,19 +10,20 @@
 		"EIN",
 		"ORC"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 290",
+		"RNS 290"
+	],
 	"name": "Ethical Iss: Software",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor.",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"RNS 290",
-		"RNS 290"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 100,
+	"locations": [
+		"CH 102"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

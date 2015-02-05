@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Paul Miller"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Fitness Walking .50",
 	"num": 137,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Paul Miller"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0800-0855"

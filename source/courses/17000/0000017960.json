@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Top: Neurobiology/Disc",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 0305-0400PM"

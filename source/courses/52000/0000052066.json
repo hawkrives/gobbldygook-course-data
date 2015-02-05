@@ -6,14 +6,15 @@
 		"PSCI"
 	],
 	"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty.",
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 300,
 	"name": "IR/Resistance in Politics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

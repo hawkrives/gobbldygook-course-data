@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"James Tallon"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Social Deviance",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"James Tallon"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

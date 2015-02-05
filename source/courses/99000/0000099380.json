@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Top: \"Test Course 1\"",
 	"num": 301,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Top: \"Test Course 1\"",
 	"type": "Topic",

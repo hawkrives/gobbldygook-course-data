@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/History of P.B.S.",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IR/History of P.B.S.",
 	"type": "Research",

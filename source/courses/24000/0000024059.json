@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Gary Deason"
+	],
 	"level": 200,
+	"locations": [
+		"SC 18"
+	],
 	"name": "Saving Wild Places",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"SC 18"
-	],
-	"profs": [
-		"Gary Deason"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1030-1200PM"

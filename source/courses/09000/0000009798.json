@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 200,
 	"name": "IS/Ethics and Physics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Ethics and Physics",
 	"type": "Research",

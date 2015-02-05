@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Mike Weimerskirch"
+	],
 	"level": 300,
 	"name": "IR/Combinatorial Games",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mike Weimerskirch"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"title": "Independent Research",
 	"type": "Research",

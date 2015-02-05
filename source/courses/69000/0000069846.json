@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered periodically.",
+	"instructors": [
+		"Adam H. Berliner"
+	],
 	"level": 300,
-	"name": "Sem: Matrix Theory",
-	"num": 382,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 297",
 		"RNS 297"
 	],
-	"profs": [
-		"Adam H. Berliner"
-	],
-	"sem": 3,
+	"name": "Sem: Matrix Theory",
+	"num": 382,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

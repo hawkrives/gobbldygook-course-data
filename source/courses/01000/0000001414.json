@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Christopher Gable"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Ear/Keyboard II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Christopher Gable"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

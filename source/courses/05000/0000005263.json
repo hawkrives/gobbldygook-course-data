@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Christopher J. Meidt"
+	],
 	"level": 100,
+	"locations": [
+		"MFH WT RM"
+	],
 	"name": "Wt Training-Men",
 	"num": 141,
 	"pf": false,
-	"places": [
-		"MFH WT RM"
-	],
-	"profs": [
-		"Christopher J. Meidt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"TTh 0800-0855"

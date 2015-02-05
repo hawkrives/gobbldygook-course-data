@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"title": "Internship",
 	"type": "Research",

@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings and fields. Prerequisite: Mathematics 220. Offered both semesters.",
-	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
+	"instructors": [
 		"Kay E. Smith"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 130"
+	],
+	"num": 252,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1255-0150PM"

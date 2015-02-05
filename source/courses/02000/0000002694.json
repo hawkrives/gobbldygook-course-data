@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jamie Monson"
+	],
 	"level": 100,
-	"name": "Life Hist/African Wmn",
-	"num": 128,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 30",
 		"M 30"
 	],
-	"profs": [
-		"Jamie Monson"
-	],
-	"sem": 2,
+	"name": "Life Hist/African Wmn",
+	"num": 128,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0900-1000",

@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
 	"name": "FLC - German",
 	"num": 230,
 	"pf": false,
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "FLC - German",
 	"type": "FLAC",

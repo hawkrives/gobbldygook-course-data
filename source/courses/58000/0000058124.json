@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Kaethe Schwehn"
+	],
 	"level": 200,
 	"name": "IS/The Skittery Poem",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kaethe Schwehn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

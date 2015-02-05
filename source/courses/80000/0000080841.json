@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 142,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Comp Vertebrate Anat Lab",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"Th 0215-0515PM"

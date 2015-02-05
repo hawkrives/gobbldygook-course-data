@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Steen"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Fiction Down Under",
 	"num": 215,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Mary Steen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

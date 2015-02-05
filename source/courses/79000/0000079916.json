@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Lise R. Hoy"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Lise R. Hoy"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0200-0255PM"

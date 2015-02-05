@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"title": "Internship",
 	"type": "Research",

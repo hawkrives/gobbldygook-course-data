@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Deborah Alexander"
+	],
 	"level": 200,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Top: Film and History",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Deborah Alexander"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"M 0700-1000PM"

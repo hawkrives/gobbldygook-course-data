@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Beginning German II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Ronald J. Lee"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Shakespeare in Perfor",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Ronald J. Lee"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0100-0300PM"

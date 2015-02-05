@@ -5,18 +5,19 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 100,
-	"name": "Asian Cultures",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"name": "Asian Cultures",
+	"num": 121,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

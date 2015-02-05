@@ -5,13 +5,14 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"title": "Academic Internship",
 	"type": "Research",

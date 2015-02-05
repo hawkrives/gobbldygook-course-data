@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Hauck"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
+	"num": 130,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"TTh 0935-1035"

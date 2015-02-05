@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 100,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 0905-1000"

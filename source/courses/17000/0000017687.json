@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
 	"name": "Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Internship",
 	"type": "Research",

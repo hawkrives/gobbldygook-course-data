@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations and eigenvalues. Prerequisite: Mathematics 120, or 122.",
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 1255-0150PM"

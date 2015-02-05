@@ -5,15 +5,16 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"Jerry Olszewski"
+	],
 	"level": 200,
 	"name": "IS/Personal Wellness Dev",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jerry Olszewski"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Stephen E. Philion"
+	],
 	"level": 100,
-	"name": "Intro to Sociology",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 035",
 		"OM 035"
 	],
-	"profs": [
-		"Stephen E. Philion"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intro to Sociology",
+	"num": 121,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

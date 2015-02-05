@@ -6,18 +6,19 @@
 		"DANCE"
 	],
 	"desc": "International dance classes emphasize dance in its varied cultural contexts. This course surveys dance from around the world with emphasis on European and Near Eastern forms. Offered once or twice a year.",
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
-	"name": "Intl Dance I",
-	"num": 109,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC Studio 1",
 		"DC Studio 1"
 	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"name": "Intl Dance I",
+	"num": 109,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 1150-1245PM",

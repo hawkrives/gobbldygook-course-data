@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Modern China",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

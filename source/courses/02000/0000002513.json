@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Marisol Galicia"
+	],
 	"level": 100,
+	"locations": [
+		"M 20"
+	],
 	"name": "Beginning Spanish I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Marisol Galicia"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20011,
 	"times": [
 		"MWF 0800-0855"

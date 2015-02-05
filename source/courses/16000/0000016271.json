@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"COURTS"
+	],
 	"name": "Racquetball (Women)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"COURTS"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MW 1045-1140"

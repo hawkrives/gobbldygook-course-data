@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 100,
+	"locations": [
+		"L 520"
+	],
 	"name": "America Since 1945",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

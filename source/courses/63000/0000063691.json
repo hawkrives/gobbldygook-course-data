@@ -6,14 +6,15 @@
 		"INTD"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Course with MSG",
 	"num": 177,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "Course with MSG",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 100,
+	"locations": [
+		"DC 204"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

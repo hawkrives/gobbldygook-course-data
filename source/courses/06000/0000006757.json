@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Stephen Cronin"
+	],
 	"level": 300,
 	"name": "IR/Ionicity & Yeast",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Stephen Cronin"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Ionicity & Yeast",
 	"type": "Research",

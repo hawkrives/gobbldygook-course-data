@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "O",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0800-0925",

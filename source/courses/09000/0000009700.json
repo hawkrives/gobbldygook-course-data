@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Karen Gervais"
+	],
 	"level": 200,
-	"name": "Philosophy & Feminism",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Karen Gervais"
-	],
-	"sem": 3,
+	"name": "Philosophy & Feminism",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

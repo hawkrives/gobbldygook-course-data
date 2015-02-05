@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
 	"name": "IR/Japan Social History",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"title": "Independent Research",
 	"type": "Research",

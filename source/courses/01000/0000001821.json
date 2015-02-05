@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Anthony Becker"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Academic Internship",
 	"type": "Research",

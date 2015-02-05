@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Michael Wala"
+	],
 	"level": 200,
+	"locations": [
+		"M 35"
+	],
 	"name": "Business German",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Michael Wala"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"M 0700-1000PM"

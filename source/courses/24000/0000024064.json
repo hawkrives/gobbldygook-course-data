@@ -5,14 +5,15 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Herve Pensec"
+	],
 	"level": 200,
 	"name": "ID French Stud Paris",
 	"num": 275,
 	"pf": false,
-	"profs": [
-		"Herve Pensec"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "ID French Stud Paris",
 	"type": "Research",

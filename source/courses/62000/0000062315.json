@@ -9,19 +9,20 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Intro: Env Studies",
 	"notes": "This course has class-year limits.",
 	"num": 137,
 	"pf": false,
-	"places": [
-		"RNS 190",
-		"RNS 190"
-	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"times": [
 		"M-F 0800-1000",

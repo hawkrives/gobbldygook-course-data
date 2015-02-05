@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner",
+		"Robert W. McClure"
+	],
 	"level": 300,
 	"name": "Soc St-Elem Classroom",
 	"num": 314,
 	"pf": false,
-	"profs": [
-		"Daniel R. Forstner",
-		"Robert W. McClure"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20054,
 	"title": "Soc St-Elem Classroom",
 	"type": "Research",

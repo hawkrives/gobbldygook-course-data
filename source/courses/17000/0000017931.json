@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 280"
+	],
 	"name": "Microbiology",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"SC 280"
-	],
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

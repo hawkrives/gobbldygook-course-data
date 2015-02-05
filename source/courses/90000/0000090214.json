@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
+	"instructors": [
 		"Colin Wells"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 515"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0905-1000"

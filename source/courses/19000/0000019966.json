@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 300,
-	"name": "Wom/Rel: Spiritual Aut",
-	"num": 389,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CH 107B",
 		"CH 101",
 		"CH 101"
 	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 2,
+	"name": "Wom/Rel: Spiritual Aut",
+	"num": 389,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"times": [
 		"M 0200-0330PM",

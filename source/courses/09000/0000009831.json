@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 100,
+	"locations": [
+		"SC 280"
+	],
 	"name": "Invest Explor Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 280"
-	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"W 1150-0250PM"

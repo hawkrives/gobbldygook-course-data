@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Reformation Theology",
 	"num": 214,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

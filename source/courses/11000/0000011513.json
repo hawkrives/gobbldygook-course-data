@@ -6,17 +6,18 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Sheryl D. Breen"
+	],
 	"level": 200,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Top: Feminist Theory",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Sheryl D. Breen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"times": [
 		"M-F 1040-1240PM"

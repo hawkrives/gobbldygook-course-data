@@ -6,15 +6,16 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Carol H. Austin"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Carol H. Austin"
-	],
-	"sect": "B",
-	"sem": 5,
+	"section": "B",
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"title": "Internship",
 	"type": "Research",

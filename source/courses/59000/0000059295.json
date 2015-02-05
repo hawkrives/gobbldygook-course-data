@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Urmila S. Malvadkar"
+	],
 	"level": 300,
 	"name": "IR/Dynamical Systems",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Urmila S. Malvadkar"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

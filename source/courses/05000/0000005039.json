@@ -5,18 +5,19 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Jon Bruss"
+	],
 	"level": 300,
-	"name": "Greek Philosophy",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 003",
 		"OM 003"
 	],
-	"profs": [
-		"Jon Bruss"
-	],
-	"sem": 3,
+	"name": "Greek Philosophy",
+	"num": 372,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

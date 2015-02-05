@@ -5,13 +5,14 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Heather Campbell"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Heather Campbell"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"ART"
 	],
 	"groupid": 31,
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art Hist Discussion",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"F 1150-1245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"David Nordmann"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Modern China",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"David Nordmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

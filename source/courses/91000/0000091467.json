@@ -6,15 +6,16 @@
 		"GERM"
 	],
 	"desc": "Independent Study.",
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
 	"name": "IS/German Grammar Review",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Karl Fink"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

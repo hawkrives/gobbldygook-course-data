@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. The first semester focuses on structure, nomenclature and reactions of aliphatic hydrocarbons, including aspects of stereochemistry and spectroscopic identification of these compounds. The second semester delves into the chemistry of functional groups, especially those that play a role in the reactivity biomolecules such as carbohydrates, lipids, proteins and nucleic acids. Prerequisite: Chemistry 126. Offered Spring Semester.",
-	"level": 200,
-	"num": 248,
-	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
+	"instructors": [
 		"Kristopher J. Keuseman"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 282"
+	],
+	"num": 248,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 0905-1000"

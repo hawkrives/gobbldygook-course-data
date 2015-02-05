@@ -5,18 +5,19 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Richard Bodman"
+	],
 	"level": 100,
-	"name": "Afghan Kaleidoscope",
-	"num": 152,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 001",
 		"OM 001"
 	],
-	"profs": [
-		"Richard Bodman"
-	],
-	"sem": 2,
+	"name": "Afghan Kaleidoscope",
+	"num": 152,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-Th 0900-1000",

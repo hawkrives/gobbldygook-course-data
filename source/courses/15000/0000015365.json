@@ -5,15 +5,16 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "FLC - Spanish",
 	"num": 237,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "FLC - Spanish",
 	"type": "FLAC",

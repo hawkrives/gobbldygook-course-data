@@ -6,15 +6,16 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"title": "Internship",
 	"type": "Research",

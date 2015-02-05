@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 300,
+	"locations": [
+		"M 4"
+	],
 	"name": "Sem: Technical German",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 19981,
 	"times": [
 		"MWF 0200-0255PM"

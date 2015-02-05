@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 300,
 	"name": "IR/Fandom and Performance",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

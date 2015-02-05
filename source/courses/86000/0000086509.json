@@ -10,16 +10,17 @@
 		"ALS-A"
 	],
 	"grouptype": "R",
-	"level": 100,
-	"num": 104,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"Guido Alvarez"
 	],
-	"sem": 5,
+	"level": 100,
+	"locations": [
+		"DC 100"
+	],
+	"num": 104,
+	"pf": false,
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"times": [
 		"M-F 1000-1130"

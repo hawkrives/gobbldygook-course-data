@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
 	"name": "FLC-French",
 	"num": 212,
 	"pf": false,
-	"profs": [
-		"Eric Lund"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "FLC-French",
 	"type": "Research",

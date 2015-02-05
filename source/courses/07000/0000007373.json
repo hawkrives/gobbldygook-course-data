@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
 	"name": "IS/Post Modern Theol",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David Booth"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Post Modern Theol",
 	"type": "Research",

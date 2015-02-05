@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Kristina Garrett",
+		"Steven McKelvey"
+	],
 	"level": 300,
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Kristina Garrett",
-		"Steven McKelvey"
-	],
-	"sem": 2,
+	"num": 390,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"times": [
 		"M-F 0900-1000",

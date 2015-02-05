@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 300,
-	"name": "Geometry",
-	"num": 356,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sem": 2,
+	"name": "Geometry",
+	"num": 356,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0830-1000",

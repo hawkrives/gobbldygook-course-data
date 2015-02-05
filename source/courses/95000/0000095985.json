@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-G"
 	],
+	"instructors": [
+		"Sylvia Fischer"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 212"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 212"
-	],
-	"profs": [
-		"Sylvia Fischer"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

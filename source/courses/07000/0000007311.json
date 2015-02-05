@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
-	"level": 200,
-	"name": "Indust/Organizations",
-	"num": 250,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"William Scott Gregory",
 		"Harold Brull"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"name": "Indust/Organizations",
+	"num": 250,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"Th 0700-1000PM"

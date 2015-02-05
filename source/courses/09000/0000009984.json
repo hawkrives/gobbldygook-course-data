@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 300,
-	"name": "Design for Theatre",
-	"num": 352,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SPT_GREEN_RM",
 		"SPT_GREEN_RM"
 	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"name": "Design for Theatre",
+	"num": 352,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 200,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Distributive Justice",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 1230-0200PM"

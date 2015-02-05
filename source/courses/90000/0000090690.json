@@ -10,19 +10,20 @@
 		"AQR"
 	],
 	"groupid": 1402,
+	"instructors": [
+		"Sharon Lane-Getaz"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150",
+		"RNS 150"
+	],
 	"name": "Prin of Statistics",
 	"notes": "This course has class year limits. Students in Stat 110 must also register for one lab 110 AL, BL, or CL.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RNS 150",
-		"RNS 150"
-	],
-	"profs": [
-		"Sharon Lane-Getaz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

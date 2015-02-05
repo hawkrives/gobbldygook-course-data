@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 300,
 	"name": "IR/Screenwriting",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William Sonnega"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

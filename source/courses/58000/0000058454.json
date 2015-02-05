@@ -7,18 +7,19 @@
 	],
 	"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
 	"groupid": 197,
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 378/311"
+	],
 	"name": "Synthesis Lab II",
 	"num": 254,
 	"pf": true,
-	"places": [
-		"SC 378/311"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1145-0245PM"

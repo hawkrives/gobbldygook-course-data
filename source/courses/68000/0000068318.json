@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1240PM"

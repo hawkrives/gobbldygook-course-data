@@ -5,15 +5,16 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Sharon Powell"
+	],
 	"level": 200,
 	"name": "IS/Low Income Families",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Sharon Powell"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Study",
 	"type": "Research",

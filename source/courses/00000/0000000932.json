@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
+	"locations": [
+		"M 2"
+	],
 	"name": "Women in Russian Lit",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"MTThF 1045-1245PM"

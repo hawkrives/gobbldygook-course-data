@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 300,
-	"name": "Sem: Analtyical Method",
-	"num": 382,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 3,
+	"name": "Sem: Analtyical Method",
+	"num": 382,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

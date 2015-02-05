@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "Academic Internship",
 	"type": "Research",

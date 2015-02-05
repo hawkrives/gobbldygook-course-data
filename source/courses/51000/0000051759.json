@@ -7,18 +7,19 @@
 	],
 	"groupid": 194,
 	"grouptype": "2",
+	"instructors": [
+		"Nathaniel J. Schaefle"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/371"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 374/371"
-	],
-	"profs": [
-		"Nathaniel J. Schaefle"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"Th 0300-0600PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"YH 100"
+	],
 	"name": "Social Worker as Prof",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"YH 100"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0800-0925"

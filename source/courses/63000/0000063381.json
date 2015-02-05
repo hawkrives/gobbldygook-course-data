@@ -6,16 +6,17 @@
 		"STAT"
 	],
 	"desc": "This course emphasizes skills necessary to understand and analyze data. Topics include descriptive statistics, probability, random variables, sampling theory, estimation, classical hypothesis testing, and practical and theoretical understanding of simple and multiple regression analysis. Applications to economics and business problems use real data, realistic applications, and Minitab for Windows. Written reports link statistical theory and practice with communication of results. Prerequisite: Mathematics 120 or 121, and one of Economics 110-121, or consent of the instructor. Offered each semester.",
-	"level": 200,
-	"num": 263,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"Xun Pomponio"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"num": 263,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

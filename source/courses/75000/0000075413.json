@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Nathaniel J. Schaefle"
+	],
 	"level": 300,
 	"name": "IR/Lab Automation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Nathaniel J. Schaefle"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

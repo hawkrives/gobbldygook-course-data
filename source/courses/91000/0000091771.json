@@ -10,14 +10,15 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 100,
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20124,
 	"times": [
 		"M-F 0800-0930"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kristi Holden"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Art 1776-1880",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Kristi Holden"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"times": [
 		"MWF 1045-1140"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Adv Creative Writing",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"James Heynen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"Th 0600-0900PM"

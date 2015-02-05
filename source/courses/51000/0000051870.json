@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"Mod 3",
 		"Mod 3"
 	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sect": "G",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"T 0800-0925",

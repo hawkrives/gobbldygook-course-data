@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
-	"name": "Developmental Biology",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 269"
 	],
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Developmental Biology",
+	"num": 372,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM",

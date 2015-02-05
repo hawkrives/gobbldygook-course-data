@@ -5,14 +5,15 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 300,
 	"name": "IR/Japan Exchange Rte",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"title": "IR/Japan Exchange Rte",
 	"type": "Research",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 0800-0855"

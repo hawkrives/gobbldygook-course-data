@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 300,
 	"name": "Reaction Mechanisms",
 	"num": 388,
 	"pf": false,
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "Reaction Mechanisms",
 	"type": "Research",

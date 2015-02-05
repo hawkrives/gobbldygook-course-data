@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 300,
 	"name": "IR/Tappp Program Eval",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Tappp Program Eval",
 	"type": "Research",

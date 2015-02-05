@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

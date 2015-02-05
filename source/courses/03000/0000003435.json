@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
+	"locations": [
+		"H 204"
+	],
 	"name": "Sem: Behav Neurobiolog",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

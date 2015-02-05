@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 1040-1240PM"

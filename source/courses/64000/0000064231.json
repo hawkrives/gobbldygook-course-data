@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"num": 104,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"David E. Ryan"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"DC 100"
+	],
+	"num": 104,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"MWF 0800-1000"

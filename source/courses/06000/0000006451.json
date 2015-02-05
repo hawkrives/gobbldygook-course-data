@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Chem-Life's Beginning",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

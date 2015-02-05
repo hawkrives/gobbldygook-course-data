@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 200,
 	"name": "IS/McDonaugh: Drama Film",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

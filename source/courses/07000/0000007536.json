@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"TC"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 0645-0745"

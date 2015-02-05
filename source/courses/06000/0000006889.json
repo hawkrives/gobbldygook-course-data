@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
-	"name": "Advanced Choreography",
-	"num": 374,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC _STUDIO_3",
 		"DC _STUDIO_3"
 	],
-	"profs": [
-		"Janice Roberts"
-	],
-	"sem": 3,
+	"name": "Advanced Choreography",
+	"num": 374,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

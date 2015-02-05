@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
 	"name": "IS/The City as Teacher",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20062,
 	"title": "Independent Study",
 	"type": "Research",

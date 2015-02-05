@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
 	"name": "IS/Screen Writing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"William Sonnega"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IS/Screen Writing",
 	"type": "Research",

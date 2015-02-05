@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Carl Isaacson"
+	],
 	"level": 100,
+	"locations": [
+		"CT 227"
+	],
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"CT 227"
-	],
-	"profs": [
-		"Carl Isaacson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

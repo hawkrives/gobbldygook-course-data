@@ -10,20 +10,21 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 314",
+		"TOH 314"
+	],
 	"name": "Gateway Sp-Spkng Wrld",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"TOH 314",
-		"TOH 314"
-	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

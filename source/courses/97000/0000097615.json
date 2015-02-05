@@ -5,14 +5,15 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20135,
 	"title": "Internship",
 	"type": "Research",

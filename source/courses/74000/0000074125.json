@@ -10,19 +10,20 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
-	"name": "Gateway Sp-Spkng Wrld",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 312",
 		"TOH 312"
 	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Gateway Sp-Spkng Wrld",
+	"num": 250,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

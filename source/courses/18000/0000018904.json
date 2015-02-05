@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Corporate Culture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 5,
+	"section": "E",
+	"semester": 5,
+	"status": "O",
 	"term": 19955,
 	"title": "IS/Corporate Culture",
 	"type": "Research",

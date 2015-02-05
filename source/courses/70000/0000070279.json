@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Mary E. Anderson"
+	],
 	"level": 200,
-	"num": 214,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Mary E. Anderson"
-	],
-	"sem": 1,
+	"num": 214,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"T 0800-0925",

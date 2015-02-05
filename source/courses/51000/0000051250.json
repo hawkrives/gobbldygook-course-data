@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 110,
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"SC 263"
+	],
 	"name": "Genetics/Evol/Soc Lab",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"SC 263"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20062,
 	"times": [
 		"M-Th 0100-0300PM"

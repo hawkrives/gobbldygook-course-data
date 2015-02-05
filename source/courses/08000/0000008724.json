@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Chinese Lit--Tr",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-Th 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 200,
+	"locations": [
+		"DC 105"
+	],
 	"name": "Sculpt: Metal Direct",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"DC 105"
-	],
-	"profs": [
-		"Irve Dell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0245PM"

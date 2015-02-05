@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joseph L. Mbele"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Topics/Post-Colonial",
 	"num": 347,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Joseph L. Mbele"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"David A. Stromme"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Individual Fitness.50",
 	"notes": "Open to seniors.",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"SAC 112"
-	],
-	"profs": [
-		"David A. Stromme"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"times": [
 		"MWF 0800-0855"

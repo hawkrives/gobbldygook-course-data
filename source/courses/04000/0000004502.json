@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 200,
 	"name": "FLC--German",
 	"num": 252,
 	"pf": true,
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "FLC--German",
 	"type": "Research",

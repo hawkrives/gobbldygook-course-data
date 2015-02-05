@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
-	"level": 200,
-	"name": "Biomedical Ethics",
-	"num": 250,
-	"pf": false,
-	"places": [
-		"MFH 232",
-		"MFH 232"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Gervais",
 		"Edward Langerak"
 	],
-	"sem": 2,
+	"level": 200,
+	"locations": [
+		"MFH 232",
+		"MFH 232"
+	],
+	"name": "Biomedical Ethics",
+	"num": 250,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19972,
 	"times": [
 		"M-F 0900-1000",

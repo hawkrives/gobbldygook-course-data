@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
 	"name": "IS/Galen Strawson",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

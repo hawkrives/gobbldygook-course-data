@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 300,
 	"name": "IR/Applied Algebra",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

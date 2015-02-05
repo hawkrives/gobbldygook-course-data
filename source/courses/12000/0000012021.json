@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
-	"name": "Sem: Franklin's America",
-	"num": 270,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 015",
 		"OM 015"
 	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"name": "Sem: Franklin's America",
+	"num": 270,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0120-0245PM",

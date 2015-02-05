@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
-	"name": "Ecological Principles",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 248"
 	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Ecological Principles",
+	"num": 261,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855",

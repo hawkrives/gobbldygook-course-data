@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 200,
-	"name": "Top: Narr of Soc Protest",
-	"num": 260,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sem": 3,
+	"name": "Top: Narr of Soc Protest",
+	"num": 260,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

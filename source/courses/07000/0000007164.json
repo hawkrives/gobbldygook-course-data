@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Peter S. Hamlin"
+	],
 	"level": 300,
 	"name": "IR/Music and Politics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Peter S. Hamlin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Music and Politics",
 	"type": "Research",

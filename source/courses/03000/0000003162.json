@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "East Asian Seminar",
 	"num": 360,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

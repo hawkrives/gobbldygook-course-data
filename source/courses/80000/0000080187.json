@@ -10,19 +10,20 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Kris A. Cropsey"
+	],
 	"level": 200,
-	"name": "Gateway Sp-Spkng Wrld",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 310",
 		"TOH 310"
 	],
-	"profs": [
-		"Kris A. Cropsey"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Gateway Sp-Spkng Wrld",
+	"num": 250,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

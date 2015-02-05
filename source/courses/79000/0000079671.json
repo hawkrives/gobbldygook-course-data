@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 108",
 		"TOH 108"
 	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

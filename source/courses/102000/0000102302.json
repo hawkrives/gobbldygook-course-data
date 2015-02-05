@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Daniel A. Everson"
+	],
 	"level": 300,
 	"name": "IR/Conducting Polymer Syn",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Daniel A. Everson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Research",
 	"type": "Research",

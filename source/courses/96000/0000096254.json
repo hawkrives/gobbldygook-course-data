@@ -10,16 +10,17 @@
 		"ALS-A",
 		"SPM"
 	],
-	"level": 200,
-	"num": 210,
-	"pf": false,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
+	"instructors": [
 		"Karla Grotting"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"DC Studio 1"
+	],
+	"num": 210,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

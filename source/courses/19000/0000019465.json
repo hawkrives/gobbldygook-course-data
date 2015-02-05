@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Matthew C. McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Handball",
 	"num": 155,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"Matthew C. McDonald"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Richard Senese"
+	],
 	"level": 300,
 	"name": "IR/Counseling & Rel",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Senese"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Counseling & Rel",
 	"type": "Research",

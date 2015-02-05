@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sect": "C",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 0100-0300PM",

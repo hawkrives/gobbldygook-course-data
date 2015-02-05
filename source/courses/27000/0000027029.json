@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 300,
+	"locations": [
+		"H 403"
+	],
 	"name": "Found Soc Sci Resrch",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Michael Leming"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19995,
 	"times": [
 		"M-F 1230-0200PM"

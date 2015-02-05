@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"David Van Wylen"
-	],
-	"sect": "I",
-	"sem": 2,
+	"section": "I",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "Academic Internship",
 	"type": "Research",

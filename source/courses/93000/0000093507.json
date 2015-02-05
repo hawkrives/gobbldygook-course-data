@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Cecilia Cornejo"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307",
+		"HH 501"
+	],
 	"name": "Documentary Film",
 	"notes": "Not open to first-year students. Prerequisite: Film 101 or permission of the instructor. Students who do not meet one of these prerequisites will be dropped from the course.",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"HH 307",
-		"HH 501"
-	],
-	"profs": [
-		"Cecilia Cornejo"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"times": [
 		"MTThF 0800-1000",

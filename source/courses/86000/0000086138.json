@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 200,
-	"name": "High/Late Middle Ages",
-	"num": 212,
-	"pf": false,
-	"places": [
-		"HH 501",
-		"HH 501"
-	],
-	"profs": [
+	"instructors": [
 		"Mollie M. Madden",
 		"J. L. Carrington"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"HH 501",
+		"HH 501"
+	],
+	"name": "High/Late Middle Ages",
+	"num": 212,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 1145-0110PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Sem: Envrmt'l Politics",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

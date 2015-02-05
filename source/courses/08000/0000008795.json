@@ -5,14 +5,15 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/",
 	"type": "Research",

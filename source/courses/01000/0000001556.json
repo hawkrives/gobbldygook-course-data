@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Sheryl D. Breen"
+	],
 	"level": 100,
+	"locations": [
+		"CT 227"
+	],
 	"name": "American Politics",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"CT 227"
-	],
-	"profs": [
-		"Sheryl D. Breen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

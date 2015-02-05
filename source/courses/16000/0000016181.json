@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Diction Singers II",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 1255-0150PM"

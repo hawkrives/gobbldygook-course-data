@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Daniel Douglass"
+	],
 	"level": 100,
-	"name": "Geophysics",
-	"num": 123,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Daniel Douglass"
-	],
-	"sem": 3,
+	"name": "Geophysics",
+	"num": 123,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

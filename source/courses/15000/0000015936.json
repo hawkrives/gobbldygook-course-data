@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Modern Dance II",
 	"num": 112,
 	"pf": true,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 0200-0255PM"

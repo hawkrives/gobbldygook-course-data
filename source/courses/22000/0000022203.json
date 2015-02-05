@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 100,
+	"locations": [
+		"MFH 230"
+	],
 	"name": "Asian Cultures",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"MFH 230"
-	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0110PM"

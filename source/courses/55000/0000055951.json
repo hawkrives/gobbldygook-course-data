@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
 	"name": "IS/Phil Critique Rel",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "IS/Phil Critique Rel",
 	"type": "Research",

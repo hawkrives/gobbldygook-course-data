@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Barrie J. Borich"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 130",
 		"SC 130"
 	],
-	"profs": [
-		"Barrie J. Borich"
-	],
-	"sect": "O",
-	"sem": 3,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

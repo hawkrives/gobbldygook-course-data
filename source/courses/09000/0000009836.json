@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
-	"name": "Sensation/Perception",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 204",
 		"HH 204"
 	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Sensation/Perception",
+	"num": 235,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000",

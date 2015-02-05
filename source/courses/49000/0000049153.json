@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Heather Campbell"
+	],
 	"level": 200,
+	"locations": [
+		"FH 010"
+	],
 	"name": "English Lang Learners",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"FH 010"
-	],
-	"profs": [
-		"Heather Campbell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MTh 0730-0900PM"

@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Amine R. Bekhechi"
+	],
 	"level": 200,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Amine R. Bekhechi"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

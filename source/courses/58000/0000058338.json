@@ -6,19 +6,20 @@
 		"ECON"
 	],
 	"desc": "This course takes an analytical approach to economic reasoning and contemporary issues. The course introduces microeconomic and macroeconomic theories with applications to relevant topics, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes, and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers. Offered each semester.",
+	"instructors": [
+		"Shefali V. Mehta"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Shefali V. Mehta"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

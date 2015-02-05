@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Imagery in Reading",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IR/Imagery in Reading",
 	"type": "Research",

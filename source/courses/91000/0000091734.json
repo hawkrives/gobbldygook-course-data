@@ -10,18 +10,19 @@
 		"ALS-L",
 		"HWC"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 200,
-	"name": "Golden Age Greece-Tr",
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"name": "Golden Age Greece-Tr",
+	"num": 243,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

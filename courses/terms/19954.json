@@ -7,14 +7,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Paul Cabe"
+			],
 			"level": 100,
 			"name": "Cellular Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Paul Cabe"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Cellular Bio & Genetics",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Cellular Bio & Gen/Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Cellular Bio & Gen/Lab",
 			"type": "Lab",
@@ -47,14 +49,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Lauri Sammartano"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Lauri Sammartano"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -67,15 +70,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -88,14 +92,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Kathleen L. Shea"
+			],
 			"level": 300,
 			"name": "Field Ecology",
 			"num": 371,
 			"pf": false,
-			"profs": [
-				"Kathleen L. Shea"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 19954,
 			"title": "Field Ecology",
 			"type": "Research",
@@ -108,14 +113,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Theodore Johnson"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Theodore Johnson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -128,14 +134,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gary Miessler"
+			],
 			"level": 100,
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Gary Miessler"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Struct Chem & Equilib",
 			"type": "Research",
@@ -148,14 +155,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Struct Chem & Equ/Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Struct Chem & Equ/Lab",
 			"type": "Lab",
@@ -168,14 +176,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Organic Chemistry",
 			"type": "Research",
@@ -188,14 +197,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -208,14 +218,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
 			"name": "Principles of Econ",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Principles of Econ",
 			"type": "Research",
@@ -228,14 +239,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 200,
 			"name": "Urban Economics",
 			"num": 249,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Urban Economics",
 			"type": "Research",
@@ -248,14 +260,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -268,14 +281,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Matthew Richey"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Matthew Richey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -288,15 +302,16 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Richard Brown"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Richard Brown"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -309,14 +324,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Myron L. Solid"
+			],
 			"level": 300,
 			"name": "IR/Social Studies Per",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Myron L. Solid"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "IR/Social Studies Per",
 			"type": "Research",
@@ -329,14 +345,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jonathan Hill"
+			],
 			"level": 100,
 			"name": "Intro to Literature",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Jonathan Hill"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Intro to Literature",
 			"type": "Research",
@@ -349,14 +366,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jonathan Hill"
+			],
 			"level": 200,
 			"name": "The Romantic Period",
 			"num": 235,
 			"pf": false,
-			"profs": [
-				"Jonathan Hill"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "The Romantic Period",
 			"type": "Research",
@@ -369,14 +387,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"John T. Day"
+			],
 			"level": 200,
 			"name": "Intro to Shakespeare",
 			"num": 280,
 			"pf": false,
-			"profs": [
-				"John T. Day"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Intro to Shakespeare",
 			"type": "Research",
@@ -389,14 +408,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"John T. Day"
+			],
 			"level": 300,
 			"name": "Shakespeare",
 			"num": 380,
 			"pf": false,
-			"profs": [
-				"John T. Day"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Shakespeare",
 			"type": "Research",
@@ -409,14 +429,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jonathan Hill"
+			],
 			"level": 300,
 			"name": "Sem: The Romantics",
 			"num": 399,
 			"pf": false,
-			"profs": [
-				"Jonathan Hill"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Sem: The Romantics",
 			"type": "Seminar",
@@ -429,14 +450,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/19th C Short Story",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "IR/19th C Short Story",
 			"type": "Research",
@@ -449,14 +471,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Frieda Knobloch"
+			],
 			"level": 200,
 			"name": "U.S. Since 1865",
 			"num": 206,
 			"pf": false,
-			"profs": [
-				"Frieda Knobloch"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "U.S. Since 1865",
 			"type": "Research",
@@ -469,14 +492,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Family Relationships",
 			"type": "Research",
@@ -489,14 +513,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Human Sexuality",
 			"type": "Research",
@@ -509,15 +534,16 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Mary Ann Emery",
+				"Jim Holden"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery",
-				"Jim Holden"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -530,14 +556,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 100,
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Calculus I",
 			"type": "Research",
@@ -550,14 +577,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 100,
 			"name": "Calculus II",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Calculus II",
 			"type": "Research",
@@ -570,14 +598,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 200,
 			"name": "Elem Real Analysis",
 			"num": 244,
 			"pf": false,
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Elem Real Analysis",
 			"type": "Research",
@@ -590,14 +619,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 100,
 			"name": "The Music Spectrum",
 			"num": 130,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "The Music Spectrum",
 			"type": "Research",
@@ -610,14 +640,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Peter S. Hamlin"
+			],
 			"level": 200,
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"profs": [
-				"Peter S. Hamlin"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Composition I",
 			"type": "Research",
@@ -630,14 +661,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Carter"
+			],
 			"level": 200,
 			"name": "The Art of Music",
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"David Carter"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "The Art of Music",
 			"type": "Research",
@@ -650,14 +682,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Church Serv Playing",
 			"num": 262,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Church Serv Playing",
 			"type": "Research",
@@ -670,14 +703,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Peter S. Hamlin"
+			],
 			"level": 300,
 			"name": "Composition II",
 			"num": 324,
 			"pf": false,
-			"profs": [
-				"Peter S. Hamlin"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Composition II",
 			"type": "Research",
@@ -690,14 +724,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Solveig Zempel"
+			],
 			"level": 200,
 			"name": "Intermed Norwegian I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Solveig Zempel"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 19954,
 			"title": "Intermed Norwegian I",
 			"type": "Research",
@@ -710,14 +745,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Rick A. Fairbanks"
+			],
 			"level": 200,
 			"name": "Law,Politics,Morality",
 			"num": 254,
 			"pf": false,
-			"profs": [
-				"Rick A. Fairbanks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Law,Politics,Morality",
 			"type": "Research",
@@ -730,14 +766,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Charles Taliaferro"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -750,14 +787,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Rick A. Fairbanks"
+			],
 			"level": 300,
 			"name": "IR/Aristotle & Virtue",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Rick A. Fairbanks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "IR/Aristotle & Virtue",
 			"type": "Research",
@@ -770,14 +808,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Individualized Phy Ed",
 			"num": 100,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 19954,
 			"title": "Individualized Phy Ed",
 			"type": "Research",
@@ -790,14 +829,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Individual Fitness",
 			"num": 132,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Individual Fitness",
 			"type": "Research",
@@ -810,14 +850,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Amy Kolan"
+			],
 			"level": 100,
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Amy Kolan"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Principles Physics I",
 			"type": "Research",
@@ -830,14 +871,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Prin Physics I/Lab",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Prin Physics I/Lab",
 			"type": "Lab",
@@ -850,14 +892,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Daniel Hofrenning"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Daniel Hofrenning"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -870,14 +913,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Bonnie Sherman"
+			],
 			"level": 100,
 			"name": "Prin: Experimental Psy",
 			"num": 123,
 			"pf": false,
-			"profs": [
-				"Bonnie Sherman"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Prin: Experimental Psy",
 			"type": "Research",
@@ -890,14 +934,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Mark Sundby"
+			],
 			"level": 200,
 			"name": "IS/Head Start Program",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mark Sundby"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "IS/Head Start Program",
 			"type": "Research",
@@ -910,14 +955,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Deborah Anderson"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Deborah Anderson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -930,14 +976,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Susan Lindley"
+			],
 			"level": 200,
 			"name": "Types Protestantism",
 			"num": 215,
 			"pf": false,
-			"profs": [
-				"Susan Lindley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Types Protestantism",
 			"type": "Research",
@@ -950,14 +997,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Susan Lindley"
+			],
 			"level": 200,
 			"name": "Women Judaism/Christ",
 			"num": 264,
 			"pf": false,
-			"profs": [
-				"Susan Lindley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Women Judaism/Christ",
 			"type": "Research",
@@ -970,14 +1018,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Raymond DeVries"
+			],
 			"level": 300,
 			"name": "Found Soc Sci Resrch",
 			"num": 371,
 			"pf": false,
-			"profs": [
-				"Raymond DeVries"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Found Soc Sci Resrch",
 			"type": "Research",
@@ -990,14 +1039,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Joan Odd"
+			],
 			"level": 100,
 			"name": "Beginning Spanish I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Joan Odd"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Beginning Spanish I",
 			"type": "Research",
@@ -1010,14 +1060,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Mass Media",
 			"num": 160,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Mass Media",
 			"type": "Research",
@@ -1030,14 +1081,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -1050,14 +1102,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -1070,14 +1123,15 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Richard Single"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Single"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",
@@ -1090,14 +1144,15 @@
 			"depts": [
 				"URBAN"
 			],
+			"instructors": [
+				"Daniel Hofrenning"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Daniel Hofrenning"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19954,
 			"title": "Internship",
 			"type": "Research",

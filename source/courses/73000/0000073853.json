@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Analytical II",
 	"notes": "Students in Physics 131 must also register for one lab Physics 131 AL, BL, CL, or DL.",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

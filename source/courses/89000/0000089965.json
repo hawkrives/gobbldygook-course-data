@@ -10,18 +10,19 @@
 		"SPM"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"David A. Stromme"
+	],
 	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"notes": "First half of the semester course",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
-		"David A. Stromme"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Mass Media & Educ",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "IR/Mass Media & Educ",
 	"type": "Research",

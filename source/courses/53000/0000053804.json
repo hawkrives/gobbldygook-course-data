@@ -5,15 +5,16 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 300,
 	"name": "IR/Theater Padogogik",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karl Fink"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

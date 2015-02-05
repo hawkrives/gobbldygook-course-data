@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 300,
+	"locations": [
+		"H 307"
+	],
 	"name": "Senior Project",
 	"num": 389,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"M 0700-0900PM"

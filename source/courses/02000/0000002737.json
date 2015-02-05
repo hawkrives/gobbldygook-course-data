@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul Ousley"
+	],
 	"level": 300,
 	"name": "IR/Beginning Bass Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Ousley"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IR/Beginning Bass Lit",
 	"type": "Research",

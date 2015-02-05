@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 300,
 	"name": "IR/Phylogeny Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Phylogeny Research",
 	"type": "Research",

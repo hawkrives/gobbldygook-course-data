@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Rise of Ballet",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

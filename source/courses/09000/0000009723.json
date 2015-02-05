@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 100,
+	"locations": [
+		"TC"
+	],
 	"name": "Rock Climbing",
 	"num": 106,
 	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MW 0905-1000"

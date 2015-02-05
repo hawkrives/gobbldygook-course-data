@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students learn principles of mathematical thinking by investigating one or more mathematical topics. Recent topics have included dynamic geometry, mathematics of games, and cryptology. Students investigate ideas through technical and non-technical reading and problem solving, introducing them to mathematical literature and exposition. The course is intended for all students. Offered both semesters.",
+	"instructors": [
+		"Rose Gundacker"
+	],
 	"level": 100,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Rose Gundacker"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1150-1245PM"

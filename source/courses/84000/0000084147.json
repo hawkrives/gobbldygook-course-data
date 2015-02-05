@@ -9,19 +9,20 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Eric McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 214",
+		"TOH 214"
+	],
 	"name": "Urban Schools/Communities",
 	"notes": "Open to First-Year Students and Sophomores only. Admission by interview.",
 	"num": 170,
 	"pf": true,
-	"places": [
-		"TOH 214",
-		"TOH 214"
-	],
-	"profs": [
-		"Eric McDonald"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 0800-1000",

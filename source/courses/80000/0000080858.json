@@ -10,17 +10,18 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Religions China/Japan",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"CH 102"
+	],
 	"name": "Rel Autobiographies",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 1045-1245PM"

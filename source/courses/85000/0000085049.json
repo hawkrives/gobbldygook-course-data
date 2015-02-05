@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Victor Gauto"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Victor Gauto"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

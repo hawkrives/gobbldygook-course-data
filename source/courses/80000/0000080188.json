@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"title": "Internship",
 	"type": "Research",

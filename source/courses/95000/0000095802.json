@@ -11,17 +11,18 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Gabriel R. Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Dance in United States",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Gabriel R. Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

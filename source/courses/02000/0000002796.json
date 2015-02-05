@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
-	"name": "Prod Theater: Intro",
-	"num": 133,
-	"pf": true,
-	"places": [
+	"locations": [
 		"SPT KELSEY",
 		"SPT KELSEY",
 		"SPT KELSEY"
 	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Intro",
+	"num": 133,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0900-1000",

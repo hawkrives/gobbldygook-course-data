@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 200,
 	"name": "Multivariable Calc",
 	"num": 226,
 	"pf": false,
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

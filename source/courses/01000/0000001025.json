@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Daniel Meinhardt"
+	],
 	"level": 100,
-	"name": "Biological Science",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 273"
 	],
-	"profs": [
-		"Daniel Meinhardt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Biological Science",
+	"num": 121,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000",

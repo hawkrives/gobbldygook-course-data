@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 200,
-	"name": "The Biblical God",
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"BMC 111"
 	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "The Biblical God",
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 0800-0900",

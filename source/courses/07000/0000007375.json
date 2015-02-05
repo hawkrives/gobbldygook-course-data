@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
 	"name": "IS/Sacred Text Study",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"William Poehlmann"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Sacred Text Study",
 	"type": "Research",

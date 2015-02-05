@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Evolutionary Biology",
 	"num": 383,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

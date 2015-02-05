@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Doreen Hamilton"
+	],
 	"level": 100,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Doreen Hamilton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

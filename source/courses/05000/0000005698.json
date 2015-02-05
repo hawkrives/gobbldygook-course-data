@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 200,
-	"name": "Intermediate Genetics",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 211"
 	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Intermediate Genetics",
+	"num": 233,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"MWF 1045-1140",

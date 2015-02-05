@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Jo M. Beld"
+	],
 	"level": 200,
-	"name": "Family Values",
-	"num": 270,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 011",
 		"OM 011"
 	],
-	"profs": [
-		"Jo M. Beld"
-	],
-	"sem": 3,
+	"name": "Family Values",
+	"num": 270,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

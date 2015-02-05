@@ -10,19 +10,20 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 100,
-	"name": "Principles: Psych",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 150",
 		"RNS 150"
 	],
-	"profs": [
-		"Mark Sundby"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Principles: Psych",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Michael Maguire"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Interpersonal Commun",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"Michael Maguire"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

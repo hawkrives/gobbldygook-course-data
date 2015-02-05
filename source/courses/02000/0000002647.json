@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 100,
-	"name": "Capitalism: Econ Hist",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 403",
 		"SC 186"
 	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sem": 2,
+	"name": "Capitalism: Econ Hist",
+	"num": 111,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0900-1000",

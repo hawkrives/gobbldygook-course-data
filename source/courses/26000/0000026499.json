@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 200,
+	"locations": [
+		"M 31"
+	],
 	"name": "Modern Latin America",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM"

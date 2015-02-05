@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"L 525"
+	],
 	"name": "Southern Women Writrs",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-Th 0100-0300PM"

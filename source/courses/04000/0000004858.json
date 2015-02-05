@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sect": "E",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
-	"name": "Elem Linear Algebra",
-	"num": 220,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 204",
 		"RNS 204"
 	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Elem Linear Algebra",
+	"num": 220,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1240PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"William Thornton"
+	],
 	"level": 100,
+	"locations": [
+		"SAC POOL"
+	],
 	"name": "Swimming",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SAC POOL"
-	],
-	"profs": [
-		"William Thornton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MW 1255-0150PM"

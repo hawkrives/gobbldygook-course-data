@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Computer Applications",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "X",
 	"term": 20045,
 	"times": [
 		"M-Th 1230-0230PM"

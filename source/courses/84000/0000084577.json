@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 103"
+	],
 	"name": "Exercise Sci Seminar",
 	"notes": "Open only to seniors.",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"SAC 103"
-	],
-	"profs": [
-		"Cynthia Book"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

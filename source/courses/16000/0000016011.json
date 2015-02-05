@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MWF 0905-1000"

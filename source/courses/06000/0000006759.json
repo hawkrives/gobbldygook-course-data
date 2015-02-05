@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Kimberly A. Kandl"
+	],
 	"level": 300,
 	"name": "IR/Genetics Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kimberly A. Kandl"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Genetics Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Science Writing",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Paul Zorn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

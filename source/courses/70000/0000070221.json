@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Amine R. Bekhechi"
+	],
 	"level": 200,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Intermed French II",
 	"notes": "This course has been canceled.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Amine R. Bekhechi"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20084,
 	"times": [
 		"M-F 1230-0200PM"

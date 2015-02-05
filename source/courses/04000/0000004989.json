@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Sheryl D. Breen"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Sem: Environ Studies",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Sheryl D. Breen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MW 0200-0400PM"

@@ -10,18 +10,19 @@
 		"HWC",
 		"ORC"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 200,
-	"num": 285,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 356A",
 		"RNS 356A"
 	],
-	"profs": [
-		"Anthony Lott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 285,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

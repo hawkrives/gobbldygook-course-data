@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Jennifer Wilcox"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Jennifer Wilcox"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0300-0600PM"

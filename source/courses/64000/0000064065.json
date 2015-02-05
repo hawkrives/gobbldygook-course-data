@@ -9,17 +9,18 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"num": 203,
-	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
+	"instructors": [
 		"Peder J. Jothen"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
+	"num": 203,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 1255-0150PM"

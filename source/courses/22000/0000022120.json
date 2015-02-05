@@ -5,19 +5,20 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Naurine Lennox"
+	],
 	"level": 100,
-	"name": "I Want to Help People",
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 277",
 		"L 277",
 		"L 277"
 	],
-	"profs": [
-		"Naurine Lennox"
-	],
-	"sem": 2,
+	"name": "I Want to Help People",
+	"num": 120,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"TWTh 0830-1000",

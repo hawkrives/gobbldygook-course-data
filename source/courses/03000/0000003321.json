@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

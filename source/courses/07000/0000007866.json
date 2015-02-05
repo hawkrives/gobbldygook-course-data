@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Gene Bauer"
+	],
 	"level": 100,
-	"name": "Intro/Academic Wri",
-	"num": 107,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB 216",
 		"TB 216"
 	],
-	"profs": [
-		"Gene Bauer"
-	],
-	"sem": 1,
+	"name": "Intro/Academic Wri",
+	"num": 107,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0800-0925",

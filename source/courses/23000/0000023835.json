@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Taoist Texts",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"title": "IR/Taoist Texts",
 	"type": "Research",

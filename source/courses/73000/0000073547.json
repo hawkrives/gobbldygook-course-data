@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Adam C. McDougall"
+	],
 	"level": 300,
 	"name": "IR/Prob Number Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Adam C. McDougall"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"title": "Independent Research",
 	"type": "Research",

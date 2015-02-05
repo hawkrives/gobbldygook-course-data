@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Dissenters/Defenders",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

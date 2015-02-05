@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Emily A. Filler"
+	],
 	"level": 200,
-	"name": "Jews & Christians/Aft",
-	"num": 227,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 210",
 		"OM 210"
 	],
-	"profs": [
-		"Emily A. Filler"
-	],
-	"sem": 1,
+	"name": "Jews & Christians/Aft",
+	"num": 227,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0120-0245PM",

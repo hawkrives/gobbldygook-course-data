@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Su Smallen"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Su Smallen"
-	],
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "X",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

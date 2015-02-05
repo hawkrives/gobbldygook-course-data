@@ -5,14 +5,15 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
 	"name": "IS/Windows Programmng",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19975,
 	"title": "IS/Windows Programmng",
 	"type": "Research",

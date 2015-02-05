@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Forsberg"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "The Art of Music",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Charles Forsberg"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-F 0800-0930"

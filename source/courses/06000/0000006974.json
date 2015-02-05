@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 200,
-	"name": "German Cinema",
-	"num": 249,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 035",
 		"VIKING_THTR"
 	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sem": 3,
+	"name": "German Cinema",
+	"num": 249,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000",

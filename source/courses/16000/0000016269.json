@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"N GYM"
+	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"N GYM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0200-0255PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

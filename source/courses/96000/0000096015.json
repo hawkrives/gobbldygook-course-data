@@ -9,17 +9,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Intro Astronomy",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Amy Kolan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

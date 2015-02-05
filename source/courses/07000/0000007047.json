@@ -5,17 +5,18 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"W. Bruce Benson"
+	],
 	"level": 200,
+	"locations": [
+		"TB 227"
+	],
 	"name": "Coll: Authenticity",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
-		"W. Bruce Benson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM"

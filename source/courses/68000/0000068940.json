@@ -11,19 +11,20 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Intro: Pol Theory",
 	"notes": "This course has class year limits.",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1045-1140"

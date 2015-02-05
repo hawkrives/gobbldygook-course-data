@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 100,
-	"name": "Prod Theater: Intro",
-	"num": 133,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Kelsey",
 		"TB Kelsey",
 		"TB Kelsey"
 	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Intro",
+	"num": 133,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0900-1000",

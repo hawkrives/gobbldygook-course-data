@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Roger Proksch"
+	],
 	"level": 300,
 	"name": "IR/Micromagnetics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Roger Proksch"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Micromagnetics",
 	"type": "Research",

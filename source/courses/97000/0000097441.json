@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"David Kaden"
+	],
 	"level": 200,
-	"notes": "This course does not fulfill the ORC requirement.",
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 105",
 		"OM 105"
 	],
-	"profs": [
-		"David Kaden"
-	],
-	"sect": "B",
-	"sem": 1,
+	"notes": "This course does not fulfill the ORC requirement.",
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 1145-0110PM",

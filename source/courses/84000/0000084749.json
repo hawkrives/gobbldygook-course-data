@@ -7,18 +7,19 @@
 	],
 	"groupid": 122,
 	"grouptype": "2",
+	"instructors": [
+		"Lisa Y. Lenertz"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 394"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"RNS 394"
-	],
-	"profs": [
-		"Lisa Y. Lenertz"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"W 0200-0500PM"

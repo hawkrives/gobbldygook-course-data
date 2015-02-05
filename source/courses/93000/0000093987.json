@@ -12,19 +12,20 @@
 	],
 	"groupid": 26649,
 	"grouptype": "2",
+	"instructors": [
+		"Emily Mohl"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150B must also register for one lab Bio 150 CL or DL.",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Emily Mohl"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 0905-1000"

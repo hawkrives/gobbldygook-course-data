@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
 	"name": "IS/Chicago Art Educ",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "G",
-	"sem": 2,
+	"section": "G",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/Chicago Art Educ",
 	"type": "Research",

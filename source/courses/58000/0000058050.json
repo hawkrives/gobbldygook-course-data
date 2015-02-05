@@ -7,18 +7,19 @@
 	],
 	"desc": "Discussion section.",
 	"groupid": 32,
+	"instructors": [
+		"Christine O'Malley"
+	],
 	"level": 100,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Intro/Art Hist II Discuss",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Christine O'Malley"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"F 1255-0150PM"

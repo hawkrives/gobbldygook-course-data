@@ -12,19 +12,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 200,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Dissenters/Defenders",
 	"notes": "Open to Great Conversations students only.",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

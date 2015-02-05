@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in department.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Internship",
 	"type": "Research",

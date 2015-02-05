@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 171,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 123"
+	],
 	"name": "Animal Behavior Lab",
 	"num": 386,
 	"pf": false,
-	"places": [
-		"RNS 123"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0420PM"

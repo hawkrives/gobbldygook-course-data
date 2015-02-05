@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Todd W. Nichol"
+	],
 	"level": 200,
 	"name": "FLC - Norwegian",
 	"num": 222,
 	"pf": false,
-	"profs": [
-		"Todd W. Nichol"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"title": "FLC - Norwegian",
 	"type": "FLAC",

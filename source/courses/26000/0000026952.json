@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 100,
+	"locations": [
+		"H 403"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19994,
 	"times": [
 		"M-F 0800-0930"

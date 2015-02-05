@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Chri Theol/Moral Life",
 	"num": 207,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "Chri Theol/Moral Life",
 	"type": "Research",

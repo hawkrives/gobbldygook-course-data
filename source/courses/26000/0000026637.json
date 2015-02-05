@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Studies: Kant's 1st Cr",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"M 0700-1000PM"

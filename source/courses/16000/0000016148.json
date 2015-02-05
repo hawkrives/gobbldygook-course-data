@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Abstract Algebra II",
 	"num": 352,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0800-0925"

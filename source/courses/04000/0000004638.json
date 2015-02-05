@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "Academic Internship",
 	"type": "Research",

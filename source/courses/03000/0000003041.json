@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 300,
+	"locations": [
+		"DC  STUDIO 2"
+	],
 	"name": "Ballet III",
 	"num": 321,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 2"
-	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0330-0500PM"

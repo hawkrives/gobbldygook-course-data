@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Isaac V. Joslin"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
-		"Isaac V. Joslin"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

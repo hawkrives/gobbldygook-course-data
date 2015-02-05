@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 200,
+	"locations": [
+		"M 3"
+	],
 	"name": "New Testament Greek",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"James May"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1045-1140"

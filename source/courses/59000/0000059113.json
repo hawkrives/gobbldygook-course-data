@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "This continuation of Mathematics 120 concentrates on methods and applications of integration and infinite sequences and series. May also include elementary differential equations and multiple integrals. Prerequisite: Mathematics 120, 121, or equivalent, or Mathematics Placement Recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered both semesters.",
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
+	"instructors": [
 		"Urmila S. Malvadkar"
 	],
-	"sect": "D",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SC 130"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"MWF 1150-1245PM"

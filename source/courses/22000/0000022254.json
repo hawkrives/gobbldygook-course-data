@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gail Carlson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 371/310"
+	],
 	"name": "Elem Bio-Org Chem/Lab",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"SC 371/310"
-	],
-	"profs": [
-		"Gail Carlson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"W 0200-0500PM"

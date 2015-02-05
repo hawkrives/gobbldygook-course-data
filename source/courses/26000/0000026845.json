@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Int/Cult Anthropology",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0800-0925"

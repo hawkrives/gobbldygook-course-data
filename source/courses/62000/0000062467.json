@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-F 1040-1240PM"

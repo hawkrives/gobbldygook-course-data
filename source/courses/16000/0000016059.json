@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 307"
+	],
 	"name": "W Europe 1815-Present",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1045-1140"

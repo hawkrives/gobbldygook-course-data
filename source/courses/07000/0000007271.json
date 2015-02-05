@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 300,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Maxwell's Equations",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

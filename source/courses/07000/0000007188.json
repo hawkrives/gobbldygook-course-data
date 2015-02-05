@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Ethics/The Good Life",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

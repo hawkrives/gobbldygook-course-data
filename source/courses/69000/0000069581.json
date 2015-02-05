@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Theodore F. Peters"
+	],
 	"level": 200,
-	"name": "Issues Science/Religion",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 190",
 		"RNS 190"
 	],
-	"profs": [
-		"Theodore F. Peters"
-	],
-	"sem": 1,
+	"name": "Issues Science/Religion",
+	"num": 252,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"T 0120-0245PM",

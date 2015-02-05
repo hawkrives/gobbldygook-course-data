@@ -6,17 +6,18 @@
 		"ESAC"
 	],
 	"desc": "This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge.",
-	"level": 100,
-	"num": 136,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"Daniel Kosmoski"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 136,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MW 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "The Ethics of Jesus",
 	"num": 276,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

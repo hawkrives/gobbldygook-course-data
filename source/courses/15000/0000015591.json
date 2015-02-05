@@ -5,15 +5,16 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 19942,
 	"title": "Romans & Christians",
 	"type": "Research",

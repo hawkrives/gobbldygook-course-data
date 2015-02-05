@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 100,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Math Analysis II",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Paul Humke"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

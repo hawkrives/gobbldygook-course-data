@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
 	"name": "IS/Humans and Animals",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 19985,
 	"title": "IS/Humans and Animals",
 	"type": "Research",

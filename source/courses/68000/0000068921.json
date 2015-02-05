@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Hunjoon Kim"
+	],
 	"level": 100,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Intl Relations",
 	"notes": "This course has class year limits.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Hunjoon Kim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0905-1000"

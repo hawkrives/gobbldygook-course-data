@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 300,
+	"locations": [
+		"SC 329"
+	],
 	"name": "Physical Lab",
 	"num": 357,
 	"pf": true,
-	"places": [
-		"SC 329"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0120-0520PM"

@@ -10,19 +10,20 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "New Forces of Secular",
 	"notes": "Open to Great Conversations students only.",
 	"num": 217,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
 	"name": "Top: Med Terminology",
 	"num": 291,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"title": "Top: Med Terminology",
 	"type": "Topic",

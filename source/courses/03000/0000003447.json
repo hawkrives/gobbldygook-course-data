@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
 	"name": "IR/Aroma & Ans",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Aroma & Ans",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/Bio-Centrifugation Lab",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

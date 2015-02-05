@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
-	"name": "Brit Auth: Chaucer",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sem": 2,
+	"name": "Brit Auth: Chaucer",
+	"num": 391,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0900-1000",

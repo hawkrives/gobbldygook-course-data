@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 200,
 	"name": "IS/Counseling/Nursing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Counseling/Nursing",
 	"type": "Research",

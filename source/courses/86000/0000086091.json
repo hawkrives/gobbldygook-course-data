@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"OM 240"
+	],
 	"name": "Chr Theol/Moral Life",
 	"num": 207,
 	"pf": false,
-	"places": [
-		"OM 240"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

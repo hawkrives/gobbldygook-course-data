@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Materials Science",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0800-0925"

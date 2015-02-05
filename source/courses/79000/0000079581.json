@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Anton Armstrong"
+	],
 	"level": 200,
 	"name": "MSM IS/Topics",
 	"num": 299,
 	"pf": false,
-	"profs": [
-		"Anton Armstrong"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"title": "MSM IS/Topics",
 	"type": "Topic",

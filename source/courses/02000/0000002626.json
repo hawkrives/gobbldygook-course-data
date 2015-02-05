@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Barbara May"
+	],
 	"level": 100,
-	"name": "Cellular Bio & Genetics",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 273",
 		"SC 273",
 		"SC 274"
 	],
-	"profs": [
-		"Barbara May"
-	],
-	"sem": 2,
+	"name": "Cellular Bio & Genetics",
+	"num": 125,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0800-1000",

@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "City-Problms..Protest",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

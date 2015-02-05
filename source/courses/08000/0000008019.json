@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 300,
-	"name": "Sem: 19th C Soc Histor",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Sem: 19th C Soc Histor",
+	"num": 370,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"times": [
 		"T 0120-0245PM",

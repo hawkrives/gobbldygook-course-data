@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jennifer C. Manion"
+	],
 	"level": 100,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Jennifer C. Manion"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"MWF 1255-0150PM"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 300,
-	"num": 315,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 203",
 		"RNS 203"
 	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"num": 315,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

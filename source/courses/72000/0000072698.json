@@ -9,16 +9,17 @@
 	"gereqs": [
 		"FOL-K"
 	],
-	"level": 200,
-	"num": 231,
-	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
+	"instructors": [
 		"Lawrence J. Myer"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"OM 003"
+	],
+	"num": 231,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"MWF 1255-0150PM"

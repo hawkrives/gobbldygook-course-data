@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Prin Secondary Educ",
 	"num": 330,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 200,
 	"name": "Multivariable Calc",
 	"num": 226,
 	"pf": false,
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"title": "Multivariable Calc",
 	"type": "Research",

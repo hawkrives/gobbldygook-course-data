@@ -9,17 +9,18 @@
 	"gereqs": [
 		"WRI"
 	],
-	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
-		"TOH 186"
-	],
-	"profs": [
+	"instructors": [
 		"Kay E. Smith"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"TOH 186"
+	],
+	"num": 252,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

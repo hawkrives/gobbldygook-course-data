@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 100,
-	"name": "Medieval Synthesis",
-	"num": 116,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 515",
 		"VIKING THTR"
 	],
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Medieval Synthesis",
+	"num": 116,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140",

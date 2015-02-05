@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Olivia Frey"
+	],
 	"level": 300,
 	"name": "IR/Advanced Poetry",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Olivia Frey"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"title": "IR/Advanced Poetry",
 	"type": "Research",

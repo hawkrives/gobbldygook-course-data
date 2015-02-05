@@ -5,14 +5,15 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Marital Relations",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IS/Marital Relations",
 	"type": "Research",

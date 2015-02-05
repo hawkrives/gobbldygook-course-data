@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Forsberg"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Theory IV",
 	"num": 214,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Charles Forsberg"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0100PM"

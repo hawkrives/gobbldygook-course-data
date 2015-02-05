@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Andrea Wollenberg"
+	],
 	"level": 200,
+	"locations": [
+		"TB Haugen"
+	],
 	"name": "Intermediate Acting",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"TB Haugen"
-	],
-	"profs": [
-		"Andrea Wollenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

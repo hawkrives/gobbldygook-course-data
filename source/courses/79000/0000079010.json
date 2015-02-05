@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

@@ -6,19 +6,20 @@
 		"CHEM"
 	],
 	"desc": "This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
-	"level": 200,
-	"name": "Synthesis Lab I",
-	"num": 253,
-	"pf": true,
-	"places": [
-		"RNS 340"
-	],
-	"profs": [
+	"instructors": [
 		"Peter J. Gittins",
 		"Wesley Pearson"
 	],
-	"sect": "B",
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"RNS 340"
+	],
+	"name": "Synthesis Lab I",
+	"num": 253,
+	"pf": true,
+	"section": "B",
+	"semester": 4,
+	"status": "O",
 	"term": 20084,
 	"times": [
 		"TTh 0100-0400PM"

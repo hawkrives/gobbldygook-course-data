@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
-	"name": "St. Paul/Letter/Gospel",
-	"num": 223,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 010",
 		"OM 010"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 3,
+	"name": "St. Paul/Letter/Gospel",
+	"num": 223,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

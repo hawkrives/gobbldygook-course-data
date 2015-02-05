@@ -6,19 +6,20 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Ann A. Leming"
+	],
 	"level": 300,
-	"name": "The Exceptional Child",
-	"num": 375,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10",
 		"FH 10"
 	],
-	"profs": [
-		"Ann A. Leming"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "The Exceptional Child",
+	"num": 375,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 1145-0110PM",

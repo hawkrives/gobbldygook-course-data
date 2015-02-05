@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
-	"name": "Sem: Positive Psych",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 02",
 		"SH 02"
 	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Sem: Positive Psych",
+	"num": 390,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

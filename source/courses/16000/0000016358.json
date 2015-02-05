@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "U.S./Latin Amer Relat",
 	"num": 257,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0905-1000"

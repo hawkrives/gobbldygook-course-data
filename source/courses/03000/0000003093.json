@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Wendy Allen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

@@ -9,16 +9,17 @@
 	"gereqs": [
 		"IST"
 	],
-	"level": 300,
-	"num": 379,
-	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
+	"instructors": [
 		"Gregory W. Muth"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"RNS 310"
+	],
+	"num": 379,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

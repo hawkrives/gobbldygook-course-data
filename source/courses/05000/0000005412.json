@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 300,
-	"name": "Them: Mysticism",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"Eric Lund"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Them: Mysticism",
+	"num": 399,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

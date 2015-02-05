@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Studies in Prose",
 	"num": 283,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 1230-0200PM"

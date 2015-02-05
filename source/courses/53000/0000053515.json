@@ -6,18 +6,19 @@
 		"MGMT"
 	],
 	"desc": "This course emphasizes the use of information to make management decisions. Topics include cost and break-even analysis, budgeting and control, capital expenditures analysis and variance analysis. Computer spreadsheets and case studies are used extensively. Prerequisite: Management Studies 225. Offered each semester.",
+	"instructors": [
+		"Siriwan Chutikamoltham"
+	],
 	"level": 200,
-	"name": "Managerial/Cost Acct",
-	"num": 237,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Siriwan Chutikamoltham"
-	],
-	"sem": 3,
+	"name": "Managerial/Cost Acct",
+	"num": 237,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"T 0800-0925",

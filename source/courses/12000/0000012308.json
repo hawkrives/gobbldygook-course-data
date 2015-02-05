@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"desc": "Focus includes information processing, learning and remembering speech, artistic, musical and athletic performance, invention and other forms of creativity. Students unlock the mind's mysteries using state-of-the-art scientific instrumentation, developing cognitive science knowledge and research skills. The course includes three hours lecture and one three-hour laboratory per week. Prerequisites: Psychology 125, Statistics110, 212 or 263. GE: NST, NSL. Offered every year.",
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 200,
-	"name": "Cognit,Learn & Memory",
-	"num": 237,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 3,
+	"name": "Cognit,Learn & Memory",
+	"num": 237,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0800-0925",

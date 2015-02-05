@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Michael Klimesh"
+	],
 	"level": 200,
 	"name": "IS/Acct Systems",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Michael Klimesh"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Acct Systems",
 	"type": "Research",

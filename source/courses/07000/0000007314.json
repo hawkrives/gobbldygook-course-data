@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Psych of Personality",
 	"num": 271,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

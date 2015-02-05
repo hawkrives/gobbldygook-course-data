@@ -6,19 +6,20 @@
 		"MATH"
 	],
 	"desc": "Students work intensively on a special topic in applied mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
-	"name": "Sem: Algor/Decision Mkg",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 400",
 		"RNS 400"
 	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Sem: Algor/Decision Mkg",
+	"num": 384,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

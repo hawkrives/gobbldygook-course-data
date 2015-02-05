@@ -6,17 +6,18 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
+	"instructors": [
 		"Kaethe Schwehn"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TB 216"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 0905-1000"

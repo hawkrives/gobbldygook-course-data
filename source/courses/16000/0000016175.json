@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "The Art of Music",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

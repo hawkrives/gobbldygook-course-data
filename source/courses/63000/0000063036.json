@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
 	"name": "IR/Galahad and Chastity",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research",
 	"type": "Research",

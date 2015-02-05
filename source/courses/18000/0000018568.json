@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

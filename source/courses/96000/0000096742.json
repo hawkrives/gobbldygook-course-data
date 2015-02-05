@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"groupid": 114,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
 	"name": "Thinking & Doing Bio Lab",
 	"num": 135,
 	"pf": false,
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20134,
 	"title": "Thinking & Doing Bio Lab",
 	"type": "Lab",

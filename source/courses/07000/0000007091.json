@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 200,
+	"locations": [
+		"TBA"
+	],
 	"name": "Top: Problem Solving",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"TBA"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"M 0700-0900PM"

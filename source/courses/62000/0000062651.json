@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 200,
+	"locations": [
+		"DC Studio 1"
+	],
 	"name": "Ballroom II (Women)",
 	"num": 206,
 	"pf": true,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MW 1150-1245PM"

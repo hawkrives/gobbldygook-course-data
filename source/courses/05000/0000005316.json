@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 300,
 	"name": "IR/Sonoluminescence",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Cederberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Sonoluminescence",
 	"type": "Research",

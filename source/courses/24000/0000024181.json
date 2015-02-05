@@ -5,14 +5,15 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"James Tallon"
+	],
 	"level": 200,
 	"name": "Modern IReland",
 	"num": 231,
 	"pf": false,
-	"profs": [
-		"James Tallon"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "Modern IReland",
 	"type": "Research",

@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20062,
 	"title": "IR/",
 	"type": "Research",

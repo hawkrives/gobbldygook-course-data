@@ -5,18 +5,19 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Anbin Shi"
+	],
 	"level": 200,
-	"name": "Intermed Chinese II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 421",
 		"M 2"
 	],
-	"profs": [
-		"Anbin Shi"
-	],
-	"sem": 3,
+	"name": "Intermed Chinese II",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM",

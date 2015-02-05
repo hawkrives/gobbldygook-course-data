@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Geoffrey Gorham"
+	],
 	"level": 200,
+	"locations": [
+		"H 514"
+	],
 	"name": "Vices and Virtues",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Geoffrey Gorham"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

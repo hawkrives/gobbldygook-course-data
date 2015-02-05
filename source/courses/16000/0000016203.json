@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
-	"name": "Alter Mental Health",
-	"num": 360,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 18",
 		"SC 18"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"name": "Alter Mental Health",
+	"num": 360,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1045-1140",

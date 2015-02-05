@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Internship",
 	"type": "Research",

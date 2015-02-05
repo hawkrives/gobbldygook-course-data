@@ -10,17 +10,18 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"Joseph L. Mbele"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 200"
+	],
 	"name": "Post-Colonial Lit",
 	"num": 210,
 	"pf": false,
-	"places": [
-		"TOH 200"
-	],
-	"profs": [
-		"Joseph L. Mbele"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20104,
 	"times": [
 		"M-F 1000-1130"

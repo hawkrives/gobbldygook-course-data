@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 200,
 	"name": "IS/Liberation Theol",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Liberation Theol",
 	"type": "Research",

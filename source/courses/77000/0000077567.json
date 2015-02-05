@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Stephen Longfellow"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 308",
 		"TOH 308"
 	],
-	"profs": [
-		"Stephen Longfellow"
-	],
-	"sect": "J",
-	"sem": 1,
+	"num": 111,
+	"pf": false,
+	"section": "J",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 0800-0925",

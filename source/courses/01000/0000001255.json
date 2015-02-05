@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 200,
+	"locations": [
+		"FH SEM"
+	],
 	"name": "Ethics & Am Landscape",
 	"num": 270,
 	"pf": false,
-	"places": [
-		"FH SEM"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

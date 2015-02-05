@@ -5,19 +5,20 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 100,
-	"name": "Int'l Relations",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Anthony Lott"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Int'l Relations",
+	"num": 121,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

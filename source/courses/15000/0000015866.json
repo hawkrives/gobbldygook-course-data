@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "Analytical Principles",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MWF 1150-1245PM"

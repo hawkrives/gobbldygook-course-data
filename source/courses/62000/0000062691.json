@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sect": "K",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "K",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

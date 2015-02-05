@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Paul J. Roback"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Honors Stats for Science",
 	"notes": "This course has class year limits.",
 	"num": 214,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Paul J. Roback"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1255-0150PM"

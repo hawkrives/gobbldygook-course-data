@@ -5,18 +5,19 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 200,
-	"name": "Global Env Politics",
-	"num": 201,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Anthony Lott"
-	],
-	"sem": 1,
+	"name": "Global Env Politics",
+	"num": 201,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0120-0245PM",

@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"groupid": 1163,
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Cognit/Learn/Memory Lab",
 	"num": 237,
 	"pf": false,
-	"places": [
-		"RNS 240"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"Th 1245-0345PM"

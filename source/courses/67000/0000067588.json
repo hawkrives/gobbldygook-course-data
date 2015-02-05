@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Thomas Burns"
+	],
 	"level": 200,
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 435",
 		"RNS 435"
 	],
-	"profs": [
-		"Thomas Burns"
-	],
-	"sect": "A",
-	"sem": 1,
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20091,
 	"times": [
 		"T 0800-0925",

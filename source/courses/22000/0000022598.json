@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Theo Wee"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 222"
+	],
 	"name": "Piano Class II",
 	"num": 162,
 	"pf": false,
-	"places": [
-		"CHM 222"
-	],
-	"profs": [
-		"Theo Wee"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MW 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Hist & Lit Music II",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0800-0855"

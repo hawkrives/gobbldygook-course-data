@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 100,
+	"locations": [
+		"M 4"
+	],
 	"name": "Fall Russian Monarchy",
 	"num": 108,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

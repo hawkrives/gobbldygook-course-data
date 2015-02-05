@@ -5,14 +5,15 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Sharon Lane-Getaz"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Sharon Lane-Getaz"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"title": "Internship",
 	"type": "Research",

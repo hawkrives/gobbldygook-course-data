@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 300,
-	"name": "Roman Catholic Theol",
-	"num": 301,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sem": 1,
+	"name": "Roman Catholic Theol",
+	"num": 301,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0935-1100",

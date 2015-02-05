@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Trina Smith"
+	],
 	"level": 200,
-	"name": "Global Interdepend",
-	"num": 262,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 190",
 		"RNS 190"
 	],
-	"profs": [
-		"Trina Smith"
-	],
-	"sem": 3,
+	"name": "Global Interdepend",
+	"num": 262,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

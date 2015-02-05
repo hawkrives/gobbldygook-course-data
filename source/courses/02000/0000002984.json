@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

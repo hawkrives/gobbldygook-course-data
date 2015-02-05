@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1850-Pres",
-	"num": 223,
-	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
+	"instructors": [
 		"Richard Buckstead",
 		"Colin Wells"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"L 525"
+	],
+	"name": "Lit in Engl 1850-Pres",
+	"num": 223,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MFW 0200-0255PM"

@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 100,
-	"name": "Intro to Acting",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sem": 3,
+	"name": "Intro to Acting",
+	"num": 130,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0935-1100",

@@ -6,20 +6,21 @@
 		"ID"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Matthew Richey",
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 400",
+		"RNS 400"
+	],
 	"name": "Res Opp Science for Sophs",
 	"notes": "Prerequisite: completion of Summer Bridge program or permission of instructor.",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"RNS 400",
-		"RNS 400"
-	],
-	"profs": [
-		"Matthew Richey",
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "C",
 	"term": 20124,
 	"times": [
 		"M-F 1100-1200PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Kathleen Edelmayer"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Communication & Law",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"Kathleen Edelmayer"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-Th 1000-1230PM"

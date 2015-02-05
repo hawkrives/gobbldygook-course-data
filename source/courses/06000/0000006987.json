@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Dissenters/Defenders",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

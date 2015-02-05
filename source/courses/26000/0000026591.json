@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dan Dressen"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "French Lyric Diction",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Dan Dressen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MF 1150-1245PM"

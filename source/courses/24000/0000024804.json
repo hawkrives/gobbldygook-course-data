@@ -6,17 +6,18 @@
 		"PETH"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"MFH TRACK"
+	],
 	"name": "Intro Athletic Train",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"MFH TRACK"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0800-0925"

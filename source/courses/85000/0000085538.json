@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Rebecca S. Richards"
+	],
 	"level": 200,
 	"name": "IS/Gender and Literature",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Rebecca S. Richards"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Study",
 	"type": "Research",

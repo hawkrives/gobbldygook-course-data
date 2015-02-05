@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 300,
 	"name": "IR/Religion and Art",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "Independent Research",
 	"type": "Research",

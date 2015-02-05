@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
 	"name": "IS/Irish Folk Songs",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Study",
 	"type": "Research",

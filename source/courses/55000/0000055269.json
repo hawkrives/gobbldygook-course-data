@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
 	"name": "IR/Modern Scand. Design",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"title": "Independent Research: Art History",
 	"type": "Research",

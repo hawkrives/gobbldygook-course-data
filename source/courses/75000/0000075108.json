@@ -10,17 +10,18 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Jenny Dunning"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Intro Womens Studies",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Jenny Dunning"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20094,
 	"times": [
 		"M-F 1000-1130"

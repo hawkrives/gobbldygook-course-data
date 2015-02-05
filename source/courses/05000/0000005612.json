@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
 	"name": "IS/History East Rel",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Wilson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"title": "IS/History East Rel",
 	"type": "Research",

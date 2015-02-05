@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
 	"name": "IS/Wittgenstein",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"title": "Independent Study",
 	"type": "Research",

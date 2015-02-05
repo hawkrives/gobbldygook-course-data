@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Daniel Malotky"
+	],
 	"level": 200,
+	"locations": [
+		"RML 577"
+	],
 	"name": "God & Human Suffering",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Daniel Malotky"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 1230-0200PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Heather M. Brooks-Shirey"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Art 1776-1880",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Heather M. Brooks-Shirey"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 1000-1130"

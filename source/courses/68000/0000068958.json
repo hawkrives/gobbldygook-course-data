@@ -5,15 +5,16 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"James Farrell",
+		"Mary Carlsen"
+	],
 	"level": 300,
 	"name": "IR/US Fathers: WWII-2010",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Farrell",
-		"Mary Carlsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

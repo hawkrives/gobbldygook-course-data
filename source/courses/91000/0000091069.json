@@ -5,15 +5,16 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"title": "Internship",
 	"type": "Research",

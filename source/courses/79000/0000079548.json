@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 200"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversation students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"TOH 200"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

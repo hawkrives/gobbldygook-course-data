@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Steel Design",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IS/Steel Design",
 	"type": "Research",

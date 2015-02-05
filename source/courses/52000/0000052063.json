@@ -6,14 +6,15 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one Level III course in philosophy.",
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Wittgenstein's God",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

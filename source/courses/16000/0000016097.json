@@ -5,18 +5,19 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 2"
+	],
 	"name": "Begin Japanese II/Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0200-0255PM"

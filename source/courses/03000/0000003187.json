@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Charles Huff",
+		"Gordon D. Marino"
+	],
 	"level": 300,
 	"name": "IR/Moral Exemplars",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Huff",
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Moral Exemplars",
 	"type": "Research",

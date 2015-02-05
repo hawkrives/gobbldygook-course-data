@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Richard Senese"
+	],
 	"level": 200,
 	"name": "IS/Construct Psych",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard Senese"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Construct Psych",
 	"type": "Research",

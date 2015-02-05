@@ -11,16 +11,17 @@
 			"gereqs": [
 				"WRI"
 			],
-			"level": 200,
-			"num": 244,
-			"pf": false,
-			"places": [
-				"TOH 184"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"TOH 184"
+			],
+			"num": 244,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -42,17 +43,18 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"William H. Bridges IV"
+			],
 			"level": 100,
+			"locations": [
+				"TOH 308"
+			],
 			"name": "Japanese SciFi/Glob Persp",
 			"num": 130,
 			"pf": false,
-			"places": [
-				"TOH 308"
-			],
-			"profs": [
-				"William H. Bridges IV"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -74,19 +76,20 @@
 				"SED"
 			],
 			"groupid": 114,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 290",
+				"RNS 290"
+			],
 			"name": "Thinking & Doing Bio",
 			"notes": "This course will meet only from June 2 - June 27.",
 			"num": 135,
 			"pf": false,
-			"places": [
-				"RNS 290",
-				"RNS 290"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130",
@@ -104,14 +107,15 @@
 				"BIO"
 			],
 			"groupid": 114,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
 			"name": "Thinking & Doing Bio Lab",
 			"num": 135,
 			"pf": false,
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"title": "Thinking & Doing Bio Lab",
 			"type": "Lab",
@@ -129,17 +133,18 @@
 				"BTS-T",
 				"WRI"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"OM 110"
+			],
 			"name": "St. Paul/Letter/Gospel",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -160,16 +165,17 @@
 				"EIN",
 				"WRI"
 			],
-			"level": 200,
-			"num": 276,
-			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
+			"instructors": [
 				"James Hanson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"OM 110"
+			],
+			"num": 276,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -189,17 +195,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Eric C. Yuen"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Eric C. Yuen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 0230-0400PM"
@@ -219,17 +226,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"William Sean Goldsworthy"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 0230-0400PM"
@@ -249,14 +257,15 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Laura F. Boehm"
+			],
 			"level": 200,
 			"name": "Statistics for Science",
 			"num": 212,
 			"pf": false,
-			"profs": [
-				"Laura F. Boehm"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -273,14 +282,15 @@
 				"ENVST"
 			],
 			"desc": "EnvSt 281 Sustainability in Higher Education ( ) \u0096 Paul Jackson Your student government committee recently proposed placing greater emphasis on sustainability at your university. A surprising response comes from a fellow student, \"Just what do you mean by sustainability and how do you measure it?\" In this class students examine the diverse approaches to sustainability across baccalaureate liberal arts institutions, and their understanding of sustainability as an expression of institutional identity, institutional and environmental based values, operating principles, metrics, and reported outcomes. Students explore the parallels, opportunities, and constraints present in the American College and University Presidents Climate Commitment (ACUPCC), the Sustainability Tracking, Assessment & Rating System (STARS), and in the Minnesota Green Step Cities Program. The context of Northfield, Minnesota, home to two baccalaureate liberal arts institutions and a Green Step City participant, provides an opportunity to explore local practice and decision-making.",
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 200,
 			"name": "Top: Sustain/Higher Ed",
 			"num": 281,
 			"pf": false,
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -297,14 +307,15 @@
 				"SPAN"
 			],
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: Spanish 112 or placement. Offered each semester and during Interim.",
+			"instructors": [
+				"Kris A. Cropsey"
+			],
 			"level": 200,
 			"name": "Intermed Spanish I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Kris A. Cropsey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -325,14 +336,15 @@
 				"FOL-S",
 				"MCD"
 			],
+			"instructors": [
+				"Kristina Medina-Vilarino"
+			],
 			"level": 200,
 			"name": "Intermed Spanish II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Kristina Medina-Vilarino"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -352,17 +364,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Developmental Psych",
 			"num": 241,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -383,17 +396,18 @@
 				"HBS",
 				"IST"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -413,13 +427,14 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"David A. Stromme"
+			],
 			"level": 100,
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"David A. Stromme"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20134,
 			"times": [
 				"M-F 0800-0930"
@@ -440,17 +455,18 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -467,17 +483,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"MW 0100-0400PM"
@@ -494,13 +511,14 @@
 				"MATH"
 			],
 			"desc": "This course introduces differential equations and analytical, numerical, and graphical techniques for the analysis of their solutions. First- and second-order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology, and physics. Laplace transforms or nonlinear systems may be covered as time permits. Students use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered each semester. Counts toward neuroscience concentration.",
+			"instructors": [
+				"Thomas St. George"
+			],
 			"level": 200,
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"Thomas St. George"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -522,17 +540,18 @@
 				"ORC"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Colin Wells"
+			],
 			"level": 200,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Beat Generation",
 			"num": 261,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Colin Wells"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -549,16 +568,17 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 227, or permission of instructor. Offered annually in the fall semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 0800-0930"
@@ -575,18 +595,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"instructors": [
+				"Marc D. Scholten"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Marc D. Scholten"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"MW 0100-0400PM"
@@ -603,18 +624,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"instructors": [
+				"Marc D. Scholten"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Marc D. Scholten"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"TTh 0100-0400PM"
@@ -631,14 +653,15 @@
 				"THEAT"
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: Determined by individual instructor. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course.",
+			"instructors": [
+				"Todd F. Edwards"
+			],
 			"level": 300,
 			"name": "Res:Digital Design/Produc",
 			"num": 396,
 			"pf": false,
-			"profs": [
-				"Todd F. Edwards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -659,18 +682,19 @@
 				"SED"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Stanley Trout"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 210"
+			],
 			"name": "Principles Physics I",
 			"notes": "Physics 124 and 125 will be taught consecutively outside of standard term dates: Physics 124 term dates: Monday, June 2 - Friday, June 27, 2014 Physics 125 term dates: Monday, June 30 - Monday, July 28, 2014",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"RNS 210"
-			],
-			"profs": [
-				"Stanley Trout"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1200PM"
@@ -687,18 +711,19 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Stanley Trout"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 292"
+			],
 			"name": "Principles Physics I Lab",
 			"notes": "Physics term dates and times are to be announced. Physics 124/125 will be taught consecutively. These courses will not meet regular term dates.",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"RNS 292"
-			],
-			"profs": [
-				"Stanley Trout"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"MW 0100-0330PM"
@@ -719,16 +744,17 @@
 				"ALS-A",
 				"MCD"
 			],
-			"level": 200,
-			"num": 232,
-			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
+			"instructors": [
 				"Robin Gehl"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"CHM 239"
+			],
+			"num": 232,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1000-1130"
@@ -750,17 +776,18 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Danielle Kuntz"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 239"
+			],
 			"name": "Music of Brazil",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
-				"Danielle Kuntz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -778,16 +805,17 @@
 			],
 			"desc": "This course introduces students to the medium of graphic design as a method of enhanced communication. The course explores the design communication process including conceptualization, creative processes, terminology, and technology. Assignments introduce computer applications used in the graphic design profession as well as graphic design elements of typography, production, color theory, digital printing processes and basic web design. Counts toward studio art and art history majors and management studies concentration. Offered during summer.",
 			"grouptype": "R",
-			"level": 200,
-			"num": 236,
-			"pf": false,
-			"places": [
-				"DC 100"
-			],
-			"profs": [
+			"instructors": [
 				"Stephanie L. Rogers"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 100"
+			],
+			"num": 236,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 0800-0930"
@@ -808,14 +836,15 @@
 				"ALS-A"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Cecilia Cornejo"
+			],
 			"level": 200,
 			"name": "Documentary Film",
 			"num": 225,
 			"pf": false,
-			"profs": [
-				"Cecilia Cornejo"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20134,
 			"times": [
 				"MTThF 0800-0930",
@@ -832,14 +861,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Abdulai Iddrisu"
+			],
 			"level": 300,
 			"name": "IR/Soc/Pol Hist S. Africa",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Abdulai Iddrisu"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"title": "Independent Research",
 			"type": "Research",
@@ -859,17 +889,18 @@
 			],
 			"groupid": 26649,
 			"grouptype": "R",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 435"
+			],
 			"name": "Biodiversity Foundations",
 			"num": 150,
 			"pf": false,
-			"places": [
-				"RNS 435"
-			],
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-Th 0800-1000"
@@ -887,17 +918,18 @@
 			],
 			"groupid": 26649,
 			"grouptype": "R",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 255"
+			],
 			"name": "Biodiversity Found Lab",
 			"num": 150,
 			"pf": false,
-			"places": [
-				"RNS 255"
-			],
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"TTh 0100-0400PM"
@@ -917,15 +949,16 @@
 			"gereqs": [
 				"FOL-N"
 			],
+			"instructors": [
+				"Pi\u00f1ero Christine H."
+			],
 			"level": 200,
 			"name": "Intermed Norwegian I",
 			"notes": "This course is a special offering.",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Pi\u00f1ero Christine H."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20134,
 			"title": "Intermediate Norwegian I",
 			"type": "Research",
@@ -943,17 +976,18 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Anne Hardgrove"
+			],
 			"level": 200,
+			"locations": [
+				"HH 319"
+			],
 			"name": "Top: Modern India",
 			"num": 289,
 			"pf": false,
-			"places": [
-				"HH 319"
-			],
-			"profs": [
-				"Anne Hardgrove"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"times": [
 				"M-F 1230-0200PM"
@@ -969,14 +1003,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Michael Fitzgerald"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Michael Fitzgerald"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"title": "Internship",
 			"type": "Research",
@@ -991,15 +1026,16 @@
 			],
 			"desc": "This course provides a guided summer research opportunity in science for rising sophomores. The course focuses on a research topic(s) to be determined by the instructor. Students learn how to ask and evaluate scientific question(s) with emphasis on quantitative approaches; read from and research the scientific literature; collect and analyze data; and summarize and present their results in writing and orally. Prerequisite: completion of Summer Bridge program or permission of instructor.",
 			"grouptype": "R",
+			"instructors": [
+				"Adam H. Berliner",
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "Res Opp Science for Sophs",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Adam H. Berliner",
-				"Diane K. Angell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20134,
 			"title": "Research Opportunity in Science for Sophomores",
 			"type": "Research",
@@ -1013,14 +1049,15 @@
 				"PSCI"
 			],
 			"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty. Prerequisite: Political Science 220 and one course in the subfield or permission of instructor.",
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 300,
 			"name": "IR/Intl Sustainability",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20134,
 			"title": "Independent Research",
 			"type": "Research",

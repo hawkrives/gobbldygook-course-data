@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Eugene Bakko",
+		"Steven McKelvey"
+	],
 	"level": 100,
 	"name": "Minn Natural History",
 	"num": 150,
 	"pf": false,
-	"profs": [
-		"Eugene Bakko",
-		"Steven McKelvey"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"title": "Minn Natural History",
 	"type": "Research",

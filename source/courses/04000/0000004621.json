@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
 	"name": "IS/Enviro Organizing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IS/Enviro Organizing",
 	"type": "Research",

@@ -6,17 +6,18 @@
 		"ASIAN"
 	],
 	"desc": "This course offers in-depth study of a topic. The specific topic depends on the instructor. The course may be repeated if topics are different. Offered periodically.",
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 300,
-	"num": 300,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 002",
 		"OM 002"
 	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sem": 3,
+	"num": 300,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM",

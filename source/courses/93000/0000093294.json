@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Jeremy Loebach"
+	],
 	"level": 300,
 	"name": "IR/Bilingualism/Math Cogn",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeremy Loebach"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kristen Lowe"
+	],
 	"level": 100,
-	"name": "Found Perceptual Draw",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 216",
 		"DC 216"
 	],
-	"profs": [
-		"Kristen Lowe"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Found Perceptual Draw",
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

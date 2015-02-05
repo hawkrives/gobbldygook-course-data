@@ -5,17 +5,18 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 300,
+	"locations": [
+		"L 420"
+	],
 	"name": "Sem: Man and Nature",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

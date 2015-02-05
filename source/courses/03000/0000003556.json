@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
+	"locations": [
+		"FH 40"
+	],
 	"name": "Acting for Non-Majors",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"FH 40"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

@@ -7,18 +7,19 @@
 		"ENVST"
 	],
 	"groupid": 18793,
+	"instructors": [
+		"John D. Schade"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Biogeochemistry Lab",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"John D. Schade"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"Th 0215-0505PM"

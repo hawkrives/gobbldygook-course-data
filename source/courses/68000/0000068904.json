@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"David E. Ryan"
+	],
 	"level": 200,
 	"name": "IS/Ind Video Product",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David E. Ryan"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Ind Video Product",
 	"type": "Research",

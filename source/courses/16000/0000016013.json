@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Comp Intro/Lit Analy",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

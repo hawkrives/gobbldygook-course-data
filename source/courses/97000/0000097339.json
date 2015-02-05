@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"OM 240"
+	],
 	"name": "Roman Catholic Theol",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"OM 240"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

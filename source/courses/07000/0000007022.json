@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 300,
-	"name": "Eur Sem: Early Modern",
-	"num": 309,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"name": "Eur Sem: Early Modern",
+	"num": 309,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

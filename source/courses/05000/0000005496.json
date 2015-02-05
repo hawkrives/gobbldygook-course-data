@@ -5,17 +5,18 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Gerald Ericksen"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Design of Experiments",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Gerald Ericksen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

@@ -6,18 +6,19 @@
 		"SPAN"
 	],
 	"desc": "Seminars engage students in in-depth study of a specified topic through readings, research and oral and written student reports. Special attention is paid to theoretical and bibliographic issues. Topics vary according to the areas of expertise and professional interests of departmental faculty. May be repeated if topics are different. Taught in Spanish. Prerequisites: Spanish 250 and at least two courses at the 270 or 300 level.",
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 300,
-	"name": "Sem:Culinary Met./Lat. Am",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sem": 3,
+	"name": "Sem:Culinary Met./Lat. Am",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0120-0245PM",

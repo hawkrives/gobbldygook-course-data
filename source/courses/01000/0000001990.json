@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 300,
 	"name": "IR/Rna Decay in Yeast",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Rna Decay in Yeast",
 	"type": "Research",

@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 190,
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "A Matter of Environ",
 	"notes": "Students in Chemistry 124 must also register for lab Chemistry 124 L.",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 0800-1000"

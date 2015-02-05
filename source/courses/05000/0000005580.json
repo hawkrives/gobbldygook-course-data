@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Principles Physics I",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 1000-1130"

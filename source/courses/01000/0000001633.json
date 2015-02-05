@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
+	"locations": [
+		"M 36"
+	],
 	"name": "FLC-French",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Wendy Allen"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

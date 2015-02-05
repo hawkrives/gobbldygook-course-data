@@ -10,17 +10,18 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 300,
-	"num": 320,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC Studio 2",
 		"DC Studio 2"
 	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sem": 3,
+	"num": 320,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

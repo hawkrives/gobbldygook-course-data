@@ -5,15 +5,16 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
 	"name": "IR/Exploring Performance",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"title": "Independent Research",
 	"type": "Research",

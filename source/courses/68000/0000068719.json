@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Gregory A. Walter"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Essentials Chr Theol",
 	"notes": "This course does NOT fulfill a WRI requirement.",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Gregory A. Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0905-1000"

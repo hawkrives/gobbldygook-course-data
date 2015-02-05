@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Cuneyt Orman"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Cuneyt Orman"
-	],
-	"sect": "H",
-	"sem": 1,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "H",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 1145-0110PM",

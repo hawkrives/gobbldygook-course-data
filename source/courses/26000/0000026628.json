@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Modern Philosophy",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

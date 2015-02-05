@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 200,
-	"name": "Creat Wrtg: Fict/Poet",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"James Heynen"
-	],
-	"sem": 3,
+	"name": "Creat Wrtg: Fict/Poet",
+	"num": 257,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

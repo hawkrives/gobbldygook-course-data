@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
-	"name": "Sem: Psych of Women",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "Sem: Psych of Women",
+	"num": 390,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

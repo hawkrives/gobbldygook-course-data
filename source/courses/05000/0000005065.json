@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 300,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Contemporary America",
 	"num": 338,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

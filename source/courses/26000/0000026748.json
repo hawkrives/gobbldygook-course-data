@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 200,
-	"name": "Research Methods",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 322",
 		"H 322"
 	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Research Methods",
+	"num": 231,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"M 0905-1000",

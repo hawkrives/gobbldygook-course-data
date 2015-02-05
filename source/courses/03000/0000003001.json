@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Karna E. Hauck"
+	],
 	"level": 300,
+	"locations": [
+		"FH 20"
+	],
 	"name": "Teaching of Art K-12",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"FH 20"
-	],
-	"profs": [
-		"Karna E. Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0600-0900PM"

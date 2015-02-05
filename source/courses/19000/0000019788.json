@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 200,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Early Modernism",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"MTThF 1040-1240PM"

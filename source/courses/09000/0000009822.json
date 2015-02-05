@@ -5,19 +5,20 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Donald I. Ostrom"
+	],
 	"level": 200,
-	"name": "Top: Amer Presidency",
-	"num": 299,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Donald I. Ostrom"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Top: Amer Presidency",
+	"num": 299,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

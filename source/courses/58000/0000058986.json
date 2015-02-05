@@ -6,16 +6,17 @@
 		"THEAT"
 	],
 	"desc": "This performance class is designed to develop a student's understanding, analysis, and presentation of poetry, drama, and prose. Offered every year.",
-	"level": 100,
-	"num": 100,
-	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Wilson"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TB 227"
+	],
+	"num": 100,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1045-1140"

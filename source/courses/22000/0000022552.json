@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Roman Historians",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
-	"level": 200,
-	"name": "Top: Sci in World & Word",
-	"num": 211,
-	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
+	"instructors": [
 		"Molly Westerman",
 		"Kathryn A. Hoffmann"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
+	"name": "Top: Sci in World & Word",
+	"num": 211,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

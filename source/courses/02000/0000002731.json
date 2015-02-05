@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"John Robert Hanson"
+	],
 	"level": 200,
-	"name": "Music/Chr Worship",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"John Robert Hanson"
-	],
-	"sem": 2,
+	"name": "Music/Chr Worship",
+	"num": 235,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"times": [
 		"MTTh 1040-1240PM",

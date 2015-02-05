@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "This course continues the studies begun in 391. Students consider recruitment and music administration and composing and arranging music for worship. Prerequisite: Music 391. Offered Spring Semester, 2006-07, and alternate years.",
+	"instructors": [
+		"John Ferguson"
+	],
 	"level": 300,
-	"name": "Church Music Pract II",
-	"num": 392,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"John Ferguson"
-	],
-	"sem": 3,
+	"name": "Church Music Pract II",
+	"num": 392,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

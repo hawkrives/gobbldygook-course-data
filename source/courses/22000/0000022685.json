@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Dick Daymont"
+	],
 	"level": 100,
+	"locations": [
+		"SAC WR RM"
+	],
 	"name": "Aerobics",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"SAC WR RM"
-	],
-	"profs": [
-		"Dick Daymont"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0200-0255PM"

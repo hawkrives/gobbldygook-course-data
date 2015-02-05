@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Gary M. Muir"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Principles: Psych",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Gary M. Muir"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

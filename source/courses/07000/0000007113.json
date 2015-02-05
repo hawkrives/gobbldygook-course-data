@@ -5,18 +5,19 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
-	"name": "Mass Media",
-	"num": 160,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB 216",
 		"TB 216"
 	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"name": "Mass Media",
+	"num": 160,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

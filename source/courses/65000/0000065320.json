@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Todd F. Edwards"
+	],
 	"level": 200,
 	"name": "IS/Evol of Bladed Weapon",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Todd F. Edwards"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Independent Study",
 	"type": "Research",

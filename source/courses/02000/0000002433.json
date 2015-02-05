@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "Abnormal Psych",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20011,
 	"times": [
 		"TTh 0935-1100"

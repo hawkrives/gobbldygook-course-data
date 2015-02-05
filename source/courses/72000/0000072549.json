@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Gen Chemistry/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"T 0800-1100"

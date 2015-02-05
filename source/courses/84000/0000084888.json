@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 135,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"Vincent Varpness"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 135,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"TTh 0935-1030"

@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
 	"name": "IS/Hmn Gross Anatomy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Hmn Gross Anatomy",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 300,
 	"name": "IR/Christian/Muslim Disc",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

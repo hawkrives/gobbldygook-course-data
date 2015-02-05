@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 200,
-	"name": "Developmental Psych",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 210",
 		"RNS 210"
 	],
-	"profs": [
-		"Mark Sundby"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Developmental Psych",
+	"num": 241,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

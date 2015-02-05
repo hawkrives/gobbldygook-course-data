@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Top: Problem Solvingii",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"M 0700-0900PM"

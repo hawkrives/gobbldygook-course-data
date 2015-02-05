@@ -9,19 +9,20 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Tomoko Hoogenboom"
+	],
 	"level": 100,
+	"locations": [
+		"OM 001",
+		"RML 577"
+	],
 	"name": "Japanese Lang/Society",
 	"notes": "This course has class-year limits. No knowledge of Japanese required.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"OM 001",
-		"RML 577"
-	],
-	"profs": [
-		"Tomoko Hoogenboom"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"times": [
 		"M-Th 1040-1200PM",

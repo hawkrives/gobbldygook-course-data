@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Children's Literature",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

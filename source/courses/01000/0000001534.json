@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 300,
 	"name": "Coaching Practicum",
 	"num": 335,
 	"pf": false,
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "Coaching Practicum",
 	"type": "Research",

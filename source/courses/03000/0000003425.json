@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Abnormal Psych",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

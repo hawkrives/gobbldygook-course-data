@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"Carolyn M. Martsberger"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 293"
+	],
 	"name": "Analytical II Lab",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 293"
-	],
-	"profs": [
-		"Carolyn M. Martsberger"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 1145-0215PM"

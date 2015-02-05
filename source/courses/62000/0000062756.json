@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 1163,
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 210",
+		"RNS 210"
+	],
 	"name": "Cognit,Learn & Memory",
 	"notes": "Students in Psych 237 must also register for one lab Psych 237 AL or BL.",
 	"num": 237,
 	"pf": false,
-	"places": [
-		"RNS 210",
-		"RNS 210"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

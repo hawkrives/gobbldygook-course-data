@@ -10,18 +10,19 @@
 		"ORC"
 	],
 	"groupid": 169,
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 300,
-	"notes": "Students in Bio 383 must also register for lab Bio 383 L. Open to Juniors and Seniors only.",
-	"num": 383,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 206",
 		"RNS 206"
 	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 383 must also register for lab Bio 383 L. Open to Juniors and Seniors only.",
+	"num": 383,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

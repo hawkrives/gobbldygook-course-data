@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Michael Hasbrouck"
+	],
 	"level": 200,
+	"locations": [
+		"M 21"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Michael Hasbrouck"
-	],
-	"sect": "H",
-	"sem": 1,
+	"section": "H",
+	"semester": 1,
+	"status": "C",
 	"term": 19961,
 	"times": [
 		"MWF 0905-1000"

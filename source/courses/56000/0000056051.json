@@ -6,17 +6,18 @@
 		"GERM"
 	],
 	"desc": "Students begin to learn German through listening, speaking, reading, and writing about topics familiar to them (their personal biographies, family, daily life, interests). Regular writing assignments are designed to learn vocabulary, check spelling, and to form thoughts with German sentence structure. Regular language lab activities aid in acquiring good pronunciation and listening skills. Offered Fall Semester.",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
+	"instructors": [
 		"Jack D. Hoschouer"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"OM 035"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"MWF 0800-0855"

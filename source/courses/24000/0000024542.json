@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 200,
+	"locations": [
+		"M 31"
+	],
 	"name": "Writing German",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

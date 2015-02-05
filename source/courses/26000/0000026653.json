@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
+	"locations": [
+		"SAC S GYM"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"SAC S GYM"
-	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

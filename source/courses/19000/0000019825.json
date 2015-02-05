@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 200,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Organometallic Chem",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM"

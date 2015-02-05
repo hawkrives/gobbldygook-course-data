@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Steven Hamilton"
+	],
 	"level": 100,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Steven Hamilton"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"times": [
 		"MWF 1255-0150PM"

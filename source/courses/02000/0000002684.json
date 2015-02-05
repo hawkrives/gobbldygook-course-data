@@ -5,15 +5,16 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 200,
 	"name": "FLC-German",
 	"num": 245,
 	"pf": false,
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"title": "FLC-German",
 	"type": "Research",

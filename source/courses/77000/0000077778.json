@@ -9,16 +9,17 @@
 	"gereqs": [
 		"FOL-K"
 	],
-	"level": 200,
-	"num": 231,
-	"pf": false,
-	"places": [
-		"TOH 300"
-	],
-	"profs": [
+	"instructors": [
 		"Valerio Caldesi-Valeri"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"TOH 300"
+	],
+	"num": 231,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"MWF 1045-1140"

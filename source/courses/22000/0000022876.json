@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Conscienc/Its Critics",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

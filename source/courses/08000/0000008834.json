@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 100,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

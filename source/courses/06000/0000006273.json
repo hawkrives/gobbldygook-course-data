@@ -5,19 +5,20 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 100,
-	"name": "Beginning Russian I",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 004",
 		"OM 001"
 	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Beginning Russian I",
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"MWF 1150-1245PM",

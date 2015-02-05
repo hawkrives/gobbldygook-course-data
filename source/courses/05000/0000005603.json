@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Lit & the Environment",
 	"num": 276,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 1230-0200PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"David M. Perry"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Medieval Europe",
 	"num": 310,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"David M. Perry"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"M 0700-1000PM"

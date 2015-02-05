@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
 	"name": "IR/Preceptor",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Preceptor",
 	"type": "Research",

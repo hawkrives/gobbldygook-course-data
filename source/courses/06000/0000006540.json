@@ -5,19 +5,20 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
-	"name": "Personal Finance",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302",
 		"OM 035"
 	],
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sem": 2,
+	"name": "Personal Finance",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"MWF 0900-1000",

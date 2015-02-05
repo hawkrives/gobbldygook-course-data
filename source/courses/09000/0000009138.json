@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 100,
-	"name": "Foundation Sculpture",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 106",
 		"DC 106"
 	],
-	"profs": [
-		"Ron Gallas"
-	],
-	"sem": 3,
+	"name": "Foundation Sculpture",
+	"num": 114,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

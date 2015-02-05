@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Theology/Soc Ethic",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IR/Theology/Soc Ethic",
 	"type": "Research",

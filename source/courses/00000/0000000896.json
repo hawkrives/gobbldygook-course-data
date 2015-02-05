@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Philosophy and Lit",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Chemical Reactions Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20135,
 	"times": [
 		"MW 0100-0400PM"

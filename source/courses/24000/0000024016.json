@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Paul Cabe"
+	],
 	"level": 300,
-	"name": "Evolution",
-	"num": 383,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 110",
 		"SC 110",
 		"SC 110"
 	],
-	"profs": [
-		"Paul Cabe"
-	],
-	"sem": 2,
+	"name": "Evolution",
+	"num": 383,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-Th 0900-1000",

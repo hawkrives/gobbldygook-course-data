@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20055,
 	"title": "Internship",
 	"type": "Research",

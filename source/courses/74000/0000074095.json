@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TOH 108"
-	],
-	"profs": [
+	"instructors": [
 		"Kaethe Schwehn"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TOH 108"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

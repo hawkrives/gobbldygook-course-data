@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Greek Historians",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0800-0855"

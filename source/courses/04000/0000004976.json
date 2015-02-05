@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
 	"name": "IR/Adv Nature Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Adv Nature Writing",
 	"type": "Research",

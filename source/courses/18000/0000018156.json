@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 300,
 	"name": "IR/Romantic Poets",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Romantic Poets",
 	"type": "Research",

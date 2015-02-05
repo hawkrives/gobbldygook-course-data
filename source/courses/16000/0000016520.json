@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 477"
+	],
 	"name": "Social Policy",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"L 477"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1150-1245PM"

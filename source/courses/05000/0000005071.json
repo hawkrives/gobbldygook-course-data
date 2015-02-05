@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 300,
 	"name": "IR/Magna Carta",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Magna Carta",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Bruce Marshall"
+	],
 	"level": 200,
+	"locations": [
+		"CH 102"
+	],
 	"name": "Essentials Chr Theol",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"Bruce Marshall"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 19961,
 	"times": [
 		"MWF 1045-1140"

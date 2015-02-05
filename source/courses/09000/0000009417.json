@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
-	"name": "Chaucer and Ethics",
-	"num": 395,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sem": 3,
+	"name": "Chaucer and Ethics",
+	"num": 395,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Larry Fowler"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Tchg of Soc Studies",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Larry Fowler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MW 0600-0730PM"

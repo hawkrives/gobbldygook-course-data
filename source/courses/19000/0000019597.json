@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark A. Granquist"
+	],
 	"level": 200,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Hist Chr Thought II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"Mark A. Granquist"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 0935-1100"

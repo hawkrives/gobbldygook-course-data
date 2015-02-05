@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
-	"name": "Desert Ecology",
-	"num": 282,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 248",
 		"SC 248",
 		"SC 248"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 2,
+	"name": "Desert Ecology",
+	"num": 282,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19972,
 	"times": [
 		"M-Th 0830-1000",

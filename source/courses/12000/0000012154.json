@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 300,
-	"name": "Top: Opera",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 3,
+	"name": "Top: Opera",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 0800-0925",

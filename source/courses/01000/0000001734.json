@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
 	"name": "IR/Playwriting",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Playwriting",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Jon Bruss"
+	],
 	"level": 300,
-	"name": "Roman Historians",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 004",
 		"OM 004"
 	],
-	"profs": [
-		"Jon Bruss"
-	],
-	"sem": 3,
+	"name": "Roman Historians",
+	"num": 372,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

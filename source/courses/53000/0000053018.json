@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "This course offers an in-depth study of the music literature and styles of the Baroque, ca. 1600- 1750. Prerequisite: Music 241, 242.",
+	"instructors": [
+		"Donnamae Gustafson"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Music of Baroque Era",
 	"num": 342,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Donnamae Gustafson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 1045-1140"

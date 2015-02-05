@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 300,
-	"name": "Eur Sem: Stalin",
-	"num": 314,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 3,
+	"name": "Eur Sem: Stalin",
+	"num": 314,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

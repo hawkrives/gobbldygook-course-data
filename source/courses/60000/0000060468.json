@@ -12,18 +12,19 @@
 		"SED"
 	],
 	"groupid": 18802,
+	"instructors": [
+		"Kimberly A. Kandl"
+	],
 	"level": 100,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Integrated Chem/Bio III",
 	"notes": "Students in CH/BI 127 must also register for lab CH/BI 127 L. Open only to those students who have completed CH/BI 126.",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Kimberly A. Kandl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1150-1245PM"

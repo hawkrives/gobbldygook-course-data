@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
+	"instructors": [
 		"Richard DuRocher",
 		"Mary Titus"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"L 515"
+	],
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MW 1045-1140"

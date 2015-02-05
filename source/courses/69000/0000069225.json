@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Principles Comp Sci",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 203"
-	],
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1045-1140"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Child Soc Dev",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

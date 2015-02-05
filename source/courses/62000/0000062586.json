@@ -5,14 +5,15 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Internship",
 	"type": "Research",

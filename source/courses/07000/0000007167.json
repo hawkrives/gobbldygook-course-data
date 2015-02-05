@@ -5,19 +5,20 @@
 	"depts": [
 		"NEURO"
 	],
-	"level": 200,
-	"name": "Intro to Neuroscience",
-	"num": 234,
-	"pf": false,
-	"places": [
-		"SC 210",
-		"SC 227"
-	],
-	"profs": [
+	"instructors": [
 		"Shelly D. Dickinson",
 		"Anne Walter"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 210",
+		"SC 227"
+	],
+	"name": "Intro to Neuroscience",
+	"num": 234,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM",

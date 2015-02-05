@@ -5,17 +5,18 @@
 	"depts": [
 		"GEOG"
 	],
+	"instructors": [
+		"Richard Dunning"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Human Geography",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Richard Dunning"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

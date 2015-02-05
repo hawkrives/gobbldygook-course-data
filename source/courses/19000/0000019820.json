@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gail Carlson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Chem-Life's Beginning",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Gail Carlson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0830-1000"

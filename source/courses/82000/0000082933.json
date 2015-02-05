@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Paul Humke"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 0905-1000"

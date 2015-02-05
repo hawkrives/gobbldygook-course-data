@@ -5,19 +5,20 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 200,
-	"name": "Educ Psychology",
-	"num": 290,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10",
 		"FH 10"
 	],
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Educ Psychology",
+	"num": 290,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

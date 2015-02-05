@@ -10,19 +10,20 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 100,
-	"name": "Acting for Non-Majors",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Acting for Non-Majors",
+	"num": 115,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0120-0245PM",

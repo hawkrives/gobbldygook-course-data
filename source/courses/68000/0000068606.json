@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"RNS 208"
-	],
-	"profs": [
+	"instructors": [
 		"Adam H. Berliner"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 208"
+	],
+	"num": 120,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

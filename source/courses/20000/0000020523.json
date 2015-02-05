@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 200,
+	"locations": [
+		"M 2"
+	],
 	"name": "Community & Utopia",
 	"num": 259,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

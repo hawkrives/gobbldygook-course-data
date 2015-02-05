@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 200,
-	"name": "Global Interdepend",
-	"num": 262,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 3,
+	"name": "Global Interdepend",
+	"num": 262,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

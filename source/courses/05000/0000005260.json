@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MW 0905-1000"

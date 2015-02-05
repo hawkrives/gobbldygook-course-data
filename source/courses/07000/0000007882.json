@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 200,
-	"name": "Creat Wrtg: Fict/Poet",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sem": 1,
+	"name": "Creat Wrtg: Fict/Poet",
+	"num": 257,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0800-0925",

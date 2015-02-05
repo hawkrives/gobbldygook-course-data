@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 200,
 	"name": "IS/Intermedia in Studio",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Irve Dell"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Independent Study",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Steven Amundson"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Ear/Keyboard II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Steven Amundson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"William L. Carlson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Mgmt Information Sys",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"William L. Carlson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

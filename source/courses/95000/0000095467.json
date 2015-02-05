@@ -6,14 +6,15 @@
 		"ASIAN",
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "FLC - Chinese",
 	"num": 251,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "FLC - Chinese",
 	"type": "FLAC",

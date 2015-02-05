@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CENTER GYM"
+	],
 	"name": "Basketball",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"CENTER GYM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 0905-1000"

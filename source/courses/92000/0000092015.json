@@ -10,15 +10,16 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 100,
 	"name": "Intro to Sociology",
 	"notes": "This course has been canceled.",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "X",
 	"term": 20125,
 	"times": [
 		"M-F 0800-0930"

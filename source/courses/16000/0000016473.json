@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 2"
+	],
 	"name": "Russ Culture & Civ",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

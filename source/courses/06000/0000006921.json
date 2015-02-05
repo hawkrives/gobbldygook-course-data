@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 300,
 	"name": "IR/Freelance Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Freelance Writing",
 	"type": "Research",

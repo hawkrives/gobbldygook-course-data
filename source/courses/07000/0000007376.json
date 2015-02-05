@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "Hist Chr Thought I",
 	"num": 302,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0800-0855"

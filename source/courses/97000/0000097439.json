@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 200,
-	"name": "Shakespeare & Contemp",
-	"num": 256,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sem": 1,
+	"name": "Shakespeare & Contemp",
+	"num": 256,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0120-0245PM",

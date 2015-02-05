@@ -10,20 +10,21 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Jonathan P. O'Conner"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 312",
+		"TOH 312"
+	],
 	"name": "Gateway Sp-Spkng Wrld",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"TOH 312",
-		"TOH 312"
-	],
-	"profs": [
-		"Jonathan P. O'Conner"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

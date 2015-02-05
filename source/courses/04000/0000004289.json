@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
 	"name": "IR/Eating Disorders",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"title": "IR/Eating Disorders",
 	"type": "Research",

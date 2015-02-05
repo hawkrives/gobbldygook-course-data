@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Human Rights Study",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Human Rights Study",
 	"type": "Research",

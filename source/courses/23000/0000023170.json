@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 100,
+	"locations": [
+		"H 516"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19975,
 	"times": [
 		"M-F 0900-1215PM"

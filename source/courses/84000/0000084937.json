@@ -10,18 +10,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Methods of Art Hist",
 	"notes": "Open only to seniors and juniors.",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"M 0700-1000PM"

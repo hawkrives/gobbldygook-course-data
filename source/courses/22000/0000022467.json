@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Robert Weinstock-Collins"
+	],
 	"level": 100,
+	"locations": [
+		"L 177"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 177"
-	],
-	"profs": [
-		"Robert Weinstock-Collins"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

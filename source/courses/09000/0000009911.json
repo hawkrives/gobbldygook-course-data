@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Susan Lindley"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "Th Sem: Devmts/Am Rel",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"Susan Lindley"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

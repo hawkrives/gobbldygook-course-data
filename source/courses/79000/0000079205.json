@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
+	"instructors": [
 		"Rebecca S. Richards"
 	],
-	"sect": "H",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 525"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

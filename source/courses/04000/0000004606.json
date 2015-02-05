@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"John Ferguson"
+	],
 	"level": 300,
 	"name": "IR/Historical Organ",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Ferguson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Historical Organ",
 	"type": "Research",

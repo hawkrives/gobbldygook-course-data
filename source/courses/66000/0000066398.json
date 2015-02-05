@@ -7,19 +7,20 @@
 	],
 	"groupid": 108,
 	"grouptype": "2",
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Evolution & Diversity Lab",
 	"notes": "This lab has been canceled.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "X",
 	"term": 20083,
 	"times": [
 		"W 1150-0220PM"

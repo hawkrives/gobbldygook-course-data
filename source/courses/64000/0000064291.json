@@ -6,16 +6,17 @@
 		"GERM"
 	],
 	"desc": "Students begin to learn German through listening, speaking, reading, and writing about topics familiar to them (their personal biographies, family, daily life, interests). Regular writing assignments are designed to learn vocabulary, check spelling, and to form thoughts with German sentence structure. Regular language lab activities aid in acquiring good pronunciation and listening skills. Offered Fall Semester.",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
+	"instructors": [
 		"Staff"
 	],
-	"sem": 4,
+	"level": 100,
+	"locations": [
+		"RML 525"
+	],
+	"num": 111,
+	"pf": false,
+	"semester": 4,
+	"status": "X",
 	"term": 20074,
 	"times": [
 		"M-F 0800-0930"

@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Data Structures",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 1145-0110PM"

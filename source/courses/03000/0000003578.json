@@ -5,17 +5,18 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Design of Experiments",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Michael Kahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

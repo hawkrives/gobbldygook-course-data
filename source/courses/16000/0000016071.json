@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "FLC-Norwegian",
 	"num": 224,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "FLC-Norwegian",
 	"type": "Research",

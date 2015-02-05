@@ -5,19 +5,20 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 200,
-	"name": "Prev/Care Sport Injur",
-	"num": 255,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC 140",
 		"SAC TR RM"
 	],
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Prev/Care Sport Injur",
+	"num": 255,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0935",

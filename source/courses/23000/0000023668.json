@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 300,
 	"name": "IR/Wittgen-Phil-Inv",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Poling"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"title": "IR/Wittgen-Phil-Inv",
 	"type": "Research",

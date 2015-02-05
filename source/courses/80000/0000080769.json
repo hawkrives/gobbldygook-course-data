@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 100,
+	"locations": [
+		"HH 307"
+	],
 	"notes": "This course has class-year limits.",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

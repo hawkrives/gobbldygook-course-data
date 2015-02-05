@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Religions China/Japan",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

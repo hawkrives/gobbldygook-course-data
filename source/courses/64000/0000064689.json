@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 300,
-	"name": "Contemp Latin Am Iss",
-	"num": 333,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sem": 3,
+	"name": "Contemp Latin Am Iss",
+	"num": 333,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

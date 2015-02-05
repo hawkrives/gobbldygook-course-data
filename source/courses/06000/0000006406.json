@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Art Since 1950",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

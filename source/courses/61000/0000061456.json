@@ -10,19 +10,20 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
-	"name": "Gateway Sp-Spkng Wrld",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Gateway Sp-Spkng Wrld",
+	"num": 250,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 0935-1100",

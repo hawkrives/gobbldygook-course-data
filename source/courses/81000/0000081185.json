@@ -6,13 +6,14 @@
 		"MATH"
 	],
 	"desc": "The main topics of this course are measure theory on the real line, the Lebesgue integral and its relation to the Riemann integral, and convergence theorems for the Lebesgue integral. Applications to probability and harmonic analysis may be included. Prerequisite: Mathematics 244. Offered in 2011-12 and alternate years.",
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
 	"num": 344,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20105,
 	"title": "Real Analysis II",
 	"type": "Research",

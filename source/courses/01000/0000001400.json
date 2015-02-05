@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
 	"name": "IR/Integration Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Integration Theory",
 	"type": "Research",

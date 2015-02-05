@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
 	"name": "IS/Jpn/Us Media Study",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "F",
-	"sem": 2,
+	"section": "F",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/Jpn/Us Media Study",
 	"type": "Research",

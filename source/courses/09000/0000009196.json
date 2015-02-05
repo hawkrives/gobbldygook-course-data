@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Kimberly A. Kandl"
+	],
 	"level": 200,
-	"name": "Intermediate Genetics",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 211"
 	],
-	"profs": [
-		"Kimberly A. Kandl"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intermediate Genetics",
+	"num": 233,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140",

@@ -11,18 +11,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Jenny Dunning"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"notes": "Open to first-year students and sophomores only.",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Jenny Dunning"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1255-0150PM"

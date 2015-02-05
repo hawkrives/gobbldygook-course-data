@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
 	"name": "IS/Biblical Hermeneutics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"title": "Independent Study",
 	"type": "Research",

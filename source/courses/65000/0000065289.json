@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Anantanand Rambachan"
+	],
 	"level": 300,
 	"name": "IR/Classical Yoga",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anantanand Rambachan"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Independent Research",
 	"type": "Research",

@@ -12,19 +12,20 @@
 	],
 	"groupid": 26649,
 	"grouptype": "1",
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150A must also register for one lab Bio 150 AL or BL.",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

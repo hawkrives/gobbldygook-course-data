@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 100,
-	"name": "Intro to Design: Perform",
-	"num": 140,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Green Rm",
 		"TB Green Rm"
 	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"name": "Intro to Design: Perform",
+	"num": 140,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

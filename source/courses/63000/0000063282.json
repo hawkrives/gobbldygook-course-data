@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Rose Gundacker"
+	],
 	"level": 100,
+	"locations": [
+		"RML 115"
+	],
 	"name": "Prin of Statistics",
 	"notes": "This course has class year limits.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RML 115"
-	],
-	"profs": [
-		"Rose Gundacker"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

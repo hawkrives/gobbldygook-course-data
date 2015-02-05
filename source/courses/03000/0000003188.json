@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"James May"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

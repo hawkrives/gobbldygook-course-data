@@ -5,15 +5,16 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "IS/Mental Hlth Norge",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Mental Hlth Norge",
 	"type": "Research",

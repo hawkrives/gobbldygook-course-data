@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Analysis/Tonal Music",
 	"num": 313,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

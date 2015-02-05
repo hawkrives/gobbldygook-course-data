@@ -10,18 +10,19 @@
 		"FOL-N",
 		"ORC"
 	],
+	"instructors": [
+		"Margaret H. O'Leary"
+	],
 	"level": 200,
-	"name": "Advanced Conv & Comp",
-	"num": 253,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 300",
 		"TOH 300"
 	],
-	"profs": [
-		"Margaret H. O'Leary"
-	],
-	"sem": 1,
+	"name": "Advanced Conv & Comp",
+	"num": 253,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0935-1100",

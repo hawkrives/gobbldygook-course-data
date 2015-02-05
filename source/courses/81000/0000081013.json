@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Megan J. Feeney"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216",
+		"HH 501"
+	],
 	"name": "Intro to Film Studies",
 	"notes": "Film screenings Monday evenings from 7-10 p.m.",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"TB 216",
-		"HH 501"
-	],
-	"profs": [
-		"Megan J. Feeney"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM",

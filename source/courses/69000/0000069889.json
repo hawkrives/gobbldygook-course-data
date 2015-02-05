@@ -6,19 +6,20 @@
 		"PSYCH"
 	],
 	"desc": "Seminars allow in-depth study of particular themes or topics in psychology. Prerequisite: Psychology 230. See department website for descriptions and additional prerequisites. Offered most years. May be repeated if topics are different.",
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
-	"name": "Sem: Personality Assess",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 124",
 		"RNS 124"
 	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Sem: Personality Assess",
+	"num": 390,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

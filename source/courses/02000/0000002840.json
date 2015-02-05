@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Randall Van Schepen"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Renaissance--Present",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Randall Van Schepen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

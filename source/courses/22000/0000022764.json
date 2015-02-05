@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 300,
 	"name": "IR/Quantum Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Quantum Theory",
 	"type": "Research",

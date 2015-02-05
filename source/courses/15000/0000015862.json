@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Amer Business History",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

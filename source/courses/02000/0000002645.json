@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Organic Analys/Theory",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"times": [
 		"M-F 0800-1000"

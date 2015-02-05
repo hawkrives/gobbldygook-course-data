@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"William Thornton"
+	],
 	"level": 100,
+	"locations": [
+		"SAC N GYM"
+	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"SAC N GYM"
-	],
-	"profs": [
-		"William Thornton"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MW 0800-0855"

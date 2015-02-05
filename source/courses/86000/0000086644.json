@@ -6,19 +6,20 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Chemical Reactions Lab",
 	"notes": "This lab has been canceled.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "X",
 	"term": 20123,
 	"times": [
 		"F 0100-0400PM"

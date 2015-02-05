@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
 	"name": "IR/Lipid/Biophysics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Lipid/Biophysics",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
+	"locations": [
+		"TB Haugen"
+	],
 	"name": "Acting for Non-Majors",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"TB Haugen"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"times": [
 		"M-F 1000-1130"

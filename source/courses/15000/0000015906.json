@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Tchg Art Elem Schools",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 0630-0800PM"

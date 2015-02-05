@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Rosemary Moore"
+	],
 	"level": 200,
-	"name": "Ancient Rome",
-	"num": 211,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"HH 501"
 	],
-	"profs": [
-		"Rosemary Moore"
-	],
-	"sem": 3,
+	"name": "Ancient Rome",
+	"num": 211,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

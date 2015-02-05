@@ -5,13 +5,14 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Academic Internship",
 	"type": "Research",

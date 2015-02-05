@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"desc": "In 1945, humanity's relationship to science was forever changed by the atomic bombings of Hiroshima and Nagasaki. This course examines the scientific developments that led to these first atomic weapons, from the discovery of the nucleus to the manipulation of fission processes for the explosive release of nuclear energy. It also considers present day weapons and nuclear power plants and discusses scientific developments in the human contexts that influenced them. Prerequisite: High School algebra. Offered Spring Semester.",
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 100,
-	"name": "Origin of Nuclear Weapons",
-	"num": 154,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 170",
 		"SC 170"
 	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 3,
+	"name": "Origin of Nuclear Weapons",
+	"num": 154,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

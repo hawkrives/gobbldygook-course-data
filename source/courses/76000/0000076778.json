@@ -9,16 +9,17 @@
 	"gereqs": [
 		"HBS"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
+	"instructors": [
 		"Jane F. Coleman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"HH 307"
+	],
+	"num": 120,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"Th 0700-1000PM"

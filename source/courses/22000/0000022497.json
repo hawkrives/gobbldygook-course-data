@@ -5,17 +5,18 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Ethical ISSues/Gr Con",
 	"num": 310,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

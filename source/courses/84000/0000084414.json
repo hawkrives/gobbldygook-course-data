@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Eric McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"Eric McDonald"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0120-0320PM"

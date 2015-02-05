@@ -6,18 +6,19 @@
 		"JAPAN"
 	],
 	"groupid": 658,
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"RML WLC"
+	],
 	"name": "Beginning Japanese I Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML WLC"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"Th 0800-0855"

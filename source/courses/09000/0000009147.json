@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
-	"name": "Printmkg: Relief/Litho",
-	"num": 226,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 212",
 		"DC 212"
 	],
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"name": "Printmkg: Relief/Litho",
+	"num": 226,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0245PM",

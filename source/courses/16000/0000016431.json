@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "O",
-	"sem": 3,
+	"section": "O",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1045-1140"

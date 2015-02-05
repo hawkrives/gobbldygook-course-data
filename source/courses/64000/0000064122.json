@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 200,
 	"name": "IS/Randomness in Econ",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

@@ -10,20 +10,21 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Robert W. McClure",
+		"Colin Wells"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"notes": "Open to American Conversations students only.",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Robert W. McClure",
-		"Colin Wells"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

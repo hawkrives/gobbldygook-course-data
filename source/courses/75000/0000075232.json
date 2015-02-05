@@ -10,17 +10,18 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 100,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Transition Economics",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1240PM"

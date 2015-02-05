@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Karen Gervais"
+	],
 	"level": 200,
-	"name": "Biomedical Ethics",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 317",
 		"L 421"
 	],
-	"profs": [
-		"Karen Gervais"
-	],
-	"sem": 2,
+	"name": "Biomedical Ethics",
+	"num": 250,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"M-F 0830-1000",

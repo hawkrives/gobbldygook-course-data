@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 300,
 	"name": "IR/Speech Disorders",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 19985,
 	"title": "IR/Speech Disorders",
 	"type": "Research",

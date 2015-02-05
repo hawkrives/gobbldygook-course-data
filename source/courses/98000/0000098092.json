@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Maxamilian J. Wojtanowicz"
+	],
 	"level": 100,
-	"name": "Acting for Non-Majors",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Maxamilian J. Wojtanowicz"
-	],
-	"sem": 3,
+	"name": "Acting for Non-Majors",
+	"num": 115,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

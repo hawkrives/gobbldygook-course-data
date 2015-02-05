@@ -6,20 +6,21 @@
 		"HIST"
 	],
 	"desc": "Selected topics in historical studies, depending on instructor.",
+	"instructors": [
+		"Brett A. Werner"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516",
+		"HH 516"
+	],
 	"name": "Env Discourse",
 	"notes": "Open to first-year students only.",
 	"num": 188,
 	"pf": false,
-	"places": [
-		"HH 516",
-		"HH 516"
-	],
-	"profs": [
-		"Brett A. Werner"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "X",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM",

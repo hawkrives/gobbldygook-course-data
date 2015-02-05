@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Kimberly Vrudney"
+	],
 	"level": 100,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"Kimberly Vrudney"
-	],
-	"sect": "N",
-	"sem": 3,
+	"section": "N",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sect": "M",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "M",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

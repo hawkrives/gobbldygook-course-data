@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Lisa Lindley"
+	],
 	"level": 200,
-	"name": "Management",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Lisa Lindley"
-	],
-	"sem": 3,
+	"name": "Management",
+	"num": 251,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

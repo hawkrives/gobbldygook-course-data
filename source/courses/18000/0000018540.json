@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 200,
 	"name": "IS/Dissoc Disorders",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Dissoc Disorders",
 	"type": "Research",

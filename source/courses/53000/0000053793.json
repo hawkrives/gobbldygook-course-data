@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 300,
 	"name": "IR/Christian Vocation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

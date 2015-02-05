@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Susi K. Keefe"
+	],
 	"level": 200,
-	"name": "Top: Enviro Anthropology",
-	"num": 297,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Susi K. Keefe"
-	],
-	"sem": 1,
+	"name": "Top: Enviro Anthropology",
+	"num": 297,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0120-0245PM",

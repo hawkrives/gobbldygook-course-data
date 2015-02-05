@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Beth Abdella"
+	],
 	"level": 300,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Biochemistry I",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Beth Abdella"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

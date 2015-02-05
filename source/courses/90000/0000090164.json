@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Econ of Public Policy",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors during web registration.",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"RNS 297"
-	],
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

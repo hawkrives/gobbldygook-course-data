@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ORC"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
+	"instructors": [
 		"David V. Lapakko"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TOH 308"
+	],
+	"num": 120,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"M 0700-1000PM"

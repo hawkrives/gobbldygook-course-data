@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
-	"name": "Japanese Civilization",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"name": "Japanese Civilization",
+	"num": 252,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0120-0245PM",

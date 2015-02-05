@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
-	"name": "Children's Literature",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 1,
+	"name": "Children's Literature",
+	"num": 242,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 1145-0110PM",

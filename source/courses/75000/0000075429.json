@@ -6,14 +6,15 @@
 		"CHEM"
 	],
 	"desc": "Students explore how instrumentation is used to study analytical applications, problem solving, and how people and instruments operate together to investigate chemical questions. Specific lab experiences include interfacing chemical instruments with computers and subsequent signal processing, mass spectrometry, electrochemistry, and various spectroscopic (AA, ICP, UV) and separation techniques. A laboratory robot is used for sample preparation and analysis. P/N only. Prerequisite: concurrent registration in Chemistry 382. Offered annually in the Fall Semester.",
+	"instructors": [
+		"Nathaniel J. Schaefle"
+	],
 	"level": 300,
 	"name": "Instr Analysis Lab",
 	"num": 378,
 	"pf": true,
-	"profs": [
-		"Nathaniel J. Schaefle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"Th 0100-0500PM"

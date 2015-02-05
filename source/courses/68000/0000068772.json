@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Guido Alvarez"
+	],
 	"level": 100,
+	"locations": [
+		"DC 100"
+	],
 	"notes": "This course has class year limits.",
 	"num": 104,
 	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
-		"Guido Alvarez"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0800-1000"

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Donald A. Tarr"
+	],
 	"level": 100,
 	"name": "Environ Chem/Lab",
 	"num": 124,
 	"pf": false,
-	"profs": [
-		"Donald A. Tarr"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Environ Chem/Lab",
 	"type": "Lab",

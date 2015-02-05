@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
+	"locations": [
+		"M 21"
+	],
 	"name": "Childhood in China",
 	"num": 226,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Dana Gross"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"MTThF 1040-1240PM"

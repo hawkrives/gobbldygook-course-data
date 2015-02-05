@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 100,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 1040-1240PM"

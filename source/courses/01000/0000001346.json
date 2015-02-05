@@ -5,14 +5,15 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 200,
 	"name": "IS/Pol Econ of L.A.",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Pol Econ of L.A.",
 	"type": "Research",

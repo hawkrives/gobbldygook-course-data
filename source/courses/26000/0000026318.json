@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 300,
+	"locations": [
+		"M 31"
+	],
 	"name": "Econ of Public Policy",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

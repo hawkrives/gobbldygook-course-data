@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 100,
+	"locations": [
+		"H 413"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 300,
 	"name": "Geometry",
 	"num": 356,
 	"pf": false,
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19952,
 	"title": "Geometry",
 	"type": "Research",

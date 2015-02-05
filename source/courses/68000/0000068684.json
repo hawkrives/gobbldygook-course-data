@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"M. Minda Ori\u00f1a"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 190"
+	],
 	"name": "Developmental Psych",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"RNS 190"
-	],
-	"profs": [
-		"M. Minda Ori\u00f1a"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1150-1245PM"

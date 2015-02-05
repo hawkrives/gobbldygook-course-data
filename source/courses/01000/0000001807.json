@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 200,
+	"locations": [
+		"L 577"
+	],
 	"name": "Chr Theol in History",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-F 0800-0930"

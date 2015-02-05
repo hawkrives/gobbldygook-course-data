@@ -6,17 +6,18 @@
 		"PSYCH"
 	],
 	"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision.",
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 226"
+	],
 	"name": "Research: Neuro Topics",
 	"num": 396,
 	"pf": false,
-	"places": [
-		"RNS 226"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"W 0200-0500PM"

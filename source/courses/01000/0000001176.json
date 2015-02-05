@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Ann A. Leming"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "The Exceptional Child",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Ann A. Leming"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

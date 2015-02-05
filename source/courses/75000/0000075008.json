@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 1161,
+	"instructors": [
+		"Shelly D. Dickinson"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 210",
+		"RNS 210"
+	],
 	"name": "Condition & Learning",
 	"notes": "Students in Psych 236 must also register for one lab Psych 236 AL or BL.",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"RNS 210",
-		"RNS 210"
-	],
-	"profs": [
-		"Shelly D. Dickinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

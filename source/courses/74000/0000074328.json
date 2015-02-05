@@ -6,14 +6,15 @@
 		"RUSSN"
 	],
 	"desc": "Independent Research is required for all students seeking credit for a senior project.",
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 300,
 	"name": "IR/Russ-Engl Translation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

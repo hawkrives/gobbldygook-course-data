@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 171,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
-	"notes": "Students in Bio 386 must also register for lab Bio 386 AL or BL. Open to Juniors and Seniors only.",
-	"num": 386,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 435",
 		"RNS 435"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 386 must also register for lab Bio 386 AL or BL. Open to Juniors and Seniors only.",
+	"num": 386,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0800-0925",

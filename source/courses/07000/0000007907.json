@@ -5,19 +5,20 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 100,
-	"name": "Intro: Env Studies",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Intro: Env Studies",
+	"num": 137,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0935-1100",

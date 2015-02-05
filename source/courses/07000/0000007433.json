@@ -5,18 +5,19 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Naurine Lennox"
+	],
 	"level": 200,
-	"name": "Social Work Methds II",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"Naurine Lennox"
-	],
-	"sem": 3,
+	"name": "Social Work Methds II",
+	"num": 261,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

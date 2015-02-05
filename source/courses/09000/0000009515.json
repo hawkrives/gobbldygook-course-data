@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 200,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Wmn/Gender/Mod Europe",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

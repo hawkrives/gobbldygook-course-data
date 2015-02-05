@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "Senior Project I",
 	"num": 391,
 	"pf": true,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"title": "Senior Project I",
 	"type": "Research",

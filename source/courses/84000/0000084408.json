@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 210",
 		"OM 210"
 	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "Q",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "Q",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

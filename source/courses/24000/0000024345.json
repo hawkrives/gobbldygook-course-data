@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310/371"
+	],
 	"name": "Experimental Biochem",
 	"num": 373,
 	"pf": true,
-	"places": [
-		"SC 310/371"
-	],
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"T 0120-0520PM"

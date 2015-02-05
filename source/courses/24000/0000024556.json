@@ -5,17 +5,18 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
+	"locations": [
+		"M 2"
+	],
 	"name": "Ethical ISSues/Gr Con",
 	"num": 310,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

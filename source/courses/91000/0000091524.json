@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 200,
 	"name": "IS/Nuclear Phys Policy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

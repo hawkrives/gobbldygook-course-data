@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Jean E. Biem"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
-		"Jean E. Biem"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0800-0855"

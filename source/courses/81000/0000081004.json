@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20104,
 	"times": [
 		"M-F 0800-0930"

@@ -10,17 +10,18 @@
 		"IST"
 	],
 	"groupid": 207,
+	"instructors": [
+		"Peter J. Gittins"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 210"
+	],
 	"notes": "Students in Chem 371 must also register for Chem 357 AL, BL, or CL.",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Peter J. Gittins"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

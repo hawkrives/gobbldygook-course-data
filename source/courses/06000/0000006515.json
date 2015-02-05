@@ -5,15 +5,16 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Rick A. Fairbanks",
+		"James May"
+	],
 	"level": 200,
 	"name": "Great Con/Grand Tour",
 	"num": 271,
 	"pf": false,
-	"profs": [
-		"Rick A. Fairbanks",
-		"James May"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Great Con/Grand Tour",
 	"type": "Research",

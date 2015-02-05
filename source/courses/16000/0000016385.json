@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Sex Differences",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 300,
 	"name": "IR/Poets of the Delta",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Colin Wells"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Poets of the Delta",
 	"type": "Research",

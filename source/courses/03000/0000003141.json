@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Rachel Shaw"
+	],
 	"level": 100,
+	"locations": [
+		"M 35"
+	],
 	"name": "The American West",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Rachel Shaw"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0200-0255PM"

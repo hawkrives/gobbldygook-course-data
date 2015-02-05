@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Marriage & the Family",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20104,
 	"times": [
 		"M-F 1000-1130"

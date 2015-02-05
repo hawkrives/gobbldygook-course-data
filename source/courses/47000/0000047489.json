@@ -5,14 +5,15 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Marte H. Hult"
+	],
 	"level": 100,
 	"name": "Norw Folklore/Narrat",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"Marte H. Hult"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"times": [
 		"M-F 1040-1240PM"

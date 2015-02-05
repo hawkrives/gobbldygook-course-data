@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Intermediate Greek",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"MWF 0200-0255PM"

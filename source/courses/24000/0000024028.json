@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 100,
-	"name": "Capitalism: Struggles",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 420",
 		"L 420"
 	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Capitalism: Struggles",
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"MWF 1045-1215PM",

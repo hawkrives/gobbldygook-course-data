@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Top: Historical/Lit",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

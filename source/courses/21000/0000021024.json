@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 300,
 	"name": "IR/Math Wildlife",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "IR/Math Wildlife",
 	"type": "Research",

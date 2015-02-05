@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Jared D. Larson"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Int'l Relations",
 	"notes": "This course has class year limits.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Jared D. Larson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

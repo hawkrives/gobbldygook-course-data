@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 15"
+	],
 	"name": "Begin Norwegian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

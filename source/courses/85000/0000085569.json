@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David R. Castro"
+	],
 	"level": 200,
 	"name": "IS/Shostakovich",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David R. Castro"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Study",
 	"type": "Research",

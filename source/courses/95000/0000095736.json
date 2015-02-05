@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Jennifer Wilcox"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Jennifer Wilcox"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"Th 0800-1100"

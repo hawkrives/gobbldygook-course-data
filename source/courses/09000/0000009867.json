@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

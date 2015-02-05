@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Gerald Hoekstra"
+	],
 	"level": 200,
-	"name": "Music/Chr Worship",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Gerald Hoekstra"
-	],
-	"sem": 2,
+	"name": "Music/Chr Worship",
+	"num": 235,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M 0700-0900PM",

@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Modern Dance I",
 	"num": 111,
 	"pf": true,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MW 1255-0150PM"

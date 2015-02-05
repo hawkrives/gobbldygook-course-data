@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
 	"name": "IS/MSCS Classification",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

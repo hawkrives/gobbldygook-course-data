@@ -5,17 +5,18 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Kenichi Tazawa"
+	],
 	"level": 200,
+	"locations": [
+		"M 1"
+	],
 	"name": "Intermed Japanese II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Kenichi Tazawa"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM"

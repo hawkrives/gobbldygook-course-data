@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Steven Hamilton"
+	],
 	"level": 100,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Calculus II",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Steven Hamilton"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855"

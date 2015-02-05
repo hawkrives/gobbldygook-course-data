@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Magic/Myth/Superstit",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"MTThF 1045-1245PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Urmila S. Malvadkar"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188",
+		"SC 188"
+	],
 	"name": "Elem Linear Algebra",
 	"notes": "Open to first-year students who have completed Math 120.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"SC 188",
-		"SC 188"
-	],
-	"profs": [
-		"Urmila S. Malvadkar"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"times": [
 		"M-F 1040-1200PM",

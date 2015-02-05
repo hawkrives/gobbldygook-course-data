@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Terry J. Fitzgerald"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Money and Banking",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Terry J. Fitzgerald"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

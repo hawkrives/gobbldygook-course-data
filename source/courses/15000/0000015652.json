@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Agrarianism & Agripol",
 	"num": 234,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "Agrarianism & Agripol",
 	"type": "Research",

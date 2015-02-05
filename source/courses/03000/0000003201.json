@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

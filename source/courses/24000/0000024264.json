@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
+	"locations": [
+		"FH SEM"
+	],
 	"name": "Sr Studies-Art Hist",
 	"num": 395,
 	"pf": false,
-	"places": [
-		"FH SEM"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

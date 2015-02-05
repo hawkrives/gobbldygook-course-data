@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
+	"locations": [
+		"CT RHT"
+	],
 	"name": "Modern III",
 	"num": 311,
 	"pf": false,
-	"places": [
-		"CT RHT"
-	],
-	"profs": [
-		"Janice Roberts"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0330-0500PM"

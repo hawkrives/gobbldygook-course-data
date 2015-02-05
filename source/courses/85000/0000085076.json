@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Nicholas D. Davenport"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 131"
+	],
 	"name": "Research Methods",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"RNS 131"
-	],
-	"profs": [
-		"Nicholas D. Davenport"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0200-0255PM"

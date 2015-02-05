@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1150-1245PM"

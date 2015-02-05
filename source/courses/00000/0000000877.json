@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
-	"level": 300,
-	"name": "Mathematics Practicum",
-	"num": 390,
-	"pf": false,
-	"places": [
-		"SC 130",
-		"SC 130"
-	],
-	"profs": [
+	"instructors": [
 		"Michael Kahn",
 		"Theodore Vessey"
 	],
-	"sem": 2,
+	"level": 300,
+	"locations": [
+		"SC 130",
+		"SC 130"
+	],
+	"name": "Mathematics Practicum",
+	"num": 390,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0800-1000",

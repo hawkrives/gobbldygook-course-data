@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Veronika Dolar"
+	],
 	"level": 300,
+	"locations": [
+		"HH 403"
+	],
 	"name": "International Econ",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Veronika Dolar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"M 0700-1000PM"

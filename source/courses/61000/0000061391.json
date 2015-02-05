@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Eric R. Ufferman"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Eric R. Ufferman"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0905-1000"

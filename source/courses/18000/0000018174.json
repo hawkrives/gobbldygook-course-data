@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"M. Clare Mather"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Comp Intro/Lit Analy",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"M. Clare Mather"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0120-0245PM"

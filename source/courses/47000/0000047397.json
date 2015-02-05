@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 300,
 	"name": "Senior Project II",
 	"num": 392,
 	"pf": false,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "Senior Project II",
 	"type": "Research",

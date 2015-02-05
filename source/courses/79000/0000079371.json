@@ -11,17 +11,18 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 280"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"TOH 280"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

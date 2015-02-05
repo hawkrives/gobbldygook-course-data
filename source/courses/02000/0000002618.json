@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 300,
 	"name": "IR/Psych Painting",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IR/Psych Painting",
 	"type": "Research",

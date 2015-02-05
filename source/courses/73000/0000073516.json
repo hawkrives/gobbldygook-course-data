@@ -5,14 +5,15 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"title": "Independent Research",
 	"type": "Research",

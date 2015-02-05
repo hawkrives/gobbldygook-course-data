@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
 	"name": "IS/Art Inst Catalog",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Art Inst Catalog",
 	"type": "Research",

@@ -10,19 +10,20 @@
 		"FOL-R"
 	],
 	"groupid": 1264,
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 200"
+	],
 	"name": "Intermed Russian I",
 	"notes": "Students in Russn 231B must also register for one lab Russn 231AL or BL.",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"TOH 200"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"MWF 0905-1000"

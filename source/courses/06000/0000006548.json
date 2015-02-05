@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Orchestral Music",
 	"num": 132,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

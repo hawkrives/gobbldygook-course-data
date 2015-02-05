@@ -6,16 +6,17 @@
 		"THEAT"
 	],
 	"desc": "Students learn and apply principles of speech composition and analyze speeches to understand effective methods. They demonstrate their knowledge in classroom speeches.",
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
+	"instructors": [
 		"Michael Wartman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TB 216"
+	],
+	"num": 120,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"M 0700-1000PM"

@@ -5,16 +5,17 @@
 	"depts": [
 		"HIST"
 	],
-	"level": 200,
-	"num": 226,
-	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
+	"instructors": [
 		"Dolores Peters"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"OM 020"
+	],
+	"num": 226,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"F 0905-1000"

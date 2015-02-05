@@ -5,18 +5,19 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 100,
-	"name": "East Asia & the West",
-	"num": 112,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"name": "East Asia & the West",
+	"num": 112,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

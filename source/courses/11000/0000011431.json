@@ -5,14 +5,15 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Academic Internship",
 	"type": "Research",

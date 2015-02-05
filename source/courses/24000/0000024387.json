@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Software Design & Impl",
 	"num": 272,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"MWF 1255-0150PM"

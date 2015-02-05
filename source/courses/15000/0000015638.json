@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Philosophy & Feminism",
 	"num": 245,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19942,
 	"title": "Philosophy & Feminism",
 	"type": "Research",

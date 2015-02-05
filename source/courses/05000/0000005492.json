@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

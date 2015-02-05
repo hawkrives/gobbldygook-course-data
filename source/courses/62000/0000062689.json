@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Mara H. Benjamin"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Mara H. Benjamin"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

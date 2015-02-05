@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 300,
 	"name": "IR/Inorganic Synthesis 2",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

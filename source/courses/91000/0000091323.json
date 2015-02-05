@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kevin R. Sanft"
+	],
 	"level": 300,
 	"name": "IR/Parameter Estimation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kevin R. Sanft"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

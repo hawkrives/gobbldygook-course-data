@@ -6,19 +6,20 @@
 		"ENGL"
 	],
 	"groupid": 399,
-	"level": 200,
-	"name": "Lit in Engl 1650-1850 Dis",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
+	"instructors": [
 		"Richard DuRocher",
 		"Carol Holly"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"BMC 109"
+	],
+	"name": "Lit in Engl 1650-1850 Dis",
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"F 1045-1140"

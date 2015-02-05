@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 514"
+	],
 	"name": "Ethics/The Good Life",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"times": [
 		"M-F 1230-0200PM"

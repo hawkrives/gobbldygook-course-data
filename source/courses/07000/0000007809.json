@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
 	"name": "IR/Non-Linear Audio",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"title": "IR/Non-Linear Audio",
 	"type": "Research",

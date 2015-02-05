@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Odd S. Lovoll"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Modern Scandinavia",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Odd S. Lovoll"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

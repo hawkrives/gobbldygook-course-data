@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
 	"name": "Winter Ecology",
 	"num": 281,
 	"pf": false,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Winter Ecology",
 	"type": "Research",

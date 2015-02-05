@@ -10,17 +10,18 @@
 		"ALS-A",
 		"MCG"
 	],
+	"instructors": [
+		"Christine O'Malley"
+	],
 	"level": 100,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Intro/Art History I",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Christine O'Malley"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20074,
 	"times": [
 		"M-F 1000-1130"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "20th Century Russia",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0200-0255PM"

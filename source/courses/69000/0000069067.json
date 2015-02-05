@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 300,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Labor Econ/Empl Rel",
 	"notes": "Open only to Seniors during web registration.",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

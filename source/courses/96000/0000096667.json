@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

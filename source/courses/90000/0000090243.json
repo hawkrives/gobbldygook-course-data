@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 186"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"TOH 186"
-	],
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

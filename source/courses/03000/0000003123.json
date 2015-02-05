@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Writing German",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

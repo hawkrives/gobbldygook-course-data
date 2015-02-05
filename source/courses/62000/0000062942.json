@@ -10,19 +10,20 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Int/Cult Anthropology",
 	"notes": "Open to first-year students only.",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

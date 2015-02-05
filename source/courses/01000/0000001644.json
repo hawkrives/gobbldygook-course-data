@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
 	"name": "IS/Biblical Hebrew",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Biblical Hebrew",
 	"type": "Research",

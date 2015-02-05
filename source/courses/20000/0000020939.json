@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 200,
+	"locations": [
+		"SC 378"
+	],
 	"name": "Organic Chemistry",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"SC 378"
-	],
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"times": [
 		"M-F 1000-1130"

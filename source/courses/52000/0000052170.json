@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Urmila S. Malvadkar"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Math of Biology",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Urmila S. Malvadkar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 0200-0255PM"

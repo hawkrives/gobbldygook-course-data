@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"CT RHT"
+	],
 	"name": "Modern Dance I (.25)",
 	"num": 111,
 	"pf": true,
-	"places": [
-		"CT RHT"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 1005-1100"

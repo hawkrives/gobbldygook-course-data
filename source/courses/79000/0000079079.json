@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Jennifer C. Klein"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Chemistry & the World Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Jennifer C. Klein"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"M 0200-0500PM"

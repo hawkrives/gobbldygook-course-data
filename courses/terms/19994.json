@@ -7,14 +7,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Steven Edwins"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Steven Edwins"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 300,
 			"name": "Top: Museum Prep",
 			"num": 391,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 19994,
 			"title": "Top: Museum Prep",
 			"type": "Topic",
@@ -47,17 +49,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 0800-0930"
@@ -73,17 +76,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"MT 0100-0400PM"
@@ -99,17 +103,18 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
+			"locations": [
+				"H 403"
+			],
 			"name": "Principles of Econ",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 0800-0930"
@@ -125,17 +130,18 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "Urban Economics",
 			"num": 249,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"
@@ -151,17 +157,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joan Hepburn"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Amer Racial/Multi Lit",
 			"num": 245,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Joan Hepburn"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1230-0200PM"
@@ -177,17 +184,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"L 421"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"
@@ -203,17 +211,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joan Hepburn"
+			],
 			"level": 300,
+			"locations": [
+				"L 420"
+			],
 			"name": "African Amer Wmn/Lit",
 			"num": 345,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Joan Hepburn"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1230-0200PM"
@@ -229,17 +238,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 300,
+			"locations": [
+				"L 421"
+			],
 			"name": "Post-Col/3rd Wld Lit",
 			"num": 347,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"
@@ -255,14 +265,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -275,14 +286,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Env Sustainability",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "IS/Env Sustainability",
 			"type": "Research",
@@ -295,14 +307,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -315,14 +328,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -335,14 +349,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -355,17 +370,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"
@@ -381,17 +397,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 0800-0930"
@@ -407,14 +424,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
 			"name": "Calculus II",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Calculus II",
 			"type": "Research",
@@ -427,14 +445,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Kenneth Alberts"
+			],
 			"level": 200,
 			"name": "Elem Linear Algebra",
 			"num": 220,
 			"pf": false,
-			"profs": [
-				"Kenneth Alberts"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Elem Linear Algebra",
 			"type": "Research",
@@ -447,14 +466,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Kenneth Alberts"
+			],
 			"level": 200,
 			"name": "Multivariable Calc",
 			"num": 226,
 			"pf": false,
-			"profs": [
-				"Kenneth Alberts"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Multivariable Calc",
 			"type": "Research",
@@ -467,17 +487,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 224"
+			],
 			"name": "Ear/Keyboard I",
 			"num": 111,
 			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 0800-0930"
@@ -493,17 +514,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 224"
+			],
 			"name": "Theory I",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"
@@ -519,17 +541,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 224"
+			],
 			"name": "The Music Spectrum",
 			"num": 130,
 			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1230-0200PM"
@@ -545,14 +568,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Counterpoint",
 			"num": 222,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Counterpoint",
 			"type": "Research",
@@ -565,17 +589,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Corliss Swain"
+			],
 			"level": 200,
+			"locations": [
+				"L 515"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Corliss Swain"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1230-0200PM"
@@ -591,17 +616,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Vices and Virtues",
 			"num": 258,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-Th 1000-1130"
@@ -617,14 +643,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
 			"name": "Individual Fitness",
 			"num": 132,
 			"pf": false,
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Individual Fitness",
 			"type": "Research",
@@ -637,14 +664,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
 			"name": "Wt Training Co-Ed .25",
 			"num": 140,
 			"pf": false,
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"title": "Wt Training Co-Ed .25",
 			"type": "Research",
@@ -657,18 +685,19 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Dahl"
+			],
 			"level": 100,
-			"name": "Principles Physics I",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 170",
 				"SC 111"
 			],
-			"profs": [
-				"David Dahl"
-			],
-			"sem": 4,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130",
@@ -685,17 +714,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Daniel Malotky"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "Chri Theol/Moral Life",
 			"num": 207,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Daniel Malotky"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1230-0200PM"
@@ -711,17 +741,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Daniel Malotky"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Daniel Malotky"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19994,
 			"times": [
 				"M-F 1000-1130"

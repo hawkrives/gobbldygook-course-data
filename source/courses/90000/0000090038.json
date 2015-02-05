@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Alyson Center"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Biological Science",
 	"notes": "Students in Bio 121 must also register for one lab Bio 121 AL, BL, or CL.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Alyson Center"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

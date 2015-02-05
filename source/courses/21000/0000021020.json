@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Shakespeare",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"times": [
 		"M-F 1230-0200PM"

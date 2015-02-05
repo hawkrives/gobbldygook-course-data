@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
-	"name": "Sem: Milton/Ethics",
-	"num": 393,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 3,
+	"name": "Sem: Milton/Ethics",
+	"num": 393,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0120-0245PM",

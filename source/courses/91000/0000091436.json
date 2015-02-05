@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"notes": "Not open to first-year students.",
-	"num": 210,
-	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
+	"instructors": [
 		"Patricia Beckman",
 		"Mara H. Benjamin"
 	],
-	"sem": 2,
+	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
+	"notes": "Not open to first-year students.",
+	"num": 210,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

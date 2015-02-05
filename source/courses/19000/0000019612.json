@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 300,
 	"name": "IR/Mysticism",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eric Lund"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"title": "IR/Mysticism",
 	"type": "Research",

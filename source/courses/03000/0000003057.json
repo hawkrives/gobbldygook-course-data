@@ -5,20 +5,21 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1850-Pres",
-	"num": 223,
-	"pf": false,
-	"places": [
-		"L 525",
-		"L 520"
-	],
-	"profs": [
+	"instructors": [
 		"Jan C. Hill",
 		"Diana Postlethwaite"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"L 525",
+		"L 520"
+	],
+	"name": "Lit in Engl 1850-Pres",
+	"num": 223,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MW 1255-0150PM",

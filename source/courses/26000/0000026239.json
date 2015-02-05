@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 200,
 	"name": "IS/Humn Gross Anatomy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David Van Wylen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IS/Humn Gross Anatomy",
 	"type": "Research",

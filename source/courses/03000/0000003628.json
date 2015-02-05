@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 200,
+	"locations": [
+		"M 1"
+	],
 	"name": "Principles of Math",
 	"num": 210,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 0800-0930"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"L 515"
+	],
 	"name": "Us Top: Native Amercn",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

@@ -9,16 +9,17 @@
 	"gereqs": [
 		"MCD"
 	],
-	"level": 200,
-	"num": 260,
-	"pf": false,
-	"places": [
-		"TOH 112"
-	],
-	"profs": [
+	"instructors": [
 		"Maurella Cunningham"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"TOH 112"
+	],
+	"num": 260,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 1255-0150PM"

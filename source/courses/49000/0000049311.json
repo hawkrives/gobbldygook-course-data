@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Marc A. Klingshirn"
+	],
 	"level": 100,
+	"locations": [
+		"SC 371"
+	],
 	"name": "Chemistry & the World Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"SC 371"
-	],
-	"profs": [
-		"Marc A. Klingshirn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"W 0200-0500PM"

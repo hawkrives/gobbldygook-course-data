@@ -6,16 +6,17 @@
 		"ESAC"
 	],
 	"desc": "This is an aerobic-based course utilizing instruction and participation in running and jogging to enhance personal fitness and training knowledge.",
-	"level": 100,
-	"num": 135,
-	"pf": false,
-	"places": [
-		"TC_FH"
-	],
-	"profs": [
+	"instructors": [
 		"Craig D. Stern"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TC_FH"
+	],
+	"num": 135,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"TTh 0905-1000"

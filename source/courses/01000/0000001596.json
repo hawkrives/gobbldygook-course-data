@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
 	"name": "IS/Huntingtons Chorea",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Huntingtons Chorea",
 	"type": "Research",

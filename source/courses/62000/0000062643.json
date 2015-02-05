@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 100,
-	"num": 121,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC _STUDIO_2",
 		"DC _STUDIO_2"
 	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 121,
+	"pf": true,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1150-1245PM",

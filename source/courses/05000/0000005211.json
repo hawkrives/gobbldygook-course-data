@@ -5,19 +5,20 @@
 	"depts": [
 		"NEURO"
 	],
-	"level": 200,
-	"name": "Intro to Neuroscience",
-	"num": 234,
-	"pf": false,
-	"places": [
-		"SC 210",
-		"SC 273"
-	],
-	"profs": [
+	"instructors": [
 		"Mary C. Henry",
 		"Uta Wolfe"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 210",
+		"SC 273"
+	],
+	"name": "Intro to Neuroscience",
+	"num": 234,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM",

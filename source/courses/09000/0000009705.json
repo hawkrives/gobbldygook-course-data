@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Paola L. Kindred"
+	],
 	"level": 200,
-	"name": "Law,Politics,Morality",
-	"num": 254,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 02",
 		"SH 02"
 	],
-	"profs": [
-		"Paola L. Kindred"
-	],
-	"sem": 3,
+	"name": "Law,Politics,Morality",
+	"num": 254,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

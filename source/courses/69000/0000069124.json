@@ -11,18 +11,19 @@
 		"MCG",
 		"WRI"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 200,
-	"name": "Mod Japanese Lit-Tr",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"name": "Mod Japanese Lit-Tr",
+	"num": 235,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

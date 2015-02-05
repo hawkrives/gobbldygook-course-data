@@ -6,17 +6,18 @@
 		"ECON"
 	],
 	"desc": "Selected topics to be announced. May be repeated if topics are different.",
+	"instructors": [
+		"Terry J. Fitzgerald"
+	],
 	"level": 300,
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Terry J. Fitzgerald"
-	],
-	"sem": 1,
+	"num": 399,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"T 1145-0110PM",

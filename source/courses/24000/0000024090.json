@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
 	"name": "Mare Balticum \"FLC\"",
 	"num": 249,
 	"pf": false,
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "Mare Balticum \"FLC\"",
 	"type": "Research",

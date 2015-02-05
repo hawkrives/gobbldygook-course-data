@@ -9,17 +9,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 200,
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sem": 3,
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

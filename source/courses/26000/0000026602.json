@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "American Music",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

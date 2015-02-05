@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1084,
-	"level": 200,
-	"name": "Electronics Lab",
-	"num": 246,
-	"pf": false,
-	"places": [
-		"SC 125"
-	],
-	"profs": [
+	"instructors": [
 		"Jason J. Engbrecht",
 		"Brian Borovsky"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 125"
+	],
+	"name": "Electronics Lab",
+	"num": 246,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0420PM"

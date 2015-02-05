@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 200,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Love,Justice,Soc Rel",
 	"num": 296,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

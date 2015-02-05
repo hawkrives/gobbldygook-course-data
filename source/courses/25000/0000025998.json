@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 200,
-	"name": "Personal Finance",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 302",
 		"H 302",
 		"H 302"
 	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sem": 2,
+	"name": "Personal Finance",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"MWF 0900-1000",

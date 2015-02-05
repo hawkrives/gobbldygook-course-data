@@ -5,18 +5,19 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 142"
+	],
 	"name": "Physiology/Exer/Lab",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"SAC 142"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"T 0800-1100"

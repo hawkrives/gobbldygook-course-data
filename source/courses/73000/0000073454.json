@@ -9,20 +9,21 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Adam H. Berliner"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 206",
+		"RNS 206"
+	],
 	"name": "Elem Linear Algebra",
 	"notes": "Open to first-year students who have completed Math 120.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"RNS 206",
-		"RNS 206"
-	],
-	"profs": [
-		"Adam H. Berliner"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1240PM",

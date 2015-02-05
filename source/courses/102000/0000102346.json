@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Independent Study in studio art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in art history prerequisites: two upper-division courses in area of study.",
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 200,
 	"name": "IS/History of Steensland",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Study",
 	"type": "Research",

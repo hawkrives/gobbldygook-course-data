@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Chr Theol/Human Exist",
 	"num": 208,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

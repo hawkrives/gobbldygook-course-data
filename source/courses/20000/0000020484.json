@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Anton Armstrong"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Conducting",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
-		"Anton Armstrong"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Matthew Haugen"
+	],
 	"level": 100,
+	"locations": [
+		"SAC WT RM"
+	],
 	"name": "X-Country Ski/Cycling",
 	"num": 134,
 	"pf": false,
-	"places": [
-		"SAC WT RM"
-	],
-	"profs": [
-		"Matthew Haugen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 0200-0255PM"

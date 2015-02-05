@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 200,
 	"name": "IS/Sport Econ Comp St",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/Sport Econ Comp St",
 	"type": "Research",

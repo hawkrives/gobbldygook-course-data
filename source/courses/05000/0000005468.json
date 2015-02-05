@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

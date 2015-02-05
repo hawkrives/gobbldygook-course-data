@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Steven Amundson"
+	],
 	"level": 200,
-	"name": "Conducting",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 140",
 		"CHM 140"
 	],
-	"profs": [
-		"Steven Amundson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Conducting",
+	"num": 251,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

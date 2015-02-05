@@ -5,14 +5,15 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/German Romantic Pt",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "IR/German Romantic Pt",
 	"type": "Research",

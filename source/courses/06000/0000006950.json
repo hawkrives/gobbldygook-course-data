@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
-	"name": "Per Stud: 19 Cent Lit",
-	"num": 273,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 026",
 		"OM 026"
 	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"name": "Per Stud: 19 Cent Lit",
+	"num": 273,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

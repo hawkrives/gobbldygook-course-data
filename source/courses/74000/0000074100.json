@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
+	"instructors": [
 		"Jan C. Hill"
 	],
-	"sect": "F",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 515"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

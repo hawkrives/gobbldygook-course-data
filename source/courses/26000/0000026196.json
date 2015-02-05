@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Thomas Jacobsen"
+	],
 	"level": 200,
 	"name": "IS/Commercial Art",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Thomas Jacobsen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IS/Commercial Art",
 	"type": "Research",

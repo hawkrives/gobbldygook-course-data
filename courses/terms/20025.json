@@ -7,17 +7,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Patrick T. Kelley"
+			],
 			"level": 200,
+			"locations": [
+				"DC 100"
+			],
 			"name": "Comp-Generatd Imagery",
 			"num": 228,
 			"pf": false,
-			"places": [
-				"DC 100"
-			],
-			"profs": [
-				"Patrick T. Kelley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 0800-0930"
@@ -33,17 +34,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Art 1776-1880",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Heather M. Brooks-Shirey"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -59,14 +61,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Biological Science",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Biological Science",
 			"type": "Research",
@@ -79,14 +82,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -99,17 +103,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Chemical Reactions",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -125,18 +130,19 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374/363"
+			],
 			"name": "Chemical Reac/Lab",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"SC 374/363"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"MW 0100-0400PM"
@@ -152,17 +158,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"DC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 248,
 			"pf": false,
-			"places": [
-				"DC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 0800-0930"
@@ -178,15 +185,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 254,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -199,15 +207,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 254,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -220,14 +229,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
 			"name": "Capitalism: Struggles",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Capitalism: Struggles",
 			"type": "Research",
@@ -240,14 +250,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Linda Berger"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Linda Berger"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -260,17 +271,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 200,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Creative Nonfiction",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Mark Allister"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -286,17 +298,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Literature & Film",
 			"num": 275,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -312,17 +325,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 200,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Lit & the Environment",
 			"num": 276,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Mark Allister"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1230-0200PM"
@@ -338,17 +352,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 300,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Adv Creative Nonfict",
 			"num": 373,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Mark Allister"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -364,14 +379,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Daniel Hofrenning"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Daniel Hofrenning"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -384,14 +400,15 @@
 			"depts": [
 				"IDFA"
 			],
+			"instructors": [
+				"Susan Bauer"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Susan Bauer"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -404,14 +421,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -424,14 +442,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -444,14 +463,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -464,14 +484,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Speaking German",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Speaking German",
 			"type": "Research",
@@ -484,14 +505,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Understand Narrative",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Understand Narrative",
 			"type": "Research",
@@ -504,14 +526,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 200,
 			"name": "IS/History East Rel",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Charles Wilson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IS/History East Rel",
 			"type": "Research",
@@ -524,14 +547,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 300,
 			"name": "IR/New Mil His Am Rev",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IR/New Mil His Am Rev",
 			"type": "Research",
@@ -544,14 +568,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 200,
 			"name": "IS/Screenwriting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IS/Screenwriting",
 			"type": "Research",
@@ -564,17 +589,18 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "War and Peace",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1230-0200PM"
@@ -590,17 +616,18 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Computer Applications",
 			"num": 230,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-Th 1230-0230PM"
@@ -616,14 +643,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -636,14 +664,15 @@
 			"depts": [
 				"NEURO"
 			],
+			"instructors": [
+				"Uta Wolfe"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Uta Wolfe"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -656,14 +685,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 300,
 			"name": "IR/Works of Love",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IR/Works of Love",
 			"type": "Research",
@@ -676,15 +706,16 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Charles Taliaferro"
+			],
 			"level": 300,
 			"name": "IR/Modern Thought",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IR/Modern Thought",
 			"type": "Research",
@@ -697,14 +728,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Le Ann K H. Finger"
+			],
 			"level": 100,
 			"name": "Golf",
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Le Ann K H. Finger"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Golf",
 			"type": "Research",
@@ -717,14 +749,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -737,17 +770,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 100,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Comparative Politics",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 0800-0930"
@@ -763,17 +797,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 200,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Distributive Justice",
 			"num": 249,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1230-0200PM"
@@ -789,14 +824,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Charles E. Umbanhowar Sr"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -809,17 +845,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Donald Kilburg"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Donald Kilburg"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -835,15 +872,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Dana Gross"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -856,15 +894,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"James Dickson Jr."
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"James Dickson Jr."
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -877,15 +916,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Deborah Anderson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Deborah Anderson"
-			],
-			"sect": "C",
-			"sem": 5,
+			"section": "C",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -898,14 +938,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Bonnie Sherman"
+			],
 			"level": 300,
 			"name": "IR/Imagery in Music",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Bonnie Sherman"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IR/Imagery in Music",
 			"type": "Research",
@@ -918,17 +959,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "St.Paul/Letter/Gospel",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1230-0200PM"
@@ -944,17 +986,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "The Ethics of Jesus",
 			"num": 276,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"
@@ -970,15 +1013,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Eric Lund"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eric Lund"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -991,15 +1035,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"David Booth"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David Booth"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1012,15 +1057,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"William Poehlmann"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Poehlmann"
-			],
-			"sect": "C",
-			"sem": 5,
+			"section": "C",
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1033,14 +1079,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Gary Stansell"
+			],
 			"level": 200,
 			"name": "IS/The Hexateuch",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Stansell"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "IS/The Hexateuch",
 			"type": "Research",
@@ -1053,14 +1100,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Bruce Nordstrom-Loeb"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Bruce Nordstrom-Loeb"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1073,17 +1121,18 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Gary C. Gisselman"
+			],
 			"level": 100,
+			"locations": [
+				"TB 14/227"
+			],
 			"name": "Acting for Non-Majors",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"TB 14/227"
-			],
-			"profs": [
-				"Gary C. Gisselman"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20025,
 			"times": [
 				"M-F 1000-1130"

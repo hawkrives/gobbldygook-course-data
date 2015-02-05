@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
 	"name": "IR/Phytoalexins",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Phytoalexins",
 	"type": "Research",

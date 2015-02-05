@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Chr Theol in History",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"times": [
 		"M-F 1000-1130"

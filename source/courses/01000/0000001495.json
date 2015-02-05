@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC POOL"
+	],
 	"name": "Lifeguard Training",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"SAC POOL"
-	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0250PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 100,
-	"name": "Intro: Env Studies",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 124",
 		"RNS 124"
 	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Intro: Env Studies",
+	"num": 137,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"times": [
 		"M-F 0800-1000",

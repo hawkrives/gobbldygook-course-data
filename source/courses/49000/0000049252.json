@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Todd W. Nichol"
+	],
 	"level": 100,
-	"name": "Viking/Medieval Scand",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 011",
 		"OM 011"
 	],
-	"profs": [
-		"Todd W. Nichol"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Viking/Medieval Scand",
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0120-0245PM",

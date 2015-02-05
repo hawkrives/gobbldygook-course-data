@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Bruce Marshall"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Roman Catholic Theol",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Bruce Marshall"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0800-1000"

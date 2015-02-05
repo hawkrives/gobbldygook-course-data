@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 300,
+	"locations": [
+		"H 413"
+	],
 	"name": "Mgmt Policy & Strat",
 	"num": 383,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

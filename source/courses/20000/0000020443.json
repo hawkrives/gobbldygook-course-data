@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Laura Chihara"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Laura Chihara"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1150-1255PM"

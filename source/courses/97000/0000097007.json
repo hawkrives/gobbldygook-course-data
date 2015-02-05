@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Laura Listenberger"
+	],
 	"level": 300,
 	"name": "IR/Protein Binding",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Laura Listenberger"
-	],
-	"sect": "N",
-	"sem": 3,
+	"section": "N",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

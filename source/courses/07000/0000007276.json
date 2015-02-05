@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Roudy W. Hildreth"
+	],
 	"level": 100,
-	"name": "American Politics",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 026",
 		"OM 026"
 	],
-	"profs": [
-		"Roudy W. Hildreth"
-	],
-	"sem": 3,
+	"name": "American Politics",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

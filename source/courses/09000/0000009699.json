@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 200,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Aesthetics",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

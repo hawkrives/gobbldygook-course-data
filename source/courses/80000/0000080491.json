@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Alexander Woo"
+	],
 	"level": 300,
 	"name": "IR/Math for Musicians",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Alexander Woo"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

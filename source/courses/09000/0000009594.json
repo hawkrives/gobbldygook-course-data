@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Abstract Algebra I",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

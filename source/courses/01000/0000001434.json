@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Mary Childs"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Composition I",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Mary Childs"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

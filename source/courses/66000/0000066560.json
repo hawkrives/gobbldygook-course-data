@@ -9,17 +9,18 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
-	"num": 264,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"num": 264,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

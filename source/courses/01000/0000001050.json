@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
-	"name": "Comp Vertebrate Anat",
-	"num": 266,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 253"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Comp Vertebrate Anat",
+	"num": 266,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855",

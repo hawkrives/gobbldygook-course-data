@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Sheryl Saterstrom",
+		"Dona W. Freeman"
+	],
 	"level": 300,
 	"name": "Tchng of Dance & Thtr",
 	"num": 343,
 	"pf": false,
-	"profs": [
-		"Sheryl Saterstrom",
-		"Dona W. Freeman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"title": "Tchng of Dance & Thtr",
 	"type": "Research",

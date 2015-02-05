@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sect": "K",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "K",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

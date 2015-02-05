@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 200,
+	"locations": [
+		"L 515"
+	],
 	"name": "Shakespeare & Contemp",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20015,
 	"times": [
 		"M-F 1230-0200PM"

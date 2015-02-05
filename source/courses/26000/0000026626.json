@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 200,
+	"locations": [
+		"FH SEM"
+	],
 	"name": "Public Space/Art",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"FH SEM"
-	],
-	"profs": [
-		"Irve Dell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 1145-0110PM"

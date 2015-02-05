@@ -6,14 +6,15 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20094,
 	"title": "Struct Chem & Equilib Lab",
 	"type": "Lab",

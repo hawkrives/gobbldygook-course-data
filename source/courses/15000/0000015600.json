@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Late Imperial China",
 	"num": 260,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "Late Imperial China",
 	"type": "Research",

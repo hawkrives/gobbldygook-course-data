@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "Moral Psychology",
 	"num": 119,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1240PM"

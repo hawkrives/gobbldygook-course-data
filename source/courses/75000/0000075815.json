@@ -6,15 +6,16 @@
 		"BIO"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Eric McDonald",
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 100,
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Eric McDonald",
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20095,
 	"title": "Biological Science Lab",
 	"type": "Lab",

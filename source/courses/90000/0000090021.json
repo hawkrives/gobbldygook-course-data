@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 110",
 		"OM 110"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sect": "L",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

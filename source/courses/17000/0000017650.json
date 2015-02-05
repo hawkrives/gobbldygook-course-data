@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 200,
 	"name": "IS/Evol Florentine R",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "IS/Evol Florentine R",
 	"type": "Research",

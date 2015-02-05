@@ -6,17 +6,18 @@
 		"PEAC"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"FLD HOUSE"
+	],
 	"name": "Beginning Golf",
 	"num": 103,
 	"pf": false,
-	"places": [
-		"FLD HOUSE"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MW 1255-0255PM"

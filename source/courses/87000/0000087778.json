@@ -9,16 +9,17 @@
 	"gereqs": [
 		"FOL-J"
 	],
-	"level": 300,
-	"num": 302,
-	"pf": false,
-	"places": [
-		"TOH 153"
-	],
-	"profs": [
+	"instructors": [
 		"Hiroe Akimoto"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"TOH 153"
+	],
+	"num": 302,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0200-0255PM"

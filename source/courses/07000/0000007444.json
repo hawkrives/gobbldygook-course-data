@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 200,
+	"locations": [
+		"TB 42"
+	],
 	"name": "Draw/Paintng/Theatre",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"TB 42"
-	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

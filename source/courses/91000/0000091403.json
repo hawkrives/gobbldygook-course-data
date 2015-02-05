@@ -6,17 +6,18 @@
 		"CSCI"
 	],
 	"desc": "This course is devoted to team research/development projects, employing established software development methodologies. Projects frequently have an interdisciplinary nature, involving consultation with faculty and/or students in other fields, and taking advantage of the particular backgrounds of team members. One or more research papers, posters, etc., on results are ordinarily expected. Prerequisites: One core course with implementation in computer science or permission of instructor. Offered alternate years.",
+	"instructors": [
+		"Olaf A. Hall-Holt"
+	],
 	"level": 300,
-	"num": 350,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 202",
 		"RNS 202"
 	],
-	"profs": [
-		"Olaf A. Hall-Holt"
-	],
-	"sem": 2,
+	"num": 350,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0830-1000",

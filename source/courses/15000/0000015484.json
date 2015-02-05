@@ -5,14 +5,15 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Durham Connection",
 	"num": 250,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19942,
 	"title": "Durham Connection",
 	"type": "Research",

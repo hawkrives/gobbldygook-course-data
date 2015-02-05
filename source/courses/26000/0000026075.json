@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dan Dressen"
+	],
 	"level": 200,
-	"name": "The Singer's Art",
-	"num": 268,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM URNESS",
 		"CHM URNESS"
 	],
-	"profs": [
-		"Dan Dressen"
-	],
-	"sem": 2,
+	"name": "The Singer's Art",
+	"num": 268,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"M-F 1040-1200PM",

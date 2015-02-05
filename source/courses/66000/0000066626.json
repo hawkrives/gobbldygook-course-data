@@ -10,20 +10,21 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 100,
+	"locations": [
+		"TB Haugen",
+		"TB Haugen"
+	],
 	"name": "Acting for Non-Majors",
 	"notes": "This class is now open to all students.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"TB Haugen",
-		"TB Haugen"
-	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

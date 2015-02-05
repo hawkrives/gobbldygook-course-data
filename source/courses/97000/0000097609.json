@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Michon Weeks"
+	],
 	"level": 100,
+	"locations": [
+		"DC 216"
+	],
 	"name": "Foundation 2-D Media",
 	"notes": "This course has class-year limits.",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"DC 216"
-	],
-	"profs": [
-		"Michon Weeks"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 0800-1000"

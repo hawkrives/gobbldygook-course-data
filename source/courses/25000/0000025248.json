@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
-	"name": "Invertebrate Zoology",
-	"num": 248,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 211"
 	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Invertebrate Zoology",
+	"num": 248,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19991,
 	"times": [
 		"TTh 0935-1100",

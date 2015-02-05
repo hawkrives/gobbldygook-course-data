@@ -6,16 +6,17 @@
 		"MATH"
 	],
 	"desc": "Discrete (noncontinuous) mathematics has become increasingly important as more phenomena are investigated, represented and solved using computers (essentially, discrete machines). Students explore finite graphs, recurrence relations, and combinatorial optimization using problem solving techniques and algorithm design strategies. Prerequisite: Mathematics 120 or 121, or permission of the instructor. Offered alternate years.",
-	"level": 200,
-	"num": 232,
-	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
+	"instructors": [
 		"Martha Wallace"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 204"
+	],
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

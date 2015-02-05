@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
-	"level": 200,
-	"num": 294,
-	"pf": true,
-	"profs": [
+	"instructors": [
 		"Sian E. Muir",
 		"Kevin M. Crisp"
 	],
-	"sect": "C",
-	"sem": 5,
+	"level": 200,
+	"num": 294,
+	"pf": true,
+	"section": "C",
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"title": "Academic Internship",
 	"type": "Research",

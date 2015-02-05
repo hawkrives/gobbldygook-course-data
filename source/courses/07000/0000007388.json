@@ -5,18 +5,19 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
-	"name": "Intermed Russian II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 002"
 	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 3,
+	"name": "Intermed Russian II",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Shannon Cannella"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 308",
 		"TOH 308"
 	],
-	"profs": [
-		"Shannon Cannella"
-	],
-	"sect": "O",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Ashley Hodgson"
+	],
 	"level": 200,
-	"name": "Health Care Econ",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Ashley Hodgson"
-	],
-	"sem": 1,
+	"name": "Health Care Econ",
+	"num": 245,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"T 1145-0110PM",

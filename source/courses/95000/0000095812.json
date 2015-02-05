@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Anna E. Johnson"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Developmental Psych",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
-		"Anna E. Johnson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 100,
+	"locations": [
+		"H 403"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"J Wesley Brown"
+	],
 	"level": 300,
+	"locations": [
+		"H 319"
+	],
 	"name": "The Evolving Self",
 	"num": 335,
 	"pf": false,
-	"places": [
-		"H 319"
-	],
-	"profs": [
-		"J Wesley Brown"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"TTh 0935-1100"

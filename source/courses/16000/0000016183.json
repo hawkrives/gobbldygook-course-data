@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Vocal Solo Lit II",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 1045-1140"

@@ -7,18 +7,19 @@
 	],
 	"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
 	"groupid": 197,
+	"instructors": [
+		"Kristopher J. Keuseman"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 340"
+	],
 	"name": "Synthesis Lab II",
 	"num": 254,
 	"pf": true,
-	"places": [
-		"RNS 340"
-	],
-	"profs": [
-		"Kristopher J. Keuseman"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"Th 0800-1100"

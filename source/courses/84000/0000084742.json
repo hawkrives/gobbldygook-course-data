@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Kristina Medina-Vilarino"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 108"
-	],
-	"profs": [
-		"Kristina Medina-Vilarino"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

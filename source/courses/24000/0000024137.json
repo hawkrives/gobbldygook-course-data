@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 100,
+	"locations": [
+		"CTR  CONF RM3"
+	],
 	"name": "Politics of Religion",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"CTR  CONF RM3"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"MTThF 0800-1000"

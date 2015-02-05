@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Multivariable Calc",
 	"num": 226,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Martha Wallace"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

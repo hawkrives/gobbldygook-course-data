@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"SAC Gym North"
-	],
-	"profs": [
+	"instructors": [
 		"Daniel Kosmoski"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Gym North"
+	],
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"TTh 0935-1030"

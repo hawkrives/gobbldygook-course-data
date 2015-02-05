@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 100,
+	"locations": [
+		"OM 240"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 240"
-	],
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

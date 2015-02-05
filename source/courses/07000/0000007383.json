@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "Th Sem: Holocaust",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

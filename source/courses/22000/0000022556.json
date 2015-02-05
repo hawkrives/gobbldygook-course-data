@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Christopher Schwartz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Calculus/Algebra II",
 	"num": 119,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Christopher Schwartz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0800-0855"

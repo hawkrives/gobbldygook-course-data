@@ -6,18 +6,19 @@
 		"NURS"
 	],
 	"desc": "This course explores the theories of leadership, management, and organizations and the process of managing personnel and work. Concepts of change, conflict negotiation, and preparation for professional practice are examined. Professional communication is emphasized through writing and conducting a teaching conference for personnel. The roles of leader, manager, and coordinator are emphasized. Clinical experiences focus on providing nursing care to groups of adults with complex health problems. Prerequisite: Nursing 336.",
-	"level": 300,
-	"num": 396,
-	"pf": false,
-	"places": [
-		"SC 018",
-		"SC 018"
-	],
-	"profs": [
+	"instructors": [
 		"Rita Glazebrook",
 		"Mary Kuehn"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"SC 018",
+		"SC 018"
+	],
+	"num": 396,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MWF 1255-0150PM",

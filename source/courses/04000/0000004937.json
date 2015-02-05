@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 200,
-	"name": "Ballet II",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC  STUDIO 2",
 		"DC  STUDIO 2"
 	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sem": 3,
+	"name": "Ballet II",
+	"num": 221,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

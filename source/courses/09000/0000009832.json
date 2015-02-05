@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 200,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Research Methods",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

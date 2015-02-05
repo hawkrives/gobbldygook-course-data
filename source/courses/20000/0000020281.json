@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 520"
+	],
 	"name": "Lit Eng 1650-1850/Dis",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"F 1045-1140"

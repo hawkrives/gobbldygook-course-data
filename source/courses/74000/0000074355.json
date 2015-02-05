@@ -5,14 +5,15 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 200,
 	"name": "IS/Real-Time 3D Graphics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

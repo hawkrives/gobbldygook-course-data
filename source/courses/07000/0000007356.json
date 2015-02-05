@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM"

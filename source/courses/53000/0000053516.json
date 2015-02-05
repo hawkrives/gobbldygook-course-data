@@ -6,17 +6,18 @@
 		"PSCI"
 	],
 	"desc": "Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered. May be repeated if topics are different. Prerequisites: Political Science 220, and one course in the subfield or permission of instructor.",
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 300,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Sem: Ethnic Conflict",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"M 0700-1000PM"

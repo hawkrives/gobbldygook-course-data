@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 200,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

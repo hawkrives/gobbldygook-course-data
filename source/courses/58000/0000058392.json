@@ -6,18 +6,19 @@
 		"HIST"
 	],
 	"desc": "This seminar covers various topics in modern European history, depending upon the instructor. Recent topics have included \"The Holocaust and History,\" \"Race, Gender, and Medicine,\" and \"Stalin.\" Offered most years. May be repeated if topics are different.",
+	"instructors": [
+		"Anna Kuxhausen"
+	],
 	"level": 300,
-	"name": "Sem: Modern Russia",
-	"num": 320,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Anna Kuxhausen"
-	],
-	"sem": 3,
+	"name": "Sem: Modern Russia",
+	"num": 320,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0245PM",

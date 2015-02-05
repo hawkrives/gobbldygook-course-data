@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
 	"name": "IS/Cmg of Age in Usa",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"title": "IS/Cmg of Age in Usa",
 	"type": "Research",

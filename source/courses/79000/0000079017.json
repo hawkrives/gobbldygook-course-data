@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Mary E. Anderson"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Mary E. Anderson"
-	],
-	"sect": "O",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/Maldi-Tof Proteomics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20085,
 	"title": "Independent Research",
 	"type": "Research",

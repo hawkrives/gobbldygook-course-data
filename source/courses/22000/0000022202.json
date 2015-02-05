@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Margaret Ojala"
+	],
 	"level": 300,
 	"name": "IR/Advanced Photo",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Margaret Ojala"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Advanced Photo",
 	"type": "Research",

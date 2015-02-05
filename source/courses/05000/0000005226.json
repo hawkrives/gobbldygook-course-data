@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 200,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Phil of Mind/Behavior",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

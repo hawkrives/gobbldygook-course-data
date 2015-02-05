@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Soc/Anthro and Ethics",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

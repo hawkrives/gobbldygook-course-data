@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Christ/Islamic Ethics",
 	"num": 217,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "International Econ",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

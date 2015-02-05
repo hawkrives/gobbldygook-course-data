@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
+	"locations": [
+		"OMH 300"
+	],
 	"name": "Software Des/Lab",
 	"num": 272,
 	"pf": false,
-	"places": [
-		"OMH 300"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"M 0200-0400PM"

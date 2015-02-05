@@ -7,17 +7,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Monica Rudquist"
+			],
 			"level": 100,
+			"locations": [
+				"DC 115C"
+			],
 			"name": "Found Ceramics: Hand",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"DC 115C"
-			],
-			"profs": [
-				"Monica Rudquist"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -33,17 +34,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Patrick T. Kelley"
+			],
 			"level": 100,
+			"locations": [
+				"DC 102"
+			],
 			"name": "Found Photography",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"DC 102"
-			],
-			"profs": [
-				"Patrick T. Kelley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -59,17 +61,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Mary Griep"
+			],
 			"level": 100,
+			"locations": [
+				"DC 216"
+			],
 			"name": "Found Percept Draw",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"DC 216"
-			],
-			"profs": [
-				"Mary Griep"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -85,17 +88,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
 			"level": 100,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Renaissance--Present",
 			"num": 151,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Heather M. Brooks-Shirey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -111,17 +115,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -137,18 +142,19 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374/363"
+			],
 			"name": "Struct Chem/Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 374/363"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"MW 0100-0400PM"
@@ -164,17 +170,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -190,15 +197,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -211,15 +219,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -232,17 +241,18 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Capitalism: Struggles",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -258,14 +268,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"James May"
+			],
 			"level": 300,
 			"name": "Tchg of Latin",
 			"num": 349,
 			"pf": false,
-			"profs": [
-				"James May"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Tchg of Latin",
 			"type": "Research",
@@ -278,17 +289,18 @@
 			"depts": [
 				"DNCTE"
 			],
+			"instructors": [
+				"Jennifer Bader"
+			],
 			"level": 100,
+			"locations": [
+				"DC _STUDIO_2"
+			],
 			"name": "Ballet I",
 			"num": 121,
 			"pf": true,
-			"places": [
-				"DC _STUDIO_2"
-			],
-			"profs": [
-				"Jennifer Bader"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-Th 1230-0200PM"
@@ -304,17 +316,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -330,17 +343,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Signe Levine"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Creative Writing I",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Signe Levine"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -356,17 +370,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 300,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Top: Post Colonial Lit",
 			"num": 347,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -382,14 +397,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Jennifer Hoyer"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Jennifer Hoyer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -402,14 +418,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Jennifer Hoyer"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Jennifer Hoyer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -422,14 +439,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Jennifer Hoyer"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Jennifer Hoyer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -442,14 +460,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Jennifer Hoyer"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Jennifer Hoyer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -462,17 +481,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -488,17 +508,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -514,14 +535,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Matthew Bloss"
+			],
 			"level": 100,
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Matthew Bloss"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Calculus I",
 			"type": "Research",
@@ -534,14 +556,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Matthew Bloss"
+			],
 			"level": 100,
 			"name": "Calculus II",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Matthew Bloss"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Calculus II",
 			"type": "Research",
@@ -554,17 +577,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 200,
+			"locations": [
+				"OM 001"
+			],
 			"name": "Principles of Math",
 			"num": 210,
 			"pf": false,
-			"places": [
-				"OM 001"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0800-0930"
@@ -580,14 +604,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Matthew Bloss"
+			],
 			"level": 200,
 			"name": "Multivariable Calc",
 			"num": 226,
 			"pf": false,
-			"profs": [
-				"Matthew Bloss"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Multivariable Calc",
 			"type": "Research",
@@ -600,14 +625,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Matthew Bloss"
+			],
 			"level": 200,
 			"name": "Elem Real Analysis",
 			"num": 244,
 			"pf": false,
-			"profs": [
-				"Matthew Bloss"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Elem Real Analysis",
 			"type": "Research",
@@ -620,14 +646,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -640,14 +667,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Counterpoint",
 			"num": 222,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Counterpoint",
 			"type": "Research",
@@ -660,14 +688,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Composition I",
 			"type": "Research",
@@ -680,14 +709,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Rita Glazebrook"
+			],
 			"level": 300,
 			"name": "Health Care in Amer",
 			"num": 372,
 			"pf": false,
-			"profs": [
-				"Rita Glazebrook"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Health Care in Amer",
 			"type": "Research",
@@ -700,17 +730,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -726,14 +757,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Le Ann K H. Finger"
+			],
 			"level": 100,
 			"name": "Golf",
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Le Ann K H. Finger"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Golf",
 			"type": "Research",
@@ -746,17 +778,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Kenneth Pratt"
+			],
 			"level": 100,
+			"locations": [
+				"TOSTRUD_CTR"
+			],
 			"name": "Rock Climbing",
 			"num": 106,
 			"pf": false,
-			"places": [
-				"TOSTRUD_CTR"
-			],
-			"profs": [
-				"Kenneth Pratt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -772,14 +805,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"John Campion"
+			],
 			"level": 100,
 			"name": "Scuba Diving",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"John Campion"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"title": "Scuba Diving",
 			"type": "Research",
@@ -792,17 +826,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0645-0745PM"
@@ -818,17 +853,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 0645-0745PM"
@@ -844,17 +880,18 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Gary Wicks"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Sports Ethics/Society",
 			"num": 290,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Gary Wicks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -870,17 +907,18 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 100,
+			"locations": [
+				"SC 110"
+			],
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 110"
-			],
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -896,18 +934,19 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 100,
+			"locations": [
+				"SC 111"
+			],
 			"name": "Principles Phys/Lab",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 111"
-			],
-			"profs": [
-				"David Nitz"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"WTh 0100-0300PM"
@@ -923,17 +962,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Marit Westergaard"
+			],
 			"level": 200,
+			"locations": [
+				"HH 514"
+			],
 			"name": "Issues 1st & 2nd Lang",
 			"num": 222,
 			"pf": false,
-			"places": [
-				"HH 514"
-			],
-			"profs": [
-				"Marit Westergaard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -949,17 +989,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Chri Theol/Moral Life",
 			"num": 207,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1130"
@@ -975,17 +1016,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Daniel Malotky"
+			],
 			"level": 200,
+			"locations": [
+				"RML 577"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Daniel Malotky"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0200PM"
@@ -1001,14 +1043,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Eric Lund"
+			],
 			"level": 200,
 			"name": "Rome and Wittenberg",
 			"num": 262,
 			"pf": false,
-			"profs": [
-				"Eric Lund"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20024,
 			"title": "Rome and Wittenberg",
 			"type": "Research",
@@ -1021,17 +1064,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Deborah Engelen-Eigles"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Deborah Engelen-Eigles"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1230-0300PM"
@@ -1047,17 +1091,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Deborah Engelen-Eigles"
+			],
 			"level": 200,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Social Deviance",
 			"num": 245,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Deborah Engelen-Eigles"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20024,
 			"times": [
 				"M-F 1000-1200PM"

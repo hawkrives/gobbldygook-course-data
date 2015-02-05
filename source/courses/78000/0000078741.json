@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Nutrition & Wellness",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0800-1000"

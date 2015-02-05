@@ -6,14 +6,15 @@
 		"RACE"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"title": "Academic Internship",
 	"type": "Research",

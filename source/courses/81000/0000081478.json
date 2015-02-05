@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
-	"notes": "This course has been canceled.",
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 210",
 		"TOH 210"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"notes": "This course has been canceled.",
+	"num": 120,
+	"pf": false,
+	"semester": 2,
+	"status": "X",
 	"term": 20112,
 	"times": [
 		"MWF 1040-1240PM",

@@ -14,19 +14,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317",
+		"HH 317"
+	],
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"HH 317",
-		"HH 317"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

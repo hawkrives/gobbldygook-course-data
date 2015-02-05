@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
 	"name": "IR/Music Cognition",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Music Cognition",
 	"type": "Research",

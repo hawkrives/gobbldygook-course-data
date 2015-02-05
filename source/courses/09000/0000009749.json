@@ -5,19 +5,20 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Craig D. Stern"
+	],
 	"level": 100,
-	"name": "Racquetball (Wmn)",
-	"num": 153,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC _RQ1",
 		"SAC _RQ1"
 	],
-	"profs": [
-		"Craig D. Stern"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Racquetball (Wmn)",
+	"num": 153,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1005-1100",

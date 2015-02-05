@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Scandinavian Lit-Tr",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0225PM"

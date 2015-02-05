@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 208"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"RNS 208"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 0800-0855"

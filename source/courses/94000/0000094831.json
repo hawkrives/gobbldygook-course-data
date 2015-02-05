@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Jennifer Wilcox"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Struct Chem & Equilib",
 	"notes": "Students registering for Chem 125 must also register for one Chem 125 lab. This course has class year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Jennifer Wilcox"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 1150-1245PM"

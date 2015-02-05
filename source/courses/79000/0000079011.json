@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

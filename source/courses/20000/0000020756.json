@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Religion & Literature",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

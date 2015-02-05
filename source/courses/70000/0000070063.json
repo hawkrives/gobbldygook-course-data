@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kent M. McWilliams"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "FLC - German",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Kent M. McWilliams"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"F 1255-0150PM"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Angela Reisetter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Intro Astronomy",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Angela Reisetter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1150-1245PM"

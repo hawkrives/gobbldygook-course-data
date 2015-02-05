@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "This course continues the studies begun in 391. Students consider recruitment and music administration, and composing and arranging music for worship. Prerequisite: MUSIC 391. Offered spring semester 2014-15 and alternate years.",
+	"instructors": [
+		"James E. Bobb"
+	],
 	"level": 300,
-	"name": "Church Music Pract II",
-	"num": 392,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"James E. Bobb"
-	],
-	"sem": 3,
+	"name": "Church Music Pract II",
+	"num": 392,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 200,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Campus Ecology",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

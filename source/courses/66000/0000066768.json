@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Academic Internship",
 	"type": "Research",

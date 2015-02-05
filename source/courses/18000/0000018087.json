@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"SPT RHT"
+	],
 	"name": "The Body Movable",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"SPT RHT"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

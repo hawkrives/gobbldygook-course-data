@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Chr Theol in History",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

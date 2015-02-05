@@ -5,18 +5,19 @@
 	"depts": [
 		"ARMS"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 100,
-	"name": "Intro to Arms",
-	"num": 122,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 3,
+	"name": "Intro to Arms",
+	"num": 122,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

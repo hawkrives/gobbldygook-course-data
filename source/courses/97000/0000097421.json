@@ -12,17 +12,18 @@
 	],
 	"groupid": 26649,
 	"grouptype": "R",
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Biodiversity Foundations",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 435"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20134,
 	"times": [
 		"M-Th 0800-1000"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Mary E. Trull"
 	],
-	"sect": "G",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"RML 421"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "G",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Tatha Wiley"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Roman Catholic Theol",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Tatha Wiley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

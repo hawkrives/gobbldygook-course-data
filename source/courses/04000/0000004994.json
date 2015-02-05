@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Herve Pensec"
+	],
 	"level": 200,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Intermed French I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Herve Pensec"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

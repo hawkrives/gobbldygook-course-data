@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Wee"
+	],
 	"level": 200,
 	"name": "The Moral Vision",
 	"num": 253,
 	"pf": false,
-	"profs": [
-		"David Wee"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"title": "The Moral Vision",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"CT RHT"
+	],
 	"name": "Acting for Non-Majors",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"CT RHT"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20001,
 	"times": [
 		"MWF 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Single"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Richard Single"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1255-0150PM"

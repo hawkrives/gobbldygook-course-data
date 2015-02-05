@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"Knut A. Christianson"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 292"
-	],
-	"profs": [
-		"Knut A. Christianson"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"Th 0225-0455PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark A. Granquist"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Religion in America",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Mark A. Granquist"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 1230-0200PM"

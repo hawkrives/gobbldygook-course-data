@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "Academic Internship",
 	"type": "Research",

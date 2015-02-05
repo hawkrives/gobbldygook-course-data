@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Internship",
 	"type": "Research",

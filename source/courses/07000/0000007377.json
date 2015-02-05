@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 300,
-	"name": "Bib Sem: Myths of Orig",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sem": 3,
+	"name": "Bib Sem: Myths of Orig",
+	"num": 391,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

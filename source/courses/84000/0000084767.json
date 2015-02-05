@@ -11,17 +11,18 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 100,
+	"locations": [
+		"TB Kelsey"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"TB Kelsey"
-	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

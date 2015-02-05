@@ -9,17 +9,18 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Organometallic Chem",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RNS 435"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

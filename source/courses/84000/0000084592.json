@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Sarah B. Stein"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 110",
 		"OM 110"
 	],
-	"profs": [
-		"Sarah B. Stein"
-	],
-	"sect": "P",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

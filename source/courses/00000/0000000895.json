@@ -5,15 +5,16 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 300,
 	"name": "IR/Environ Econ: China",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IR/Environ Econ: China",
 	"type": "Research",

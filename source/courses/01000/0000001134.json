@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Microeconomic Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

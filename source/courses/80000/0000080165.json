@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Zajj Daugherty"
+	],
 	"level": 300,
 	"name": "IR/Representation Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Zajj Daugherty"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

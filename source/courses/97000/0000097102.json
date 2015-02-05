@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 105,
-	"pf": true,
-	"places": [
-		"DC Studio 2"
-	],
-	"profs": [
+	"instructors": [
 		"Karla Grotting"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"DC Studio 2"
+	],
+	"num": 105,
+	"pf": true,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MW 1150-1245PM"

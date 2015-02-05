@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 100,
-	"name": "Animal Behavior",
-	"num": 177,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 110",
 		"SC 110",
 		"SC 110"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 2,
+	"name": "Animal Behavior",
+	"num": 177,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"times": [
 		"M-Th 0900-1000",

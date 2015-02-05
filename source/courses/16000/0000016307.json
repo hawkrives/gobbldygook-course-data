@@ -6,17 +6,18 @@
 		"PETH"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 1"
+	],
 	"name": "Intro Athletic Train",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"SAC 1"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

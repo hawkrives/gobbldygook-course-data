@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 300,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Investments",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 19981,
 	"times": [
 		"TTh 1145-0110PM"

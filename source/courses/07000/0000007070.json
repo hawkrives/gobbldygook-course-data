@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Randy Bailey"
+	],
 	"level": 100,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Randy Bailey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

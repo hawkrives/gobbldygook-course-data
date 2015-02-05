@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 200,
+	"locations": [
+		"M 31"
+	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"John Poling"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Kris A. Cropsey"
+	],
 	"level": 200,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Kris A. Cropsey"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

@@ -6,14 +6,15 @@
 		"CHEM"
 	],
 	"desc": "Building upon skills learned in Chemistry 253, 254, students perform multi-step syntheses that require the use of advanced techniques for the synthesis, purification and characterization of organic compounds. The second half of the course may focus on a project chosen by each student in consultation with the instructor. P/N only. Prerequisites: Chemistry 253, 254. Offered annually in the spring semester.",
+	"instructors": [
+		"Peter J. Gittins"
+	],
 	"level": 300,
 	"name": "Adv Synthesis Lab",
 	"num": 374,
 	"pf": true,
-	"profs": [
-		"Peter J. Gittins"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"Th 0100-0500PM"

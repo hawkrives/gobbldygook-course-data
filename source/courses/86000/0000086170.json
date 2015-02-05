@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 131,
-	"pf": false,
-	"places": [
-		"SAC 103"
-	],
-	"profs": [
+	"instructors": [
 		"Cynthia Book"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC 103"
+	],
+	"num": 131,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"TTh 0935-1030"

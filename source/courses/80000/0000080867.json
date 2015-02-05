@@ -10,17 +10,18 @@
 		"MCG",
 		"WRI"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Asian Cultures",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20105,
 	"times": [
 		"M-F 1230-0200PM"

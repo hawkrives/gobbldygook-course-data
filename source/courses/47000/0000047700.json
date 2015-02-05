@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Anna Kuxhausen"
+	],
 	"level": 100,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Top: Making Mod Russia",
 	"notes": "Open to First-Year Stuents only.",
 	"num": 188,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Anna Kuxhausen"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"MWF 0800-0855"

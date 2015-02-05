@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Gloria J. Kiester"
+	],
 	"level": 200,
 	"name": "Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Gloria J. Kiester"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Internship",
 	"type": "Research",

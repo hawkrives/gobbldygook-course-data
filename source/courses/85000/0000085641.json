@@ -6,14 +6,15 @@
 		"FILM"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": false,
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Academic Internship",
 	"type": "Research",

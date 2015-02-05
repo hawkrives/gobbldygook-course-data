@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

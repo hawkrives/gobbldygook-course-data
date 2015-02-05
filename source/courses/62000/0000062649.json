@@ -10,19 +10,20 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
-	"name": "Ballroom I (Men)",
-	"num": 106,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC Studio 1",
 		"DC Studio 1"
 	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Ballroom I (Men)",
+	"num": 106,
+	"pf": true,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0200-0255PM",

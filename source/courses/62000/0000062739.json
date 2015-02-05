@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Chemistry & the World",
 	"notes": "Students in Chem 111 must also register for lab Chem 111 AL or BL.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 390",
-		"RNS 390"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

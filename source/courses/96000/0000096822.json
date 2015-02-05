@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Anthony Lott"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

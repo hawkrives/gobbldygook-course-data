@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Jim Holden"
+	],
 	"level": 200,
 	"name": "IS/Teaching Esl",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jim Holden"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "IS/Teaching Esl",
 	"type": "Research",

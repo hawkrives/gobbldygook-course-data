@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SC 273"
+	],
 	"name": "Biological Sci/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 273"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"Th 1145-0145PM"

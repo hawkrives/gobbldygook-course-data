@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"DC 115E"
+	],
 	"name": "Foundations Ceramics",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"DC 115E"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 1230-0200PM"

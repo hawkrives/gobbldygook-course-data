@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 100,
+	"locations": [
+		"H 514"
+	],
 	"name": "App Math: Real Tools",
 	"num": 141,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

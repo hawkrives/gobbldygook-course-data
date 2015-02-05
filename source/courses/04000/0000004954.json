@@ -5,20 +5,21 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"RML 525",
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Richard DuRocher",
 		"Colin Wells"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RML 525",
+		"RML 421"
+	],
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MW 1150-1245PM",

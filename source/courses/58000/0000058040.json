@@ -6,18 +6,19 @@
 		"NEURO"
 	],
 	"groupid": 916,
-	"level": 200,
-	"name": "Intro to Neuroscience Lab",
-	"num": 234,
-	"pf": false,
-	"places": [
-		"SC 253"
-	],
-	"profs": [
+	"instructors": [
 		"Gary M. Muir",
 		"Kevin M. Crisp"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 253"
+	],
+	"name": "Intro to Neuroscience Lab",
+	"num": 234,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"Th 0215-0515PM"

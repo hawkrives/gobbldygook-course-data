@@ -10,17 +10,18 @@
 		"HBS",
 		"MCG"
 	],
-	"level": 100,
-	"num": 112,
-	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
+	"instructors": [
 		"J. Patrick Dale"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"HH 317"
+	],
+	"num": 112,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Opera Studies",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 200,
-	"name": "Bus, Govt & Marketpl",
-	"num": 244,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sem": 3,
+	"name": "Bus, Govt & Marketpl",
+	"num": 244,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

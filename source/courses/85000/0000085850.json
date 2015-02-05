@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
 	"name": "IS/Teach Bible to Youth",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Study",
 	"type": "Research",

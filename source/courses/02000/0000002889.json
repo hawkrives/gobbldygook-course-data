@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Nathan Hellyer"
+	],
 	"level": 200,
-	"name": "Human Anatomy & Physiol",
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 253"
 	],
-	"profs": [
-		"Nathan Hellyer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Human Anatomy & Physiol",
+	"num": 243,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855",

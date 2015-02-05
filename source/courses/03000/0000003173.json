@@ -5,17 +5,18 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"C. George Holt"
+	],
 	"level": 300,
+	"locations": [
+		"H 302"
+	],
 	"name": "Senior Seminar: Sp Top",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"C. George Holt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

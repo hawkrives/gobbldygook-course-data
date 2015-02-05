@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Phyllis G. Myers"
+	],
 	"level": 100,
+	"locations": [
+		"H 413"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Phyllis G. Myers"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

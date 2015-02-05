@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"SAC WT RM"
+	],
 	"name": "Wt Training-Women",
 	"num": 142,
 	"pf": false,
-	"places": [
-		"SAC WT RM"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 1005-1100"

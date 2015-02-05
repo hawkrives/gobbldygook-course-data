@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
-	"name": "Sem: Oper Systems",
-	"num": 378,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 2,
+	"name": "Sem: Oper Systems",
+	"num": 378,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0830-1000",

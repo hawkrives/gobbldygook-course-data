@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 300,
 	"name": "IR/Aesthetics and Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Poling"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Aesthetics and Lit",
 	"type": "Research",

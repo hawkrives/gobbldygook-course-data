@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 200,
-	"num": 205,
-	"pf": false,
-	"places": [
-		"DC 102"
-	],
-	"profs": [
+	"instructors": [
 		"Peter B. Nelson"
 	],
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"DC 102"
+	],
+	"num": 205,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20114,
 	"times": [
 		"M-F 1000-1130"

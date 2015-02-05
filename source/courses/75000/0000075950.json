@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"William Sonnega"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"title": "Internship",
 	"type": "Research",

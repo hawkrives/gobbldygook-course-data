@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

@@ -11,19 +11,20 @@
 	],
 	"groupid": 194,
 	"grouptype": "2",
+	"instructors": [
+		"Neil Palosaari"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Chemical Reactions",
 	"notes": "Students in Chem 126C and D must also register for one lab Chem 126 EL, FL, GL, or HL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Neil Palosaari"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Marc David"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Marc David"
-	],
-	"sect": "L",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

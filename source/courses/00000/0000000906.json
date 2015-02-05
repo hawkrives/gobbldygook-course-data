@@ -5,19 +5,20 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 200,
-	"name": "Origin Nuclear Weapon",
-	"num": 254,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"James Cederberg"
-	],
-	"sem": 2,
+	"name": "Origin Nuclear Weapon",
+	"num": 254,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 0830-1000",

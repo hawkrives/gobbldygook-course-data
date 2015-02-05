@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"OM 310"
-	],
-	"profs": [
+	"instructors": [
 		"Mary E. Trull"
 	],
-	"sect": "D",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"OM 310"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

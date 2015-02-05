@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Lucretius",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"James May"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

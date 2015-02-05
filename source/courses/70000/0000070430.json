@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Jeff Solomon"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Topics/Passing",
 	"num": 200,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Jeff Solomon"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

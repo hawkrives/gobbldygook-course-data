@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "IR/Environmental Museum",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

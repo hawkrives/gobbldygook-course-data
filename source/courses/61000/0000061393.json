@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Heather Campbell"
+	],
 	"level": 200,
-	"name": "English Lang Learners",
-	"num": 246,
-	"pf": false,
-	"places": [
+	"locations": [
 		"Mod 2",
 		"Mod 2"
 	],
-	"profs": [
-		"Heather Campbell"
-	],
-	"sem": 1,
+	"name": "English Lang Learners",
+	"num": 246,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"T 0800-0925",

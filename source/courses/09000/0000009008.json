@@ -5,14 +5,15 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Steven E. Reiser"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Steven E. Reiser"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "FLC-German",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"W 0800-0900"

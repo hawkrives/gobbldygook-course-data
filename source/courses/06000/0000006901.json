@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
-	"name": "Children's Literature",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 3,
+	"name": "Children's Literature",
+	"num": 233,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

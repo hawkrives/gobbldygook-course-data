@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"name": "Vergil & Latin Epic",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

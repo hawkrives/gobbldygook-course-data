@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 100,
+	"locations": [
+		"OM 310"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 310"
-	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

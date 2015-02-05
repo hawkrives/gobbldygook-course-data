@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 312"
+	],
 	"name": "The Neverending Myth",
 	"notes": "This course has class-year limits.",
 	"num": 129,
 	"pf": false,
-	"places": [
-		"TOH 312"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 1040-1240PM"

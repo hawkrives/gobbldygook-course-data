@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Skills/Tech Coach",
 	"num": 335,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "Skills/Tech Coach",
 	"type": "Research",

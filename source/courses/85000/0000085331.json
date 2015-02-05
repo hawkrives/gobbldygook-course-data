@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Jenny Dunning"
+	],
 	"level": 200,
-	"name": "Chekhov's Legacy",
-	"num": 282,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Jenny Dunning"
-	],
-	"sem": 3,
+	"name": "Chekhov's Legacy",
+	"num": 282,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

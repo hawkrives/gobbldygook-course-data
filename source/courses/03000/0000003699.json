@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Monica Rudquist"
+	],
 	"level": 100,
-	"name": "Found Ceramics: Wheel",
-	"num": 119,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 115E",
 		"DC 115E"
 	],
-	"profs": [
-		"Monica Rudquist"
-	],
-	"sem": 1,
+	"name": "Found Ceramics: Wheel",
+	"num": 119,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 1145-0110PM",

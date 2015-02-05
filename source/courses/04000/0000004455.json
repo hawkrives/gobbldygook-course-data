@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Issues Art Criticism",
 	"num": 270,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

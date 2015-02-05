@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 200,
 	"name": "IS/Entrepreneur Symp",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Entrepreneur Symp",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Wee"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Major Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"David Wee"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 19971,
 	"times": [
 		"MWF 1045-1140"

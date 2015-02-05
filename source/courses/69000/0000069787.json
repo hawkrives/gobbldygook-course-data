@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 164,
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 246"
+	],
 	"name": "Developmental Biology Lab",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"RNS 246"
-	],
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0200-0500PM"

@@ -6,17 +6,18 @@
 		"PEAC"
 	],
 	"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
+	"instructors": [
+		"Christine Daymont"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"SAC 112"
-	],
-	"profs": [
-		"Christine Daymont"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20064,
 	"times": [
 		"M-F 0645-0745"

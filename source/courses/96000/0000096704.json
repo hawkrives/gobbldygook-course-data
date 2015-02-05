@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Dipannita Kalyani"
+	],
 	"level": 300,
 	"name": "IR/Nickel Catalysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Dipannita Kalyani"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Kristina MacPherson"
+	],
 	"level": 200,
+	"locations": [
+		"RML 420"
+	],
 	"name": "ID Approaches to Asia",
 	"num": 275,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Kristina MacPherson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"M 0700-0830PM"

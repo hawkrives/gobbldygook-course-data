@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Richard Goedde",
+		"Lavern Rippley"
+	],
 	"level": 200,
 	"name": "The Mare Balticum",
 	"num": 249,
 	"pf": false,
-	"profs": [
-		"Richard Goedde",
-		"Lavern Rippley"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "The Mare Balticum",
 	"type": "Research",

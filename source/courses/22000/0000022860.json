@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
-	"level": 200,
-	"name": "FLC-French",
-	"num": 212,
-	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
+	"instructors": [
 		"Wendy Allen",
 		"Eric Lund"
 	],
-	"sect": "L",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"CH 109"
+	],
+	"name": "FLC-French",
+	"num": 212,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"T 0430-0530PM"

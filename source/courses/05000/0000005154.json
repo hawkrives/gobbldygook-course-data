@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
 	"name": "IS/Inv & Mutual Fnds",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Inv & Mutual Fnds",
 	"type": "Research",

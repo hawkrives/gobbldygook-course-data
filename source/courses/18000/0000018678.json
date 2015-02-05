@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Walter T. Hoops"
+	],
 	"level": 300,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Ethnograph Rsch Meth",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Walter T. Hoops"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0110PM"

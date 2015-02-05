@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 200,
 	"name": "Synthesis Lab",
 	"num": 253,
 	"pf": true,
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sect": "A",
-	"sem": 4,
+	"section": "A",
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"title": "Synthesis Lab",
 	"type": "Lab",

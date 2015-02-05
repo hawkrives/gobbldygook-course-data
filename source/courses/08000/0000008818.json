@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"M. Clare Mather"
+	],
 	"level": 200,
-	"name": "Intermed French I",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 011",
 		"OM 011"
 	],
-	"profs": [
-		"M. Clare Mather"
-	],
-	"sem": 2,
+	"name": "Intermed French I",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM",

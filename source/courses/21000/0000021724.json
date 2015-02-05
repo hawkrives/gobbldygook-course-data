@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
 	"name": "FLC-German",
 	"num": 213,
 	"pf": true,
-	"profs": [
-		"Eric Lund"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"title": "FLC-German",
 	"type": "Research",

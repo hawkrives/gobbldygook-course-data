@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kathryn Ananda-Owens"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Arts, Culture & Cont",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Kathryn Ananda-Owens"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

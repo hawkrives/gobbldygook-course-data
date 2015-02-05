@@ -5,18 +5,19 @@
 	"depts": [
 		"AMCON"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

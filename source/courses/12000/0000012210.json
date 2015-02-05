@@ -5,14 +5,15 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Scott Nesbit"
+	],
 	"level": 100,
 	"name": "Fly Fishing",
 	"num": 128,
 	"pf": false,
-	"profs": [
-		"Scott Nesbit"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"TTh 1255-0150PM"

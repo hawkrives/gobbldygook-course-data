@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 300,
+	"locations": [
+		"M 11"
+	],
 	"name": "Roman Drama",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1100"

@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard M. Hirsch"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Richard M. Hirsch"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

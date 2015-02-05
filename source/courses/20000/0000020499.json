@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
-	"level": 300,
-	"name": "Child & Adolesc Voice",
-	"num": 365,
-	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
+	"instructors": [
 		"Anton Armstrong",
 		"Cora Scholz"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"CHM 233"
+	],
+	"name": "Child & Adolesc Voice",
+	"num": 365,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MW 1045-1140"

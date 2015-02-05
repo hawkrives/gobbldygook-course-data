@@ -6,14 +6,15 @@
 		"ENGL"
 	],
 	"desc": "Students pursue an independent topic of study with a faculty director. Cannot count as one of two required level III courses for the major.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Research",
 	"type": "Research",

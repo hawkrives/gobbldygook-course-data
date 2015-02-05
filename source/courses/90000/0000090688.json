@@ -6,18 +6,19 @@
 		"ESTH"
 	],
 	"groupid": 1051,
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 200,
+	"locations": [
+		"SAC Tr Rm"
+	],
 	"name": "Prev/Care Sport Injur Lab",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"SAC Tr Rm"
-	],
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"W 1150-1245PM"

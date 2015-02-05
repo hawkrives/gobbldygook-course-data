@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 151,
-	"pf": false,
-	"places": [
-		"SAC Gym North"
-	],
-	"profs": [
+	"instructors": [
 		"Vincent Varpness"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SAC Gym North"
+	],
+	"num": 151,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"TTh 0800-0855"

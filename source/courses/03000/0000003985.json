@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"MWF 1255-0150PM"

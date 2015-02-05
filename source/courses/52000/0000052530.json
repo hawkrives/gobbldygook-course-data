@@ -6,16 +6,17 @@
 		"PEAC"
 	],
 	"desc": "This course offers an introduction/review of fundamental skills and rules of volleyball. Students focus on basic strategy in games playing.",
-	"level": 100,
-	"num": 115,
-	"pf": false,
-	"places": [
-		"SAC Ctr Gym"
-	],
-	"profs": [
+	"instructors": [
 		"Patrice Buresh"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Ctr Gym"
+	],
+	"num": 115,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MW 1045-1140"

@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Maria L. Kelly"
+	],
 	"level": 200,
 	"name": "Perspectives On Tchg",
 	"num": 260,
 	"pf": true,
-	"profs": [
-		"Maria L. Kelly"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"title": "Perspectives On Tchg",
 	"type": "Research",

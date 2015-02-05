@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Michael Kahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

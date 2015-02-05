@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 321"
+	],
 	"name": "Analytical Lab",
 	"num": 256,
 	"pf": true,
-	"places": [
-		"SC 321"
-	],
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"W 0100-0500PM"

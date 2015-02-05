@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 100,
+	"locations": [
+		"M 11"
+	],
 	"name": "Beginning Norwegian I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0800-0855"

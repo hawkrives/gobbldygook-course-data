@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sect": "B",
-	"sem": 5,
+	"section": "B",
+	"semester": 5,
+	"status": "O",
 	"term": 20135,
 	"title": "Internship",
 	"type": "Research",

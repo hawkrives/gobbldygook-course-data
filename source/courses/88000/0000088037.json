@@ -9,14 +9,15 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 200,
 	"name": "Comm Science and Math",
 	"num": 230,
 	"pf": true,
-	"profs": [
-		"Robert Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Communicating Science and Mathematics",
 	"type": "Research",

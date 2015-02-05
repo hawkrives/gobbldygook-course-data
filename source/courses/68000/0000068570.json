@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sect": "L",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-0925",

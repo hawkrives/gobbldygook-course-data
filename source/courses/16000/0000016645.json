@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Biomechanics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "IS/Biomechanics",
 	"type": "Research",

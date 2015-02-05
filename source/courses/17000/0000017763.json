@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 100,
 	"name": "Philosophy and Lit",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19952,
 	"title": "Philosophy and Lit",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 300,
-	"name": "Sem: Vocation/Ethics",
-	"num": 395,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sem": 1,
+	"name": "Sem: Vocation/Ethics",
+	"num": 395,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"T 0120-0245PM",

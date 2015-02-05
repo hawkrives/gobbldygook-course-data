@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 100,
+	"locations": [
+		"M 4"
+	],
 	"name": "Friendship/Love/Life",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"M-F 0100-0300PM"

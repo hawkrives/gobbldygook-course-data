@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Thomas C. Schnauber"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Composition I",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Thomas C. Schnauber"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20015,
 	"times": [
 		"M-F 1000-1130"

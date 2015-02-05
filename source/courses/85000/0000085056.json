@@ -10,19 +10,20 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 100,
-	"name": "Principles: Psych",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 150",
 		"RNS 150"
 	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Principles: Psych",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Ian Pierce"
+	],
 	"level": 300,
 	"name": "IR/Functional Analysis II",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Ian Pierce"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"RNS 206"
-	],
-	"profs": [
+	"instructors": [
 		"Kaisa Taipale"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 206"
+	],
+	"num": 120,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

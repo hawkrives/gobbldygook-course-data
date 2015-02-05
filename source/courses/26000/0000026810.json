@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Bib Sem:",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

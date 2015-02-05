@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Introductory Psych",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "Z",
-	"sem": 5,
+	"section": "Z",
+	"semester": 5,
+	"status": "O",
 	"term": 19945,
 	"title": "Introductory Psych",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
-	"name": "Nutrition & Wellness",
-	"num": 110,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC 140",
 		"SAC 140"
 	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"name": "Nutrition & Wellness",
+	"num": 110,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

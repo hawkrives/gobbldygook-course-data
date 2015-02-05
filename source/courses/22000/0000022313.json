@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "Marketing",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Religion & Literature",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

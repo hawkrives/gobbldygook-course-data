@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Principles Physics II",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"MWF 0800-0855"

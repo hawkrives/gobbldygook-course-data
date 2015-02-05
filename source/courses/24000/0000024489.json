@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
 	"name": "IS/Toni Morrison",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Toni Morrison",
 	"type": "Research",

@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul Ousley"
+	],
 	"level": 300,
 	"name": "IR/Orchestra Audition",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Ousley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Orchestra Audition",
 	"type": "Research",

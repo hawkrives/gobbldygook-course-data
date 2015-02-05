@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 200,
 	"name": "IS/Topics in App Stat",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Michael Kahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IS/Topics in App Stat",
 	"type": "Research",

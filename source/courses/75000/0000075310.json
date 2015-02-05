@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCD"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 200,
-	"name": "Am Racial/Multi Lit",
-	"num": 205,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 3,
+	"name": "Am Racial/Multi Lit",
+	"num": 205,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Ethics/Theory Values",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

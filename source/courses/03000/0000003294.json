@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 300,
-	"name": "Nurs/Complex Systems",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 18",
 		"SC 18"
 	],
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sem": 3,
+	"name": "Nurs/Complex Systems",
+	"num": 384,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1245PM",

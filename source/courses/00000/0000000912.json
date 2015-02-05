@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"title": "Academic Internship",
 	"type": "Research",

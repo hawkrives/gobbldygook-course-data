@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
 	"name": "IR/Psych of Poverty",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Psych of Poverty",
 	"type": "Research",

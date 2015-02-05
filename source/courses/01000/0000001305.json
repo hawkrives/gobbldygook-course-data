@@ -5,17 +5,18 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Ethical ISSues/Gr Con",
 	"num": 310,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

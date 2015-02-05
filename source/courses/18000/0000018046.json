@@ -5,16 +5,17 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Bruce Dalgaard",
+		"David Schodt"
+	],
 	"level": 200,
 	"name": "IS/States and Markets",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Bruce Dalgaard",
-		"David Schodt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/States and Markets",
 	"type": "Research",

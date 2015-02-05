@@ -12,17 +12,18 @@
 				"ALS-L",
 				"ORC"
 			],
+			"instructors": [
+				"Stephen Longfellow"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Intro to Poetry",
 			"num": 123,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Stephen Longfellow"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -39,13 +40,14 @@
 				"EDUC"
 			],
 			"desc": "The course includes strategies and materials for teaching English to speakers of other languages. Students learn strategies that focus on the development of listening, speaking, reading, and writing skills in English language learners. Students review materials appropriate for non-native English speakers and create their own materials and lesson plans. Fulfills Education 382: Human Relations requirement. Required field experience component. Prerequisites: Education 246 and Education 330. Offered annually in the Summer.",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"num": 347,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0730-1000"
@@ -62,13 +64,14 @@
 				"EDUC"
 			],
 			"desc": "This course provides students with theoretical and practical knowledge about assessing the language proficiency of English Language Learners. Students learn how to construct and administer appropriate and non-discriminatory assessment and evaluation tools. Students administer several assessments and write a formal report. Required field experience component. Prerequisite: Education 330. Offered annually in the Summer.",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"num": 348,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1230PM"
@@ -89,17 +92,18 @@
 				"MCD",
 				"WRI"
 			],
+			"instructors": [
+				"Jenny Dunning"
+			],
 			"level": 100,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Intro Womens Studies",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"Jenny Dunning"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -119,16 +123,17 @@
 			"gereqs": [
 				"BTS-T"
 			],
-			"level": 200,
-			"num": 203,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"Mary E. Anderson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 204"
+			],
+			"num": 203,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -148,17 +153,18 @@
 			"gereqs": [
 				"BTS-T"
 			],
+			"instructors": [
+				"Mary E. Anderson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 515"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Mary E. Anderson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1230-0200PM"
@@ -179,16 +185,17 @@
 				"ALS-A"
 			],
 			"grouptype": "R",
-			"level": 100,
-			"num": 104,
-			"pf": false,
-			"places": [
-				"DC 100"
-			],
-			"profs": [
+			"instructors": [
 				"Guido Alvarez"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"DC 100"
+			],
+			"num": 104,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -208,16 +215,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 207,
-			"pf": false,
-			"places": [
-				"DC 115"
-			],
-			"profs": [
+			"instructors": [
 				"Kathryne Fisher"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 115"
+			],
+			"num": 207,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0230-0400PM"
@@ -234,16 +242,17 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered annually in the Fall Semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -260,18 +269,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the Fall Semester.",
+			"instructors": [
+				"Peter J. Gittins"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Peter J. Gittins"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"MW 0100-0400PM"
@@ -288,18 +298,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the Fall Semester.",
+			"instructors": [
+				"Peter J. Gittins"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Peter J. Gittins"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "C",
 			"term": 20094,
 			"times": [
 				"TTh 0100-0400PM"
@@ -320,18 +331,19 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
-			"name": "Struct Chem & Equilib",
-			"num": 125,
-			"pf": false,
-			"places": [
+			"locations": [
 				"RNS 310",
 				"RNS 350"
 			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"name": "Struct Chem & Equilib",
+			"num": 125,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130",
@@ -354,17 +366,18 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Molly Westerman"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Top:Sex/Sexulty P-Col Lit",
 			"num": 200,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Molly Westerman"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0230-0400PM"
@@ -385,17 +398,18 @@
 				"HWC",
 				"MCD"
 			],
+			"instructors": [
+				"Megan J. Feeney"
+			],
 			"level": 100,
+			"locations": [
+				"RML 577"
+			],
 			"name": "America After 1865",
 			"num": 199,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Megan J. Feeney"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -415,16 +429,17 @@
 			"gereqs": [
 				"MCG"
 			],
-			"level": 200,
-			"num": 251,
-			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
+			"instructors": [
 				"Robert Entenmann"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RML 421"
+			],
+			"num": 251,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -445,17 +460,18 @@
 				"EIN",
 				"ORC"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 300,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Top: Who Owns the Arts?",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -476,16 +492,17 @@
 				"ALS-A",
 				"ORC"
 			],
-			"level": 100,
-			"num": 100,
-			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
+			"instructors": [
 				"Karen Wilson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"TB 227"
+			],
+			"num": 100,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -506,16 +523,17 @@
 				"HBS",
 				"MCG"
 			],
-			"level": 100,
-			"num": 112,
-			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
+			"instructors": [
 				"J. Patrick Dale"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RML 520"
+			],
+			"num": 112,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1230-0200PM"
@@ -536,16 +554,17 @@
 				"HBS",
 				"HWC"
 			],
-			"level": 200,
-			"num": 283,
-			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
+			"instructors": [
 				"J. Patrick Dale"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RML 520"
+			],
+			"num": 283,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0230-0400PM"
@@ -567,17 +586,18 @@
 				"MCD",
 				"ORC"
 			],
+			"instructors": [
+				"Douglas J. Casson"
+			],
 			"level": 100,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Intro: Pol Theory",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Douglas J. Casson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -597,17 +617,18 @@
 			"gereqs": [
 				"EIN"
 			],
+			"instructors": [
+				"Douglas J. Casson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Ambition and Leadership",
 			"num": 278,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Douglas J. Casson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -624,15 +645,16 @@
 				"PSYCH"
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision.",
+			"instructors": [
+				"Gary M. Muir"
+			],
 			"level": 300,
 			"name": "Research:Neuro of Navigat",
 			"notes": "Permission of instructor/instructor signature required on Summer registration form.",
 			"num": 396,
 			"pf": false,
-			"profs": [
-				"Gary M. Muir"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"MWF 1000-1130",
@@ -654,17 +676,18 @@
 				"HBS",
 				"IST"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -684,17 +707,18 @@
 			"gereqs": [
 				"WRI"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Research Methods",
 			"num": 230,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -711,17 +735,18 @@
 				"ESTH"
 			],
 			"desc": "This course introduces students to the areas of sport psychology, sport administration, sport physiology, and sport pedagogy and serves as a foundation to the series of courses required for coaching certification. Successful completion of the course may include certification in the American Sport Education Program (ASEP). Offered every year.",
+			"instructors": [
+				"Shahram Ahrar"
+			],
 			"level": 200,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Intro to Coaching",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Shahram Ahrar"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -741,17 +766,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Robert K. McCarthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Robert K. McCarthy"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -771,17 +797,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Shahram Ahrar"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Shahram Ahrar"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0230-0400PM"
@@ -801,17 +828,18 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Ji Hoon Ryoo"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 206"
+			],
 			"name": "Statistics for Science",
 			"num": 212,
 			"pf": false,
-			"places": [
-				"RNS 206"
-			],
-			"profs": [
-				"Ji Hoon Ryoo"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -831,16 +859,17 @@
 			"gereqs": [
 				"WRI"
 			],
-			"level": 200,
-			"num": 244,
-			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 204"
+			],
+			"num": 244,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -860,16 +889,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 126,
-			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
+			"num": 126,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 1230-0200PM"
@@ -889,17 +919,18 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
 			"name": "Gateways/Mathematics",
 			"num": 117,
 			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -919,16 +950,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 120,
-			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
+			"instructors": [
 				"Peder Bolstad"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
+			"num": 120,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1230-0200PM"
@@ -948,16 +980,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 100,
-			"num": 131,
-			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
+			"instructors": [
 				"Charles Forsberg"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"TBA"
+			],
+			"num": 131,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -977,16 +1010,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 100,
-			"num": 130,
-			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
+			"instructors": [
 				"Charles Forsberg"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"TBA"
+			],
+			"num": 130,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -1003,16 +1037,17 @@
 				"SPAN"
 			],
 			"desc": "Students begin learning Spanish through listening, speaking, reading, and writing about topics familiar to them, including family, academic, and social life, in an intercultural context. They reinforce these skills through complementary exercises in the World Languages Center. Open only to students with no prior experience in Spanish or who have placed into Spanish 111. Offered during Interim.",
-			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
-				"OM 021"
-			],
-			"profs": [
+			"instructors": [
 				"Kris A. Cropsey"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"OM 021"
+			],
+			"num": 111,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -1032,16 +1067,17 @@
 			"gereqs": [
 				"IST"
 			],
-			"level": 200,
-			"num": 238,
-			"pf": false,
-			"places": [
-				"RNS 435"
-			],
-			"profs": [
+			"instructors": [
 				"Shelly D. Dickinson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 435"
+			],
+			"num": 238,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -1062,17 +1098,18 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 100,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 0800-0930"
@@ -1093,17 +1130,18 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Marriage & the Family",
 			"num": 260,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"times": [
 				"M-F 1000-1130"
@@ -1120,14 +1158,15 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Struct Chem & Equilib Lab",
 			"type": "Lab",
@@ -1140,14 +1179,15 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"David A. Stromme"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David A. Stromme"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Internship",
 			"type": "Research",
@@ -1161,14 +1201,15 @@
 				"ESTH"
 			],
 			"desc": "Research",
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 300,
 			"name": "IR/Coaching Philosophy",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1181,14 +1222,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Internship",
 			"type": "Research",
@@ -1202,14 +1244,15 @@
 				"ART"
 			],
 			"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in Art History prerequisites: two upper-division courses in area of study.",
+			"instructors": [
+				"Kathryne Fisher"
+			],
 			"level": 200,
 			"name": "IS/Soda-Firing Techniques",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Kathryne Fisher"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1227,14 +1270,15 @@
 				"HBS",
 				"HWC"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
 			"name": "Capitalism",
 			"num": 113,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20094,
 			"title": "Gateways to Economics: Capitalism",
 			"type": "Research",

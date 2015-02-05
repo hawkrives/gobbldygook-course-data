@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 200,
+	"locations": [
+		"M 36"
+	],
 	"name": "Medieval Latin",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

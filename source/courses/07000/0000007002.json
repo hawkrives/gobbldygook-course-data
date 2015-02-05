@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 100,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Europe,1500-Present",
 	"num": 191,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

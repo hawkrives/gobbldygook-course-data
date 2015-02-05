@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "First-semester music majors explore the fundamentals of music: pitch, rhythm, notation, intervals, triads and inversions, seventh chords, scales, harmonic progression, and basic voice leading principles. Co-requisites: Music 111, 161 (or completion of Piano Proficiency Level 1). Offered annually in the Fall Semester.",
+	"instructors": [
+		"Margaret A. Rowland"
+	],
 	"level": 100,
-	"num": 113,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Margaret A. Rowland"
-	],
-	"sect": "A",
-	"sem": 1,
+	"num": 113,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"T 0800-0925",

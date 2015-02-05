@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1072,
+	"instructors": [
+		"Stanley Trout"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Principles Physics I Lab",
 	"notes": "Physics term dates and times are to be announced. Physics 124/125 will be taught consecutively. These courses will not meet regular term dates.",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RNS 292"
-	],
-	"profs": [
-		"Stanley Trout"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20134,
 	"times": [
 		"MW 0100-0330PM"

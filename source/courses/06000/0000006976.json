@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 200,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Speaking German",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

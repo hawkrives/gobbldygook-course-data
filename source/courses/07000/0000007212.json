@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
+	"locations": [
+		"SAC_GYM_S"
+	],
 	"name": "Aerobics",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"SAC_GYM_S"
-	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"TTh 0905-1000"

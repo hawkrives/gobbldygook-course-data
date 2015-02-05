@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Prin: Experimental Psy",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

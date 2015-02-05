@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Uta Wolfe"
+	],
 	"level": 100,
-	"name": "Principles: Psych",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"HH 501"
 	],
-	"profs": [
-		"Uta Wolfe"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Principles: Psych",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

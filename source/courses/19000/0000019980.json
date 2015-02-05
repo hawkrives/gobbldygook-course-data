@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Michael Maguire"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Women, Men, Comm",
 	"num": 165,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"Michael Maguire"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"times": [
 		"M-Th 1100-0130PM"

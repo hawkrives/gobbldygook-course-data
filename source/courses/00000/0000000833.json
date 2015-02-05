@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 200,
 	"name": "Lit Eastern Caribbean",
 	"num": 270,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"title": "Lit Eastern Caribbean",
 	"type": "Research",

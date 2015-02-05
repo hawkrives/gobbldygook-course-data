@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Craig D. Stern"
+	],
 	"level": 100,
+	"locations": [
+		"TC"
+	],
 	"name": "Wt Training Co-Ed .50",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
-		"Craig D. Stern"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

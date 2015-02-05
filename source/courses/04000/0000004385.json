@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"MWF 0800-0855"

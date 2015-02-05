@@ -10,17 +10,18 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Intro to Drama",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0100-0300PM"

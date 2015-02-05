@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 200,
-	"name": "Exploring Hispanic Lit",
-	"num": 275,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 035",
 		"OM 035"
 	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sem": 3,
+	"name": "Exploring Hispanic Lit",
+	"num": 275,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

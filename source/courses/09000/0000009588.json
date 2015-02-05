@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Discrete Mathematics",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Martha Wallace"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

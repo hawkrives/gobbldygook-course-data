@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Timothy Mahr"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Composition I",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Timothy Mahr"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

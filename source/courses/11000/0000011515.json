@@ -6,14 +6,15 @@
 		"PSCI"
 	],
 	"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty.",
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 300,
 	"name": "IR/Ecofeminism",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anthony Lott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Research",
 	"type": "Research",

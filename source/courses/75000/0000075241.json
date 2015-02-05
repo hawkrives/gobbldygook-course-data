@@ -10,18 +10,19 @@
 		"SED"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
-	"name": "Struct Chem & Equilib",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 310",
 		"RNS 350"
 	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 4,
+	"name": "Struct Chem & Equilib",
+	"num": 125,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20094,
 	"times": [
 		"M-F 1000-1130",

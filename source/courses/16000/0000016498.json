@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 21"
+	],
 	"name": "Beginning Spanish I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0800-0855"

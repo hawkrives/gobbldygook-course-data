@@ -10,18 +10,19 @@
 		"FOL-F",
 		"WRI"
 	],
+	"instructors": [
+		"Amine R. Bekhechi"
+	],
 	"level": 200,
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 308",
 		"TOH 308"
 	],
-	"profs": [
-		"Amine R. Bekhechi"
-	],
-	"sect": "B",
-	"sem": 1,
+	"num": 251,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"T 0120-0245PM",

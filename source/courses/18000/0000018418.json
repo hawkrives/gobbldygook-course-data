@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Todd R. Carroll"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Racquetball (Women)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"Todd R. Carroll"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0905-1000"

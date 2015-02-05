@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 100,
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Calculus I",
 	"type": "Research",

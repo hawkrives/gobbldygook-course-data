@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Social Policy",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

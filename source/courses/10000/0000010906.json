@@ -6,16 +6,17 @@
 		"PHYS"
 	],
 	"desc": "This course is an analytical study of Newtonian mechanics, including the harmonic oscillator, central force motion, non-linear oscillators, chaos and an introduction to the Lagrangian formulation. Students use computers extensively. Prerequisites: Physics 127, Mathematics 230, and concurrent registration in Physics 384. Offered Fall Semester.",
-	"level": 300,
-	"num": 374,
-	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
+	"instructors": [
 		"David Dahl"
 	],
-	"sem": 1,
+	"level": 300,
+	"locations": [
+		"SC 129"
+	],
+	"num": 374,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"MWF 1150-1245PM"

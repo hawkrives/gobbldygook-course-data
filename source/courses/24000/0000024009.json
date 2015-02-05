@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 100,
-	"name": "Plagues & Pestilence",
-	"num": 133,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 263",
 		"SC 263"
 	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sem": 2,
+	"name": "Plagues & Pestilence",
+	"num": 133,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0800-1000",

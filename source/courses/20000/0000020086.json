@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Paul Cabe"
+	],
 	"level": 200,
+	"locations": [
+		"SC 280"
+	],
 	"name": "Intermediate Genetics",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 280"
-	],
-	"profs": [
-		"Paul Cabe"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1150-1245PM"

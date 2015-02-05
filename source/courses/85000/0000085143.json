@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 354"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"RNS 354"
-	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

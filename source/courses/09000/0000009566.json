@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "War and Peace",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
 	"name": "IS/Functional Ceramic",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Functional Ceramic",
 	"type": "Research",

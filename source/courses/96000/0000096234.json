@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"OM 140"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversations students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"OM 140"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

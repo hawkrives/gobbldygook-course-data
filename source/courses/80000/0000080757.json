@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Labor Econ/Empl Rel",
 	"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors during web registration.",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"RNS 435"
-	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

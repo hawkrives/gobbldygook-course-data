@@ -6,14 +6,15 @@
 		"GERM"
 	],
 	"desc": "Independent Research. May be counted toward German major or German studies concentration.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Research",
 	"type": "Research",

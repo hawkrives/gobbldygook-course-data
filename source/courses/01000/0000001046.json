@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
-	"name": "Ecological Principles",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 248"
 	],
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Ecological Principles",
+	"num": 261,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855",

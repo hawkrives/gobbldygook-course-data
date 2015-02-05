@@ -11,19 +11,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 100,
-	"notes": "Open to first-year students and sophomores only.",
-	"num": 185,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"notes": "Open to first-year students and sophomores only.",
+	"num": 185,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

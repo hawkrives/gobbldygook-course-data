@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Debra Latimer"
+	],
 	"level": 100,
+	"locations": [
+		"M 26"
+	],
 	"name": "Beginning French II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Debra Latimer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0200-0255PM"

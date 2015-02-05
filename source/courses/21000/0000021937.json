@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "Academic Internship",
 	"type": "Research",

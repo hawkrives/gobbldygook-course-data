@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Theology of Creation",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"MWF 0905-1000"

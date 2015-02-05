@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Witch Trials/Interpre",
 	"num": 205,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

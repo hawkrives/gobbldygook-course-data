@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Ear/Keyboard II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 1150-1245PM"

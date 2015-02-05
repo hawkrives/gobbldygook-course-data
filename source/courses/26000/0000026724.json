@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Michael Chambers"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Int'l Relations",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Michael Chambers"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

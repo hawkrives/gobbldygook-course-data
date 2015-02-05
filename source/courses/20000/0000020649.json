@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
 	"name": "IR/Electrodynamics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Electrodynamics",
 	"type": "Research",

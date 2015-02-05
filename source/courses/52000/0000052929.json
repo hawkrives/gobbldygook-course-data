@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 158,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
+	"locations": [
+		"SC 227"
+	],
 	"name": "Cell Physiology Lab",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"SC 227"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"Th 0120-0420PM"

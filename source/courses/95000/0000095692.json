@@ -12,20 +12,21 @@
 	],
 	"groupid": 26649,
 	"grouptype": "2",
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410",
+		"RNS 410"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150B must also register for one lab Bio 150 CL or DL.",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 410",
-		"RNS 410"
-	],
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

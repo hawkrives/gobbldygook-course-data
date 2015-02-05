@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Arts Management",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1030-1230PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Topics Pol Develop",
 	"num": 386,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

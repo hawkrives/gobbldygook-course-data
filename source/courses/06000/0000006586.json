@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Robert Flaten"
+	],
 	"level": 200,
 	"name": "IS/Terrorism",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Flaten"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/Terrorism",
 	"type": "Research",

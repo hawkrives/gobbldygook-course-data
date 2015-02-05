@@ -5,19 +5,20 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
-	"name": "Chemistry & the World",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 378",
 		"SC 378",
 		"SC 371"
 	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 3,
+	"name": "Chemistry & the World",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

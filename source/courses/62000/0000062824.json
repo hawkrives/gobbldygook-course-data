@@ -10,19 +10,20 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Gregory A. Walter"
+	],
 	"level": 200,
-	"name": "Essentials Chr Theol",
-	"num": 201,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"Gregory A. Walter"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Essentials Chr Theol",
+	"num": 201,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

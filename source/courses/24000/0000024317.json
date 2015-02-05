@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 300,
 	"name": "IR/Stem Cell Charac",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Giannini"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Stem Cell Charac",
 	"type": "Research",

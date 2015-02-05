@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"RML 420"
+	],
 	"name": "The Ethics of Jesus",
 	"num": 276,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 1000-1130"

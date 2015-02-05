@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 181,
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 100,
+	"locations": [
+		"SC 282"
+	],
 	"name": "Forensic Sci With Lab",
 	"num": 107,
 	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

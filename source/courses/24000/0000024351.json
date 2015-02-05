@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 300,
 	"name": "IR/Biochemistry",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Biochemistry",
 	"type": "Research",

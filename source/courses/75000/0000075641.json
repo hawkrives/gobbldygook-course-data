@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Roman Catholic Theol",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

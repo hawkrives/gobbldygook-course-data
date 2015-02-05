@@ -5,20 +5,21 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl to 1650",
-	"num": 221,
-	"pf": false,
-	"places": [
-		"RML 525",
-		"RML 420"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Cherewatuk",
 		"Linda Shenk"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RML 525",
+		"RML 420"
+	],
+	"name": "Lit in Engl to 1650",
+	"num": 221,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MW 0905-1000",

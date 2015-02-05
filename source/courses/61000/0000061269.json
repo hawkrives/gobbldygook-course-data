@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 121,
-	"pf": false,
-	"places": [
-		"SAC_POOL"
-	],
-	"profs": [
+	"instructors": [
 		"William Thornton"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SAC_POOL"
+	],
+	"num": 121,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"MW 1045-1140"

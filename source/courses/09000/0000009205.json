@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
 	"name": "Top: Bio in India",
 	"num": 291,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"title": "Top: Bio in India",
 	"type": "Topic",

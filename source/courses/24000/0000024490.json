@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 200,
 	"name": "IS/Creative Nonfict",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Creative Nonfict",
 	"type": "Research",

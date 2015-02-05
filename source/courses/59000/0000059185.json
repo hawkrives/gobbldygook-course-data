@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "This course is a study of the larger forms of choral music from the Baroque to the present. Students study scores and recordings and discuss interpretation and conducting problems. Prerequisite: Music 214, 241, and 242 and junior standing. Offered Fall Semester, 2007-08, and alternate years.",
+	"instructors": [
+		"Christopher P. Aspaas"
+	],
 	"level": 200,
-	"name": "Choral Lit II",
-	"num": 288,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"Christopher P. Aspaas"
-	],
-	"sem": 3,
+	"name": "Choral Lit II",
+	"num": 288,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

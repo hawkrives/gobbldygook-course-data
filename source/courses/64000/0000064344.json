@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Peter E. Sprangers"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Prin of Statistics",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Peter E. Sprangers"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"times": [
 		"M-F 1000-1130"

@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Anna Kuxhausen",
+		"Irina Walter"
+	],
 	"level": 200,
 	"name": "FLC - Russian",
 	"num": 231,
 	"pf": false,
-	"profs": [
-		"Anna Kuxhausen",
-		"Irina Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "FLC - Russian",
 	"type": "FLAC",

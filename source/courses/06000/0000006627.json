@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 300,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Oral/Written Express",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-0300PM"

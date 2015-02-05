@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Student Teaching in India",
 	"num": 380,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"title": "Student Teaching in India",
 	"type": "Research",

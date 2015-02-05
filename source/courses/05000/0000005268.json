@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Racquetball (Men)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MW 1255-0150PM"

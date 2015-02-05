@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 200,
 	"name": "IS/Religious Experience",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

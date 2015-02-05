@@ -10,18 +10,19 @@
 		"ALS-L",
 		"FOL-F"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
-	"name": "Intro Literary Analy",
-	"num": 253,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 114",
 		"TOH 114"
 	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"name": "Intro Literary Analy",
+	"num": 253,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

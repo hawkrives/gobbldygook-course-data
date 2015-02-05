@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 200,
+	"locations": [
+		"M 3"
+	],
 	"name": "New Testament Greek",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

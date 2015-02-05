@@ -9,20 +9,21 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
-	"name": "Elem Linear Algebra",
-	"notes": "Open to first-year students who have completed Math 120. This course has class-year limits.",
-	"num": 220,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 2,
+	"name": "Elem Linear Algebra",
+	"notes": "Open to first-year students who have completed Math 120. This course has class-year limits.",
+	"num": 220,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0800-1000",

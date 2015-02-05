@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Gloria J. Kiester"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Asian Music",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
-		"Gloria J. Kiester"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 1145-0110PM"

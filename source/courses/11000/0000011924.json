@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 300,
-	"name": "Advanced Poetry Wrtg",
-	"num": 371,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sem": 3,
+	"name": "Advanced Poetry Wrtg",
+	"num": 371,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

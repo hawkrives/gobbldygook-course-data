@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
+	"locations": [
+		"L 420"
+	],
 	"name": "Creative Nonfiction",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

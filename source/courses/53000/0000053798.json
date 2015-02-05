@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 300,
 	"name": "IR/20th - C Women's Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

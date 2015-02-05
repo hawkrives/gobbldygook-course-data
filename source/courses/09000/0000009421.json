@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Susan Lovett"
+	],
 	"level": 300,
 	"name": "IR/Young Adult Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Susan Lovett"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Young Adult Lit",
 	"type": "Research",

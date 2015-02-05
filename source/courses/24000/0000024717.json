@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 300,
+	"locations": [
+		"M 11"
+	],
 	"name": "Norsk Lit Etter 1890",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

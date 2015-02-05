@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"desc": "In the laboratory, students investigate and identify organic compounds, singly and in mixtures. Lectures and discussion sessions investigate various spectroscopic methods and their applications to the elucidation of the structure of organic compounds. Prerequisite: Chemistry 248 and 254. Offered during Interim.",
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Organic Analys/Theory",
 	"notes": "Lab hours to be arranged.",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"times": [
 		"M-F 0800-1000"

@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 22782,
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 190"
+	],
 	"name": "Cell/Molec Neuroscience",
 	"notes": "Students in Neuro 239 must also register for one lab Neuro 239 AL or BL.",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"RNS 190"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

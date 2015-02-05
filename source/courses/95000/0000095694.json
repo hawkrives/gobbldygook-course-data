@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Alyson Center"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"Alyson Center"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"Th 0850-1050"

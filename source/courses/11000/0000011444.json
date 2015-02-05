@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Helena Pohlandt-McCormick",
+		"Eric Lund"
+	],
 	"level": 200,
 	"name": "Hist/Rel S Africa",
 	"num": 252,
 	"pf": false,
-	"profs": [
-		"Helena Pohlandt-McCormick",
-		"Eric Lund"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"title": "Hist/Rel S Africa",
 	"type": "Research",

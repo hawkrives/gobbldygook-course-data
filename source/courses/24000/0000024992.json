@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Frank L. Odd"
+	],
 	"level": 300,
+	"locations": [
+		"M 21"
+	],
 	"name": "Seminar in Literature",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Frank L. Odd"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
-	"name": "Phil of Theology",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 516"
 	],
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Phil of Theology",
+	"num": 241,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 0935-1100",

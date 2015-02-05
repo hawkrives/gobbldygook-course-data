@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Maya Colonial-Present",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

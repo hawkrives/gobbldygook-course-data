@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 100,
+	"locations": [
+		"SC 280"
+	],
 	"name": "Biological Science",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 280"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

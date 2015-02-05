@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"L 515"
+	],
 	"name": "Lit/Social Change",
 	"num": 155,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0100-0300PM"

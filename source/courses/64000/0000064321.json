@@ -10,16 +10,17 @@
 		"HBS",
 		"ORC"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Wilson"
 	],
-	"sem": 4,
+	"level": 100,
+	"locations": [
+		"TB 227"
+	],
+	"num": 120,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20074,
 	"times": [
 		"M-F 1000-1130"

@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
 	"name": "IS/Phil - Hist: Ayn Rand",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "IS/Phil - Hist: Ayn Rand",
 	"type": "Research",

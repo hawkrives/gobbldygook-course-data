@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 200,
+	"locations": [
+		"M 2"
+	],
 	"name": "Vices and Virtues",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"John Poling"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 1040-1240PM"

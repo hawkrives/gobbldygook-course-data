@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 300,
 	"name": "IR/Godel's Theorem",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Humke"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"title": "Independent Research",
 	"type": "Research",

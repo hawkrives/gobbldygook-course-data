@@ -10,19 +10,20 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 100,
-	"name": "Intro to Art History",
-	"num": 153,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 305",
 		"DC 305"
 	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intro to Art History",
+	"num": 153,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

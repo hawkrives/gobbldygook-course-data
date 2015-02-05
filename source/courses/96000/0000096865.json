@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Sian E. Muir"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Sian E. Muir"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Internship",
 	"type": "Research",

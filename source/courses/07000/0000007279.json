@@ -5,19 +5,20 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 100,
-	"name": "Comparative Politics",
-	"num": 112,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Comparative Politics",
+	"num": 112,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "East Asia & the West",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

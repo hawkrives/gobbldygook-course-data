@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Margaret Ojala"
+	],
 	"level": 200,
+	"locations": [
+		"DC 102"
+	],
 	"name": "Photography",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"DC 102"
-	],
-	"profs": [
-		"Margaret Ojala"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0255PM"

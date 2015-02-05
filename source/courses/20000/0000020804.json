@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Janet Contursi"
+	],
 	"level": 100,
+	"locations": [
+		"MFH 230"
+	],
 	"name": "Int/Cult Anthropology",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"MFH 230"
-	],
-	"profs": [
-		"Janet Contursi"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

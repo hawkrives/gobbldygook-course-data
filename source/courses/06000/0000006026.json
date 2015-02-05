@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Theodore Vessey"
+	],
 	"level": 300,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Complex Analysis",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Theodore Vessey"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20031,
 	"times": [
 		"MWF 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Top: Stress Physiology",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"Th 0100-0400PM"

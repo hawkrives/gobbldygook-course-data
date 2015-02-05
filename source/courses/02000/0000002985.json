@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 100,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Principles Comp Sci",
 	"num": 172,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

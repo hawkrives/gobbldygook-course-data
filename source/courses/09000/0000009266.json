@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/Forensic Sci Res 2",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Forensic Sci Res 2",
 	"type": "Research",

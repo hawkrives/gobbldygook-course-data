@@ -5,14 +5,15 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 300,
 	"name": "Senior Project",
 	"num": 389,
 	"pf": false,
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "Senior Project",
 	"type": "Research",

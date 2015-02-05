@@ -5,17 +5,18 @@
 	"depts": [
 		"WMNST"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Intro Women's Studies",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0245PM"

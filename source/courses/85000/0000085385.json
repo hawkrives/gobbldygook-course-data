@@ -10,19 +10,20 @@
 		"ALS-A",
 		"WRI"
 	],
+	"instructors": [
+		"Amy E. Borden"
+	],
 	"level": 300,
-	"notes": "Film screenings Monday evenings from 7-10 p.m.",
-	"num": 310,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Amy E. Borden"
-	],
-	"sem": 3,
+	"notes": "Film screenings Monday evenings from 7-10 p.m.",
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"M 0700-1000PM",

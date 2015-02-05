@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Modrn Japanese Lit-Tr",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

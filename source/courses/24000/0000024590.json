@@ -5,17 +5,18 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 300,
+	"locations": [
+		"M 4"
+	],
 	"name": "Cont ISSues/Lat Amer",
 	"num": 333,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

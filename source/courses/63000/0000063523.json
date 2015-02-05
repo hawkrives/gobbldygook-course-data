@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 200,
 	"name": "IS/Develop. & Microcredit",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David Schodt"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Independent Study",
 	"type": "Research",

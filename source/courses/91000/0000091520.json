@@ -6,19 +6,20 @@
 		"BIO"
 	],
 	"groupid": 126,
-	"level": 200,
-	"name": "Human Anatomy & Physiol L",
-	"num": 243,
-	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
+	"instructors": [
 		"Steven Cole",
 		"David Van Wylen"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
+	"name": "Human Anatomy & Physiol L",
+	"num": 243,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"Th 0800-1100"

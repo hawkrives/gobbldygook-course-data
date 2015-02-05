@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 300,
 	"name": "IR/Investment Systems",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Investment Systems",
 	"type": "Research",

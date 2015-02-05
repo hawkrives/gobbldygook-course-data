@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Dev of French Civiliz",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0120-0245PM"

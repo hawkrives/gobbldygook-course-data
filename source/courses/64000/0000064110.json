@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 200,
-	"name": "Shakespeare & Contemp",
-	"num": 280,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 3,
+	"name": "Shakespeare & Contemp",
+	"num": 280,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

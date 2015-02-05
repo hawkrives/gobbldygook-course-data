@@ -12,18 +12,19 @@
 		"SED"
 	],
 	"groupid": 18802,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Integrated Chem/Bio III",
 	"notes": "Students in CH/BI 227 must also register for lab CH/BI 227 AL or BL. Open only to those students who have completed CH/BI 126.",
 	"num": 227,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

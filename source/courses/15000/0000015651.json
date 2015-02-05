@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Conservatism in Amer",
 	"num": 119,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "Conservatism in Amer",
 	"type": "Research",

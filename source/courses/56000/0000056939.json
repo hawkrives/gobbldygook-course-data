@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "This is an advanced course in the area of political thought. The topic, either a detailed study of major works or themes in political philosophy, will vary with each offering.",
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 300,
-	"name": "Studies Pol Thought",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sem": 1,
+	"name": "Studies Pol Thought",
+	"num": 384,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"T 0800-0925",

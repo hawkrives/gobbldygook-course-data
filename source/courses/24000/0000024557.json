@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning Greek II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0800-0855"

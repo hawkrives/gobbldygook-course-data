@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 100,
+	"locations": [
+		"H 515"
+	],
 	"name": "America Since 1945",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

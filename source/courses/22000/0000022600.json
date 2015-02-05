@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Sigrid Johnson"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Voice Class",
 	"num": 164,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Sigrid Johnson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MW 1045-1140"

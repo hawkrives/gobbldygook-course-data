@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "Internship",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Christine Daymont"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 2"
+	],
 	"name": "Physiology/Exercise",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"SAC 2"
-	],
-	"profs": [
-		"Christine Daymont"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

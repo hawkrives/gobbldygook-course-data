@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Cassidy R. Terrell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "General Chemistry Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Cassidy R. Terrell"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"F 0100-0400PM"

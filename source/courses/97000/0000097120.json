@@ -6,18 +6,19 @@
 		"CSCI"
 	],
 	"desc": "Recent and planned topics include parallel and distributed computing, mobile computer graphics, and relational database systems. May be repeated if topics are different. Offered alternate years.",
+	"instructors": [
+		"Olaf A. Hall-Holt"
+	],
 	"level": 300,
-	"name": "Top: Mobile Web Graphics",
-	"num": 300,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 203",
 		"RNS 203"
 	],
-	"profs": [
-		"Olaf A. Hall-Holt"
-	],
-	"sem": 1,
+	"name": "Top: Mobile Web Graphics",
+	"num": 300,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0800-0925",

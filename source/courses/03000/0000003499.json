@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Them Sem: Theol,Music",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

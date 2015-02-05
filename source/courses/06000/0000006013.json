@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 200,
-	"name": "Multivariable Calc",
-	"num": 226,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Multivariable Calc",
+	"num": 226,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"James Cederberg"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"Th 0820-1050"

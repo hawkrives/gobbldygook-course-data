@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
-	"level": 100,
-	"name": "Acting--Lyric Stage",
-	"num": 131,
-	"pf": false,
-	"places": [
-		"SPT RHT"
-	],
-	"profs": [
+	"instructors": [
 		"Janis Hardy",
 		"Karen Wilson"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SPT RHT"
+	],
+	"name": "Acting--Lyric Stage",
+	"num": 131,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0110PM"

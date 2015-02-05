@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "An introduction to non-Western music, this course explores ethnically diverse performance practices and styles, ethnomusicological techniques for studying non-Western music, and the relationship of music of various cultures to events important to those cultures. Offered Fall Semester.",
-	"level": 200,
-	"num": 237,
-	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
+	"instructors": [
 		"David Hagedorn"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"CHM 233"
+	],
+	"num": 237,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"MWF 1045-1140"

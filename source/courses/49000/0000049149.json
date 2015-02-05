@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Rebecca M. Starr"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Children and Technology",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Rebecca M. Starr"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"times": [
 		"M-F 0100-0300PM"

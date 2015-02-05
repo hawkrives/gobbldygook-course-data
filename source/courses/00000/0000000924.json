@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 200,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Pol/Liberation Theol",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

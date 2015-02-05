@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 227"
+	],
 	"name": "Plant Physiology",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"SC 227"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"Th 1145-0245PM"

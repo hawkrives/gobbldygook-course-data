@@ -12,19 +12,20 @@
 	],
 	"groupid": 106,
 	"grouptype": "3",
+	"instructors": [
+		"Lisa Y. Lenertz"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Cell Bio & Genetics",
 	"notes": "Students in Bio 125C must also register for one lab Bio 125 GL, HL, or IL. This course has class year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Lisa Y. Lenertz"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 1045-1140"

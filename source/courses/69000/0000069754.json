@@ -10,15 +10,16 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 200,
 	"name": "Modern Irish Lit",
 	"notes": "This is an off-campus course.",
 	"num": 224,
 	"pf": false,
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"title": "Modern Irish Literature",
 	"type": "Research",

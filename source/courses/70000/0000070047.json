@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HWC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 426"
+	],
 	"name": "Making of Modern Mind",
 	"notes": "This class has been canceled.",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"RNS 426"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20084,
 	"times": [
 		"M-F 1230-0200PM"

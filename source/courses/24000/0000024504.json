@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Enviro Policy/Regulat",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

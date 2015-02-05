@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 100,
-	"name": "Beginning German I",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 3,
+	"name": "Beginning German I",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

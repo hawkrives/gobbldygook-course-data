@@ -5,20 +5,21 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
-	"name": "Vertebrate Biology",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 278",
 		"SC 269"
 	],
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Vertebrate Biology",
+	"num": 242,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

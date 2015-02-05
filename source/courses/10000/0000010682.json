@@ -8,17 +8,18 @@
 	"desc": "This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential and logarithmic functions. Derivatives and integrals are explored graphically, symbolically and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Credit may be earned for either Mathematics 120 or 122, but not both.",
 	"groupid": 731,
 	"grouptype": "5",
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
+	"instructors": [
 		"Susan S. Roosenraad"
 	],
-	"sect": "G",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SC 184"
+	],
+	"num": 120,
+	"pf": false,
+	"section": "G",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"MWF 0800-0855"

@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Operations Research",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

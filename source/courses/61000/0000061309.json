@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
+	"instructors": [
 		"Alexander Woo"
 	],
-	"sect": "D",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SC 188"
+	],
+	"num": 120,
+	"pf": false,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "G",
-	"sem": 2,
+	"section": "G",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "Academic Internship",
 	"type": "Research",

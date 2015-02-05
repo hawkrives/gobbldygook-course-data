@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB 216",
 		"TB 216"
 	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sect": "L",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

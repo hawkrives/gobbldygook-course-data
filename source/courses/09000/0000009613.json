@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"John M. Ophaug"
+	],
 	"level": 200,
-	"name": "Legal Aspects of Bus",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"John M. Ophaug"
-	],
-	"sem": 3,
+	"name": "Legal Aspects of Bus",
+	"num": 252,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

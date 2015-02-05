@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 300,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Top in Lit Eras: Amer",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

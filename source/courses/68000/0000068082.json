@@ -10,15 +10,16 @@
 		"ALS-A",
 		"HWC"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 200,
 	"name": "Class Studies Greece",
 	"notes": "This is an off-campus course.",
 	"num": 251,
 	"pf": false,
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"title": "Classical Studies in Greece",
 	"type": "Research",

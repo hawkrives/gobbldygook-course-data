@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one Level III course in philosophy.",
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Natural Law Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

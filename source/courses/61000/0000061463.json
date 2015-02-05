@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Gen Chemistry/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Mary Walczak"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"Th 0300-0600PM"

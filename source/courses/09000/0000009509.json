@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"David M. Perry"
+	],
 	"level": 200,
-	"name": "High/Late Middle Ages",
-	"num": 212,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 001",
 		"OM 001"
 	],
-	"profs": [
-		"David M. Perry"
-	],
-	"sem": 3,
+	"name": "High/Late Middle Ages",
+	"num": 212,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "America 1490-1865",
 	"num": 205,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 0800-0930"

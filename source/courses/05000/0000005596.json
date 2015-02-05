@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 378"
+	],
 	"name": "Organic Chemistry",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"DC 378"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 0800-0930"

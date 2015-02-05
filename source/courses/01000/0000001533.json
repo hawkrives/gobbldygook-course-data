@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Sport Ethic-Society",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

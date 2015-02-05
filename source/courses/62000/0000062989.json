@@ -10,18 +10,19 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 200,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Intermed Spanish II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

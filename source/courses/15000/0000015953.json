@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Lit in Engl to 1650",
 	"num": 221,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MW 0905-1000"

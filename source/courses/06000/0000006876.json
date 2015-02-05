@@ -5,19 +5,20 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
-	"name": "Modern Dance I (.25)",
-	"num": 111,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC _STUDIO_1",
 		"DC _STUDIO_1"
 	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Modern Dance I (.25)",
+	"num": 111,
+	"pf": true,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0905-1000",

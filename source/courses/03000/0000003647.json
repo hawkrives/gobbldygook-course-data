@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Marisol Galicia"
+	],
 	"level": 100,
+	"locations": [
+		"M 2"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Marisol Galicia"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 1000-1130"

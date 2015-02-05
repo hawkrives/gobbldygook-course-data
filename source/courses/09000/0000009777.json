@@ -5,15 +5,16 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Bryan G. DeMaine"
+	],
 	"level": 200,
 	"name": "IS/Training Programs",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Bryan G. DeMaine"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Training Programs",
 	"type": "Research",

@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 100,
 	"name": "Principles Physics I",
 	"num": 124,
 	"pf": false,
-	"profs": [
-		"Amy Kolan"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Principles Physics I",
 	"type": "Research",

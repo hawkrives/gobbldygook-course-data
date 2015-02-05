@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 300,
 	"name": "IR/Charles Dickens",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"title": "IR/Charles Dickens",
 	"type": "Research",

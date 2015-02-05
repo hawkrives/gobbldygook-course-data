@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Athens & Rome",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MWF 0800-0855"

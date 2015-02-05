@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
-	"level": 300,
-	"name": "Mathematics Practicum",
-	"num": 390,
-	"pf": false,
-	"places": [
-		"MFH 230"
-	],
-	"profs": [
+	"instructors": [
 		"Steven McKelvey",
 		"Richard Single"
 	],
-	"sem": 2,
+	"level": 300,
+	"locations": [
+		"MFH 230"
+	],
+	"name": "Mathematics Practicum",
+	"num": 390,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0800-0100PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1072,
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Prin Physics I/Lab",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0230-0500PM"

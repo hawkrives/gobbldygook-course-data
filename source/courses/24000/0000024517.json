@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Per Stud: 18th Century",
 	"num": 273,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

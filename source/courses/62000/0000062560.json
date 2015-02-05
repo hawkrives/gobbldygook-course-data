@@ -6,14 +6,15 @@
 		"PSCI"
 	],
 	"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Internship",
 	"type": "Research",

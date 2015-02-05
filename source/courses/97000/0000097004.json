@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/IRMS Thread Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "M",
-	"sem": 3,
+	"section": "M",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 171,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
-	"notes": "Students in Bio 386 must also register for one lab Bio 386 AL or BL.",
-	"num": 386,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 124",
 		"RNS 124"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 386 must also register for one lab Bio 386 AL or BL.",
+	"num": 386,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-0925",

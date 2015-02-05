@@ -10,20 +10,21 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Michael Fuerstein"
+	],
 	"level": 200,
+	"locations": [
+		"HH 501",
+		"HH 501"
+	],
 	"name": "Law, Politics, Morality",
 	"notes": "Prerequisite: Completion of BTS-T requirement or consent of instructor. Open only to seniors and juniors during web registration.",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"HH 501",
-		"HH 501"
-	],
-	"profs": [
-		"Michael Fuerstein"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 1145-0110PM",

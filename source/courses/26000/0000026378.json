@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Ballet II",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

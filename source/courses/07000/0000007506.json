@@ -5,17 +5,18 @@
 	"depts": [
 		"ARMS"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Top: Rel Autobiography",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

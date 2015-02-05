@@ -10,18 +10,19 @@
 		"WRI"
 	],
 	"groupid": 130,
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
-	"notes": "Students in Bio 248 must also register for one lab Bio 248 AL or BL.",
-	"num": 248,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 297",
 		"RNS 297"
 	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sem": 1,
+	"notes": "Students in Bio 248 must also register for one lab Bio 248 AL or BL.",
+	"num": 248,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"times": [
 		"T 0935-1100",

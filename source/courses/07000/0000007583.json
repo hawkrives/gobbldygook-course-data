@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Distributive Justice",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20035,
 	"times": [
 		"M-F 1000-1130"

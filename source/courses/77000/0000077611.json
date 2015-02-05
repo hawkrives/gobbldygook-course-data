@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Stephen Chojnacki"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "General Chemistry Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Stephen Chojnacki"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 1145-0245PM"

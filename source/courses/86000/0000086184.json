@@ -11,17 +11,18 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20114,
 	"times": [
 		"M-F 0230-0400PM"

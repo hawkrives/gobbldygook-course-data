@@ -11,19 +11,20 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 100,
+	"locations": [
+		"HH 322"
+	],
 	"name": "America Since WW II",
 	"notes": "Open to first-year students only.",
 	"num": 182,
 	"pf": false,
-	"places": [
-		"HH 322"
-	],
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

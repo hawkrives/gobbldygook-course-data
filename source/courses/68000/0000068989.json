@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mark P. Bresnan",
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "IR/Green Reading",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark P. Bresnan",
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

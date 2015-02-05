@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 158,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 393"
+	],
 	"name": "Cell Physiology Lab",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"RNS 393"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"Th 0800-1100"

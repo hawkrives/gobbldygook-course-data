@@ -10,16 +10,17 @@
 		"FOL-G",
 		"WRI"
 	],
-	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
-		"TOH 312"
-	],
-	"profs": [
+	"instructors": [
 		"Karl Fink"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"TOH 312"
+	],
+	"num": 252,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1150-1245PM"

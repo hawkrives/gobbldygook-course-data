@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "Calculus I",
 	"type": "Research",

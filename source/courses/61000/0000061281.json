@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"David Booth"
-	],
-	"sect": "L",
-	"sem": 1,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "L",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 1145-0110PM",

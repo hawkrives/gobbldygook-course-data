@@ -5,15 +5,16 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/4th Year Japanese",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IS/4th Year Japanese",
 	"type": "Research",

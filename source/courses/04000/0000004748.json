@@ -5,18 +5,19 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 100,
-	"name": "Asian Cultures",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sem": 3,
+	"name": "Asian Cultures",
+	"num": 121,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

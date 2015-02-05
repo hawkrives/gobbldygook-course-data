@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Ethical ISS: Software",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

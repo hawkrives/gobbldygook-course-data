@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 300,
 	"name": "Sem: The Romantics",
 	"num": 399,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Sem: The Romantics",
 	"type": "Seminar",

@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 300,
+	"locations": [
+		"SC 321"
+	],
 	"name": "Spectro-Crystallo Lab",
 	"num": 376,
 	"pf": true,
-	"places": [
-		"SC 321"
-	],
-	"profs": [
-		"Mary Walczak"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"W 1255-0355PM"

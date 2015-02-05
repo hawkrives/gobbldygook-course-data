@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
-	"name": "Winter Ecology",
-	"num": 281,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OF INTERIM",
 		"OF INTERIM"
 	],
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sem": 2,
+	"name": "Winter Ecology",
+	"num": 281,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"TW 0800-1000",

@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 20",
 		"FH 1 PLENARY"
 	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM",

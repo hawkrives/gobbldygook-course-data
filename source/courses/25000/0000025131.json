@@ -5,14 +5,15 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
 	"name": "Writing German",
 	"num": 251,
 	"pf": false,
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19985,
 	"title": "Writing German",
 	"type": "Research",

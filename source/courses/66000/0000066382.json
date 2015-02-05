@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Trina Smith"
+	],
 	"level": 200,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Global Interdepend",
 	"notes": "Not open to first-year students.",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Trina Smith"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-F 0100-0300PM"

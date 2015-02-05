@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jeff Solomon"
+	],
 	"level": 200,
 	"name": "IS/Maupin's City on Hill",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jeff Solomon"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

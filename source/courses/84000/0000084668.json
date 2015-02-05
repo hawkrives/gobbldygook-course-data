@@ -6,15 +6,16 @@
 		"PSYCH"
 	],
 	"groupid": 20162,
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "History and Methods Lab",
 	"num": 130,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "X",
 	"term": 20123,
 	"times": [
 		"W 0200-0500PM"

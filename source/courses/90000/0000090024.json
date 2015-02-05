@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 305",
 		"OM 305"
 	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "O",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

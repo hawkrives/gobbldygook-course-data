@@ -5,19 +5,20 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 100,
-	"name": "Intro to Sociology",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 026",
 		"OM 026"
 	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Intro to Sociology",
+	"num": 121,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

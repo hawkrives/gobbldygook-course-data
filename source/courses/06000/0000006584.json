@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Scott Homler"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Scott Homler"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "Academic Internship",
 	"type": "Research",

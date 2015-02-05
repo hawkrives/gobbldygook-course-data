@@ -5,14 +5,15 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "IR/Secure Linux Proj",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Secure Linux Proj",
 	"type": "Research",

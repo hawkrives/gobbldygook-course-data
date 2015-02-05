@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 100,
+	"locations": [
+		"L 420"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1240PM"

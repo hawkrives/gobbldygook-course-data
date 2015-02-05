@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul Niemisto"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Basic Instr Technique",
 	"num": 165,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Paul Niemisto"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0800-0855"

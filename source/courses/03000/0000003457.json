@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 100,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

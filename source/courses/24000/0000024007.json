@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Amy Jessen-Marshall"
+	],
 	"level": 100,
-	"name": "Cellular Bio & Genetics",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 253",
 		"SC 253",
 		"SC 274"
 	],
-	"profs": [
-		"Amy Jessen-Marshall"
-	],
-	"sem": 2,
+	"name": "Cellular Bio & Genetics",
+	"num": 125,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"times": [
 		"M-F 0800-1000",

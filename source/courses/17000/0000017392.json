@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"J Wesley Brown"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Developmental Psych",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"J Wesley Brown"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"MWF 1045-1140"

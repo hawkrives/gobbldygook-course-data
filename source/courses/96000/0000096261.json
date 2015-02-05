@@ -10,17 +10,18 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
+	"locations": [
+		"OM 140"
+	],
 	"name": "Modern Philosophy",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"OM 140"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

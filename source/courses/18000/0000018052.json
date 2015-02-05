@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 300,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Mgmt Policy & Strat",
 	"num": 383,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

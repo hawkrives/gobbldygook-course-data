@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 200,
-	"name": "Chr Theol in History",
-	"num": 212,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 340",
 		"OM 340"
 	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sem": 3,
+	"name": "Chr Theol in History",
+	"num": 212,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Steven McKelvey",
+		"Richard Brown"
+	],
 	"level": 200,
 	"name": "IS/Data Structures",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Steven McKelvey",
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Data Structures",
 	"type": "Research",

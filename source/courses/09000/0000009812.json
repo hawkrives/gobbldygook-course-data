@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Sheryl D. Breen"
+	],
 	"level": 200,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Analyzing Politics",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Sheryl D. Breen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

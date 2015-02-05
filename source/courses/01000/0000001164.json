@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Martha Harris"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Teaching of English",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Martha Harris"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

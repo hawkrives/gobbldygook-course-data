@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Dwight R. Stoll"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/363"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 374/363"
-	],
-	"profs": [
-		"Dwight R. Stoll"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"W 0200-0500PM"

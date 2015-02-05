@@ -7,18 +7,19 @@
 		"BIO"
 	],
 	"groupid": 18802,
+	"instructors": [
+		"Kimberly A. Kandl"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 394"
+	],
 	"name": "Integr Chem/Bio III Lab",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"RNS 394"
-	],
-	"profs": [
-		"Kimberly A. Kandl"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"Th 0800-1100"

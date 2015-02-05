@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
+	"instructors": [
 		"Richard DuRocher",
 		"Carol Holly"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"L 525"
+	],
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MW 1150-1245PM",

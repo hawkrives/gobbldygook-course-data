@@ -10,17 +10,18 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"William H. Bridges IV"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Mod Japanese Lit-Tr",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"William H. Bridges IV"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

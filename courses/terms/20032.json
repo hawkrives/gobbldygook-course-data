@@ -7,14 +7,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "IS/Sustain/Community",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Farrell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Sustain/Community",
 			"type": "Research",
@@ -27,15 +28,16 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "IS/WTO/Globalization",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Farrell"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/WTO/Globalization",
 			"type": "Research",
@@ -48,19 +50,20 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Mollie Rabiner"
+			],
 			"level": 100,
-			"name": "Foundation Sculpture",
-			"num": 122,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 106",
 				"DC 106",
 				"DC 106"
 			],
-			"profs": [
-				"Mollie Rabiner"
-			],
-			"sem": 2,
+			"name": "Foundation Sculpture",
+			"num": 122,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -78,19 +81,20 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Kristen Lowe"
+			],
 			"level": 200,
-			"name": "Advanced Drawing",
-			"num": 233,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 216",
 				"DC 216",
 				"DC 216"
 			],
-			"profs": [
-				"Kristen Lowe"
-			],
-			"sem": 2,
+			"name": "Advanced Drawing",
+			"num": 233,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -108,14 +112,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"John Saurer"
+			],
 			"level": 200,
 			"name": "Manhattan Art Interim",
 			"num": 246,
 			"pf": false,
-			"profs": [
-				"John Saurer"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Manhattan Art Interim",
 			"type": "Research",
@@ -128,17 +133,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Matthew Rohn"
+			],
 			"level": 200,
+			"locations": [
+				"DC 305"
+			],
 			"name": "Art Since 1950",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"DC 305"
-			],
-			"profs": [
-				"Matthew Rohn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -154,14 +160,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Nancy M. Thompson"
+			],
 			"level": 200,
 			"name": "Ital Art in Context",
 			"num": 255,
 			"pf": false,
-			"profs": [
-				"Nancy M. Thompson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Ital Art in Context",
 			"type": "Research",
@@ -174,14 +181,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -194,15 +202,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Heather M. Brooks-Shirey"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -215,14 +224,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Ron Gallas"
+			],
 			"level": 200,
 			"name": "IS/Ceramics Hand",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Ron Gallas"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Ceramics Hand",
 			"type": "Research",
@@ -235,15 +245,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Adv Painting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Adv Painting",
 			"type": "Research",
@@ -256,15 +267,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Pre-Sr Studies",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Pre-Sr Studies",
 			"type": "Research",
@@ -277,14 +289,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 300,
 			"name": "IR/Drawing-Vis Poetry",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Drawing-Vis Poetry",
 			"type": "Research",
@@ -297,15 +310,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 300,
 			"name": "IR/Adv Drawing II",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Adv Drawing II",
 			"type": "Research",
@@ -318,15 +332,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Margaret Ojala"
+			],
 			"level": 300,
 			"name": "IR/Photography India",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Margaret Ojala"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Photography India",
 			"type": "Research",
@@ -339,18 +354,19 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Phyllis Hyland Larson"
+			],
 			"level": 100,
-			"name": "Intro Japnese Film-Tr",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 501",
 				"HH 501"
 			],
-			"profs": [
-				"Phyllis Hyland Larson"
-			],
-			"sem": 2,
+			"name": "Intro Japnese Film-Tr",
+			"num": 124,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-Th 1040-1240PM",
@@ -367,18 +383,19 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Shannon Cannella"
+			],
 			"level": 100,
-			"name": "Cont Chinese Women Wr",
-			"num": 151,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 002",
 				"OM 002"
 			],
-			"profs": [
-				"Shannon Cannella"
-			],
-			"sem": 2,
+			"name": "Cont Chinese Women Wr",
+			"num": 151,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-Th 1040-1240PM",
@@ -395,14 +412,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Pin Pin Wan"
+			],
 			"level": 200,
 			"name": "Nat ID/China & Japan",
 			"num": 212,
 			"pf": false,
-			"profs": [
-				"Pin Pin Wan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Nat ID/China & Japan",
 			"type": "Research",
@@ -415,17 +433,18 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Katherine S. Tegtmeyer Pak"
+			],
 			"level": 200,
+			"locations": [
+				"OM 015"
+			],
 			"name": "Intl Politics Ne Asia",
 			"num": 245,
 			"pf": false,
-			"places": [
-				"OM 015"
-			],
-			"profs": [
-				"Katherine S. Tegtmeyer Pak"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -441,14 +460,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Pin Pin Wan"
+			],
 			"level": 200,
 			"name": "IS/China's Education",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Pin Pin Wan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/China's Education",
 			"type": "Research",
@@ -461,15 +481,16 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Barbara Reed"
+			],
 			"level": 200,
 			"name": "IS/Cao-Dai Religion",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Barbara Reed"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Cao-Dai Religion",
 			"type": "Research",
@@ -482,19 +503,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Mary C. Henry"
+			],
 			"level": 100,
-			"name": "The Biology of Women",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 130",
 				"SC 130"
 			],
-			"profs": [
-				"Mary C. Henry"
-			],
-			"sect": "A",
-			"sem": 2,
+			"name": "The Biology of Women",
+			"num": 124,
+			"pf": false,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM",
@@ -511,19 +533,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane M. Maher"
+			],
 			"level": 100,
-			"name": "The Biology of Women",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 274",
 				"SC 278"
 			],
-			"profs": [
-				"Diane M. Maher"
-			],
-			"sect": "B",
-			"sem": 2,
+			"name": "The Biology of Women",
+			"num": 124,
+			"pf": false,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -540,19 +563,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Jason D. Hill"
+			],
 			"level": 100,
-			"name": "Cellular Bio & Genetics",
-			"num": 125,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 273",
 				"SC 273",
 				"SC 274"
 			],
-			"profs": [
-				"Jason D. Hill"
-			],
-			"sem": 2,
+			"name": "Cellular Bio & Genetics",
+			"num": 125,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000",
@@ -570,18 +594,19 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 100,
-			"name": "Genetics/Evolut/Soc",
-			"num": 127,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 278",
 				"SC 211"
 			],
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 2,
+			"name": "Genetics/Evolut/Soc",
+			"num": 127,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1200PM",
@@ -598,18 +623,19 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
-			"name": "Thinking & Doing Bio",
-			"num": 135,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 227",
 				"SC 227"
 			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 2,
+			"name": "Thinking & Doing Bio",
+			"num": 135,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -626,14 +652,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"David Van Wylen"
+			],
 			"level": 200,
 			"name": "Cardiac Physiology",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"David Van Wylen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Cardiac Physiology",
 			"type": "Research",
@@ -646,14 +673,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Eric Cole"
+			],
 			"level": 200,
 			"name": "Island Biol/Polynesia",
 			"num": 258,
 			"pf": false,
-			"profs": [
-				"Eric Cole"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Island Biol/Polynesia",
 			"type": "Research",
@@ -666,14 +694,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
 			"name": "Winter Ecology",
 			"num": 281,
 			"pf": false,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Winter Ecology",
 			"type": "Research",
@@ -686,14 +715,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Kimberly A. Kandl"
+			],
 			"level": 200,
 			"name": "Desert Biology",
 			"num": 282,
 			"pf": false,
-			"profs": [
-				"Kimberly A. Kandl"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Desert Biology",
 			"type": "Research",
@@ -706,19 +736,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Michael Swift"
+			],
 			"level": 200,
-			"name": "Water Resource Mgmt",
-			"num": 285,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 248",
 				"SC 248",
 				"SC 248"
 			],
-			"profs": [
-				"Michael Swift"
-			],
-			"sem": 2,
+			"name": "Water Resource Mgmt",
+			"num": 285,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000",
@@ -736,14 +767,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -756,15 +788,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -777,15 +810,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"John Giannini"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -798,15 +832,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -819,15 +854,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Theodore Johnson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Theodore Johnson"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -840,15 +876,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Kimberly A. Kandl"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kimberly A. Kandl"
-			],
-			"sect": "E",
-			"sem": 2,
+			"section": "E",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -861,15 +898,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sect": "F",
-			"sem": 2,
+			"section": "F",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -882,15 +920,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "G",
-			"sem": 2,
+			"section": "G",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -903,15 +942,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Michael Swift"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Michael Swift"
-			],
-			"sect": "H",
-			"sem": 2,
+			"section": "H",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -924,15 +964,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"David Van Wylen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David Van Wylen"
-			],
-			"sect": "I",
-			"sem": 2,
+			"section": "I",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -945,15 +986,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "J",
-			"sem": 2,
+			"section": "J",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -966,14 +1008,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"William Jurney"
+			],
 			"level": 200,
 			"name": "IS/Orthopedic Injury",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"William Jurney"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Orthopedic Injury",
 			"type": "Research",
@@ -986,15 +1029,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 200,
 			"name": "IS/Cellular Biology",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Cellular Biology",
 			"type": "Research",
@@ -1007,15 +1051,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Stephen Cronin"
+			],
 			"level": 200,
 			"name": "IS/P53 Gene & Cancer",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Stephen Cronin"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/P53 Gene & Cancer",
 			"type": "Research",
@@ -1028,15 +1073,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 200,
 			"name": "IS/Marine Ecology",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Marine Ecology",
 			"type": "Research",
@@ -1049,15 +1095,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "IS/Medical Shadowing",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Medical Shadowing",
 			"type": "Research",
@@ -1070,15 +1117,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "IS/The Dead Zone",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sect": "E",
-			"sem": 2,
+			"section": "E",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/The Dead Zone",
 			"type": "Research",
@@ -1091,15 +1139,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 200,
 			"name": "IS/Lower Limb Injury",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sect": "F",
-			"sem": 2,
+			"section": "F",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Lower Limb Injury",
 			"type": "Research",
@@ -1112,19 +1161,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 300,
-			"name": "Zoo Biology",
-			"num": 310,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 210",
 				"SC 210",
 				"SC 210"
 			],
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sem": 2,
+			"name": "Zoo Biology",
+			"num": 310,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000",
@@ -1142,17 +1192,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gregory W. Muth"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374"
+			],
 			"name": "Chem-Life's Beginning",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"SC 374"
-			],
-			"profs": [
-				"Gregory W. Muth"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1168,17 +1219,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Beth Abdella"
+			],
 			"level": 100,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Atom/Molec Structure",
 			"num": 123,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Beth Abdella"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1194,18 +1246,19 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 100,
-			"name": "Environmental Chem",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 374",
 				"SC 363"
 			],
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sem": 2,
+			"name": "Environmental Chem",
+			"num": 124,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000",
@@ -1222,17 +1275,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gary O. Spessard"
+			],
 			"level": 200,
+			"locations": [
+				"SC 310"
+			],
 			"name": "Organometallic Chem",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"SC 310"
-			],
-			"profs": [
-				"Gary O. Spessard"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1248,14 +1302,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1268,15 +1323,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1289,17 +1345,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Robert Hanson"
+			],
 			"level": 300,
+			"locations": [
+				"SC 310"
+			],
 			"name": "Organic Analys/Theory",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"SC 310"
-			],
-			"profs": [
-				"Robert Hanson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000"
@@ -1315,14 +1372,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Jeffrey J. Schwinefus"
+			],
 			"level": 300,
 			"name": "IR/DNA Hydration",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jeffrey J. Schwinefus"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/DNA Hydration",
 			"type": "Research",
@@ -1335,17 +1393,18 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Anne Groton"
+			],
 			"level": 100,
+			"locations": [
+				"OM 031"
+			],
 			"name": "Ancient Comedy-Tr",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"OM 031"
-			],
-			"profs": [
-				"Anne Groton"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1361,14 +1420,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Steve T. Reece"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Steve T. Reece"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1381,14 +1441,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Jon Bruss"
+			],
 			"level": 300,
 			"name": "IR/Advanced Nt Greek",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jon Bruss"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Advanced Nt Greek",
 			"type": "Research",
@@ -1401,15 +1462,16 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Christopher M. Brunelle"
+			],
 			"level": 300,
 			"name": "IR/Anc Grk Vocal Tone",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Christopher M. Brunelle"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Anc Grk Vocal Tone",
 			"type": "Research",
@@ -1422,17 +1484,18 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Robert Will"
+			],
 			"level": 100,
+			"locations": [
+				"HH 317"
+			],
 			"name": "Capitalism: Econ Hist",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"HH 317"
-			],
-			"profs": [
-				"Robert Will"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1448,14 +1511,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Xun Pomponio"
+			],
 			"level": 200,
 			"name": "Econ Progress China",
 			"num": 218,
 			"pf": false,
-			"profs": [
-				"Xun Pomponio"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Econ Progress China",
 			"type": "Research",
@@ -1468,14 +1532,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"William L. Carlson"
+			],
 			"level": 200,
 			"name": "Britain in Transition",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"William L. Carlson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Britain in Transition",
 			"type": "Research",
@@ -1488,14 +1553,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1508,15 +1574,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1529,14 +1596,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"name": "IS/Chinese Revolution",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Chinese Revolution",
 			"type": "Research",
@@ -1549,15 +1617,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"name": "IS/My Business Eval",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/My Business Eval",
 			"type": "Research",
@@ -1570,15 +1639,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"name": "IS/Econ of Sports",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Econ of Sports",
 			"type": "Research",
@@ -1591,14 +1661,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Anthony Becker"
+			],
 			"level": 300,
 			"name": "IR/Econ Impact Study",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Anthony Becker"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Econ Impact Study",
 			"type": "Research",
@@ -1611,15 +1682,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Rebecca Judge"
+			],
 			"level": 300,
 			"name": "IR/Environ Econ: China",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Rebecca Judge"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Environ Econ: China",
 			"type": "Research",
@@ -1632,19 +1704,20 @@
 			"depts": [
 				"CSCI"
 			],
-			"level": 300,
-			"name": "Sem: Bioinfomatics",
-			"num": 378,
-			"pf": false,
-			"places": [
-				"SC 186",
-				"SC 186"
-			],
-			"profs": [
+			"instructors": [
 				"Laurent Trilling",
 				"Richard Allen"
 			],
-			"sem": 2,
+			"level": 300,
+			"locations": [
+				"SC 186",
+				"SC 186"
+			],
+			"name": "Sem: Bioinfomatics",
+			"num": 378,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0830-1000",
@@ -1661,14 +1734,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Maria L. Kelly"
+			],
 			"level": 100,
 			"name": "Schools & Communities",
 			"num": 170,
 			"pf": true,
-			"profs": [
-				"Maria L. Kelly"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Schools & Communities",
 			"type": "Research",
@@ -1681,14 +1755,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Myron L. Solid"
+			],
 			"level": 200,
 			"name": "Perspectives On Tchg",
 			"num": 260,
 			"pf": true,
-			"profs": [
-				"Myron L. Solid"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Perspectives On Tchg",
 			"type": "Research",
@@ -1701,14 +1776,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"John Welckle"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"John Welckle"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1721,14 +1797,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Maria L. Kelly"
+			],
 			"level": 200,
 			"name": "IS/Education in Uk",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Maria L. Kelly"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Education in Uk",
 			"type": "Research",
@@ -1741,14 +1818,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Mark Schelske"
+			],
 			"level": 300,
 			"name": "Multi-Cult Ed Hawaii",
 			"num": 378,
 			"pf": true,
-			"profs": [
-				"Mark Schelske"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Multi-Cult Ed Hawaii",
 			"type": "Research",
@@ -1761,14 +1839,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Rosemary A. Pfarr-Baker"
+			],
 			"level": 300,
 			"name": "Urban Ed Practicum",
 			"num": 379,
 			"pf": true,
-			"profs": [
-				"Rosemary A. Pfarr-Baker"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Urban Ed Practicum",
 			"type": "Research",
@@ -1781,18 +1860,19 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Anne von Bibra"
+			],
 			"level": 100,
-			"name": "World Dance Tradit'ns",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 305",
 				"DC _STUDIO_1"
 			],
-			"profs": [
-				"Anne von Bibra"
-			],
-			"sem": 2,
+			"name": "World Dance Tradit'ns",
+			"num": 124,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -1809,18 +1889,19 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Anthony Roberts"
+			],
 			"level": 100,
-			"name": "Dancing With Computer",
-			"num": 150,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC _STUDIO_1",
 				"DC 100"
 			],
-			"profs": [
-				"Anthony Roberts"
-			],
-			"sem": 2,
+			"name": "Dancing With Computer",
+			"num": 150,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -1837,17 +1918,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen E. Marsalek"
+			],
 			"level": 100,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Reading for Life",
 			"num": 132,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"Karen E. Marsalek"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1863,17 +1945,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Detective Fiction",
 			"num": 169,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1889,17 +1972,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mary Steen"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Fiction Down Under",
 			"num": 215,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Mary Steen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1915,14 +1999,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Richard DuRocher"
+			],
 			"level": 200,
 			"name": "Modern IRish Lit",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Richard DuRocher"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Modern IRish Lit",
 			"type": "Research",
@@ -1935,17 +2020,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Eliot K. Wilson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Creative Writing I",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Eliot K. Wilson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -1961,14 +2047,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Richard Buckstead"
+			],
 			"level": 200,
 			"name": "Hemingway in Cuba",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"Richard Buckstead"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Hemingway in Cuba",
 			"type": "Research",
@@ -1981,17 +2068,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joan Hepburn"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Studies in Drama",
 			"num": 282,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Joan Hepburn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2007,17 +2095,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mary E. Trull"
+			],
 			"level": 300,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Top in Lit Eras: Brit",
 			"num": 330,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Mary E. Trull"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2033,14 +2122,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen E. Marsalek"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Karen E. Marsalek"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2053,14 +2143,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 300,
 			"name": "IR/The Inklings",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/The Inklings",
 			"type": "Research",
@@ -2073,19 +2164,20 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 100,
-			"name": "Intro: Enviro Studies",
-			"num": 137,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 129",
 				"SC 129",
 				"SC 129"
 			],
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sem": 2,
+			"name": "Intro: Enviro Studies",
+			"num": 137,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000",
@@ -2103,14 +2195,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2123,15 +2216,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Jason D. Hill"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jason D. Hill"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2144,15 +2238,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Sheryl D. Breen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sheryl D. Breen"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2165,15 +2260,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2186,15 +2282,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Kathleen L. Shea"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathleen L. Shea"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2207,14 +2304,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Bruce A. Anderson"
+			],
 			"level": 200,
 			"name": "IS/Wind Energy",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Bruce A. Anderson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Wind Energy",
 			"type": "Research",
@@ -2227,14 +2325,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2247,14 +2346,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 300,
 			"name": "IR/Agroecol Ecuador",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Agroecol Ecuador",
 			"type": "Research",
@@ -2267,17 +2367,18 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Alexander Hertich"
+			],
 			"level": 200,
+			"locations": [
+				"OM 011"
+			],
 			"name": "Intermed French I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"OM 011"
-			],
-			"profs": [
-				"Alexander Hertich"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2293,14 +2394,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Herve Pensec"
+			],
 			"level": 200,
 			"name": "Lang/Cul Fr Caribbean",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Herve Pensec"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Lang/Cul Fr Caribbean",
 			"type": "Research",
@@ -2313,17 +2415,18 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Wendy Allen"
+			],
 			"level": 200,
+			"locations": [
+				"OM 026"
+			],
 			"name": "Speaking of French",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"OM 026"
-			],
-			"profs": [
-				"Wendy Allen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-0300PM"
@@ -2339,14 +2442,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Scott Homler"
+			],
 			"level": 200,
 			"name": "ID French Stud Paris",
 			"num": 275,
 			"pf": false,
-			"profs": [
-				"Scott Homler"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "ID French Stud Paris",
 			"type": "Research",
@@ -2359,14 +2463,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Scott Homler"
+			],
 			"level": 200,
 			"name": "IS/35-Hr Workweek Fr",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Scott Homler"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/35-Hr Workweek Fr",
 			"type": "Research",
@@ -2379,17 +2484,18 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Fairy/Folk/Fables-Tr",
 			"num": 147,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2405,14 +2511,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Lang/Culture Studies",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Lang/Culture Studies",
 			"type": "Research",
@@ -2425,14 +2532,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Karen R. Achberger"
+			],
 			"level": 200,
 			"name": "Arts in Vienna-Tr",
 			"num": 245,
 			"pf": false,
-			"profs": [
-				"Karen R. Achberger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Arts in Vienna-Tr",
 			"type": "Research",
@@ -2445,14 +2553,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Karl Fink"
+			],
 			"level": 300,
 			"name": "IR/Kafkas Zion in Lit",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Karl Fink"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Kafkas Zion in Lit",
 			"type": "Research",
@@ -2465,15 +2574,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 300,
 			"name": "IR/Schleswig-Holstein",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Schleswig-Holstein",
 			"type": "Research",
@@ -2486,18 +2596,19 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Rebecca Judge"
+			],
 			"level": 100,
+			"locations": [
+				"OM 035"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"OM 035"
-			],
-			"profs": [
-				"Rebecca Judge"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2513,18 +2624,19 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Colin Wells"
+			],
 			"level": 100,
+			"locations": [
+				"STEENSLAND"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"STEENSLAND"
-			],
-			"profs": [
-				"Colin Wells"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2540,18 +2652,19 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 100,
+			"locations": [
+				"STEENSLAND"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"STEENSLAND"
-			],
-			"profs": [
-				"Charles Wilson"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2567,18 +2680,19 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Norman M. Watt"
+			],
 			"level": 100,
+			"locations": [
+				"OM 004"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"OM 004"
-			],
-			"profs": [
-				"Norman M. Watt"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2594,15 +2708,16 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Rick A. Fairbanks",
+				"James May"
+			],
 			"level": 200,
 			"name": "Great Con/Grand Tour",
 			"num": 271,
 			"pf": false,
-			"profs": [
-				"Rick A. Fairbanks",
-				"James May"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Great Con/Grand Tour",
 			"type": "Research",
@@ -2615,17 +2730,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 100,
+			"locations": [
+				"HH 514"
+			],
 			"name": "Ancient Warfare",
 			"num": 103,
 			"pf": false,
-			"places": [
-				"HH 514"
-			],
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2641,18 +2757,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Robert Nichols"
+			],
 			"level": 200,
-			"name": "Hist/Orthodox Christ",
-			"num": 228,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 307",
 				"HH 515"
 			],
-			"profs": [
-				"Robert Nichols"
-			],
-			"sem": 2,
+			"name": "Hist/Orthodox Christ",
+			"num": 228,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -2669,18 +2786,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Karla Erickson"
+			],
 			"level": 200,
+			"locations": [
+				"HH 307"
+			],
 			"name": "Top: Americn Whiteness",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"HH 307"
-			],
-			"profs": [
-				"Karla Erickson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2696,19 +2814,20 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Deborah Alexander"
+			],
 			"level": 200,
-			"name": "Top: Film and History",
-			"num": 250,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 282",
 				"HH 317"
 			],
-			"profs": [
-				"Deborah Alexander"
-			],
-			"sect": "B",
-			"sem": 2,
+			"name": "Top: Film and History",
+			"num": 250,
+			"pf": false,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM",
@@ -2725,14 +2844,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Jeane DeLaney"
+			],
 			"level": 200,
 			"name": "Revolutionary Cuba",
 			"num": 257,
 			"pf": false,
-			"profs": [
-				"Jeane DeLaney"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Revolutionary Cuba",
 			"type": "Research",
@@ -2745,15 +2865,16 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Jeane DeLaney"
+			],
 			"level": 200,
 			"name": "FLC-Spanish",
 			"num": 257,
 			"pf": true,
-			"profs": [
-				"Jeane DeLaney"
-			],
-			"sect": "L",
-			"sem": 2,
+			"section": "L",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "FLC-Spanish",
 			"type": "Research",
@@ -2766,17 +2887,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Joseph Dennis"
+			],
 			"level": 200,
+			"locations": [
+				"HH 317"
+			],
 			"name": "Modern China",
 			"num": 261,
 			"pf": false,
-			"places": [
-				"HH 317"
-			],
-			"profs": [
-				"Joseph Dennis"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000"
@@ -2792,14 +2914,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2812,14 +2935,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Indigenous Cult/Austr",
 			"num": 263,
 			"pf": false,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Indigenous Cult/Austr",
 			"type": "Research",
@@ -2832,14 +2956,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2852,15 +2977,16 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Naurine Lennox",
+				"Bruce Nordstrom-Loeb"
+			],
 			"level": 200,
 			"name": "Modern Mexico Trad/Ch",
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"Naurine Lennox",
-				"Bruce Nordstrom-Loeb"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Modern Mexico Trad/Ch",
 			"type": "Research",
@@ -2873,14 +2999,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2893,14 +3020,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"David Booth"
+			],
 			"level": 200,
 			"name": "IS/Arts in Rural MN",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"David Booth"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Arts in Rural MN",
 			"type": "Research",
@@ -2913,15 +3041,16 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "IS/Teaching Eco-Kids",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Farrell"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "IS/Teaching Eco-Kids",
 			"type": "Research",
@@ -2934,18 +3063,19 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Eric Cleven"
+			],
 			"level": 200,
-			"name": "Peacebuild/Conflict",
-			"num": 239,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 001",
 				"OM 001"
 			],
-			"profs": [
-				"Eric Cleven"
-			],
-			"sem": 2,
+			"name": "Peacebuild/Conflict",
+			"num": 239,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM",
@@ -2962,14 +3092,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Hospital Health Care",
 			"num": 255,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Hospital Health Care",
 			"type": "Research",
@@ -2982,14 +3113,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Diana Postlethwaite"
+			],
 			"level": 200,
 			"name": "Theater in London",
 			"num": 258,
 			"pf": false,
-			"profs": [
-				"Diana Postlethwaite"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Theater in London",
 			"type": "Research",
@@ -3002,14 +3134,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 200,
 			"name": "Dev & Comm /HECUA",
 			"num": 263,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Dev & Comm /HECUA",
 			"type": "Research",
@@ -3022,18 +3155,19 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Jill Dietz"
+			],
 			"level": 200,
-			"name": "Investigative Math",
-			"num": 224,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 188",
 				"SC 188"
 			],
-			"profs": [
-				"Jill Dietz"
-			],
-			"sem": 2,
+			"name": "Investigative Math",
+			"num": 224,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1200PM",
@@ -3050,14 +3184,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Clifton Corzatt"
+			],
 			"level": 200,
 			"name": "Struct of Higher Math",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Clifton Corzatt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Struct of Higher Math",
 			"type": "Research",
@@ -3070,19 +3205,20 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Judith Cederberg"
+			],
 			"level": 300,
-			"name": "Geometry",
-			"num": 356,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 184",
 				"SC 184",
 				"SC 184"
 			],
-			"profs": [
-				"Judith Cederberg"
-			],
-			"sem": 2,
+			"name": "Geometry",
+			"num": 356,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0830-1000",
@@ -3100,19 +3236,20 @@
 			"depts": [
 				"MATH"
 			],
-			"level": 300,
-			"name": "Mathematics Practicum",
-			"num": 390,
-			"pf": false,
-			"places": [
-				"SC 182",
-				"SC 182"
-			],
-			"profs": [
+			"instructors": [
 				"Paul J. Roback",
 				"Theodore Vessey"
 			],
-			"sem": 2,
+			"level": 300,
+			"locations": [
+				"SC 182",
+				"SC 182"
+			],
+			"name": "Mathematics Practicum",
+			"num": 390,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -3129,14 +3266,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Paul Zorn"
+			],
 			"level": 300,
 			"name": "IR/Topics in Diff Eqs",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Paul Zorn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Topics in Diff Eqs",
 			"type": "Research",
@@ -3149,18 +3287,19 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
-			"name": "Computer Applications",
-			"num": 230,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 413",
 				"HH 205"
 			],
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 2,
+			"name": "Computer Applications",
+			"num": 230,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MWF 1040-1140",
@@ -3177,19 +3316,20 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
-			"name": "Personal Finance",
-			"num": 231,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 302",
 				"HH 302",
 				"OM 035"
 			],
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sem": 2,
+			"name": "Personal Finance",
+			"num": 231,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"MWF 0900-1000",
@@ -3207,14 +3347,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3227,15 +3368,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3248,15 +3390,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Rhonda H. Rekstad"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Rhonda H. Rekstad"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3269,15 +3412,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Kathy C. Thomforde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathy C. Thomforde"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3290,14 +3434,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3310,14 +3455,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3330,19 +3476,20 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Linda Berger"
+			],
 			"level": 100,
-			"name": "The Music Spectrum",
-			"num": 130,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 222",
 				"CHM 224",
 				"RML 477"
 			],
-			"profs": [
-				"Linda Berger"
-			],
-			"sem": 2,
+			"name": "The Music Spectrum",
+			"num": 130,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1130",
@@ -3360,17 +3507,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Carter"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 232"
+			],
 			"name": "Orchestral Music",
 			"num": 132,
 			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
-				"David Carter"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -3386,17 +3534,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Kathryn Ananda-Owens"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 224"
+			],
 			"name": "Arts, Culture & Cont",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
-				"Kathryn Ananda-Owens"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -3412,18 +3561,19 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Alice Hanson"
+			],
 			"level": 200,
-			"name": "Russian Music",
-			"num": 234,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 232",
 				"CHM 232"
 			],
-			"profs": [
-				"Alice Hanson"
-			],
-			"sem": 2,
+			"name": "Russian Music",
+			"num": 234,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-Th 0900-1000",
@@ -3440,19 +3590,20 @@
 			"depts": [
 				"MUSIC"
 			],
-			"level": 200,
-			"name": "Music of Indonesia",
-			"num": 238,
-			"pf": false,
-			"places": [
-				"CHM 239",
-				"CHM 239"
-			],
-			"profs": [
+			"instructors": [
 				"Mary Shamrock",
 				"Joko Sutrisno"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"CHM 239",
+				"CHM 239"
+			],
+			"name": "Music of Indonesia",
+			"num": 238,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1130",
@@ -3469,18 +3620,19 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"James McKeel"
+			],
 			"level": 200,
-			"name": "Opera Workshop",
-			"num": 269,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 140",
 				"CHM 140"
 			],
-			"profs": [
-				"James McKeel"
-			],
-			"sem": 2,
+			"name": "Opera Workshop",
+			"num": 269,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-Th 1040-1230PM",
@@ -3497,14 +3649,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Hagedorn"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David Hagedorn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3517,14 +3670,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"James McKeel"
+			],
 			"level": 200,
 			"name": "IS/Producing Opera",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James McKeel"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Producing Opera",
 			"type": "Research",
@@ -3537,15 +3691,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"James McKeel"
+			],
 			"level": 200,
 			"name": "IS/Romantic Song Cycl",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James McKeel"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Romantic Song Cycl",
 			"type": "Research",
@@ -3558,15 +3713,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"John Ferguson"
+			],
 			"level": 200,
 			"name": "IS/History/Church Mus",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"John Ferguson"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/History/Church Mus",
 			"type": "Research",
@@ -3579,15 +3735,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Kent M. McWilliams"
+			],
 			"level": 200,
 			"name": "IS/Repertoire Study",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Kent M. McWilliams"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Repertoire Study",
 			"type": "Research",
@@ -3600,15 +3757,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Donna J. Dixon"
+			],
 			"level": 200,
 			"name": "IS/Voc Inst in France",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Donna J. Dixon"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Voc Inst in France",
 			"type": "Research",
@@ -3621,15 +3779,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Hagedorn"
+			],
 			"level": 200,
 			"name": "IS/Brazilian Music",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"David Hagedorn"
-			],
-			"sect": "E",
-			"sem": 2,
+			"section": "E",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Brazilian Music",
 			"type": "Research",
@@ -3642,14 +3801,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Jo Ann Polley"
+			],
 			"level": 300,
 			"name": "IR/Woodwind Pedogy",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jo Ann Polley"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Woodwind Pedogy",
 			"type": "Research",
@@ -3662,17 +3822,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Margaret H. O'Leary"
+			],
 			"level": 100,
+			"locations": [
+				"OM 015"
+			],
 			"name": "Norway: Contin/Change",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"OM 015"
-			],
-			"profs": [
-				"Margaret H. O'Leary"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -3688,18 +3849,19 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Mary Kuehn"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Nutrition & Wellness",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Mary Kuehn"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -3715,18 +3877,19 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Rebecca A. Benedict"
+			],
 			"level": 100,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Nutrition & Wellness",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Rebecca A. Benedict"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -3742,14 +3905,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Judith Sateren"
+			],
 			"level": 200,
 			"name": "IS/Adolescent Health",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Judith Sateren"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Adolescent Health",
 			"type": "Research",
@@ -3762,15 +3926,16 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Judith Sateren"
+			],
 			"level": 200,
 			"name": "IS/Gerontology",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Judith Sateren"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Gerontology",
 			"type": "Research",
@@ -3783,15 +3948,16 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Rita Glazebrook"
+			],
 			"level": 200,
 			"name": "IS/Adolescent Health",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Rita Glazebrook"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Adolescent Health",
 			"type": "Research",
@@ -3804,15 +3970,16 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Mary Kuehn"
+			],
 			"level": 200,
 			"name": "IS/Np Exploration",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Kuehn"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Np Exploration",
 			"type": "Research",
@@ -3825,15 +3992,16 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Mary Johnson"
+			],
 			"level": 200,
 			"name": "IS/Alternative Med",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Johnson"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Alternative Med",
 			"type": "Research",
@@ -3846,14 +4014,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Rita Glazebrook"
+			],
 			"level": 300,
 			"name": "Health Care in Norway",
 			"num": 371,
 			"pf": false,
-			"profs": [
-				"Rita Glazebrook"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Health Care in Norway",
 			"type": "Research",
@@ -3866,17 +4035,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Vicki L. Harper"
+			],
 			"level": 100,
+			"locations": [
+				"HH 301"
+			],
 			"name": "Philosophy and Lit",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"HH 301"
-			],
-			"profs": [
-				"Vicki L. Harper"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -3892,17 +4062,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Karen Gervais"
+			],
 			"level": 200,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Biomedical Ethics",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Karen Gervais"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0800-1000"
@@ -3918,17 +4089,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 110"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"BMC 110"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -3944,14 +4116,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3964,15 +4137,16 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Gary Wicks"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Gary Wicks"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3985,14 +4159,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Scott Nesbit"
+			],
 			"level": 200,
 			"name": "IS/Ultimate Fris Book",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Scott Nesbit"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Ultimate Fris Book",
 			"type": "Research",
@@ -4005,14 +4180,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4025,19 +4201,20 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
 			"level": 200,
-			"name": "Origin Nuclear Weapon",
-			"num": 254,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 170",
 				"SC 170",
 				"SC 111"
 			],
-			"profs": [
-				"Jason J. Engbrecht"
-			],
-			"sem": 2,
+			"name": "Origin Nuclear Weapon",
+			"num": 254,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -4055,17 +4232,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"William A. Gorton"
+			],
 			"level": 100,
+			"locations": [
+				"OM 030"
+			],
 			"name": "Current Contr/Us Poli",
 			"num": 114,
 			"pf": false,
-			"places": [
-				"OM 030"
-			],
-			"profs": [
-				"William A. Gorton"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4081,17 +4259,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 100,
+			"locations": [
+				"HH 514"
+			],
 			"name": "Int'l Relations",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 514"
-			],
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4107,14 +4286,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Daniel Hofrenning"
+			],
 			"level": 200,
 			"name": "New Hampshire Primary",
 			"num": 204,
 			"pf": false,
-			"profs": [
-				"Daniel Hofrenning"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "New Hampshire Primary",
 			"type": "Research",
@@ -4127,17 +4307,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Robert Flaten"
+			],
 			"level": 200,
+			"locations": [
+				"HH 301"
+			],
 			"name": "Amer Foreign Policy",
 			"num": 281,
 			"pf": false,
-			"places": [
-				"HH 301"
-			],
-			"profs": [
-				"Robert Flaten"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4153,14 +4334,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Kristina Thalhammer"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kristina Thalhammer"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4173,15 +4355,16 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"William A. Gorton"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William A. Gorton"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4194,15 +4377,16 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Scott Homler"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Scott Homler"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4215,14 +4399,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 200,
 			"name": "Democracy--Czech Rep",
 			"num": 297,
 			"pf": false,
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Democracy--Czech Rep",
 			"type": "Research",
@@ -4235,14 +4420,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Robert Flaten"
+			],
 			"level": 200,
 			"name": "IS/Terrorism",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Robert Flaten"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Terrorism",
 			"type": "Research",
@@ -4255,14 +4441,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
 			"level": 300,
 			"name": "IR/Dev and Prop in Tz",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Charles E. Umbanhowar Sr"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Dev and Prop in Tz",
 			"type": "Research",
@@ -4275,17 +4462,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Howard Thorsheim"
+			],
 			"level": 200,
+			"locations": [
+				"HH 319"
+			],
 			"name": "Psychophysiology",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"HH 319"
-			],
-			"profs": [
-				"Howard Thorsheim"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4301,18 +4489,19 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 200,
-			"name": "Drugs, Brain,Behavior",
-			"num": 239,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 280",
 				"HH 307"
 			],
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 2,
+			"name": "Drugs, Brain,Behavior",
+			"num": 239,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -4329,17 +4518,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Mary Ellen Ross"
+			],
 			"level": 200,
+			"locations": [
+				"HH 516"
+			],
 			"name": "Knowing/Caring/Commun",
 			"num": 258,
 			"pf": false,
-			"places": [
-				"HH 516"
-			],
-			"profs": [
-				"Mary Ellen Ross"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4355,14 +4545,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Donna McMillan"
+			],
 			"level": 200,
 			"name": "IS/Happiness-Optimism",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Donna McMillan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Happiness-Optimism",
 			"type": "Research",
@@ -4375,15 +4566,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Leilani Endicott"
+			],
 			"level": 200,
 			"name": "IS/Criminal Psych",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Leilani Endicott"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Criminal Psych",
 			"type": "Research",
@@ -4396,18 +4588,19 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Charles Huff"
+			],
 			"level": 300,
-			"name": "Top: Psych Good & Evil",
-			"num": 391,
-			"pf": false,
-			"places": [
+			"locations": [
 				"BMC 109",
 				"BMC 109"
 			],
-			"profs": [
-				"Charles Huff"
-			],
-			"sem": 2,
+			"name": "Top: Psych Good & Evil",
+			"num": 391,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-Th 0900-1000",
@@ -4424,14 +4617,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Mary Ellen Ross"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Mary Ellen Ross"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4444,15 +4638,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Donna McMillan"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Donna McMillan"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4465,15 +4660,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Dana Gross"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4486,14 +4682,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Uta Wolfe"
+			],
 			"level": 300,
 			"name": "Dolphin Cognition",
 			"num": 396,
 			"pf": false,
-			"profs": [
-				"Uta Wolfe"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Dolphin Cognition",
 			"type": "Research",
@@ -4506,14 +4703,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 300,
 			"name": "IR/Dev Neuropharmacol",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Dev Neuropharmacol",
 			"type": "Research",
@@ -4526,15 +4724,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 300,
 			"name": "IR/Bilingual Educ",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Dana Gross"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Bilingual Educ",
 			"type": "Research",
@@ -4547,17 +4746,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Elaine G. Siemsen"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 111"
+			],
 			"name": "Classics and Moderns",
 			"num": 202,
 			"pf": false,
-			"places": [
-				"BMC 111"
-			],
-			"profs": [
-				"Elaine G. Siemsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4573,17 +4773,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Christopher Thomforde placeholder"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 101"
+			],
 			"name": "The Greats",
 			"num": 203,
 			"pf": false,
-			"places": [
-				"BMC 101"
-			],
-			"profs": [
-				"Christopher Thomforde placeholder"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4599,17 +4800,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Jamie A. Schillinger"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 102"
+			],
 			"name": "Christ/Islamic Ethics",
 			"num": 217,
 			"pf": false,
-			"places": [
-				"BMC 102"
-			],
-			"profs": [
-				"Jamie A. Schillinger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4625,17 +4827,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Philip E. Stoltzfus"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 101"
+			],
 			"name": "Liberation Theologies",
 			"num": 219,
 			"pf": false,
-			"places": [
-				"BMC 101"
-			],
-			"profs": [
-				"Philip E. Stoltzfus"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4651,19 +4854,20 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Margaret Odell"
+			],
 			"level": 200,
-			"name": "The Biblical God",
-			"num": 222,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 501",
 				"HH 301"
 			],
-			"profs": [
-				"Margaret Odell"
-			],
-			"sect": "A",
-			"sem": 2,
+			"name": "The Biblical God",
+			"num": 222,
+			"pf": false,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0800-0900",
@@ -4680,19 +4884,20 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Margaret Odell"
+			],
 			"level": 200,
-			"name": "The Biblical God",
-			"num": 222,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 501",
 				"BMC 111"
 			],
-			"profs": [
-				"Margaret Odell"
-			],
-			"sect": "B",
-			"sem": 2,
+			"name": "The Biblical God",
+			"num": 222,
+			"pf": false,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0800-0900",
@@ -4709,14 +4914,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Eric Lund"
+			],
 			"level": 200,
 			"name": "Rel of South Africa",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Eric Lund"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Rel of South Africa",
 			"type": "Research",
@@ -4729,17 +4935,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Barbara Reed"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 110"
+			],
 			"name": "Buddhism",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"BMC 110"
-			],
-			"profs": [
-				"Barbara Reed"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4755,14 +4962,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"William Poehlmann"
+			],
 			"level": 200,
 			"name": "Religion/Culture/Rome",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"William Poehlmann"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Religion/Culture/Rome",
 			"type": "Research",
@@ -4775,14 +4983,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
 			"name": "Histor Geograph Bible",
 			"num": 275,
 			"pf": false,
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Histor Geograph Bible",
 			"type": "Research",
@@ -4795,14 +5004,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Jamie A. Schillinger"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jamie A. Schillinger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4815,17 +5025,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Anantanand Rambachan"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 102"
+			],
 			"name": "Rel Pluralsm/Communit",
 			"num": 295,
 			"pf": false,
-			"places": [
-				"BMC 102"
-			],
-			"profs": [
-				"Anantanand Rambachan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4841,14 +5052,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"David Booth"
+			],
 			"level": 200,
 			"name": "IS/Fem Theo and Peace",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"David Booth"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Fem Theo and Peace",
 			"type": "Research",
@@ -4861,14 +5073,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Charles Wilson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4881,14 +5094,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Elaine G. Siemsen"
+			],
 			"level": 300,
 			"name": "IR/Bonhoeffer",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Elaine G. Siemsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Bonhoeffer",
 			"type": "Research",
@@ -4901,15 +5115,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"W. Bruce Benson"
+			],
 			"level": 300,
 			"name": "IR/Early Church Wrshp",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"W. Bruce Benson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Early Church Wrshp",
 			"type": "Research",
@@ -4922,17 +5137,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 100,
+			"locations": [
+				"RML 577"
+			],
 			"name": "Modern Elixirs",
 			"num": 116,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MTThF 1040-1240PM"
@@ -4948,17 +5164,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Carolyn Anderson"
+			],
 			"level": 100,
+			"locations": [
+				"BC"
+			],
 			"name": "Anthropology of Jazz",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"BC"
-			],
-			"profs": [
-				"Carolyn Anderson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-Th 0100-0400PM"
@@ -4974,17 +5191,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Brooke Thaden-Koch"
+			],
 			"level": 100,
+			"locations": [
+				"OM 031"
+			],
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"OM 031"
-			],
-			"profs": [
-				"Brooke Thaden-Koch"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0100-0300PM"
@@ -5000,14 +5218,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5020,15 +5239,16 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5041,14 +5261,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "IS/Border Health Care",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Border Health Care",
 			"type": "Research",
@@ -5061,15 +5282,16 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "IS/Guatemala",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Guatemala",
 			"type": "Research",
@@ -5082,17 +5304,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Juliet A. Lynd"
+			],
 			"level": 100,
+			"locations": [
+				"OM 020"
+			],
 			"name": "Beginning Spanish II",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"OM 020"
-			],
-			"profs": [
-				"Juliet A. Lynd"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5111,14 +5334,15 @@
 			"gereqs": [
 				"MCG"
 			],
+			"instructors": [
+				"Ariel Strichartz"
+			],
 			"level": 200,
 			"name": "Inter Span II-Ecuador",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Ariel Strichartz"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Inter Span II-Ecuador",
 			"type": "Research",
@@ -5131,14 +5355,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Leon Narvaez"
+			],
 			"level": 200,
 			"name": "Int Span II-Costa Ric",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Leon Narvaez"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Int Span II-Costa Ric",
 			"type": "Research",
@@ -5151,17 +5376,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Gwendolyn Barnes-Karol"
+			],
 			"level": 200,
+			"locations": [
+				"OM 020"
+			],
 			"name": "Cult & Civ of Spain",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"OM 020"
-			],
-			"profs": [
-				"Gwendolyn Barnes-Karol"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1200-0300PM"
@@ -5177,17 +5403,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Maggie Broner"
+			],
 			"level": 300,
+			"locations": [
+				"OM 021"
+			],
 			"name": "Oral/Written Express",
 			"num": 379,
 			"pf": false,
-			"places": [
-				"OM 021"
-			],
-			"profs": [
-				"Maggie Broner"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 1040-0300PM"
@@ -5203,14 +5430,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "Eval/Sw Practice/Prog",
 			"num": 274,
 			"pf": false,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"title": "Eval/Sw Practice/Prog",
 			"type": "Research",
@@ -5223,14 +5451,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5243,15 +5472,16 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Naurine Lennox"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Naurine Lennox"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5264,14 +5494,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Naurine Lennox"
+			],
 			"level": 200,
 			"name": "IS/Aids in Africa",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Naurine Lennox"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Aids in Africa",
 			"type": "Research",
@@ -5284,15 +5515,16 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "IS/Social Development",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Social Development",
 			"type": "Research",
@@ -5305,17 +5537,18 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Andrea Wollenberg"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 233"
+			],
 			"name": "Acting for Non-Majors",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"CHM 233"
-			],
-			"profs": [
-				"Andrea Wollenberg"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-0300PM"
@@ -5331,17 +5564,18 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Larry Schnoor"
+			],
 			"level": 100,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Public Speaking",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Larry Schnoor"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5357,19 +5591,20 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Brian Bjorklund"
+			],
 			"level": 100,
-			"name": "Prod Theater: Intro",
-			"num": 133,
-			"pf": true,
-			"places": [
+			"locations": [
 				"TB Kelsey",
 				"TB Kelsey",
 				"TB Kelsey"
 			],
-			"profs": [
-				"Brian Bjorklund"
-			],
-			"sem": 2,
+			"name": "Prod Theater: Intro",
+			"num": 133,
+			"pf": true,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -5387,19 +5622,20 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Dona W. Freeman"
+			],
 			"level": 200,
-			"name": "Prod Theater: Advanced",
-			"num": 234,
-			"pf": true,
-			"places": [
+			"locations": [
 				"TB Haugen",
 				"TB Haugen",
 				"TB Haugen"
 			],
-			"profs": [
-				"Dona W. Freeman"
-			],
-			"sem": 2,
+			"name": "Prod Theater: Advanced",
+			"num": 234,
+			"pf": true,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"times": [
 				"M-F 0900-1000",
@@ -5417,17 +5653,18 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
+			"locations": [
+				"TB 216"
+			],
 			"name": "Writing-Performance",
 			"num": 275,
 			"pf": false,
-			"places": [
-				"TB 216"
-			],
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20032,
 			"times": [
 				"MWF 1040-1240PM"
@@ -5443,14 +5680,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Gary C. Gisselman"
+			],
 			"level": 200,
 			"name": "IS/Non-Profit Theatre",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary C. Gisselman"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IS/Non-Profit Theatre",
 			"type": "Research",
@@ -5463,14 +5701,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Dona W. Freeman"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Dona W. Freeman"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5483,14 +5722,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 300,
 			"name": "IR/Small Bus Mkt Plan",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "IR/Small Bus Mkt Plan",
 			"type": "Research",
@@ -5503,14 +5743,15 @@
 			"depts": [
 				"WMNST"
 			],
+			"instructors": [
+				"Karla Erickson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Karla Erickson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20032,
 			"title": "Academic Internship",
 			"type": "Research",

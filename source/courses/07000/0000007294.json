@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 300,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Sem: American Politics",
 	"num": 311,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

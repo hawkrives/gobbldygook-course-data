@@ -6,18 +6,19 @@
 		"NORW"
 	],
 	"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: Norwegian 111 or equivalent. Offered annually in the spring semester.",
+	"instructors": [
+		"Dean Krouk"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Begin Norwegian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
-		"Dean Krouk"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

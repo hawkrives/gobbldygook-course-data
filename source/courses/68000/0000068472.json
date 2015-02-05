@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"name": "Acting--Lyric Stage",
-	"num": 131,
-	"pf": false,
-	"places": [
-		"TB Kelsey",
-		"TB Kelsey"
-	],
-	"profs": [
+	"instructors": [
 		"James McKeel",
 		"Dona W. Freeman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TB Kelsey",
+		"TB Kelsey"
+	],
+	"name": "Acting--Lyric Stage",
+	"num": 131,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

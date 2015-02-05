@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Jil Evans"
+	],
 	"level": 100,
+	"locations": [
+		"FH 42"
+	],
 	"name": "Found Conceptual Draw",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"FH 42"
-	],
-	"profs": [
-		"Jil Evans"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

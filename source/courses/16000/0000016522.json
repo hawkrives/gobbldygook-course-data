@@ -5,14 +5,15 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/The Homeless Child",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IS/The Homeless Child",
 	"type": "Research",

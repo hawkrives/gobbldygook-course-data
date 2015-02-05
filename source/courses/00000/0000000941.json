@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Terri Greenslade"
+	],
 	"level": 100,
+	"locations": [
+		"M 21"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Terri Greenslade"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 100,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sect": "O",
-	"sem": 3,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

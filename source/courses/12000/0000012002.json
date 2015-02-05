@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 100,
+	"locations": [
+		"HH 301"
+	],
 	"name": "America Since WW II",
 	"num": 182,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 0905-1000"

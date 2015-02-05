@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Modern Philosophy",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

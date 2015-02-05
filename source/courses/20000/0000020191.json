@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 200,
 	"name": "IS/Dance as Business",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Dance as Business",
 	"type": "Research",

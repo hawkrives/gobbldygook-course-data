@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Steen"
+	],
 	"level": 300,
 	"name": "IR/Travel Lit Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Steen"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Independent Research",
 	"type": "Research",

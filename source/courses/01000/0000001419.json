@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Christopher Gable"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Theory II",
 	"num": 114,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Christopher Gable"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

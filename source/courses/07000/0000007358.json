@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
 	"name": "FLC-French",
 	"num": 212,
 	"pf": false,
-	"profs": [
-		"Wendy Allen"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"M 0600-0700PM"

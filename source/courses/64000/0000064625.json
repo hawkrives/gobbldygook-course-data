@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 110,
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Genetics/Evolut/Soc",
 	"notes": "Students in Bio 127 must also register for lab Bio 127 L. This course has class-year limits.",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-Th 1040-1200PM"

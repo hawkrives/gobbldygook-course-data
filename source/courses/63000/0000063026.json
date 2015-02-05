@@ -6,14 +6,15 @@
 		"ART"
 	],
 	"desc": "Independent Research in Studio Art prerequisites: four foundation courses and three courses in area of study.\nIndependent Research in Art History prerequisites: three courses in area of study.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research: Art History",
 	"type": "Research",

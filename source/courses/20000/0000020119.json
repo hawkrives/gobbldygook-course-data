@@ -5,16 +5,17 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson",
+		"Kristen Pritchard"
+	],
 	"level": 300,
 	"name": "IR/Pathogenesis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson",
-		"Kristen Pritchard"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Pathogenesis",
 	"type": "Research",

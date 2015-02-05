@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Linda Berger"
+	],
 	"level": 100,
-	"name": "The Music Spectrum",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 250",
 		"CHM 232"
 	],
-	"profs": [
-		"Linda Berger"
-	],
-	"sem": 2,
+	"name": "The Music Spectrum",
+	"num": 130,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0800-0850",

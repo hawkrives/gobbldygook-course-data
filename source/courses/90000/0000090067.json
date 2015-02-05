@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"TOH 184"
-	],
-	"profs": [
+	"instructors": [
 		"Marju Purin"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TOH 184"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 0905-1000"

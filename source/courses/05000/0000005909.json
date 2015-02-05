@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "L",
-	"sem": 1,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "L",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 1145-0110PM",

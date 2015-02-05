@@ -5,17 +5,18 @@
 	"depts": [
 		"IDFA"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Senior Studies",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

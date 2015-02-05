@@ -10,18 +10,19 @@
 		"HWC",
 		"ORC"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Intro: Pol Theory",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

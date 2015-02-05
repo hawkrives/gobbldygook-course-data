@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
-	"name": "Top: Dec of Indep",
-	"num": 220,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sem": 1,
+	"name": "Top: Dec of Indep",
+	"num": 220,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 1145-0110PM",

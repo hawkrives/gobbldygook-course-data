@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Norman M. Watt"
+	],
 	"level": 200,
+	"locations": [
+		"M 35"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Norman M. Watt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 300,
 	"name": "IR/Heat Shock Analys",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Heat Shock Analys",
 	"type": "Research",

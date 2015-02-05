@@ -10,16 +10,17 @@
 		"HBS",
 		"MCG"
 	],
-	"level": 200,
-	"num": 236,
-	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
+	"instructors": [
 		"Ibtesam Al Atiyat"
 	],
-	"sem": 5,
+	"level": 200,
+	"locations": [
+		"TOH 308"
+	],
+	"num": 236,
+	"pf": false,
+	"semester": 5,
+	"status": "X",
 	"term": 20105,
 	"times": [
 		"M-F 1000-1130"

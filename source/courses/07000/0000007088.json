@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

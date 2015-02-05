@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 300,
+	"locations": [
+		"H 403"
+	],
 	"name": "Data Collect & Analy",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0800-0925"

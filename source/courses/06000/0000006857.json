@@ -5,19 +5,20 @@
 	"depts": [
 		"EDUC"
 	],
-	"level": 300,
-	"name": "Tchg of Soc Studies",
-	"num": 365,
-	"pf": false,
-	"places": [
-		"FH 10",
-		"FH 10L"
-	],
-	"profs": [
+	"instructors": [
 		"Maria L. Kelly",
 		"Larry Fowler"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"FH 10",
+		"FH 10L"
+	],
+	"name": "Tchg of Soc Studies",
+	"num": 365,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MTh 0600-0730PM",

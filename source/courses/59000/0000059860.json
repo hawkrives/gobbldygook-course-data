@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sect": "C",
-	"sem": 5,
+	"section": "C",
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"title": "Internship",
 	"type": "Research",

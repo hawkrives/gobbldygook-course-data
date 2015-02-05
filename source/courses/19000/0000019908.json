@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Beethoven: Man/His Mus",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-Th 0800-1200PM"

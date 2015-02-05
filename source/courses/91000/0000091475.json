@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 200,
 	"name": "IS/Engineering for Water",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

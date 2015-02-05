@@ -9,17 +9,18 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Top: 19th Century",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0800-0855"

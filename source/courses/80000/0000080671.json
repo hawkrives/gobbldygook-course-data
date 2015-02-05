@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 300,
 	"name": "IR/Nanoindentation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

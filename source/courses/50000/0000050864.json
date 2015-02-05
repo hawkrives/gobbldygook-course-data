@@ -6,17 +6,18 @@
 		"PEAC"
 	],
 	"desc": "Students learn basic rock climbing skills, techniques and safety procedures.",
-	"level": 100,
-	"num": 106,
-	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
+	"instructors": [
 		"Matthew C. McDonald"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"TC"
+	],
+	"num": 106,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"MW 1045-1140"

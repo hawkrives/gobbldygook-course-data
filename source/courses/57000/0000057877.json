@@ -6,17 +6,18 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"Mod 4"
-	],
-	"profs": [
+	"instructors": [
 		"Daniel R. Forstner"
 	],
-	"sect": "H",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"Mod 4"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 0200-0255PM"

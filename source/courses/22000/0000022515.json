@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Modern Britain",
 	"num": 221,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
 	"name": "IS/Functional Pottery",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Functional Pottery",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Tomoko Hoogenboom"
+	],
 	"level": 100,
-	"name": "Beginning Japanese II",
-	"num": 112,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 1",
 		"M 1"
 	],
-	"profs": [
-		"Tomoko Hoogenboom"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Beginning Japanese II",
+	"num": 112,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140",

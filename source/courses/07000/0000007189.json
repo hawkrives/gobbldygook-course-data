@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Geoffrey Gorham"
+	],
 	"level": 200,
+	"locations": [
+		"SH 02"
+	],
 	"name": "Ethics/The Good Life",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SH 02"
-	],
-	"profs": [
-		"Geoffrey Gorham"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0800-0855"

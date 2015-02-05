@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Doreen Hamilton"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Int Differ Equations",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Doreen Hamilton"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

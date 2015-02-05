@@ -14,20 +14,21 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak",
+		"Ka F. Wong"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317",
+		"HH 317"
+	],
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"HH 317",
-		"HH 317"
-	],
-	"profs": [
-		"Katherine S. Tegtmeyer Pak",
-		"Ka F. Wong"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

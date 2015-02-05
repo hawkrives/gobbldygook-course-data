@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"W. Bruce Benson"
+	],
 	"level": 300,
 	"name": "IR/Early Church Wrshp",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"W. Bruce Benson"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IR/Early Church Wrshp",
 	"type": "Research",

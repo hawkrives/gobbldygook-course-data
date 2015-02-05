@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/LCMS: Tetrahymena",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

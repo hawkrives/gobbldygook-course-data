@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"John T. Day"
+	],
 	"level": 300,
+	"locations": [
+		"L 525"
+	],
 	"name": "Shakespeare",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"John T. Day"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19985,
 	"times": [
 		"M-F 1000-1130"

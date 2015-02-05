@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Anne G. Sabo"
+	],
 	"level": 100,
+	"locations": [
+		"M 11"
+	],
 	"name": "Begin Norwegian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Anne G. Sabo"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

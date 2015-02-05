@@ -6,17 +6,18 @@
 		"MUSEN"
 	],
 	"desc": "This full symphony orchestra performs a broad range of repertoire. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. P/N only. May be repeated. Students in Philharmonia are encouraged to register for lessons on their orchestral instrument.",
+	"instructors": [
+		"Martin Hodel"
+	],
 	"level": 100,
-	"num": 121,
-	"pf": true,
-	"places": [
+	"locations": [
 		"CHM 140",
 		"CHM 140"
 	],
-	"profs": [
-		"Martin Hodel"
-	],
-	"sem": 3,
+	"num": 121,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0315-0515PM",

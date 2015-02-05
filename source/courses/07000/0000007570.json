@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "IS/Reading Japan Hist",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20035,
 	"title": "IS/Reading Japan Hist",
 	"type": "Research",

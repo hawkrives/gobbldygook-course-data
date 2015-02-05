@@ -5,14 +5,15 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Interim Exchange",
 	"num": 200,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"title": "Interim Exchange",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Elizabeth A. Leer"
+	],
 	"level": 200,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Educ Psychology",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Elizabeth A. Leer"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

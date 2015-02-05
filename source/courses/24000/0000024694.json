@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dan Dressen"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Diction: Italian Lyric",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Dan Dressen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MF 1150-1245PM"

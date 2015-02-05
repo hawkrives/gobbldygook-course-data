@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Arts of Scandinavia",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-Th 0100-0300PM"

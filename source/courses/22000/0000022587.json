@@ -5,17 +5,18 @@
 	"depts": [
 		"MEDVL"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Intro to Middle Ages",
 	"num": 221,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

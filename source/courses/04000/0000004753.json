@@ -5,18 +5,19 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 300,
-	"name": "Buddhism: Text-Image",
-	"num": 310,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sem": 3,
+	"name": "Buddhism: Text-Image",
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

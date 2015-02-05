@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 100,
+	"locations": [
+		"SC 273"
+	],
 	"name": "DNA/Heredity/Lab",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"SC 273"
-	],
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"Th 0120-0330PM"

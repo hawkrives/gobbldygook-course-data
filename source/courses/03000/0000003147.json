@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Rachel Shaw"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "U.S. Since 1865",
 	"num": 206,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Rachel Shaw"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 100,
-	"name": "Courtly Love Mid Ages",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 1,
+	"name": "Courtly Love Mid Ages",
+	"num": 111,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0120-0245PM",

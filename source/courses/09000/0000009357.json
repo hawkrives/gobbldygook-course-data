@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"DC _STUDIO_2"
+	],
 	"name": "The Beat Goes On",
 	"num": 105,
 	"pf": true,
-	"places": [
-		"DC _STUDIO_2"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MF 1045-1140"

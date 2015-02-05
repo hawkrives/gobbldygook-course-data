@@ -5,18 +5,19 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 300,
-	"name": "Motor Learning",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC 103",
 		"SAC 103"
 	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"name": "Motor Learning",
+	"num": 373,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 300,
 	"name": "Senior Project II",
 	"num": 392,
 	"pf": false,
-	"profs": [
-		"Richard Allen"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "Senior Project II",
 	"type": "Research",

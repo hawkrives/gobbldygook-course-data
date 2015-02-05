@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 300,
 	"name": "IR/Contemp Amer Fictn",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Contemp Amer Fictn",
 	"type": "Research",

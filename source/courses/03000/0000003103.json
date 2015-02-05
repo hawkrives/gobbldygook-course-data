@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Signe Levine"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Signe Levine"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0800-0925"

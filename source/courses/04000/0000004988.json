@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Nature & Am Landscape",
 	"num": 270,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

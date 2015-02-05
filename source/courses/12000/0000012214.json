@@ -6,18 +6,19 @@
 		"PEAC"
 	],
 	"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training and aerobic activities. Students participate in a wide rang of eassessments designed to enhance physical fitness.",
+	"instructors": [
+		"William Sean Goldsworthy"
+	],
 	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
-		"William Sean Goldsworthy"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

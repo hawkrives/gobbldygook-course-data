@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 106,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Cell Bio & Genetics Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20104,
 	"times": [
 		"TW 0100-0330PM"

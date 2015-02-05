@@ -6,18 +6,19 @@
 		"THEAT"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Larry Schnoor"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Fundament of Speaking",
 	"num": 105,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"Larry Schnoor"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"TTh 0800-0925"

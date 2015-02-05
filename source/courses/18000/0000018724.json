@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Michael Maguire"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Comm/Contemp Culture",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"Michael Maguire"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

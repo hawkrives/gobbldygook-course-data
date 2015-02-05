@@ -12,19 +12,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
+	"locations": [
+		"OM 210"
+	],
 	"name": "Dissenters/Defenders",
 	"notes": "Open to Great Conversations students only.",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"OM 210"
-	],
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

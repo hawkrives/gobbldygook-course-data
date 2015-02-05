@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 200,
 	"name": "Law,Politics,Morality",
 	"num": 254,
 	"pf": false,
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Law,Politics,Morality",
 	"type": "Research",

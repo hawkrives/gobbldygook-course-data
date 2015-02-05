@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 300,
 	"name": "IR/Ancient Philosophy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Ancient Philosophy",
 	"type": "Research",

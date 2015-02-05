@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Cult & Civ of Spain",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

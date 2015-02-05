@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "MSM IS/Conducting",
 	"num": 299,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"title": "MSM IS/Conducting",
 	"type": "Topic",

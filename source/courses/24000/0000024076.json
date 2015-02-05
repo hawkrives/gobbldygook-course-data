@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 100,
+	"locations": [
+		"M 21"
+	],
 	"name": "Lit/Resist/Occ/France",
 	"num": 139,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0100-0300PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Patricia Richardson"
+	],
 	"level": 300,
-	"name": "Senior Seminar: Sp Top",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Patricia Richardson"
-	],
-	"sem": 3,
+	"name": "Senior Seminar: Sp Top",
+	"num": 391,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

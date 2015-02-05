@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Adhd Through Life",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "IS/Adhd Through Life",
 	"type": "Research",

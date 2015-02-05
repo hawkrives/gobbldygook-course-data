@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Olivia Frey"
+	],
 	"level": 300,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Teaching of Reading",
 	"num": 346,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Olivia Frey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0600-0900PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 100,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 19991,
 	"times": [
 		"MWF 1045-1140"

@@ -10,17 +10,18 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 114"
+	],
 	"name": "20th C Russian Lit-Tr",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"TOH 114"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

@@ -5,20 +5,21 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Patrick T. Kelley"
+	],
 	"level": 100,
+	"locations": [
+		"DC 100",
+		"DC 100"
+	],
 	"name": "Found Digital Media",
 	"notes": "First day of class meets at 8:00 in HH313. Thereafter meets normal times and location.",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"DC 100",
-		"DC 100"
-	],
-	"profs": [
-		"Patrick T. Kelley"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0935-1100",

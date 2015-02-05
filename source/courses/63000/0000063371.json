@@ -10,19 +10,20 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Philip Lundin",
+		"Gary Wicks"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Sport Ethic-Society",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open to Seniors only during web registration.",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"SAC 112"
-	],
-	"profs": [
-		"Philip Lundin",
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

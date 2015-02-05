@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Ann (wagner) Wagner"
+	],
 	"level": 100,
+	"locations": [
+		"SAC S GYM"
+	],
 	"name": "Ballrm I Men",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"SAC S GYM"
-	],
-	"profs": [
-		"Ann (wagner) Wagner"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1255-0150PM"

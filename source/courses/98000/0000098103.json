@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Sian E. Muir"
+	],
 	"level": 200,
 	"name": "IS/Aspects of Corp Law",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Sian E. Muir"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20135,
 	"title": "Independent Study",
 	"type": "Research",

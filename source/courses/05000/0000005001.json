@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

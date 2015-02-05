@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
+	"locations": [
+		"H 317"
+	],
 	"name": "Sem: Health Psych",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

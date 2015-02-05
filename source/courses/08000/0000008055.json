@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"James McKeel"
+	],
 	"level": 300,
 	"name": "Senior Project I",
 	"num": 391,
 	"pf": true,
-	"profs": [
-		"James McKeel"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"title": "Senior Project I",
 	"type": "Research",

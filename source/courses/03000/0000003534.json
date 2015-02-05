@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Marisol Galicia"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Marisol Galicia"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0200-0255PM"

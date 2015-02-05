@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
 	"name": "FLC--German",
 	"num": 249,
 	"pf": true,
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"title": "FLC--German",
 	"type": "Research",

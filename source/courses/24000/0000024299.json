@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Rsch Top: Zooplankton",
 	"num": 291,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"M 1255-0150PM"

@@ -10,19 +10,20 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 200,
-	"name": "Chr Theol/Moral Life",
-	"num": 207,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 340",
 		"OM 340"
 	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Chr Theol/Moral Life",
+	"num": 207,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 1145-0110PM",

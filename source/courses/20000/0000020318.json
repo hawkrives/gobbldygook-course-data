@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Brunet"
+	],
 	"level": 300,
 	"name": "IR/Writing Projects",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Brunet"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Writing Projects",
 	"type": "Research",

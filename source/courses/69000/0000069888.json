@@ -6,19 +6,20 @@
 		"PSYCH"
 	],
 	"desc": "Seminars allow in-depth study of particular themes or topics in psychology. Prerequisite: Psychology 230. See department website for descriptions and additional prerequisites. Offered most years. May be repeated if topics are different.",
+	"instructors": [
+		"Clark Ohnesorge"
+	],
 	"level": 300,
-	"name": "Sem:Attentn/Consciousness",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 226",
 		"RNS 226"
 	],
-	"profs": [
-		"Clark Ohnesorge"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Sem:Attentn/Consciousness",
+	"num": 390,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

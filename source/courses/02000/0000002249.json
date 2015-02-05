@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Complex Analysis",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"times": [
 		"TTh 0935-1100"

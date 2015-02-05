@@ -5,18 +5,19 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
-	"name": "Intermed Chinese II Lab",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 002",
 		"OM 002"
 	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"name": "Intermed Chinese II Lab",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1005-1100",

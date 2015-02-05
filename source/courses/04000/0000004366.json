@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"MWF 0200-0255PM"

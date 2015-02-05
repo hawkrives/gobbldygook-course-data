@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"notes": "Closed to Seniors and Juniors except by permission of department.",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 0905-1000"

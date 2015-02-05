@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Charles E. Umbanhowar Sr"
+	],
 	"level": 200,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Jurisprud/Judicial Pr",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Charles E. Umbanhowar Sr"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

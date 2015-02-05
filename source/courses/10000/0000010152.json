@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
 	"name": "Reading Comm Literacy",
 	"num": 315,
 	"pf": false,
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"title": "Reading Comm Literacy",
 	"type": "Research",

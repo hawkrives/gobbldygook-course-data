@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
-	"name": "Jesus in Script/Trad",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 3,
+	"name": "Jesus in Script/Trad",
+	"num": 221,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

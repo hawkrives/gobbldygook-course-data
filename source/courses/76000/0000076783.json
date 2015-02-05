@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "T",
-	"sem": 3,
+	"section": "T",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

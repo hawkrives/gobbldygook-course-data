@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
 	"name": "IS/Art of Clay",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "IS/Art of Clay",
 	"type": "Research",

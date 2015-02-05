@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 300,
 	"name": "IR/Immunology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Immunology",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 300,
 	"name": "IR/Urban Planning",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

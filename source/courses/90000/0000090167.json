@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210",
+		"TOH 210"
+	],
 	"name": "Educ Psychology",
 	"notes": "Closed to First-Year Students.",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"TOH 210",
-		"TOH 210"
-	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

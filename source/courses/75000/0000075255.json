@@ -6,18 +6,19 @@
 		"REL"
 	],
 	"desc": "May be repeated if topics are different. Prerequisite: BTS-B. Fall 2010: Conversion",
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 300,
-	"name": "Sem: Conversion",
-	"num": 392,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 1,
+	"name": "Sem: Conversion",
+	"num": 392,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 0120-0245PM",

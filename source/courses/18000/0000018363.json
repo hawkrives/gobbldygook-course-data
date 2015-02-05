@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Walter A. Stromseth"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Walter A. Stromseth"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0110PM"

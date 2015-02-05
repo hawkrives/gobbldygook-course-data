@@ -10,18 +10,19 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 100,
+	"locations": [
+		"OM 010"
+	],
 	"name": "Intro to Drama",
 	"notes": "Open only to first-year students and sophomores. This course has class-year limits.",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"OM 010"
-	],
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 1040-1240PM"

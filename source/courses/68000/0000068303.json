@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"desc": "In the laboratory, students investigate and identify organic compounds, singly and in mixtures. Lectures and discussion sessions investigate various spectroscopic methods and their applications to the elucidation of the structure of organic compounds. Prerequisite: Chemistry 248 and 254. Offered during Interim.",
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 300"
+	],
 	"name": "Organic Analys/Theory",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"RNS 300"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"times": [
 		"M-F 0800-1000"

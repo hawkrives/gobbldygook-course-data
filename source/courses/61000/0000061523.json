@@ -6,19 +6,20 @@
 		"BIO"
 	],
 	"groupid": 166,
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 356B"
+	],
 	"name": "Immunology Disc",
 	"notes": "Open to Seniors only.",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"RNS 356B"
-	],
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"W 0200-0400PM"

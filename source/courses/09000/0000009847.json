@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
 	"name": "IS/Fairview Ect Unit",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Fairview Ect Unit",
 	"type": "Research",

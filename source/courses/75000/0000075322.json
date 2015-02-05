@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Janice Pellino"
+	],
 	"level": 300,
 	"name": "IR/SRNA Characterization",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Janice Pellino"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

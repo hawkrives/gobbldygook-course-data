@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Top: Environmental Eth",
 	"num": 247,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "Top: Environmental Eth",
 	"type": "Topic",

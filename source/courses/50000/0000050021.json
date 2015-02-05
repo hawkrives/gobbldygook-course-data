@@ -5,18 +5,19 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
-	"name": "Ballet II",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC Studio 2",
 		"DC Studio 2"
 	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 1,
+	"name": "Ballet II",
+	"num": 221,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0120-0245PM",

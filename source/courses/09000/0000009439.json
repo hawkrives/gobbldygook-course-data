@@ -5,19 +5,20 @@
 	"depts": [
 		"IDFA"
 	],
-	"level": 300,
-	"name": "Senior Studies",
-	"num": 374,
-	"pf": false,
-	"places": [
-		"CHM 232",
-		"CHM 232"
-	],
-	"profs": [
+	"instructors": [
 		"Staff",
 		"Dan Dressen"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"CHM 232",
+		"CHM 232"
+	],
+	"name": "Senior Studies",
+	"num": 374,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

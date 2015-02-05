@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 200,
+	"locations": [
+		"H 319/322"
+	],
 	"name": "Cognit,Learn & Memory",
 	"num": 237,
 	"pf": false,
-	"places": [
-		"H 319/322"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925",

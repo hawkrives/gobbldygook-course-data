@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul Niemisto"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 138"
+	],
 	"name": "Brass Class",
 	"num": 166,
 	"pf": false,
-	"places": [
-		"CHM 138"
-	],
-	"profs": [
-		"Paul Niemisto"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0200-0255PM"

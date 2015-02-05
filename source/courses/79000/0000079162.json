@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Adam H. Berliner"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Adam H. Berliner"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

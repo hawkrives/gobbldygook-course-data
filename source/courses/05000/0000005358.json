@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 300,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Psych of Counseling",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

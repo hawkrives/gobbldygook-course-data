@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
 	"name": "IS/Death & Morality",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

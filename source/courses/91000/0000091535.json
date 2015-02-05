@@ -5,15 +5,16 @@
 	"depts": [
 		"NEURO"
 	],
+	"instructors": [
+		"Shelly D. Dickinson"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Shelly D. Dickinson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Carol H. Austin"
+	],
 	"level": 300,
-	"name": "Adult Health I",
-	"num": 308,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 215",
 		"HH 215"
 	],
-	"profs": [
-		"Carol H. Austin"
-	],
-	"sem": 1,
+	"name": "Adult Health I",
+	"num": 308,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"MWF 1045-1140",

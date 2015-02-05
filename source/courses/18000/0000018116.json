@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jim Holden"
+	],
 	"level": 100,
+	"locations": [
+		"L 277"
+	],
 	"name": "College English",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 277"
-	],
-	"profs": [
-		"Jim Holden"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1100"

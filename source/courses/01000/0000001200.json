@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"CT RHT"
+	],
 	"name": "Ballet II",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"CT RHT"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

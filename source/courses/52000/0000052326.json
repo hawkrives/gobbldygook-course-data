@@ -6,17 +6,18 @@
 		"PEAC"
 	],
 	"desc": "This course offers instruction/review of fundamental skills and rules of racquetball. Students focus on basic strategy in games playing.",
+	"instructors": [
+		"Craig D. Stern"
+	],
 	"level": 100,
+	"locations": [
+		"SAC Racq Ct"
+	],
 	"name": "Racquetball (Wmn)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC Racq Ct"
-	],
-	"profs": [
-		"Craig D. Stern"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"TTh 0800-0855"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 200,
 	"name": "IS/Bloomsbury Group",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"title": "Independent Study",
 	"type": "Research",

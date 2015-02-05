@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"name": "Foundation 2-D Media",
-	"num": 102,
-	"pf": false,
-	"places": [
-		"DC 216"
-	],
-	"profs": [
+	"instructors": [
 		"Lilla Johnson",
 		"Wendell Arneson"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"DC 216"
+	],
+	"name": "Foundation 2-D Media",
+	"num": 102,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"MWF 1045-1245PM"

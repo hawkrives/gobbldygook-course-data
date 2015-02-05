@@ -10,17 +10,18 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Stephen Longfellow"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Intro to Poetry",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Stephen Longfellow"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20094,
 	"times": [
 		"M-F 1000-1130"

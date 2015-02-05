@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Joshua Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"OM 030"
+	],
 	"notes": "This course has class year limits.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Joshua Anderson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 1150-1245PM"

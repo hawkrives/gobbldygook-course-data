@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Joel Olfelt"
+	],
 	"level": 100,
-	"name": "Organismic Biology",
-	"num": 126,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 211"
 	],
-	"profs": [
-		"Joel Olfelt"
-	],
-	"sect": "E",
-	"sem": 3,
+	"name": "Organismic Biology",
+	"num": 126,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140",

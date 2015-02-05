@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
-	"name": "Bergman/Christian Th",
-	"num": 229,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CH 109",
 		"CH 109"
 	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sem": 2,
+	"name": "Bergman/Christian Th",
+	"num": 229,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM",

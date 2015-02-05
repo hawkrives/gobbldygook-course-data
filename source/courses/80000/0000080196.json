@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
 	"name": "IR/RNA Simulation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

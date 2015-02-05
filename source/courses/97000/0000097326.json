@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 200,
-	"name": "Philosophy & Feminism",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sem": 3,
+	"name": "Philosophy & Feminism",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

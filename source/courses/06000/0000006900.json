@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Literary Eras: British",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

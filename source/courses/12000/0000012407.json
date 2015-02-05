@@ -5,19 +5,20 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
-	"name": "Gateway Sp-Spkng Wrld",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Gateway Sp-Spkng Wrld",
+	"num": 250,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 0120-0245PM",

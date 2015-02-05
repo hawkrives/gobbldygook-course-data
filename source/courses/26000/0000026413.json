@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Wee"
+	],
 	"level": 300,
 	"name": "IR/Victorian Women",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Wee"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Victorian Women",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Francisco L. Carrasco"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 004",
 		"OM 004"
 	],
-	"profs": [
-		"Francisco L. Carrasco"
-	],
-	"sect": "K",
-	"sem": 3,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "K",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

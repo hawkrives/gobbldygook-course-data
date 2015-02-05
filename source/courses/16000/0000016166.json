@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Voice Class",
 	"num": 164,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 1150-1245PM"

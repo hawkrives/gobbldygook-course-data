@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 300,
-	"name": "Sem: Adv Research Meth",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sect": "E",
-	"sem": 3,
+	"name": "Sem: Adv Research Meth",
+	"num": 390,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

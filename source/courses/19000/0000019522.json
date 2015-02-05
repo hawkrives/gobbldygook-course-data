@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Rodney G. Grubb"
+	],
 	"level": 100,
+	"locations": [
+		"H 501"
+	],
 	"name": "Int'l Relations",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Rodney G. Grubb"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 0935-1100"

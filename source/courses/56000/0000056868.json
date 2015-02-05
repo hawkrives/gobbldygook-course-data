@@ -6,18 +6,19 @@
 		"ASIAN"
 	],
 	"desc": "The seminar intensively studies topics in Asian studies. Prerequisite: Asian Studies 275 or permission of the instructor.",
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
-	"name": "Sem: Asia",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 1,
+	"name": "Sem: Asia",
+	"num": 399,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"T 0800-0925",

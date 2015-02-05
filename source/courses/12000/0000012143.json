@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Catherine R. Rodland"
+	],
 	"level": 200,
-	"name": "Kybd Proficiency Skil",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 222",
 		"CHM 222"
 	],
-	"profs": [
-		"Catherine R. Rodland"
-	],
-	"sem": 3,
+	"name": "Kybd Proficiency Skil",
+	"num": 261,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 1145-1240PM",

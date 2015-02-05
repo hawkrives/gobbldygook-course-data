@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 100,
+	"locations": [
+		"H 515"
+	],
 	"name": "Amer Culture/Nature",
 	"num": 137,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0800-0925"

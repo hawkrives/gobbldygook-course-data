@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 200,
+	"locations": [
+		"OM 031"
+	],
 	"name": "Race/Class-Am Culture",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

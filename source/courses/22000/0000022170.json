@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Mary Griep"
+	],
 	"level": 100,
+	"locations": [
+		"FH 42"
+	],
 	"name": "Foundation Drawing",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"FH 42"
-	],
-	"profs": [
-		"Mary Griep"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1245PM"

@@ -10,17 +10,18 @@
 		"MCG",
 		"WRI"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
+	"locations": [
+		"OM 305"
+	],
 	"name": "Mid-East Studies",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"OM 305"
-	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1255-0150PM"

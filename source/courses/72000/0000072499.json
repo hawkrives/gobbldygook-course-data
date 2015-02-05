@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Alberto Villate-Isaza"
+	],
 	"level": 200,
-	"name": "Exploring Hispanic Lit",
-	"num": 275,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Alberto Villate-Isaza"
-	],
-	"sem": 1,
+	"name": "Exploring Hispanic Lit",
+	"num": 275,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 0935-1100",

@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "Designed for students with little or no background in music, this course introduces the fundamentals of music materials through the keyboard, computer programs and written work in music theory. Offered during Interim.",
+	"instructors": [
+		"Linda Berger"
+	],
 	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 222",
 		"CHM 224"
 	],
-	"profs": [
-		"Linda Berger"
-	],
-	"sem": 2,
+	"num": 130,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20062,
 	"times": [
 		"MWThF 1040-1130",

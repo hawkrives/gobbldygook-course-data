@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Ingeborg Kongslien"
+	],
 	"level": 200,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Lit/Top of World--Tr",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Ingeborg Kongslien"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0100-0300PM"

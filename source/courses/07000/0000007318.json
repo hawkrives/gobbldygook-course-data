@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
 	"name": "IS/Parent-Child Lang",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Parent-Child Lang",
 	"type": "Research",

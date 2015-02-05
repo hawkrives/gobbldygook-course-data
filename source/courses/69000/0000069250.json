@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"SAC Racq Ct"
+	],
 	"name": "Racquetball (Men)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC Racq Ct"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"TTh 0935-1100"

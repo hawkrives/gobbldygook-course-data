@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"William P. Roberts"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "General Chemistry Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"William P. Roberts"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0800-1100"

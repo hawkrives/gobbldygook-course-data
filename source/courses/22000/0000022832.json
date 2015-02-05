@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
 	"name": "IR/Senior Thesis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Senior Thesis",
 	"type": "Research",

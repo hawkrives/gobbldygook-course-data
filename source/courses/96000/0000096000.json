@@ -10,20 +10,21 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 310",
+		"TOH 310"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 310",
-		"TOH 310"
-	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

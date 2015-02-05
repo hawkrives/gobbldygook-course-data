@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "Complex analysis treats the calculus of complex-valued functions of a complex variable. Familiar words and ideas from ordinary calculus (limit, derivative, integral, maximum and minimum, infinite series) reappear in the complex setting. Topics include complex mappings, derivatives, and integrals; applications focus especially on the physical sciences. Prerequisite: MATH 220, and MATH 226 or MATH 244. Offered annually.",
+	"instructors": [
+		"Marju Purin"
+	],
 	"level": 300,
-	"num": 340,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Marju Purin"
-	],
-	"sem": 3,
+	"num": 340,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

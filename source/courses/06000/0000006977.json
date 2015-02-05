@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
+	"locations": [
+		"RML 420"
+	],
 	"name": "Exploring Non-Fiction",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

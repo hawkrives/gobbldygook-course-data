@@ -6,18 +6,19 @@
 		"JAPAN"
 	],
 	"groupid": 660,
+	"instructors": [
+		"Tomoko Hoogenboom"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 175"
+	],
 	"name": "Beginning Japanese II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"TOH 175"
-	],
-	"profs": [
-		"Tomoko Hoogenboom"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"Th 0930-1025"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Patrice Buresh"
+	],
 	"level": 100,
+	"locations": [
+		"SAC CTR GYM"
+	],
 	"name": "Basketball",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"SAC CTR GYM"
-	],
-	"profs": [
-		"Patrice Buresh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MW 0905-1000"

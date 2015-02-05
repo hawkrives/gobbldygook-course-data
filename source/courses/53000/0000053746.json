@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Janis Hardy"
+	],
 	"level": 200,
 	"name": "IS/Chamber Opera",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Janis Hardy"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "IS/Chamber Opera",
 	"type": "Research",

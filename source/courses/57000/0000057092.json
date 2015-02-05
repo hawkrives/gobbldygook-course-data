@@ -5,14 +5,15 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Sharon Powell"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Sharon Powell"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Internship",
 	"type": "Research",

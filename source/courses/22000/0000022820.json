@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
 	"name": "Sem: Preceptor Program",
 	"num": 390,
 	"pf": false,
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"title": "Sem: Preceptor Program",
 	"type": "Seminar",

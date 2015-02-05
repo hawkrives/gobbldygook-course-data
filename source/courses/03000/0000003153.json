@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "African--Amer Hist",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

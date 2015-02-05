@@ -9,16 +9,17 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 200,
-	"num": 275,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"James Farrell"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"num": 275,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1255-0150PM"

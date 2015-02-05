@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Clark Ohnesorge"
+	],
 	"level": 100,
+	"locations": [
+		"RML 115"
+	],
 	"name": "Prin of Statistics",
 	"notes": "This course has class year limits.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RML 115"
-	],
-	"profs": [
-		"Clark Ohnesorge"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1045-1140"

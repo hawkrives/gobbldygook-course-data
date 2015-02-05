@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Gia Someya"
+	],
 	"level": 200,
 	"name": "IS/Jpnese Semester",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Gia Someya"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IS/Jpnese Semester",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Jo Ann Polley"
+	],
 	"level": 200,
+	"locations": [
+		"TBA"
+	],
 	"name": "Instr Chamber Music",
 	"num": 275,
 	"pf": false,
-	"places": [
-		"TBA"
-	],
-	"profs": [
-		"Jo Ann Polley"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0200-0255PM"

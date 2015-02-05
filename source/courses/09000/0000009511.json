@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Modern Britain",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

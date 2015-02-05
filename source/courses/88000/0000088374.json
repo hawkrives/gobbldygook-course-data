@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Ryota Matsuura"
+	],
 	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Ryota Matsuura"
-	],
-	"sect": "F",
-	"sem": 1,
+	"num": 120,
+	"pf": false,
+	"section": "F",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"T 1145-0110PM",

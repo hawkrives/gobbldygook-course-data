@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"John E. Bower"
+	],
 	"level": 200,
-	"name": "Music/Electronic Med",
-	"num": 225,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 233",
 		"CHM 222"
 	],
-	"profs": [
-		"John E. Bower"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Music/Electronic Med",
+	"num": 225,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1200-0100PM",

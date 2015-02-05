@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 200,
 	"name": "IS/Autistic Disorder",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Autistic Disorder",
 	"type": "Research",

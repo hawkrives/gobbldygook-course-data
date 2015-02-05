@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one level III course in philosophy.",
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Phil of Rock Music",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

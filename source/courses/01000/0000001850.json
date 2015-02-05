@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 300,
 	"name": "Adv Physics Lab (374)",
 	"num": 384,
 	"pf": false,
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Adv Physics Lab (374)",
 	"type": "Lab",

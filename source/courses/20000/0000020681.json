@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
+	"locations": [
+		"H 204"
+	],
 	"name": "Sensation/Perception",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

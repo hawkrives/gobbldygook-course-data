@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 300,
 	"name": "IR/Mussels & Ageing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Mussels & Ageing",
 	"type": "Research",

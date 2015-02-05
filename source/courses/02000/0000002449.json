@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
 	"name": "IR/Measuring Emotion",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Measuring Emotion",
 	"type": "Research",

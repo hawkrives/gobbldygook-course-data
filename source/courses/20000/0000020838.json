@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Linda Burdell"
+	],
 	"level": 200,
+	"locations": [
+		"M 21"
+	],
 	"name": "Applied Linguistics",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Linda Burdell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 0800-0925"

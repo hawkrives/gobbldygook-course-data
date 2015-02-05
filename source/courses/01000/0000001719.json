@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
 	"name": "IS/Th History to 1642",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Th History to 1642",
 	"type": "Research",

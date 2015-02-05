@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

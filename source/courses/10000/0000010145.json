@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 126,
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 253"
+	],
 	"name": "Human Anatomy & Physiol",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"SC 253"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"TTh 0100-0400PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
 	"name": "IR/Severe Disability",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark Schelske"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Severe Disability",
 	"type": "Research",

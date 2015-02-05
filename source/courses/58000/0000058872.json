@@ -6,17 +6,18 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Jonathan Peterson"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Top: Political Psychology",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Jonathan Peterson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"times": [
 		"M-F 1040-1240PM"

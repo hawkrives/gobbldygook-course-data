@@ -6,15 +6,16 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
 	"name": "Principles Physics II Lab",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"Th 0820-1050"

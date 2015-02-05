@@ -11,15 +11,16 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 200,
 	"name": "Performing Arts in NY",
 	"notes": "This is an off-campus course.",
 	"num": 284,
 	"pf": false,
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"title": "Performing Arts in New York",
 	"type": "Research",

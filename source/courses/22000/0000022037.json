@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 200,
-	"name": "Principles of Math",
-	"num": 210,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 2,
+	"name": "Principles of Math",
+	"num": 210,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0830-1000",

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 26712,
+	"instructors": [
+		"Nicole Son"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 123"
+	],
 	"name": "Cells and Tissues Lab",
 	"num": 143,
 	"pf": false,
-	"places": [
-		"RNS 123"
-	],
-	"profs": [
-		"Nicole Son"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0120-0420PM"

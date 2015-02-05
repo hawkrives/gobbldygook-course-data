@@ -11,18 +11,19 @@
 	],
 	"groupid": 108,
 	"grouptype": "3",
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 280"
+	],
 	"notes": "Students in Bio 126 C must also register for one lab Bio 126 AL, BL, or CL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"TOH 280"
-	],
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

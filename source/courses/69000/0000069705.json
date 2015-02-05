@@ -5,16 +5,17 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jan C. Hill",
+		"Cynthia Book"
+	],
 	"level": 200,
 	"name": "IS/Sports Journalism",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jan C. Hill",
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Study",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"William Jurney"
+	],
 	"level": 200,
-	"name": "Human Anatomy & Physiol",
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 282",
 		"SC 253"
 	],
-	"profs": [
-		"William Jurney"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Human Anatomy & Physiol",
+	"num": 243,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140",

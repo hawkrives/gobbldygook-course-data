@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
 	"name": "IS/Theological German",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"William Poehlmann"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Theological German",
 	"type": "Research",

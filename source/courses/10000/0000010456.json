@@ -6,17 +6,18 @@
 		"DNCTE"
 	],
 	"desc": "Ballet classes are taught from a modern dance perspective. This course provides students with an introduction to ballet vocabulary, technique and body awareness. Offered both semesters. Can be repeated with instructor's permission.",
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 100,
-	"num": 121,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC _STUDIO_2",
 		"DC _STUDIO_2"
 	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 1,
+	"num": 121,
+	"pf": true,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"T 1150-1245PM",

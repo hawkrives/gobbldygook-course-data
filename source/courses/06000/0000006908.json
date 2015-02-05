@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 200,
-	"name": "Creative Writing I",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Creative Writing I",
+	"num": 257,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

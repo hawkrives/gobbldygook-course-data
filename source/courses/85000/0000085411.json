@@ -9,18 +9,19 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Michael Fuerstein"
+	],
 	"level": 200,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Law,Politics,Morality",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors during web registration.",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Michael Fuerstein"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0100-0300PM"

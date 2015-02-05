@@ -5,15 +5,16 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
 	"name": "IR/Solo Performance",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Solo Performance",
 	"type": "Research",

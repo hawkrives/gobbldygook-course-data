@@ -10,14 +10,15 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 100,
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Michael Leming"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20085,
 	"title": "Introduction to Sociology",
 	"type": "Research",

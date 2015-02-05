@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul Fischer"
+	],
 	"level": 300,
+	"locations": [
+		"SC 340"
+	],
 	"name": "Adv Synthesis Lab",
 	"num": 374,
 	"pf": true,
-	"places": [
-		"SC 340"
-	],
-	"profs": [
-		"Paul Fischer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"Th 0120-0520PM"

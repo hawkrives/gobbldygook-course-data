@@ -5,14 +5,15 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Family Relationships",
 	"num": 242,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "Family Relationships",
 	"type": "Research",

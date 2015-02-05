@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Physics Audio Systems",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"James Cederberg"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0800-0855",

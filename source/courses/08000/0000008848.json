@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Reel Am/History/Film",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 0100-0300PM"

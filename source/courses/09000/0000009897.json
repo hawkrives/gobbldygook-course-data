@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
-	"name": "Religions China/Japan",
-	"num": 256,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"name": "Religions China/Japan",
+	"num": 256,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

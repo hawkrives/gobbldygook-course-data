@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 126,
+	"instructors": [
+		"Steven Cole"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Human Anatomy & Physiol L",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
-		"Steven Cole"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"Th 0800-1100"

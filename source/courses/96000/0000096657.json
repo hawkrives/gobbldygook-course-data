@@ -5,15 +5,16 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

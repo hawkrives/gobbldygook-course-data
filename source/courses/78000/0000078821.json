@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Michael Swift"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"title": "Internship",
 	"type": "Research",

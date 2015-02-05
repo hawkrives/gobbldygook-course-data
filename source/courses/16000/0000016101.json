@@ -5,17 +5,18 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 3"
+	],
 	"name": "Advanced Japanese II",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

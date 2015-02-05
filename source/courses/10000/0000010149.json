@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
-	"level": 200,
-	"name": "Synthesis Lab",
-	"num": 253,
-	"pf": true,
-	"places": [
-		"SC 311"
-	],
-	"profs": [
+	"instructors": [
 		"Anthony T. Watson",
 		"Wesley Pearson"
 	],
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"SC 311"
+	],
+	"name": "Synthesis Lab",
+	"num": 253,
+	"pf": true,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"MW 0100-0400PM"

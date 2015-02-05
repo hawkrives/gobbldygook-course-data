@@ -6,18 +6,19 @@
 		"CSCI"
 	],
 	"desc": "Recent and planned topics include parallel computing systems, computer graphics, relational database systems, and real-time systems. May be repeated if topics are different. Next offered in interim 2011 (parallel computing systems) and interim 2013.",
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
-	"name": "Top: Parallel Comput",
-	"num": 300,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 203",
 		"RNS 203"
 	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 2,
+	"name": "Top: Parallel Comput",
+	"num": 300,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"times": [
 		"M-F 0830-1000",

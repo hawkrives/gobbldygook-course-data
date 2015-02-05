@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 100,
+	"locations": [
+		"H 516"
+	],
 	"name": "Death/Meaning of Life",
 	"num": 147,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
-	"name": "Introductory Psych",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 277",
 		"SC 280"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 1,
+	"name": "Introductory Psych",
+	"num": 121,
+	"pf": false,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"times": [
 		"WF 1150-1245PM",

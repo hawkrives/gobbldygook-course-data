@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FOL-C"
 	],
-	"level": 300,
-	"num": 302,
-	"pf": false,
-	"places": [
-		"TOH 112"
-	],
-	"profs": [
+	"instructors": [
 		"Ka F. Wong"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"TOH 112"
+	],
+	"num": 302,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0200-0255PM"

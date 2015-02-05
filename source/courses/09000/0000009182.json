@@ -5,20 +5,21 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Diane M. Maher"
+	],
 	"level": 100,
-	"name": "Biological Science",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 280",
 		"SC 253"
 	],
-	"profs": [
-		"Diane M. Maher"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Biological Science",
+	"num": 121,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

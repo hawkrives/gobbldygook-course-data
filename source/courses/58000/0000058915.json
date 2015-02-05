@@ -6,16 +6,17 @@
 		"CHEM"
 	],
 	"desc": "This course introduces the fundamentals of forensic science. Lectures focus on how samples are collected and analyzed and what information can be obtained. Actual case studies will be used to supplement lectures. Topics will include hair analysis, paint analysis, drug screening, arson investigation, ballistics, DNA analysis, and fingerprint analysis. This course is also available with a laboratory component, as Chemistry 107. Offered alternate Spring semesters.",
-	"level": 100,
-	"num": 106,
-	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
+	"instructors": [
 		"Douglas J. Beussman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SC 282"
+	],
+	"num": 106,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"MWF 1045-1140"

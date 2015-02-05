@@ -10,17 +10,18 @@
 		"HBS",
 		"WRI"
 	],
+	"instructors": [
+		"Judith Sateren"
+	],
 	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Judith Sateren"
-	],
-	"sem": 2,
+	"num": 130,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"MWF 1040-1240PM",

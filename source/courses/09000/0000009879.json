@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sect": "M",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "M",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

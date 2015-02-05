@@ -10,19 +10,20 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
-	"name": "Jesus in Script/Trad",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 305",
 		"OM 305"
 	],
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Jesus in Script/Trad",
+	"num": 221,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

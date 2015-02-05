@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 300,
-	"name": "Sem: American Rev",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"name": "Sem: American Rev",
+	"num": 370,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

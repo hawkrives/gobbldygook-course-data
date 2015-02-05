@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Kristen Pritchard"
+	],
 	"level": 200,
-	"name": "Microbiology",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 263"
 	],
-	"profs": [
-		"Kristen Pritchard"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Microbiology",
+	"num": 231,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140",

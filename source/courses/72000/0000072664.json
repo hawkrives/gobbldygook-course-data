@@ -10,19 +10,20 @@
 		"FOL-J"
 	],
 	"groupid": 662,
+	"instructors": [
+		"Hiroe Akimoto"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Intermed Japanese I",
 	"notes": "Students in Japan 231 must also register for one lab Japan 231AL or BL.",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Hiroe Akimoto"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"MWF 1255-0150PM"

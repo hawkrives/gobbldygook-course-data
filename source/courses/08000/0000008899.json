@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Music/Electronic Med",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 300,
+	"locations": [
+		"TB 227"
+	],
 	"name": "Sem: Goethe Heute",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

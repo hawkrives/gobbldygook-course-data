@@ -10,19 +10,20 @@
 		"FOL-S",
 		"WRI"
 	],
+	"instructors": [
+		"Alberto Villate-Isaza"
+	],
 	"level": 200,
-	"name": "Gateway Sp-Spkng Wrld",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Alberto Villate-Isaza"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Gateway Sp-Spkng Wrld",
+	"num": 250,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

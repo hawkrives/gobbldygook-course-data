@@ -10,18 +10,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 300,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Sem:Studies in Hist: Hume",
 	"notes": "Prerequisite: Two courses in Philosophy.",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

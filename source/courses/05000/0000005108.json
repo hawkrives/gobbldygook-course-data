@@ -5,14 +5,15 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Jon Bruss"
+	],
 	"level": 300,
 	"name": "IR/Literative Horace",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jon Bruss"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Literative Horace",
 	"type": "Research",

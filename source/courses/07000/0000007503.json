@@ -5,17 +5,18 @@
 	"depts": [
 		"WMNST"
 	],
+	"instructors": [
+		"Diane C. LeBlanc"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Intro Women's Studies",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Diane C. LeBlanc"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

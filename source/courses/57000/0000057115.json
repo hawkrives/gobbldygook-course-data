@@ -5,14 +5,15 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"William Sean Goldsworthy"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"William Sean Goldsworthy"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Internship",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
+	"locations": [
+		"HH 204"
+	],
 	"name": "Sem: Preceptors",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"HH 204"
-	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"F 0200-0255PM"

@@ -5,20 +5,21 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill",
+		"Colin Wells"
+	],
 	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 515",
 		"L 177/SC210",
 		"L 520"
 	],
-	"profs": [
-		"Jonathan Hill",
-		"Colin Wells"
-	],
-	"sem": 3,
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM",

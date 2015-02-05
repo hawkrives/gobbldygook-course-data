@@ -7,14 +7,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"James Farrell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -28,19 +29,20 @@
 				"ART"
 			],
 			"desc": "This course introduces fundamental technical and perceptual skills of drawing, including the basic elements of mark, line, value, texture, form, space and their dynamics in composition. By translating observed subjects onto two-dimensional surfaces, students explore drawing as a means to self-expression, as a springboard to understanding how ideas are given visible form and as a cornerstone of artistic practice. Lab fee.",
+			"instructors": [
+				"Jil Evans"
+			],
 			"level": 100,
-			"name": "Foundation Drawing",
-			"num": 110,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 216",
 				"DC 216",
 				"DC 216"
 			],
-			"profs": [
-				"Jil Evans"
-			],
-			"sem": 2,
+			"name": "Foundation Drawing",
+			"num": 110,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -59,14 +61,15 @@
 				"ART"
 			],
 			"desc": "This course provides intensive exposure to career opportunities in the field of art including advertising, graphics, illustration, film, television, computer graphics, architecture, textile design and fine art (painting, sculpture, etc.). Working five to seven hours a day, students interview over 25 artists/designers during the month, visit more than 100 galleries and museums and write extensively about artists and artwork. This course does not count toward the minimum major in studio art or art history. Prerequisites: Art 253 (preferred) or Art 252. Offered Interim only.",
+			"instructors": [
+				"Margaret Ojala"
+			],
 			"level": 200,
 			"name": "Manhattan Art Interim",
 			"num": 246,
 			"pf": false,
-			"profs": [
-				"Margaret Ojala"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Manhattan Interim in New York City",
 			"type": "Research",
@@ -80,16 +83,17 @@
 				"ART"
 			],
 			"desc": "This course is an introduction to postmodern art and thought through a survey of painting, sculpture, architecture, and new-media arts produced mostly in the United States since the Cold War era. Students learn about celebrated art and artists, major values informing their work, and ways of analyzing and making sense of newer art.",
-			"level": 200,
-			"num": 253,
-			"pf": false,
-			"places": [
-				"DC 305"
-			],
-			"profs": [
+			"instructors": [
 				"Matthew Rohn"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"DC 305"
+			],
+			"num": 253,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000"
@@ -106,14 +110,15 @@
 				"ART"
 			],
 			"desc": "There is no substitute for direct, personal experience. In Italy, students study Renaissance and Medieval paintings, sculptures and buildings in context. Students examine the works that went before the Renaissance and the ones which came afterwards to work out for themselves what made Italian art special and what value it has for us today.",
+			"instructors": [
+				"Nancy M. Thompson"
+			],
 			"level": 200,
 			"name": "Ital Art in Context",
 			"num": 255,
 			"pf": false,
-			"profs": [
-				"Nancy M. Thompson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Italian Art in Context",
 			"type": "Research",
@@ -127,16 +132,17 @@
 				"ART"
 			],
 			"desc": "This course is an introductory exploration of Scandinavian visual arts and the cultural and historical forces related to them. The span of time, specific cultures covered and art forms studied varies depending upon the instructor.",
-			"level": 200,
-			"num": 266,
-			"pf": false,
-			"places": [
-				"DC 305"
-			],
-			"profs": [
+			"instructors": [
 				"Kristi Holden"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"DC 305"
+			],
+			"num": 266,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -152,14 +158,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -172,14 +179,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
 			"level": 200,
 			"name": "IS/Costa Rican Art",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Heather M. Brooks-Shirey"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Costa Rican Art",
 			"type": "Research",
@@ -192,14 +200,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -213,14 +222,15 @@
 				"ART"
 			],
 			"desc": "Prerequisites: three courses in area of study.",
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 300,
 			"name": "IR/Ind. Painting",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research: Art History",
 			"type": "Research",
@@ -234,17 +244,18 @@
 				"ASIAN"
 			],
 			"desc": "This course explores major aspects of language use that reflect Japanese culture and society. Issues covered include the characteristics of the Japanese language, loan words, regional differences, politeness, gender differences and communication styles. The course will be taught in a combination of lectures, class discussions, subtitled Japanese films, anime (Japanese animation) and student presentations. There are no prerequisites for 126; knowledge of Japanese helpful but not necessary. Readings, lectures and discussions are all in English. The prerequisite for 226 is Japanese 231.",
+			"instructors": [
+				"Rika Ito"
+			],
 			"level": 100,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Japanese Lang/Society",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"Rika Ito"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -261,14 +272,15 @@
 				"ASIAN"
 			],
 			"desc": "In this Interim course students who have completed the Asian Conversations sequence travel to sites in China and Japan in order to experience those cultures firsthand and to study Chinese and Japanese constructions of national identity. Through readings, site visits, interactions with peers in the target languages, homestays and journal writing in both English and their target language, students learn about how Asians in these two countries perceive themselves and their role in the region and in the world, both in the past and in the present. They travel to Shanghai, Nanjing, Beijing, Nagasaki and Tokyo. Prerequisite: Asian Studies 211 or permission of the instructor.",
+			"instructors": [
+				"Karil J. Kucera"
+			],
 			"level": 200,
 			"name": "Nat ID/China & Japan",
 			"num": 212,
 			"pf": false,
-			"profs": [
-				"Karil J. Kucera"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Asian Conversations: National Identity in China and Japan",
 			"type": "Research",
@@ -282,17 +294,18 @@
 				"ASIAN"
 			],
 			"desc": "This course explores major aspects of language use that reflect Japanese culture and society. Issues covered include the characteristics of the Japanese language, loan words, regional differences, politeness, gender differences and communication styles. The course will be taught in a combination of lectures, class discussions, subtitled Japanese films, anime (Japanese animation) and student presentations. There are no prerequisites for 126; knowledge of Japanese helpful but not necessary. Readings, lectures and discussions are all in English. The prerequisite for 226 is Japanese 231.",
+			"instructors": [
+				"Rika Ito"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Top: Japan Lang & Soc",
 			"num": 226,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"Rika Ito"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -309,17 +322,18 @@
 				"ASIAN"
 			],
 			"desc": "Students explore the major genres of Chinese literature -- poetry, short story, novel and drama -- in English translation. A small number of major works are singled out for close attention.",
+			"instructors": [
+				"Pin Pin Wan"
+			],
 			"level": 200,
+			"locations": [
+				"OM 002"
+			],
 			"name": "Chinese Lit--Tr",
 			"num": 236,
 			"pf": false,
-			"places": [
-				"OM 002"
-			],
-			"profs": [
-				"Pin Pin Wan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-Th 1040-1240PM"
@@ -335,17 +349,18 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Katherine S. Tegtmeyer Pak"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Intl Politics Ne Asia",
 			"num": 245,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Katherine S. Tegtmeyer Pak"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -361,14 +376,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -381,14 +397,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Pin Pin Wan"
+			],
 			"level": 200,
 			"name": "IS/Chinese Architect",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Pin Pin Wan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -401,14 +418,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -421,14 +439,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -442,17 +461,18 @@
 				"BIO"
 			],
 			"desc": "This course examines issues of women's biology including views of the evolving female and biological determinism. Core material covers anatomy, development, the biological basis of gender, reproduction, sexual response, the menstrual cycle and aging and aspects of women's health such as eating disorders, cancers and hormonal treatments. Students participate in significant amounts of group work and oral presentation. The course is open to both men and women. Offered during Interim. GE: NST-B.",
+			"instructors": [
+				"Diane M. Maher"
+			],
 			"level": 100,
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 130",
 				"SC 130"
 			],
-			"profs": [
-				"Diane M. Maher"
-			],
-			"sem": 2,
+			"num": 124,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -471,17 +491,18 @@
 			],
 			"desc": "This foundation course explores major principles of cellular and molecular biology and is a prerequisite for all Level II biology courses. Emphases include the structural and chemical composition of cells, crucial metabolic pathways, fundamentals of cell division, basic genetics and the scientific method. Labs integrate concepts with problem-solving and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Taught annually and during Interim. GE: NST-B, NSL.",
 			"groupid": 106,
+			"instructors": [
+				"Kimberly A. Kandl"
+			],
 			"level": 100,
+			"locations": [
+				"SC 278"
+			],
 			"name": "Cell Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 278"
-			],
-			"profs": [
-				"Kimberly A. Kandl"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -499,17 +520,18 @@
 			],
 			"desc": "This course is designed as an introduction to molecular biology for non-biology majors. We will learn about molecular biology techniques and the use of molecular biology in medicine, forensics and agriculture. We will discuss human genetic diseases, mutations, DNA cloning, DNA fingerprinting, eugenics, gene therapy, reproductive technologies, fetal tissue research and genetic privacy. Each issue will be addressed on scientific and ethical levels. Offered during Interim. GE: NST-B, NSL.",
 			"groupid": 110,
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 100,
+			"locations": [
+				"SC 278"
+			],
 			"name": "Genetics/Evolut/Soc",
 			"num": 127,
 			"pf": false,
-			"places": [
-				"SC 278"
-			],
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-Th 1040-1200PM"
@@ -527,17 +549,18 @@
 			],
 			"desc": "Why do biologists do what they do? How is biology actually done? In \"Thinking and Doing Biology\" we investigate the reasons biological science is done the way it is today. Students are given the opportunity to design and perform their own experiments while being taught the process of scientific investigation. Offered during Interim. GE: NST-B, NSL.",
 			"groupid": 114,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"SC 227"
+			],
 			"name": "Thinking & Doing Bio",
 			"num": 135,
 			"pf": false,
-			"places": [
-				"SC 227"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-Th 0900-1000"
@@ -554,13 +577,14 @@
 				"BIO"
 			],
 			"desc": "Offered at the University of Minnesota Biological Field Station at Itasca State Park, Minnesota, this course provides study (lectures, readings, laboratory work and short field trips followed by extensive independent field research) in a wide range of habitats. The first week is spent on campus and the remaining three weeks are spent at the field station. Offered in 2002 and in alternate years during Interim. Prerequisite: Biology 125 and 126.",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
 			"num": 281,
 			"pf": false,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Winter Ecology",
 			"type": "Research",
@@ -573,14 +597,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Theodore Johnson"
+			],
 			"level": 200,
 			"name": "Peruvian Medical Exp",
 			"num": 284,
 			"pf": false,
-			"profs": [
-				"Theodore Johnson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Peruvian Medical Exp",
 			"type": "Research",
@@ -594,14 +619,15 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -615,14 +641,15 @@
 				"BIO"
 			],
 			"desc": "Independent Study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Registrar's Office or its website.",
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "IS/Disease Prevention",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -635,19 +662,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Diane K. Angell"
+			],
 			"level": 300,
-			"name": "Zoo Biology",
-			"num": 310,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 248",
 				"SC 248",
 				"SC 248"
 			],
-			"profs": [
-				"Diane K. Angell"
-			],
-			"sem": 2,
+			"name": "Zoo Biology",
+			"num": 310,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000",
@@ -666,14 +694,15 @@
 				"BIO"
 			],
 			"desc": "Biology 394 is for students who have completed one internship (Biology 294) and wish to perform a second internship. Students interested in an internship should consult with the Center for Experiential Learning, locate a faculty sponsor and complete an internship form.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -687,14 +716,15 @@
 				"BIO"
 			],
 			"desc": "Independent Research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, students conceive and perform a research project leading to the writng of a major research paper and a poster presentation. Independant research requires permission of a supervisor, a secondary faculty reader of the paper and completion of an independantresearch form.",
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 300,
 			"name": "IR/TB Operons",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Anne Walter"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -708,17 +738,18 @@
 				"CHEM"
 			],
 			"desc": "This course, a continuation of Chemistry 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. Chemistry 121 and 123 together are equivalent in content to Chemistry 125 and are designed to prepare students for Chemistry 126. Prerequisite: Chemistry 121. Offered only during Interim.",
+			"instructors": [
+				"Dwight R. Stoll"
+			],
 			"level": 100,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Atom/Molec Structure",
 			"num": 123,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Dwight R. Stoll"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -736,17 +767,18 @@
 			],
 			"desc": "Students study the chemistry of the environment, from the fundamental chemical properties of air, water and soil to human impact on natural processes, including damage to and protection of the environment. Laboratory work explores environmental issues such as detecting hazardous and beneficial materials in a variety of samples.",
 			"groupid": 190,
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 100,
+			"locations": [
+				"SC 378"
+			],
 			"name": "A Matter of Environ",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000"
@@ -763,17 +795,18 @@
 				"CHEM"
 			],
 			"desc": "Students study the structure, bonding and reactions of compounds containing metal-carbon bonds. Special topics include applications of organometallic chemistry to the synthesis of organic compounds, homogeneous catalysis and biochemistry. Examples illustrate organometallic chemistry as a bridge between organic and inorganic chemistry. Prerequisite: Chemistry 247. Offered during Interim.",
+			"instructors": [
+				"Gary Miessler"
+			],
 			"level": 200,
+			"locations": [
+				"SC 310"
+			],
 			"name": "Organometallic Chem",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"SC 310"
-			],
-			"profs": [
-				"Gary Miessler"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -789,14 +822,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Robert Hanson"
+			],
 			"level": 200,
 			"name": "Med Chem in Jamaica",
 			"num": 260,
 			"pf": false,
-			"profs": [
-				"Robert Hanson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Med Chem in Jamaica",
 			"type": "Research",
@@ -809,14 +843,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -829,14 +864,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Douglas J. Beussman"
+			],
 			"level": 200,
 			"name": "IS/Pharmacology",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Douglas J. Beussman"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -850,18 +886,19 @@
 				"CHEM"
 			],
 			"desc": "In the laboratory, students investigate and identify organic compounds, singly and in mixtures. Lectures and discussion sessions investigate various spectroscopic methods and their applications to the elucidation of the structure of organic compounds. Prerequisite: Chemistry 248 and 254. Offered during Interim.",
+			"instructors": [
+				"Gregory W. Muth"
+			],
 			"level": 300,
+			"locations": [
+				"SC 310"
+			],
 			"name": "Organic Analys/Theory",
 			"notes": "Lab hours to be arranged.",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"SC 310"
-			],
-			"profs": [
-				"Gregory W. Muth"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000"
@@ -877,14 +914,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -897,14 +935,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Jeffrey J. Schwinefus"
+			],
 			"level": 300,
 			"name": "IR/RNA Folding",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jeffrey J. Schwinefus"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -918,14 +957,15 @@
 				"CLASS"
 			],
 			"desc": "This course introduces students to the history and art of ancient Greece, from the Bronze Age through the archaic, classical and Hellenistic periods. Students visit every major region of Greece, with extended stays in Athens, Heraklion and Thessaloniki. When not visiting museums and archaeological sites and learning about ancient Greek civilization, students experience modern Greek culture. GE: HWC, ALS-A. Offered annually in Interim.",
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 200,
 			"name": "Class Studies Greece",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Classical Studies in Greece",
 			"type": "Research",
@@ -938,14 +978,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -958,14 +999,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -978,14 +1020,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -998,14 +1041,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1018,14 +1062,15 @@
 			"depts": [
 				"CHIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1038,14 +1083,15 @@
 			"depts": [
 				"CHIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1058,14 +1104,15 @@
 			"depts": [
 				"CHIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1079,14 +1126,15 @@
 				"CHIN"
 			],
 			"desc": "Students who have completed Chinese 371 are encouraged to continue their Chinese language study with faculty through individual and small group tutorials by registering for Chinese 298 or Chinese 398. Through individual tutorials students may pursue readings and projects in their area of interest.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1100,17 +1148,18 @@
 				"ECON"
 			],
 			"desc": "Consumers, families, and community are intertwining elements of the social economy, each depending on the others for success. This course focuses on the triad, highlighting economic roles and principles. Among the topics of interest are the \"rational consumer,\" saving and investing, momentous decisions, prodigal behavior, consumer protection, group dynamics, nurturing manipulation, collective purchases, budgeting, voting, and social welfare.",
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Consum/Familes/Commun",
 			"num": 116,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1127,14 +1176,15 @@
 				"ECON"
 			],
 			"desc": "This international travel course tracks economic development in China with emphasis on Shanghai. The course examines the emergence and evolution of markets in rural, urban, commercial and financial centers and how the changes affect culture, attitudes, customs and life of the people. Shanghai will be compared with other Chinese cities, including Nanjing, Suzhou, Hangzhou and Hong Kong. The role of Hong Kong in China's reform and its integration since 1997 is also discussed.",
+			"instructors": [
+				"Xun Pomponio"
+			],
 			"level": 200,
 			"name": "Econ Progress China",
 			"num": 218,
 			"pf": false,
-			"profs": [
-				"Xun Pomponio"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Economic Progress in China",
 			"type": "Research",
@@ -1148,17 +1198,18 @@
 				"ECON"
 			],
 			"desc": "This course examines Christian ethics along with major frameworks in philosophical ethics (Utilitarianism, Liberalism and Marxism) in addressing economic issues. Some introductory analysis will be presented and utilized. Economics 220 cannot be taken after taking Economics 293. Does not count toward the economics major. Prerequisites: BST-T Course.",
+			"instructors": [
+				"Mark Pernecky"
+			],
 			"level": 200,
-			"num": 220,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 035",
 				"OM 035"
 			],
-			"profs": [
-				"Mark Pernecky"
-			],
-			"sem": 2,
+			"num": 220,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"MWF 0830-1000",
@@ -1176,14 +1227,15 @@
 				"ECON"
 			],
 			"desc": "This international travel course examines economic change in Britain from the Industrial Revolution to the current European Union membership. The course focuses on the process of change and how economic factors interact with values and culture. Prerequisite: one of Economics 110-122, or consent of instructor. Offered alternate Interims.",
+			"instructors": [
+				"Bruce Dalgaard"
+			],
 			"level": 200,
 			"name": "Britain in Transition",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"Bruce Dalgaard"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Britain in Transition -- Economic Leader to European Union",
 			"type": "Research",
@@ -1196,14 +1248,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1216,14 +1269,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1236,14 +1290,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1256,14 +1311,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1277,14 +1333,15 @@
 				"CSCI"
 			],
 			"desc": "This is an intermediate-level version of Computer Science 394.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1297,14 +1354,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1317,18 +1375,19 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Richard Brown"
+			],
 			"level": 300,
-			"name": "Advanced Team Project",
-			"num": 350,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 186",
 				"SC 186"
 			],
-			"profs": [
-				"Richard Brown"
-			],
-			"sem": 2,
+			"name": "Advanced Team Project",
+			"num": 350,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0830-1000",
@@ -1346,14 +1405,15 @@
 				"CSCI"
 			],
 			"desc": "Students gain experience in computer-industry positions. Projects have included implementation of solid modeling (NURBS), documentation, business applications of computing, applications of computer graphics in medical research, team programming. Internship experiences (whether for credit or not) are strongly encouraged for anyone considering a career in computing.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1367,14 +1427,15 @@
 				"CSCI"
 			],
 			"desc": "Recent projects have involved team software development, graphics user-interface (GUI) programming, real-time computing, logic programming and intelligent tutoring systems, relational data bases, computer networks and operating systems.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1388,14 +1449,15 @@
 				"EDUC"
 			],
 			"desc": "Through lectures, readings and field placements in Minneapolis, students gain an understanding of how race, class, ethnicity, national origin, gender, sexual orientation and religion shape the character of urban youth and communities. Students spend the first week on campus in preparation for their placements and the last week reflecting upon their experiences. During weeks two and three students live in Minneapolis and tutor in the schools and participate in various after-school activities. Counts toward the major: American Racial and Multicultural Studies.",
+			"instructors": [
+				"Daniel R. Forstner"
+			],
 			"level": 100,
 			"name": "Schools & Communities",
 			"num": 170,
 			"pf": true,
-			"profs": [
-				"Daniel R. Forstner"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Urban Schools and Communities",
 			"type": "Research",
@@ -1409,14 +1471,15 @@
 				"EDUC"
 			],
 			"desc": "This course provides practical experiences and insights for students desiring to explore career opportunities in the many facets of education. Students, primarily sophomores, live off-campus, participating in different observational and practical experiences in schools of their choice. First-year students with special circumstances should consult Education Department chair. Applications due early in Fall Semester. Offered during Interim.",
+			"instructors": [
+				"Elizabeth A. Leer"
+			],
 			"level": 200,
 			"name": "Perspectives On Tchg",
 			"num": 260,
 			"pf": true,
-			"profs": [
-				"Elizabeth A. Leer"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Perspectives on Teaching",
 			"type": "Research",
@@ -1429,14 +1492,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Robert W. McClure"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Robert W. McClure"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1449,14 +1513,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1470,14 +1535,15 @@
 				"EDUC"
 			],
 			"desc": "Students examine the influence of race, class and multiculturalism in American schools by participating as teachers' assistants and tutors in two distinctly different K-12 settings. Through guest lectures, readings, field trips and seminars, students explore the unique geography and culture of the Hawaiian Islands and develop a framework for examining diversity on the mainland. Prerequisite: Education 290, 2.7 GPA, meeting all off-campus study requirements and satisfactory portfolio progress. Fulfills Education 382 and partially fulfills clinical practicum requirements. Students apply in the Spring Semester. Counts toward the major: American Racial and Multicultural Studies.",
+			"instructors": [
+				"Mark Schelske"
+			],
 			"level": 300,
 			"name": "Multi-Cult Ed Hawaii",
 			"num": 378,
 			"pf": true,
-			"profs": [
-				"Mark Schelske"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Multicultural Education in Hawaii: Seminar and Practicum",
 			"type": "Research",
@@ -1491,14 +1557,15 @@
 				"EDUC"
 			],
 			"desc": "Students working as tutors and teacher aides gain direct teaching experience in urban schools. This course is designed to heighten students' sensitivities to the complexities of the education of urban youth in a multicultural setting. Prerequisite: Education 290, 2.7 GPA, meeting all off-campus study requirements and satisfactory portfolio progress. The course fulfills Education 382 and partially fulfills clinical practicum requirements. Counts toward the major: American Racial and Multicultural Studies.",
+			"instructors": [
+				"Rosemary A. Pfarr-Baker"
+			],
 			"level": 300,
 			"name": "Urban Alternative Ed",
 			"num": 379,
 			"pf": true,
-			"profs": [
-				"Rosemary A. Pfarr-Baker"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Urban Education Seminar & Practicum",
 			"type": "Research",
@@ -1511,14 +1578,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1531,14 +1599,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1552,18 +1621,19 @@
 				"DNCTH"
 			],
 			"desc": "An introduction to world dance traditions, this course examines dance forms, functions, contexts and differing aesthetics found in selected cultures of Africa, Asia, Europe, the Near and Middle East, the South Pacific and Latin America. The course includes lectures, discussions, video-viewing and required field-trips to dance events, in addition to studio experiences where students learn dances from the cultures studied. No previous dance experience required.",
+			"instructors": [
+				"Anne von Bibra"
+			],
 			"level": 100,
-			"name": "World Dance Tradition",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 305",
 				"DC _STUDIO_1"
 			],
-			"profs": [
-				"Anne von Bibra"
-			],
-			"sem": 2,
+			"name": "World Dance Tradition",
+			"num": 124,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -1580,18 +1650,19 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Anthony Roberts"
+			],
 			"level": 100,
-			"name": "Dancing With Computer",
-			"num": 150,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC _STUDIO_1",
 				"DC 100"
 			],
-			"profs": [
-				"Anthony Roberts"
-			],
-			"sem": 2,
+			"name": "Dancing With Computer",
+			"num": 150,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"MTThF 1040-1200PM",
@@ -1608,14 +1679,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1628,14 +1700,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
 			"level": 200,
 			"name": "IS/Roots of Yoga",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Sheryl Saterstrom"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1648,14 +1721,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1668,14 +1742,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1689,17 +1764,18 @@
 				"ENGL"
 			],
 			"desc": "Students examine various heroic and trickster figures as manifested in post-colonial literature from Africa, Asia and the Caribbean, both oral and written, and seek to understand what basic human needs and realities these figures express and fulfill.",
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 100,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Trickstr/Post-Col Lit",
 			"num": 108,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -1716,17 +1792,18 @@
 				"ENGL"
 			],
 			"desc": "These courses treat specific periods in American literature and examine the relationship between literary texts and movements and their unique cultural, political and historical contexts. Each offering of this course examines a different literary era and emphasizes specific literary and historical issues. Students may register for the course more than once provided a different era is studied. Offerings include:",
+			"instructors": [
+				"Colin Wells"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Lit Eras: Am:Beats",
 			"num": 240,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Colin Wells"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1743,14 +1820,15 @@
 				"ENGL"
 			],
 			"desc": "Students study modern Irish short stories in four distinct Irish settings (ancient city, coastal village, urban capital, lake-country town) where these stories were written. Reading, discussion and cultural experiences (including theater, museums and excursions by van) provide the basis for daily journal entries and several short papers. Offered alternate years during Interim.",
+			"instructors": [
+				"Richard DuRocher"
+			],
 			"level": 200,
 			"name": "Modern Irish Lit",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Richard DuRocher"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Modern Irish Short Stories",
 			"type": "Research",
@@ -1763,14 +1841,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jan C. Hill"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jan C. Hill"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1783,14 +1862,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1804,17 +1884,18 @@
 				"ENGL"
 			],
 			"desc": "Students explore specific periods in American literature and examine the relationship between literary texts and movements and their particular cultural, political and historical contexts. Each offering of this course examines a different literary era and emphasizes specific literary and historical issues.",
+			"instructors": [
+				"Carol Holly"
+			],
 			"level": 300,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Adv Lit Era: 19th C Am",
 			"num": 340,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Carol Holly"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1830,14 +1911,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1850,14 +1932,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mary V. Winstead"
+			],
 			"level": 300,
 			"name": "IR/Families and Memoir",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Mary V. Winstead"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1871,17 +1954,18 @@
 				"ENVST"
 			],
 			"desc": "This interdisciplinary seminar uses basic concepts of environmental science to explore global environmental issues. Topics are drawn from recent texts and current periodic literature, and participants will recognize many of the seminar issues from coverage in the media. Because most environmental problems involve issues beyond the science, the seminar examines the economic, political and ethical dimensions of environmental questions and environmental decision-making. Offered every semester.",
+			"instructors": [
+				"David R. Narum"
+			],
 			"level": 100,
+			"locations": [
+				"SC 129"
+			],
 			"name": "Intro: Env Studies",
 			"num": 137,
 			"pf": false,
-			"places": [
-				"SC 129"
-			],
-			"profs": [
-				"David R. Narum"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -1897,14 +1981,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1917,14 +2002,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "IS/Ecological Design",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Farrell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1937,14 +2023,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -1957,14 +2044,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1978,18 +2066,19 @@
 				"FREN"
 			],
 			"desc": "Students expand their ability to communicate in French, understand French texts and interpret French and U.S. cultures through study and discussion of specific social and cultural topics that are relevant (eg. stereotypes, the family, education, immigration). Explicit focus on cross-cultural comparison/contract and analysis. Students develop their ability to listen, speak, read and write, while paying particular attention to listening and reading strategies. Prerequisite: French 112 or placement.",
+			"instructors": [
+				"Jolene Barjasteh"
+			],
 			"level": 200,
-			"name": "Intermed French I",
-			"num": 231,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 004",
 				"OM 011"
 			],
-			"profs": [
-				"Jolene Barjasteh"
-			],
-			"sem": 2,
+			"name": "Intermed French I",
+			"num": 231,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM",
@@ -2007,14 +2096,15 @@
 				"FREN"
 			],
 			"desc": "Students travel to the Caribbean island of Martinique to study French language and French-Caribbean culture at the upper-intermediate level. An immersion experience that includes home stays with local families, the course emphasizes the multicultural aspects of this region and facilitates student interaction with the local population. Field trips, events, lectures and language instruction are conducted by experts on the campus of the Universit\u00e8 des Antilles. Prerequisite: French 231 or higher (or equivalent) or placement in French 232 or higher. Open to first-year students.",
+			"instructors": [
+				"Herve Pensec"
+			],
 			"level": 200,
 			"name": "Lang/Cul Fr Caribbean",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Herve Pensec"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Language and Culture Studies in Martinique",
 			"type": "Research",
@@ -2028,17 +2118,18 @@
 				"FREN"
 			],
 			"desc": "This course provides an on-campus immersion experience for students interested in improving their oral language proficiency. Students engage in small and large group discussion, give individual and group oral presentations and review grammar and registers of language. They also explore the notions of communicative competence and oral proficiency in order to become more effective speakers. Taught in French. Prerequisite: French 232, 233, or equivalent.",
+			"instructors": [
+				"Scott Homler"
+			],
 			"level": 200,
+			"locations": [
+				"OM 026"
+			],
 			"name": "Speaking of French",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"OM 026"
-			],
-			"profs": [
-				"Scott Homler"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-0300PM"
@@ -2055,14 +2146,15 @@
 				"FREN"
 			],
 			"desc": "This course provides advanced language work and on-the-spot investigation of French culture, past and present, including theater, film, visual arts, the French court, the medieval cathedral, etc., through background readings and visits to important monuments. Students read, discuss, see and critique plays ranging from the classical to the contemporary. Prerequisite: One French 250-level course.",
+			"instructors": [
+				"M. Clare Mather"
+			],
 			"level": 200,
 			"name": "ID French St--Paris",
 			"num": 275,
 			"pf": false,
-			"profs": [
-				"M. Clare Mather"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Interdisciplinary French Studies in Paris",
 			"type": "Research",
@@ -2075,14 +2167,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2095,14 +2188,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/",
 			"type": "Research",
@@ -2115,14 +2209,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2135,14 +2230,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -2156,17 +2252,18 @@
 				"GERM"
 			],
 			"desc": "Reading and discussion of works stemming from the oral tradition, including chapbooks such as Till Eulenspiegel and Faust, fables modeled on antiquity during the 18th century, fairy tales collected by the Brothers Grimm during the 19th century and Kunstmarchen (literary fairy tales) by well-known writers of the Romantic and modern periods, from Geothe to Hermann Hesse. Emphasis on literary aspects and historical contexts. Taught in English. GE: HWC, ALS-L. Offered every Interim.",
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Folk/Fairy/Fables-Tr",
 			"num": 147,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2183,14 +2280,15 @@
 				"GERM"
 			],
 			"desc": "A total immersion experience and capstone course for students completing the language requirement. Integrates listening, speaking, reading, writing and cultural competency. Exploration of city culture, recent history and contemporary aspects of three major German cities: Cologne, Bonn and Berlin. Meetings with German students and professors, museum visits, performances, intensive daily classes and exploration of individually chosen topics. Taught in German. Prerequisite: German 232, B grade or higher in 231, or equivalent. Open to first-year students. Fulfills the language requirement and can be counted toward the German major. GE: FOL-G. Offered every Interim.",
+			"instructors": [
+				"Karl Fink"
+			],
 			"level": 200,
 			"name": "Lang/Culture Studies",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Karl Fink"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Language and Culture Studies in Germany",
 			"type": "Research",
@@ -2204,13 +2302,14 @@
 				"GERM"
 			],
 			"desc": "Explores Viennas cultural traditions as revealed in museums, theaters, operas, operettas, concerts and the citys architectural masterpieces. Focus on turn-of-the-century Vienna and the shift from the late-19th-century romanticism of the declining Habsburg Empire to an unprecedented modernism in all the arts, including architecture (Loos) and music (Schonberg), as well as psychology (Freud), science (Mach) and philosophy (Wittgenstein). Taught in English. GE: ALS-A, HWC. Offered alternate Interims.",
+			"instructors": [
+				"Karen R. Achberger"
+			],
 			"level": 200,
 			"num": 245,
 			"pf": false,
-			"profs": [
-				"Karen R. Achberger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Arts in Vienna",
 			"type": "Research",
@@ -2224,14 +2323,15 @@
 				"GERM"
 			],
 			"desc": "GE: FOL-G.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -2244,14 +2344,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -2265,14 +2366,15 @@
 				"GERM"
 			],
 			"desc": "GE: FOL-G.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -2285,14 +2387,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -2306,18 +2409,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Elizabeth C. Galbraith"
+			],
 			"level": 100,
+			"locations": [
+				"SH 001"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 001"
-			],
-			"profs": [
-				"Elizabeth C. Galbraith"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2334,18 +2438,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Jeanine Grenberg"
+			],
 			"level": 100,
+			"locations": [
+				"SH 002"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 002"
-			],
-			"profs": [
-				"Jeanine Grenberg"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2362,18 +2467,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Anthony J. Rudd"
+			],
 			"level": 100,
+			"locations": [
+				"SH 003"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 003"
-			],
-			"profs": [
-				"Anthony J. Rudd"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2390,18 +2496,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Karen Cherewatuk"
+			],
 			"level": 100,
+			"locations": [
+				"SH 001"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 001"
-			],
-			"profs": [
-				"Karen Cherewatuk"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2418,18 +2525,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Bryn Geffert"
+			],
 			"level": 100,
+			"locations": [
+				"SH 002"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 002"
-			],
-			"profs": [
-				"Bryn Geffert"
-			],
-			"sect": "E",
-			"sem": 2,
+			"section": "E",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2446,18 +2554,19 @@
 				"GCON"
 			],
 			"desc": "Students explore the Greek and Hebrew legacies in Roman society and in the New Testament, discussing various attempts to find personal fulfillment in political life, in stoicism and epicureanism and in the teachings of Christ and St. Paul. Students read works by Cicero, Horace, Virgil, Epictetus, the writers of the New Testament and study the artistry of Roman sculpture. Offered only in Interim.",
+			"instructors": [
+				"Margaret Odell"
+			],
 			"level": 100,
+			"locations": [
+				"SH 003"
+			],
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"SH 003"
-			],
-			"profs": [
-				"Margaret Odell"
-			],
-			"sect": "F",
-			"sem": 2,
+			"section": "F",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2473,14 +2582,15 @@
 			"depts": [
 				"GREEK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2493,14 +2603,15 @@
 			"depts": [
 				"GREEK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -2513,14 +2624,15 @@
 			"depts": [
 				"GREEK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2533,14 +2645,15 @@
 			"depts": [
 				"GREEK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -2553,18 +2666,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Todd W. Nichol"
+			],
 			"level": 100,
+			"locations": [
+				"OM 015"
+			],
 			"name": "Norwegian/Am Exper",
 			"notes": "First-Year students only",
 			"num": 169,
 			"pf": false,
-			"places": [
-				"OM 015"
-			],
-			"profs": [
-				"Todd W. Nichol"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "X",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -2580,17 +2694,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
+			"locations": [
+				"HH 307"
+			],
 			"name": "Wmn/Early Mod Europe",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"HH 307"
-			],
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2607,17 +2722,18 @@
 				"HIST"
 			],
 			"desc": "This course examines the history of 20th-century Cuba, especially the 1959 revolution and its aftermath. We will study the transformation of Cuban political culture, the obstacles to economic and agrarian reform, education, the role of women, human rights, U.S. policies toward Cuba and the future of Cuba after the breakup of the Soviet Union. The role of charismatic leadership in Latin America and the possibilities for revolutionary changes in the Americas are also examined. Offered periodically during Interim.",
+			"instructors": [
+				"Jeane DeLaney"
+			],
 			"level": 200,
+			"locations": [
+				"HH 301"
+			],
 			"name": "20th Century Cuba",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"HH 301"
-			],
-			"profs": [
-				"Jeane DeLaney"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2633,17 +2749,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 200,
+			"locations": [
+				"HH 501"
+			],
 			"name": "Reel Am/History/Film",
 			"num": 290,
 			"pf": false,
-			"places": [
-				"HH 501"
-			],
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -2659,14 +2776,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Robert Entenmann"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Robert Entenmann"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -2679,14 +2797,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "IS/Mexican Religions",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -2699,14 +2818,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -2719,14 +2839,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
 			"level": 300,
 			"name": "IR/Public Health - Mpls",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Eric J. Fure-Slocum"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -2739,14 +2860,15 @@
 			"depts": [
 				"HSPST"
 			],
+			"instructors": [
+				"Sylvia Carullo"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sylvia Carullo"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2759,14 +2881,15 @@
 			"depts": [
 				"HSPST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/",
 			"type": "Research",
@@ -2779,14 +2902,15 @@
 			"depts": [
 				"HSPST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2799,14 +2923,15 @@
 			"depts": [
 				"HSPST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -2819,14 +2944,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Jumi Hayaki"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jumi Hayaki"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -2839,14 +2965,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -2859,14 +2986,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Naurine Lennox"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Naurine Lennox"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2879,14 +3007,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -2899,14 +3028,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"James Farrell"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2919,14 +3049,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/",
 			"type": "Research",
@@ -2939,14 +3070,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -2959,14 +3091,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -2980,18 +3113,19 @@
 				"ID"
 			],
 			"desc": "Peacebuilding is a growing field that engages international organizations and governments as well as civil society organizations and community activists. This course provides an introduction to the field of peacebuilding and conflict management and an opportunity to apply this knowledge to current events through case studies and practice in conflict management skills. Topics covered include cultures of peace, the role of history and future in conflict, conflict analysis and dynamics, intervention strategies, identity and reconciliation. Offered during Interim.",
+			"instructors": [
+				"Eric Cleven"
+			],
 			"level": 200,
-			"name": "Peacebuild/Conflict",
-			"num": 239,
-			"pf": false,
-			"places": [
+			"locations": [
 				"RML 577",
 				"RML 577"
 			],
-			"profs": [
-				"Eric Cleven"
-			],
-			"sem": 2,
+			"name": "Peacebuild/Conflict",
+			"num": 239,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM",
@@ -3008,15 +3142,16 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Helena Pohlandt-McCormick",
+				"Eric Lund"
+			],
 			"level": 200,
 			"name": "Hist/Rel S Africa",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Helena Pohlandt-McCormick",
-				"Eric Lund"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Hist/Rel S Africa",
 			"type": "Research",
@@ -3030,14 +3165,15 @@
 				"ID"
 			],
 			"desc": "Students explore health care at a major metropolitan hospital (Lutheran General Hospital, Park Ridge, Ill.), investigating the variety of services designed to treat patients as whole beings -- including pastoral patient care, day care for preschool and elderly and treatment for substance abuse. Students meet weekly in group seminars in addition to their observations at the hospital and conversations with health care professionals. Prerequisite: apply through instructor before registration. P/N grading only. Offered during Interim.",
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Hospital Health Care",
 			"num": 255,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Hospital Health Care and the Physician",
 			"type": "Research",
@@ -3051,13 +3187,14 @@
 				"ID"
 			],
 			"desc": "Students study drama and theater through the reading of dramatic criticism and plays, attendance at approximately 20 performances, group discussions, guest lectures and tours. London, the theatrical center of the English-speaking world, enables students to experience a wide variety of theatrical performances ranging from traditional to modern. Excursions to Stratford-upon-Avon, Oxford and Canterbury offer additional theater perspectives.",
+			"instructors": [
+				"Gary C. Gisselman"
+			],
 			"level": 200,
 			"num": 258,
 			"pf": false,
-			"profs": [
-				"Gary C. Gisselman"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Theater in London",
 			"type": "Research",
@@ -3070,14 +3207,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3090,14 +3228,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
 			"name": "IS/Phil - Hist: Ayn Rand",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Phil - Hist: Ayn Rand",
 			"type": "Research",
@@ -3110,14 +3249,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3130,14 +3270,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -3150,14 +3291,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3170,14 +3312,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Anne Groton"
+			],
 			"level": 200,
 			"name": "IS/Roman Comedy",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Anne Groton"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3190,14 +3333,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3210,14 +3354,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -3231,18 +3376,19 @@
 				"MATH"
 			],
 			"desc": "Selected topics demonstrate the scope and power of mathematics. Students will work on creative problem-solving, placing mathematical ideas within the context of their historical development and making connections to other disciplines. Intended for students with weak backgrounds in mathematics. Not open to first-year students. Prerequisite: Mathematics Placement Recommendation.",
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 200,
-			"name": "Principles of Math",
-			"num": 210,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 188",
 				"SC 188"
 			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 2,
+			"name": "Principles of Math",
+			"num": 210,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0830-1000",
@@ -3260,14 +3406,15 @@
 				"MATH"
 			],
 			"desc": "This course provides students with a transition from calculus and linear algebra to more advanced courses in theoretical mathematics. The unique feature of the off-campus course is that it is taught with a cultural context in Budapest, Hungary. This course not only supplies a bridge from beginning to advanced mathematics, but also allows the participants to encounter one of the important world-wide centers of mathematics. Prerequisite: Mathematics 220. Offered Interim only.",
+			"instructors": [
+				"Clifton Corzatt"
+			],
 			"level": 200,
 			"name": "Struct of Higher Math",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Clifton Corzatt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "The Structure of Higher Mathematics",
 			"type": "Research",
@@ -3280,14 +3427,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3300,14 +3448,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Clifton Corzatt"
+			],
 			"level": 200,
 			"name": "IS/Elem Number Theory",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Clifton Corzatt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3321,17 +3470,18 @@
 				"MATH"
 			],
 			"desc": "Properties of axiomatic systems are illustrated with finite geometries and applied in a synthetic examination of Euclid's original postulates, well-known Euclidean theorems and non-Euclidean geometries. Euclidean, similarity and affine transformations are studied analytically. These transformations are generalized to obtain results in projective geometry or used to generate fractals in an exploration of fractal geometry. Dynamic geometry software and hands-on labs are used to explore both the transformations and properties of these geometries. Prerequisite: Mathematics 220 and 244 or 252. Interim only.",
+			"instructors": [
+				"Kay E. Smith"
+			],
 			"level": 300,
-			"num": 356,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 184",
 				"SC 184"
 			],
-			"profs": [
-				"Kay E. Smith"
-			],
-			"sem": 2,
+			"num": 356,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1200PM",
@@ -3349,19 +3499,20 @@
 				"MATH"
 			],
 			"desc": "Students work in groups on significant problems posed by and of current interest to area businesses and government agencies. The student groups decide on promising approaches to their problem and carry out the necessary investigations with minimal faculty involvement. Each group reports the results of its investigations with a paper and an hour long presentation to the sponsoring organization. Prerequisite: Permission of instructor. Interim only.",
-			"level": 300,
-			"notes": "Permission of instructor needed.",
-			"num": 390,
-			"pf": false,
-			"places": [
-				"SC 182",
-				"SC 182"
-			],
-			"profs": [
+			"instructors": [
 				"Paul J. Roback",
 				"Matthew Richey"
 			],
-			"sem": 2,
+			"level": 300,
+			"locations": [
+				"SC 182",
+				"SC 182"
+			],
+			"notes": "Permission of instructor needed.",
+			"num": 390,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -3378,14 +3529,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3398,14 +3550,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/",
 			"type": "Research",
@@ -3418,14 +3571,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3438,14 +3592,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3458,14 +3613,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3478,14 +3634,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "IS/Books & Amer Values",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3498,14 +3655,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3518,14 +3676,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 300,
 			"name": "IR/New Media/Ethics",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -3538,19 +3697,20 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Linda Berger"
+			],
 			"level": 100,
-			"name": "The Music Spectrum",
-			"num": 130,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 222",
 				"CHM 224",
 				"RML 477"
 			],
-			"profs": [
-				"Linda Berger"
-			],
-			"sem": 2,
+			"name": "The Music Spectrum",
+			"num": 130,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1130",
@@ -3568,18 +3728,19 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Carter"
+			],
 			"level": 100,
-			"name": "Orchestral Music",
-			"num": 132,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 232",
 				"CHM 232"
 			],
-			"profs": [
-				"David Carter"
-			],
-			"sem": 2,
+			"name": "Orchestral Music",
+			"num": 132,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -3596,17 +3757,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Gerald Hoekstra"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 239"
+			],
 			"name": "History of Jazz",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
-				"Gerald Hoekstra"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -3622,18 +3784,19 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Alice Hanson"
+			],
 			"level": 200,
-			"name": "America's Hit Parade",
-			"num": 232,
-			"pf": false,
-			"places": [
+			"locations": [
 				"CHM 239",
 				"CHM 239"
 			],
-			"profs": [
-				"Alice Hanson"
-			],
-			"sem": 2,
+			"name": "America's Hit Parade",
+			"num": 232,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-Th 0900-1000",
@@ -3650,14 +3813,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Kent M. McWilliams"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kent M. McWilliams"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3670,14 +3834,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Martin Hodel"
+			],
 			"level": 200,
 			"name": "IS/Trumpet Lit/Ped",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Martin Hodel"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Trumpet Lit/Ped",
 			"type": "Research",
@@ -3690,14 +3855,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3710,14 +3876,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Linda Berger"
+			],
 			"level": 300,
 			"name": "IR/The Kodaly Method",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Linda Berger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/The Kodaly Method",
 			"type": "Research",
@@ -3730,14 +3897,15 @@
 			"depts": [
 				"NEURO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3750,14 +3918,15 @@
 			"depts": [
 				"NEURO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/",
 			"type": "Research",
@@ -3770,14 +3939,15 @@
 			"depts": [
 				"NEURO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -3790,14 +3960,15 @@
 			"depts": [
 				"NEURO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IR/",
 			"type": "Research",
@@ -3810,14 +3981,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3830,14 +4002,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3850,14 +4023,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3870,14 +4044,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -3891,17 +4066,18 @@
 				"NURS"
 			],
 			"desc": "This course explores the sources, chemical composition and metabolic behavior of nutrients. Nutritional requirements for a balanced diet are examined as well as the consequences of excesses and deficiencies. Students use nutrition tools and guidelines to make sound food choices, learn how to read food labels and consider factors affecting food consumption. Class activities increase students' awareness of a healthy diet, help students evaluate nutrition behaviors and facilitate a nutritionally sound lifestyle. Prerequisite: High school biology and chemistry strongly recommended.",
+			"instructors": [
+				"Mary Kuehn"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Nutrition & Wellness",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Mary Kuehn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -3918,14 +4094,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -3939,14 +4116,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major.",
+			"instructors": [
+				"Carol H. Austin"
+			],
 			"level": 200,
 			"name": "IS/OB Nursing",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Carol H. Austin"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -3960,13 +4138,14 @@
 				"NURS"
 			],
 			"desc": "This course explores health and nursing in Norway. Students learn about culture, compare nursing and health care in Norway and the U.S., examine the influence of government and economics, explore settings where health care is provided, analyze the effectiveness of the social welfare system in meeting health needs and identify factors affecting health care in the future. Activities include lectures by Norwegian health professionals, seminars with St. Olaf faculty, readings, journals, short papers, visits to health agencies and cultural field trips. Does not count toward the major. Open to non-majors on a space-available basis. Offered during Interim in alternate years.",
+			"instructors": [
+				"Rita Glazebrook"
+			],
 			"level": 300,
 			"num": 371,
 			"pf": false,
-			"profs": [
-				"Rita Glazebrook"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Health Care in Norway",
 			"type": "Research",
@@ -3980,14 +4159,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4001,14 +4181,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major.",
+			"instructors": [
+				"Mary Kuehn"
+			],
 			"level": 300,
 			"name": "IR/The Nurse Educator",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Mary Kuehn"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4022,17 +4203,18 @@
 				"PHIL"
 			],
 			"desc": "Students analyze literary works of different genres as aesthetic treatments of philosophical themes. Poetry, prose and drama explore themes such as the metaphysics and ethics of freedom, the problem of evil and the role of character in choice and action. For example, with Camus students explore such ideas as absurdity, lucidity, rebellion and human solidarity by studying plot, character, point of view, imagery and symbolism.",
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 100,
+			"locations": [
+				"RML 515"
+			],
 			"name": "Philosophy and Lit",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"RML 515"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4049,17 +4231,18 @@
 				"PHIL"
 			],
 			"desc": "This course introduces philosophical ideas and methods through reading, discussing and writing about basic questions that arise when we reflect on the human condition. What is meant by meaning when one asks whether (a person's) life has meaning? How do our beliefs about human nature, religion and morality affect how we ask or answer the question? How does our mortality affect our living? Classical and contemporary writings -- philosophical and autobiographical -- will be used. Offered only in Interim.",
+			"instructors": [
+				"Edward Langerak"
+			],
 			"level": 100,
+			"locations": [
+				"HH 516"
+			],
 			"name": "Death/Meaning of Life",
 			"num": 147,
 			"pf": false,
-			"places": [
-				"HH 516"
-			],
-			"profs": [
-				"Edward Langerak"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4076,16 +4259,17 @@
 				"PHIL"
 			],
 			"desc": "This course clarifies central concepts and distinctions developed in the literature of moral philosophy and applications of those concepts and distinctions to concrete moral problems that arise in the practice of medicine. Issues include euthanasia, abortion, medical paternalism, allocation of scarce medical resources and conflicts of loyalty in managed care. Readings are drawn from both philosophical and medical discussions.",
-			"level": 200,
-			"num": 250,
-			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
+			"instructors": [
 				"Karen Gervais"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"HH 413"
+			],
+			"num": 250,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000"
@@ -4102,17 +4286,18 @@
 				"PHIL"
 			],
 			"desc": "Students examine main Western ethical perspectives and how they apply to selected contemporary moral concerns. Theoretical issues include rights, duties, virtue, hedonism, egoism, the good life, ethics and theology, the fact-value distinction, relativism and pluralism. Students discuss current topics such as economic justice, death, friendship, animal rights, censorship, racism, privacy, reproductive ethics and environmental ethics.",
+			"instructors": [
+				"Jennifer C. Manion"
+			],
 			"level": 200,
+			"locations": [
+				"OM 026"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"OM 026"
-			],
-			"profs": [
-				"Jennifer C. Manion"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -4128,13 +4313,14 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4147,14 +4333,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Charles Taliaferro"
+			],
 			"level": 200,
 			"name": "IS/Ethics of a Web Friend",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4167,13 +4354,14 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4187,14 +4375,15 @@
 				"PHIL"
 			],
 			"desc": "Prerequisite: one Level III course in philosophy.",
+			"instructors": [
+				"Karen Gervais"
+			],
 			"level": 300,
 			"name": "IR/Health Care Ethics",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Karen Gervais"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4207,14 +4396,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4227,14 +4417,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Gary Wicks"
+			],
 			"level": 200,
 			"name": "IS/Soccer and Culture",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Wicks"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4247,14 +4438,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4268,14 +4460,15 @@
 				"PETH"
 			],
 			"desc": "Research",
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 300,
 			"name": "IR/Computer Motion",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4289,16 +4482,17 @@
 				"PHYS"
 			],
 			"desc": "This course offers an introduction to the physics of sound waves, the biological, physical and psychological origins of sound perception and the synthesis of sounds and sound production in different instruments. Students explore these topics, as well as sound recording and reproduction systems, through lectures, discussions, laboratory experiments and student presentations. Prerequisite: proficiency in algebra and geometry. No musical experience necessary. Interim only.",
-			"level": 200,
-			"num": 252,
-			"pf": false,
-			"places": [
-				"SC 170"
-			],
-			"profs": [
+			"instructors": [
 				"David Nitz"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"SC 170"
+			],
+			"num": 252,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0830-1000"
@@ -4314,14 +4508,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4334,14 +4529,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4354,14 +4550,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4374,14 +4571,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 300,
 			"name": "IR/Horn Acoustics",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4395,14 +4593,15 @@
 				"PSCI"
 			],
 			"desc": "Internships in the major are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs and executive agencies.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4415,14 +4614,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 200,
 			"name": "Democracy--Czech Rep",
 			"num": 297,
 			"pf": false,
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Democracy--Czech Rep",
 			"type": "Research",
@@ -4436,14 +4636,15 @@
 				"PSCI"
 			],
 			"desc": "After completion of three courses in political science, students may approach a member of the department faculty and propose a course of study not currently offered to be conducted in tutorial fashion.",
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 200,
 			"name": "IS/Ecofeminism",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4457,17 +4658,18 @@
 				"PSCI"
 			],
 			"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+			"instructors": [
+				"Sheryl D. Breen"
+			],
 			"level": 200,
+			"locations": [
+				"HH 302"
+			],
 			"name": "Top: Feminist Theory",
 			"num": 299,
 			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
-				"Sheryl D. Breen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4484,14 +4686,15 @@
 				"PSCI"
 			],
 			"desc": "Students with ideas for internships are encouraged to approach instructors within the department in order to arrange supervision for credit. For Level III credit students must have successfully completed a Level II internship in the same area.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4505,14 +4708,15 @@
 				"PSCI"
 			],
 			"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty.",
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 300,
 			"name": "IR/Ecofeminism",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4525,14 +4729,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Donna McMillan"
+			],
 			"level": 200,
 			"name": "Environmental Psych",
 			"num": 255,
 			"pf": false,
-			"profs": [
-				"Donna McMillan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Environmental Psych",
 			"type": "Research",
@@ -4545,14 +4750,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Charles Huff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Charles Huff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4566,14 +4772,15 @@
 				"PSYCH"
 			],
 			"desc": "This opportunity to investigate in-depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for Psychology 398 and at least three courses in the department and permission of the instructor. Prerequisite: Psychology 125; Psychology 231 is strongly recommended. Offered each semester.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4586,18 +4793,19 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Charles Huff"
+			],
 			"level": 300,
-			"name": "Top: Psych/Good & Evil",
-			"num": 391,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 514",
 				"HH 514"
 			],
-			"profs": [
-				"Charles Huff"
-			],
-			"sem": 2,
+			"name": "Top: Psych/Good & Evil",
+			"num": 391,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -4614,14 +4822,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4635,14 +4844,15 @@
 				"PSYCH"
 			],
 			"desc": "Students have the opportunity to work in-depth on a research project of interest under the supervision of a member of the psychology department faculty. Prerequisite: Statistics 110, 212 or 263, Psychology 231, four additional courses in the department, and permission of instructor. Psychology 298 is strongly recommended. Offered each semester.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4656,17 +4866,18 @@
 				"REL"
 			],
 			"desc": "Students examine traditional Christian doctrines in light of feminist critiques and reformulations. The course focuses especially upon language and images of God, the person of Christ and the work of redemption and understandings of human nature. Students evaluate arguments for and against the compatibility of Christianity and feminism.",
+			"instructors": [
+				"Elaine G. Siemsen"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 102"
+			],
 			"name": "Intro Feminist Theol",
 			"num": 209,
 			"pf": false,
-			"places": [
-				"BMC 102"
-			],
-			"profs": [
-				"Elaine G. Siemsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4683,16 +4894,17 @@
 				"REL"
 			],
 			"desc": "Analyzing continuity and change within the Lutheran tradition, students will consider Luther's theology and proposals for the reform of Catholicism and evaluate major reappraisals of Lutheran beliefs and practices which developed in response to new issues and social situations. Topics include Orthodoxy and Pietism, conservative and liberal responses to the Enlightenment, modern European Lutheranism and issues of particular importance to Lutheranism in Scandinavia, America and the Third World.",
-			"level": 200,
-			"num": 213,
-			"pf": false,
-			"places": [
-				"BMC 101"
-			],
-			"profs": [
+			"instructors": [
 				"Gregory A. Walter"
 			],
-			"sem": 2,
+			"level": 200,
+			"locations": [
+				"BMC 101"
+			],
+			"num": 213,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4709,14 +4921,15 @@
 				"REL"
 			],
 			"desc": "This course traces the influences of religion in Rome as it was gradually transformed from the capital city of a pagan empire into the administrative center of Catholic Christianity. Students conduct a selective comparison of ancient, medieval, renaissance, baroque and modern religion through visits to historical sites, churches, museums and contemporary cultural events in Rome -- and to other Italian cities which interacted with Rome. Offered in Interim, 2001-02.",
+			"instructors": [
+				"William Poehlmann"
+			],
 			"level": 200,
 			"name": "Religion/Culture/Rome",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"William Poehlmann"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Religion and Culture in Rome",
 			"type": "Research",
@@ -4730,14 +4943,15 @@
 				"REL"
 			],
 			"desc": "This course concentrates on the historical and geographical background of the Bible. Visits to archaeological sites in Galilee, Judea and Jerusalem especially enable students to understand the religious pluralism of ancient Palestine as well as the Jewish roots of Christianity. A secondary emphasis of the course is on the current diversity of worship and piety in Jerusalem. Offered in Interim. Offered in 2002-03.",
+			"instructors": [
+				"Jamie A. Schillinger"
+			],
 			"level": 200,
 			"name": "Histor Geograph Bible",
 			"num": 275,
 			"pf": false,
-			"profs": [
-				"Jamie A. Schillinger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Historical Geography and the Bible",
 			"type": "Research",
@@ -4750,14 +4964,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4771,17 +4986,18 @@
 				"REL"
 			],
 			"desc": "The nature and boundaries of communities, as well as the quality of relationships within communities, are determined by theology as well as by social, political and ethnic factors. Students examine the ways in which the world's religions, particularly Christianity, have interpreted each other's significance and truth claims and considers the ethical implications of these different responses. Prerequisite: a BTS-T course.",
+			"instructors": [
+				"Anantanand Rambachan"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 110"
+			],
 			"name": "Rel Pluralsm/Communit",
 			"num": 295,
 			"pf": false,
-			"places": [
-				"BMC 110"
-			],
-			"profs": [
-				"Anantanand Rambachan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -4797,14 +5013,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Vernon Faillettaz"
+			],
 			"level": 200,
 			"name": "IS/Urban Pilgramage",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Vernon Faillettaz"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4817,14 +5034,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -4837,14 +5055,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4858,17 +5077,18 @@
 				"RUSSN"
 			],
 			"desc": "This course examines the development of differing approaches to some aspect of Russian life and culture as presented in the classical texts of Russian literature. Actual topics vary according to year and instructor.",
+			"instructors": [
+				"Peter-John Thomas"
+			],
 			"level": 200,
+			"locations": [
+				"OM 011"
+			],
 			"name": "Top: Russian Obsessions",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"OM 011"
-			],
-			"profs": [
-				"Peter-John Thomas"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-Th 1040-1240PM"
@@ -4884,14 +5104,15 @@
 			"depts": [
 				"RUSSN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4904,14 +5125,15 @@
 			"depts": [
 				"RUSSN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -4924,14 +5146,15 @@
 			"depts": [
 				"RUSSN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -4944,14 +5167,15 @@
 			"depts": [
 				"RUSSN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -4965,17 +5189,18 @@
 				"SOAN"
 			],
 			"desc": "In many respects, products like caffeine, nicotine, alcohol and opium provide the glue that holds together modern life. This course examines the web of these substances from an anthropological perspective. Our focus includes the politics of production, the culturally diverse practices of consumption and the social consequences of regulation. Based on our collective experience at St. Olaf, we consider the mood-altering substances on and off campus, and examine their influence in such things as our social identity, individual consciousness and the structure of authority. Offered Interim.",
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 100,
+			"locations": [
+				"BMC 102"
+			],
 			"name": "Modern Elixirs",
 			"num": 116,
 			"pf": false,
-			"places": [
-				"BMC 102"
-			],
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-0100PM"
@@ -4992,17 +5217,18 @@
 				"SOAN"
 			],
 			"desc": "This course compares gender patterns and issues in various cultures around the world, such as Latin America, the Middle East, India, the U.S. and East Asia. How do cultural expectations for women and men vary? Why do some societies have more gender equality than others? How do economic and political change, including globalization, impact gender roles? How do U.S. and Third World feminism compare? Offered Fall Semester.",
+			"instructors": [
+				"Carolyn Anderson"
+			],
 			"level": 200,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Gender/C-Cult/Persp",
 			"num": 261,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Carolyn Anderson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0400PM"
@@ -5018,14 +5244,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5038,14 +5265,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"name": "IS/China Baby Trade",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5058,14 +5286,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5078,14 +5307,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5099,17 +5329,18 @@
 				"SPAN"
 			],
 			"desc": "Students begin learning Spanish through listening, speaking, reading and writing about topics familiar to them, including family, academic and social life, in an intercultural context. And they reinforce these skills through complementary exercises in the language laboratory. Offered Fall Semester. Open only to students with no prior experience in Spanish.",
+			"instructors": [
+				"Sylvia Carullo"
+			],
 			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 021",
 				"OM 021"
 			],
-			"profs": [
-				"Sylvia Carullo"
-			],
-			"sem": 2,
+			"num": 111,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -5127,18 +5358,19 @@
 				"SPAN"
 			],
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: Spanish 112 or placement. Offered Fall and Spring Semesters.",
+			"instructors": [
+				"Juliet A. Lynd"
+			],
 			"level": 200,
-			"name": "Intermed Spanish I",
-			"num": 231,
-			"pf": false,
-			"places": [
+			"locations": [
 				"OM 031",
 				"OM 031"
 			],
-			"profs": [
-				"Juliet A. Lynd"
-			],
-			"sem": 2,
+			"name": "Intermed Spanish I",
+			"num": 231,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM",
@@ -5159,14 +5391,15 @@
 			"gereqs": [
 				"MCG"
 			],
+			"instructors": [
+				"Joseph McClanahan"
+			],
 			"level": 200,
 			"name": "Inter Span II-Ecuador",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Joseph McClanahan"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Intermediate Spanish II in Ecuador",
 			"type": "Research",
@@ -5180,14 +5413,15 @@
 				"SPAN"
 			],
 			"desc": "Students explore geographic, economic, political and ethnic dimensions of life in present-day Costa Rica by combining intensive course work with such cross-cultural experiences as a homestay in San Jose; field work, visits to sites of cultural interest and excursions to the geographically and culturally diverse Atlantic and Pacific coasts. They consolidate their language skills and continue to develop their skills for analyzing and communicating in Spanish by writing compositions, making oral presentations, interviewing their host families and engaging in other interactive group activities. Prerequisite: Spanish 231 or placement.",
+			"instructors": [
+				"Leon Narvaez"
+			],
 			"level": 200,
 			"name": "Inter Span II-C Rica",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Leon Narvaez"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "Intermediate Spanish II in Costa Rica",
 			"type": "Research",
@@ -5200,17 +5434,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Gwendolyn Barnes-Karol"
+			],
 			"level": 200,
+			"locations": [
+				"OM 020"
+			],
 			"name": "Contemporary Issues",
 			"num": 274,
 			"pf": false,
-			"places": [
-				"OM 020"
-			],
-			"profs": [
-				"Gwendolyn Barnes-Karol"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-0300PM"
@@ -5226,14 +5461,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5246,14 +5482,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5266,14 +5503,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5286,14 +5524,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5307,18 +5546,19 @@
 				"SWRK"
 			],
 			"desc": "Students explore human services as a profession, a vocation, or a hobby. Who needs help? Who helps? Where? How? Using the liberal arts as a foundation for helping people, students can study careers in areas such as homelessness, addictions, juvenile delinquency, welfare and social ministry. The class includes discussion, speakers and field trips; additional fee. Open to first year students and sophomores. Offered in Interim 2004 and alternate years.",
+			"instructors": [
+				"Anne B. Miller"
+			],
 			"level": 100,
-			"num": 120,
-			"pf": false,
-			"places": [
+			"locations": [
 				"BMC 111",
 				"TBA",
 				"TBA"
 			],
-			"profs": [
-				"Anne B. Miller"
-			],
-			"sem": 2,
+			"num": 120,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0830-1000",
@@ -5336,14 +5576,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5356,14 +5597,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "IS/Street Child - India",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5376,14 +5618,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -5396,14 +5639,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5417,17 +5661,18 @@
 				"THEAT"
 			],
 			"desc": "This studio course is designed as an overview of the acting process for the non-major: basic acting theories, rehearsal techniques, improvisation, history and styles. Students explore and practice exercises, scene work and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. No prerequisites. This course does not fulfill the acting requirement for the major. Offered annually.",
+			"instructors": [
+				"Peter Moore"
+			],
 			"level": 100,
+			"locations": [
+				"FH 040"
+			],
 			"name": "Acting for Non-Majors",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"FH 040"
-			],
-			"profs": [
-				"Peter Moore"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5444,19 +5689,20 @@
 				"THEAT"
 			],
 			"desc": "This course studies theater performance through the full-scale mounting of a production during the month of January, followed by public performances at the beginning of Spring Semester. Students enroll in the class through either an acting audition or a production position interview held in late October or early November. No previous experience is necessary. Selected participants are notified prior to Interim registration. Details about the audition/interview and scripts are available by calling the Theatre Department Office, x3240. Offered only in Interim.",
+			"instructors": [
+				"Brian Bjorklund"
+			],
 			"level": 100,
-			"name": "Prod Theater: Intro",
-			"num": 133,
-			"pf": true,
-			"places": [
+			"locations": [
 				"TB Kelsey",
 				"TB Kelsey",
 				"TB Kelsey"
 			],
-			"profs": [
-				"Brian Bjorklund"
-			],
-			"sem": 2,
+			"name": "Prod Theater: Intro",
+			"num": 133,
+			"pf": true,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -5475,19 +5721,20 @@
 				"THEAT"
 			],
 			"desc": "Designed for the student with previous course work and production work in theater. This course studies theater performance through the full-scale mounting of a production during the month of January, followed by public performances at the beginning of Spring Semester. Students enroll in the class through either an acting audition or a production position interview held in late October or early November. No previous experience is necessary. Selected participants are notified prior to Interim registration. Details about the audition/interview and scripts are available by calling the Theatre Department Office, x3240. Offered only in Interim.",
+			"instructors": [
+				"Dona W. Freeman"
+			],
 			"level": 200,
-			"name": "Prod Theater: Advanced",
-			"num": 234,
-			"pf": true,
-			"places": [
+			"locations": [
 				"TB Haugen",
 				"TB Haugen",
 				"TB Haugen"
 			],
-			"profs": [
-				"Dona W. Freeman"
-			],
-			"sem": 2,
+			"name": "Prod Theater: Advanced",
+			"num": 234,
+			"pf": true,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -5506,14 +5753,15 @@
 				"THEAT"
 			],
 			"desc": "Prerequisite: At least three previous courses in department.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internships",
 			"type": "Research",
@@ -5527,14 +5775,15 @@
 				"THEAT"
 			],
 			"desc": "Prerequisite: At least three previous courses in department.",
+			"instructors": [
+				"Gary C. Gisselman"
+			],
 			"level": 200,
 			"name": "IS/Playwriting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary C. Gisselman"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5548,14 +5797,15 @@
 				"THEAT"
 			],
 			"desc": "Prerequisite: at least five previous courses in department.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5568,14 +5818,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5588,14 +5839,15 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5608,14 +5860,15 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5628,14 +5881,15 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -5648,14 +5902,15 @@
 			"depts": [
 				"STAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5668,14 +5923,15 @@
 			"depts": [
 				"WMNST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internships",
 			"type": "Research",
@@ -5688,14 +5944,15 @@
 			"depts": [
 				"WMNST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -5708,14 +5965,15 @@
 			"depts": [
 				"WMNST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internships",
 			"type": "Research",
@@ -5728,14 +5986,15 @@
 			"depts": [
 				"WMNST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -5749,17 +6008,18 @@
 				"ENGL"
 			],
 			"desc": "The personal essay may contain rumination, memoir, anecdote, diatribe, scholarship, fantasy and moral philosophy. Students will read and write about the personal essay from its origins to the present day as well as craft their own personal essays. Readings range from founding father Montaigne to classic practitioners Charles Lamb and Virginia Woolf; students will also explore multicultural essayists such as Wole Soyinka and American voices from Thoreau to Annie Dillard.",
+			"instructors": [
+				"Diana Postlethwaite"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Personal Essay",
 			"num": 200,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Diana Postlethwaite"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5775,14 +6035,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Karen R. Achberger"
+			],
 			"level": 200,
 			"name": "FLC - German",
 			"num": 245,
 			"pf": true,
-			"profs": [
-				"Karen R. Achberger"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "FLC - German",
 			"type": "FLAC",
@@ -5795,17 +6056,18 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
+			"locations": [
+				"OM 031"
+			],
 			"name": "New Venture Formulat",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"OM 031"
-			],
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -5821,14 +6083,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Marte H. Hult"
+			],
 			"level": 100,
 			"name": "Norw Folklore/Narrat",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Marte H. Hult"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5845,18 +6108,19 @@
 				"ART"
 			],
 			"desc": "This course, designed for students who want to heighten their drawing skills, emphasizes using expressive qualities of drawing by investigating various media, techniques and content. Assignments are both traditional and nontraditional within historical perspectives. Experimentation is encouraged. Developing a personal visual language is stressed, culminating in the production of a series of drawings that relate thematically. Critical thinking and discussion skills are important. Prerequisites: Art 111 and 112 (or 120), and 113. Lab fee. Offered annually.",
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
-			"num": 233,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 214",
 				"DC 214",
 				"DC 214"
 			],
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 2,
+			"num": 233,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0900-1000",
@@ -5875,17 +6139,18 @@
 				"CLASS"
 			],
 			"desc": "This course is an interdisciplinary introduction to the roughly 300-year period of Western European history from the Fall of the Roman Empire to the establishment of the 6th-century Christian Germanic kingdoms. Using primary sources, archaeological evidence and remains of art and architecture, students investigate the collapse of Roman authority and the rise of the Christian Church, gaining insight into an age of great transition and change. GE: HWC. Offered periodically in Interim.",
+			"instructors": [
+				"David M. Perry"
+			],
 			"level": 100,
+			"locations": [
+				"OM 031"
+			],
 			"name": "Fall of Roman Empire",
 			"num": 128,
 			"pf": false,
-			"places": [
-				"OM 031"
-			],
-			"profs": [
-				"David M. Perry"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5901,18 +6166,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Anna Kuxhausen"
+			],
 			"level": 100,
+			"locations": [
+				"OM 001"
+			],
 			"name": "Top: Making Modern Russia",
 			"notes": "First-Year students only",
 			"num": 188,
 			"pf": false,
-			"places": [
-				"OM 001"
-			],
-			"profs": [
-				"Anna Kuxhausen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5929,13 +6195,14 @@
 				"MGMT"
 			],
 			"desc": "This course focuses on using Microsoft Excel to analyze common management problems and develop solutions. Microsoft PowerPoint, a presentation graphics software program, is also introduced. Offered during Interim.",
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5952,17 +6219,18 @@
 				"PSYCH"
 			],
 			"desc": "Students reflect on their own culture as they explore childhood and family life in China and Japan. Developmental and cross-cultural research, memoirs, works of fiction, and films are used to study parents' beliefs and childrearing practices as well as the development of the self, peer relationships, school achievement, and role changes during adulthood. With life expectancy increasing around the world, students also discover how China and Japan are responding to the graying of their populations. Prerequisites: Psychology 125 or Asian Studies 111 or Asian Studies 121.",
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 200,
+			"locations": [
+				"HH 307"
+			],
 			"name": "Human Dev/China and Japan",
 			"num": 226,
 			"pf": false,
-			"places": [
-				"HH 307"
-			],
-			"profs": [
-				"Dana Gross"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -5978,17 +6246,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Grant P. Arndt"
+			],
 			"level": 100,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Anth of War and Peace",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Grant P. Arndt"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6004,17 +6273,18 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Holly Ogren"
+			],
 			"level": 100,
+			"locations": [
+				"OM 001"
+			],
 			"name": "Gender in Contemp E Asia",
 			"num": 154,
 			"pf": false,
-			"places": [
-				"OM 001"
-			],
-			"profs": [
-				"Holly Ogren"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6030,18 +6300,19 @@
 			"depts": [
 				"PSCI"
 			],
-			"level": 100,
-			"name": "The Problem of War",
-			"num": 119,
-			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
+			"instructors": [
 				"Anthony Lott",
 				"Douglas J. Casson"
 			],
-			"sem": 2,
+			"level": 100,
+			"locations": [
+				"RML 525"
+			],
+			"name": "The Problem of War",
+			"num": 119,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6057,19 +6328,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 100,
-			"name": "Animal Behavior",
-			"num": 177,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 110",
 				"SC 110",
 				"SC 110"
 			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 2,
+			"name": "Animal Behavior",
+			"num": 177,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-Th 0900-1000",
@@ -6087,19 +6359,20 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Jason D. Hill"
+			],
 			"level": 200,
-			"name": "Envisioning Biology",
-			"num": 283,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 269",
 				"SC 269",
 				"SC 269"
 			],
-			"profs": [
-				"Jason D. Hill"
-			],
-			"sem": 2,
+			"name": "Envisioning Biology",
+			"num": 283,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"MTThF 0830-1000",
@@ -6117,14 +6390,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 100,
 			"name": "Romantic Comedy/Film Noir",
 			"num": 138,
 			"pf": false,
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 1040-1240PM"
@@ -6140,18 +6414,19 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Sharon Powell"
+			],
 			"level": 100,
-			"name": "Famlies in Film and Lit",
-			"num": 130,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 317",
 				"HH 317"
 			],
-			"profs": [
-				"Sharon Powell"
-			],
-			"sem": 2,
+			"name": "Famlies in Film and Lit",
+			"num": 130,
+			"pf": false,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"MWF 1040-1240PM",
@@ -6168,17 +6443,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Rebecca M. Starr"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 102"
+			],
 			"name": "Children and Technology",
 			"num": 229,
 			"pf": false,
-			"places": [
-				"BMC 102"
-			],
-			"profs": [
-				"Rebecca M. Starr"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6194,18 +6470,19 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 300,
-			"name": "Adv Res Method Behav Neur",
-			"num": 395,
-			"pf": false,
-			"places": [
+			"locations": [
 				"HH 206",
 				"HH 206"
 			],
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 2,
+			"name": "Adv Res Method Behav Neur",
+			"num": 395,
+			"pf": false,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-Th 1040-1240PM",
@@ -6222,17 +6499,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Philip E. Stoltzfus"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 110"
+			],
 			"name": "Theology and Music",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"BMC 110"
-			],
-			"profs": [
-				"Philip E. Stoltzfus"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6248,17 +6526,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Peder J. Jothen"
+			],
 			"level": 200,
+			"locations": [
+				"BMC 101"
+			],
 			"name": "Christian Aesthetic,Ethic",
 			"num": 292,
 			"pf": false,
-			"places": [
-				"BMC 101"
-			],
-			"profs": [
-				"Peder J. Jothen"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6274,18 +6553,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Clifford C. Weston"
+			],
 			"level": 100,
+			"locations": [
+				"HH 317"
+			],
 			"name": "Top: Civil Rights",
 			"notes": "First-Year students only",
 			"num": 187,
 			"pf": false,
-			"places": [
-				"HH 317"
-			],
-			"profs": [
-				"Clifford C. Weston"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6302,19 +6582,20 @@
 				"BIO"
 			],
 			"groupid": 106,
+			"instructors": [
+				"Kimberly A. Kandl"
+			],
 			"level": 100,
-			"name": "Cell Bio & Genetics Lab",
-			"num": 125,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 273",
 				"SC 273"
 			],
-			"profs": [
-				"Kimberly A. Kandl"
-			],
-			"sect": "A",
-			"sem": 2,
+			"name": "Cell Bio & Genetics Lab",
+			"num": 125,
+			"pf": false,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000",
@@ -6332,19 +6613,20 @@
 				"BIO"
 			],
 			"groupid": 106,
+			"instructors": [
+				"Kimberly A. Kandl"
+			],
 			"level": 100,
-			"name": "Cell Bio & Genetics Lab",
-			"num": 125,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 263",
 				"SC 263"
 			],
-			"profs": [
-				"Kimberly A. Kandl"
-			],
-			"sect": "B",
-			"sem": 2,
+			"name": "Cell Bio & Genetics Lab",
+			"num": 125,
+			"pf": false,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-F 0800-1000",
@@ -6362,17 +6644,18 @@
 				"BIO"
 			],
 			"groupid": 110,
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 100,
+			"locations": [
+				"SC 211"
+			],
 			"name": "Genetics/Evol/Soc Lab",
 			"num": 127,
 			"pf": false,
-			"places": [
-				"SC 211"
-			],
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-Th 0100-0300PM"
@@ -6389,17 +6672,18 @@
 				"BIO"
 			],
 			"groupid": 114,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"SC 227"
+			],
 			"name": "Thinking & Doing Bio Lab",
 			"num": 135,
 			"pf": false,
-			"places": [
-				"SC 227"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"M-Th 1040-0200PM"
@@ -6415,14 +6699,15 @@
 			"depts": [
 				"INTD"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "No Interim",
 			"num": 100,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "No Interim",
 			"type": "Research",
@@ -6436,17 +6721,18 @@
 				"CHEM"
 			],
 			"groupid": 190,
+			"instructors": [
+				"Paul T. Jackson"
+			],
 			"level": 100,
+			"locations": [
+				"SC 371"
+			],
 			"name": "A Matter of Environ Lab",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 371"
-			],
-			"profs": [
-				"Paul T. Jackson"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"times": [
 				"TWTh 1230-0330PM"
@@ -6462,18 +6748,19 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Megan J. Feeney"
+			],
 			"level": 100,
+			"locations": [
+				"OM 015"
+			],
 			"name": "America Since Ww II",
 			"notes": "First-Year students only",
 			"num": 182,
 			"pf": false,
-			"places": [
-				"OM 015"
-			],
-			"profs": [
-				"Megan J. Feeney"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0300PM"
@@ -6489,17 +6776,18 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 200,
+			"locations": [
+				"SC 159"
+			],
 			"name": "Musical Acoustics Lab",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"SC 159"
-			],
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"times": [
 				"M-F 0100-0330PM"
@@ -6515,14 +6803,15 @@
 			"depts": [
 				"ARMS"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "IS/Contemp Chicanas",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 20052,
 			"title": "IS/Contemp Chicanas",
 			"type": "Research",
@@ -6535,14 +6824,15 @@
 			"depts": [
 				"IDFA"
 			],
+			"instructors": [
+				"Susan Bauer"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Susan Bauer"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -6556,14 +6846,15 @@
 				"SWRK"
 			],
 			"desc": "Social work majors study scientific approaches to building knowledge for generalist practice and assessing effectiveness and efficiency of both individual practice and social service programs. Students learn to assess needs and progress, design case interventions, measure client satisfaction and assess program outcomes. They evaluate elements of practice with diverse clients and portions of programs with which they are familiar and apply ethical standards to scientific inquiry. Open to non-majors by permission of program director only. Offered Spring Semester.",
+			"instructors": [
+				"Naurine Lennox"
+			],
 			"level": 200,
 			"name": "Eval/S Wk Pract/Prog",
 			"num": 274,
 			"pf": false,
-			"profs": [
-				"Naurine Lennox"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Evaluation of Social Work Practice and Programs",
 			"type": "Research",
@@ -6576,15 +6867,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Steven Edwins"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Steven Edwins"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -6598,15 +6890,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6620,15 +6913,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6642,15 +6936,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Theodore Johnson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Theodore Johnson"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6664,15 +6959,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6686,15 +6982,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Jason D. Hill"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jason D. Hill"
-			],
-			"sect": "E",
-			"sem": 2,
+			"section": "E",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6708,15 +7005,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor and complete an internship application.",
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "F",
-			"sem": 2,
+			"section": "F",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6729,15 +7027,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Beth Abdella"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Beth Abdella"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6750,15 +7049,16 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Rosemary A. Pfarr-Baker"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Rosemary A. Pfarr-Baker"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -6771,15 +7071,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen Cherewatuk"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Karen Cherewatuk"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6792,15 +7093,16 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6813,15 +7115,16 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Sharon Powell"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sharon Powell"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6834,15 +7137,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6855,15 +7159,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6876,15 +7181,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6897,15 +7203,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Kathy C. Thomforde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathy C. Thomforde"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6918,15 +7225,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Gary M. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Gary M. Muir"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -6939,15 +7247,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Dana Gross"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -6960,15 +7269,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Mixed Media Draw",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Mixed Media Draw",
 			"type": "Research",
@@ -6982,15 +7292,16 @@
 				"ART"
 			],
 			"desc": "Prerequisites: three courses in area of study.",
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 300,
 			"name": "IR/Painting and Drawing",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research: Art History",
 			"type": "Research",
@@ -7004,15 +7315,16 @@
 				"BIO"
 			],
 			"desc": "Independent Research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, students conceive and perform a research project leading to the writng of a major research paper and a poster presentation. Independant research requires permission of a supervisor, a secondary faculty reader of the paper and completion of an independantresearch form.",
+			"instructors": [
+				"Kevin M. Crisp"
+			],
 			"level": 300,
 			"name": "IR/Neural Computation",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Kevin M. Crisp"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7026,15 +7338,16 @@
 				"BIO"
 			],
 			"desc": "Independent Study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Registrar's Office or its website.",
+			"instructors": [
+				"John D. Schade"
+			],
 			"level": 200,
 			"name": "IS/Invertebrate Study",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"John D. Schade"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7048,15 +7361,16 @@
 				"BIO"
 			],
 			"desc": "Independent Research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, students conceive and perform a research project leading to the writng of a major research paper and a poster presentation. Independant research requires permission of a supervisor, a secondary faculty reader of the paper and completion of an independantresearch form.",
+			"instructors": [
+				"Kathleen L. Shea"
+			],
 			"level": 300,
 			"name": "IR/Turtle Conservation",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Kathleen L. Shea"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7069,15 +7383,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mary Titus"
+			],
 			"level": 300,
 			"name": "IR/Dickinson/Perf Art",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Mary Titus"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7090,15 +7405,16 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Jeane DeLaney"
+			],
 			"level": 300,
 			"name": "IR/Cuba and the USSR",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jeane DeLaney"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7111,15 +7427,16 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Urmila S. Malvadkar"
+			],
 			"level": 200,
 			"name": "IS/Dynamical Systems",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Urmila S. Malvadkar"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7132,15 +7449,16 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "IS/Cross Culture Media",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7153,15 +7471,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Kathryn Ananda-Owens"
+			],
 			"level": 200,
 			"name": "IS/Piano Literature",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Kathryn Ananda-Owens"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Piano Literature",
 			"type": "Research",
@@ -7174,15 +7493,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"David Carter"
+			],
 			"level": 200,
 			"name": "IS/Cello Lit & Ped",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"David Carter"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Cello Lit & Ped",
 			"type": "Research",
@@ -7195,15 +7515,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Larry J. Zimmerman"
+			],
 			"level": 200,
 			"name": "IS/Trombone Lit/Ped",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Larry J. Zimmerman"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "IS/Trombone Lit/Ped",
 			"type": "Research",
@@ -7216,15 +7537,16 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Charles Taliaferro"
+			],
 			"level": 200,
 			"name": "IS/Problem of Evil",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7238,15 +7560,16 @@
 				"PHIL"
 			],
 			"desc": "Prerequisite: one Level III course in philosophy.",
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 300,
 			"name": "IR/Phil in Lit/TA",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7260,15 +7583,16 @@
 				"PETH"
 			],
 			"desc": "Research",
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 300,
 			"name": "IR/PT Hip Girdle",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Research",
 			"type": "Research",
@@ -7281,15 +7605,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
 			"name": "IS/The Lens of Power",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Hanson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7302,15 +7627,16 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
 			"level": 200,
 			"name": "IS/Pop Culture Theory",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Christopher L. Chiappari"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7323,15 +7649,16 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"name": "IS/Sport in Asia",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Independent Study",
 			"type": "Research",
@@ -7344,16 +7671,17 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"James Farrell",
+				"Joseph L. Mbele"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"James Farrell",
-				"Joseph L. Mbele"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Internship",
 			"type": "Research",
@@ -7366,15 +7694,16 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Sigrid Johnson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sigrid Johnson"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 20052,
 			"title": "Academic Internship",
 			"type": "Research",

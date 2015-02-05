@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Senior Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"M 0200-0300PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Richard Bodman"
+	],
 	"level": 100,
+	"locations": [
+		"M 1"
+	],
 	"name": "Beginning Chinese II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Richard Bodman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0905-1000"

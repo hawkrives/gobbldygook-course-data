@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sect": "O",
-	"sem": 3,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

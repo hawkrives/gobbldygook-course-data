@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Anne G. Sabo"
+	],
 	"level": 200,
-	"name": "Nordic Literature-Tr",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 015",
 		"OM 015"
 	],
-	"profs": [
-		"Anne G. Sabo"
-	],
-	"sem": 3,
+	"name": "Nordic Literature-Tr",
+	"num": 233,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 282"
+	],
 	"name": "General Chemistry",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
-		"Robert Hanson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"times": [
 		"MWF 1150-1245PM"

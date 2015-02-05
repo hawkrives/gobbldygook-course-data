@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SPT 216",
 		"SPT 216"
 	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sect": "P",
-	"sem": 1,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"times": [
 		"T 0120-0245PM",

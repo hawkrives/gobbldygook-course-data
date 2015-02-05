@@ -7,19 +7,20 @@
 	],
 	"desc": "Discussion section.",
 	"groupid": 32,
-	"level": 100,
-	"name": "Intro/Art Hist II Discuss",
-	"num": 151,
-	"pf": false,
-	"places": [
-		"DC 102"
-	],
-	"profs": [
+	"instructors": [
 		"Christopher Tradowsky",
 		"Matthew Rohn"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC 102"
+	],
+	"name": "Intro/Art Hist II Discuss",
+	"num": 151,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"F 0905-1000"

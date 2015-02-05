@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 100,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0800-0925"

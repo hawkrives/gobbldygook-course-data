@@ -5,14 +5,15 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Joan Odd"
+	],
 	"level": 100,
 	"name": "Beginning Spanish I",
 	"num": 111,
 	"pf": false,
-	"profs": [
-		"Joan Odd"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Beginning Spanish I",
 	"type": "Research",

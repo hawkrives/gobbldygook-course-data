@@ -6,16 +6,17 @@
 		"CHEM"
 	],
 	"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of organic compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in CHEM 248. Prerequisite: CHEM 126, or CH/BI 227, or permission of instructor. Offered annually in the fall semester.",
-	"level": 200,
-	"num": 247,
-	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
+	"instructors": [
 		"Daniel A. Everson"
 	],
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"RNS 390"
+	],
+	"num": 247,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20144,
 	"times": [
 		"M-F 1000-1130"

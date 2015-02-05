@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Perette Michelli"
+	],
 	"level": 200,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Ital Arch Ren-Rococo",
 	"num": 267,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"Perette Michelli"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Principles Comp Sci",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 203"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Mary Griep"
+	],
 	"level": 200,
+	"locations": [
+		"FH 40"
+	],
 	"name": "Advanced Drawing",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"FH 40"
-	],
-	"profs": [
-		"Mary Griep"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0900-1000",

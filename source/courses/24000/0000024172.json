@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"M 21"
+	],
 	"name": "Top: Brave New Wrld-Tr",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1045-1245PM"

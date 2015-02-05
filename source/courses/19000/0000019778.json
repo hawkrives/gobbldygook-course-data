@@ -5,18 +5,19 @@
 	"depts": [
 		"WMNST"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 100,
+	"locations": [
+		"YH 132"
+	],
 	"name": "Intro Women's Studies",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"YH 132"
-	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"MWF 0905-1000"

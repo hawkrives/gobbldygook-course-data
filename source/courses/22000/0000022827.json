@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
 	"name": "IR/Depression Model",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Depression Model",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 300,
-	"name": "Senior Seminar",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sem": 3,
+	"name": "Senior Seminar",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

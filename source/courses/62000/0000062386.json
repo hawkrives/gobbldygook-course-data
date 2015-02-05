@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jason E. Gower"
+	],
 	"level": 200,
 	"name": "IS/Comput Nbr Theory",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jason E. Gower"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Study",
 	"type": "Research",

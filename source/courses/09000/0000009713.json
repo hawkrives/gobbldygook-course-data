@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 300,
 	"name": "IR/Wittgenstein/Music",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Wittgenstein/Music",
 	"type": "Research",

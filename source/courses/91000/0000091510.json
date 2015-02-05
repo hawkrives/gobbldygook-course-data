@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
 	"name": "IR/DNA Stability",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "O",
-	"sem": 3,
+	"section": "O",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

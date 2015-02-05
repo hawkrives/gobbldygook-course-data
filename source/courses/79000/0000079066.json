@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Jennifer C. Klein"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Jennifer C. Klein"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0300-0600PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
 	"name": "FLC - Spanish",
 	"num": 237,
 	"pf": false,
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"title": "FLC - Spanish",
 	"type": "FLAC",

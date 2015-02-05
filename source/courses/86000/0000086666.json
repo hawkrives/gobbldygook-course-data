@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"David C. Hahn"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 240",
 		"OM 240"
 	],
-	"profs": [
-		"David C. Hahn"
-	],
-	"sect": "V",
-	"sem": 1,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "V",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 1145-0110PM",

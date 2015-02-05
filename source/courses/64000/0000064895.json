@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Timothy Smit"
+	],
 	"level": 100,
-	"name": "Global Hist to 1500",
-	"num": 194,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"HH 501"
 	],
-	"profs": [
-		"Timothy Smit"
-	],
-	"sem": 3,
+	"name": "Global Hist to 1500",
+	"num": 194,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

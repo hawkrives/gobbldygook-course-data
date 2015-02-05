@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Maria L. Kelly"
+	],
 	"level": 300,
 	"name": "IR/Teaching and Coaching",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Maria L. Kelly"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"title": "Independent Research",
 	"type": "Research",

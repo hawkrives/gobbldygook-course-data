@@ -7,14 +7,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"James Farrell"
+			],
 			"level": 200,
 			"name": "IS/Rating Presidents",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Farrell"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Rating Presidents",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Matthew Rohn"
+			],
 			"level": 200,
 			"name": "IS/Stave Churches",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Matthew Rohn"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Stave Churches",
 			"type": "Research",
@@ -47,14 +49,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"David Van Wylen"
+			],
 			"level": 100,
 			"name": "Biological Science",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"David Van Wylen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Biological Science",
 			"type": "Research",
@@ -67,14 +70,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -87,15 +91,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Kathleen L. Shea"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathleen L. Shea"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -108,15 +113,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -129,17 +135,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 248,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 0800-0930"
@@ -155,17 +162,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 254,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"MT 0100-0400PM"
@@ -181,14 +189,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -201,15 +210,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Rebecca Judge"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Rebecca Judge"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -222,15 +232,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -243,14 +254,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Impact/St Chld Spt",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Impact/St Chld Spt",
 			"type": "Research",
@@ -263,14 +275,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -283,14 +296,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Matthew Richey"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Matthew Richey"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -303,14 +317,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Matthew Richey"
+			],
 			"level": 300,
 			"name": "IR/Computation Theory",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Matthew Richey"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Computation Theory",
 			"type": "Research",
@@ -323,17 +338,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"John T. Day"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "Intro to Shakespeare",
 			"num": 280,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"John T. Day"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 1000-1130"
@@ -349,14 +365,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Olivia Frey"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Olivia Frey"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -369,14 +386,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Olivia Frey"
+			],
 			"level": 200,
 			"name": "IS/Writing Child Lit",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Olivia Frey"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Writing Child Lit",
 			"type": "Research",
@@ -389,17 +407,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"John T. Day"
+			],
 			"level": 300,
+			"locations": [
+				"L 525"
+			],
 			"name": "Shakespeare",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"John T. Day"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 1000-1130"
@@ -415,14 +434,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 200,
 			"name": "IS/Park User Study",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Park User Study",
 			"type": "Research",
@@ -435,15 +455,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 200,
 			"name": "IS/Humans and Animals",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Humans and Animals",
 			"type": "Research",
@@ -456,15 +477,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 200,
 			"name": "IS/Sustainability",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Sustainability",
 			"type": "Research",
@@ -477,15 +499,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 200,
 			"name": "IS/Sustainability",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sect": "C",
-			"sem": 5,
+			"section": "C",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Sustainability",
 			"type": "Research",
@@ -498,14 +521,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 300,
 			"name": "IR/Park User Study",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Park User Study",
 			"type": "Research",
@@ -518,15 +542,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 300,
 			"name": "IR/Warbler Study",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Warbler Study",
 			"type": "Research",
@@ -539,14 +564,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -559,14 +585,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 200,
 			"name": "Writing German",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Writing German",
 			"type": "Research",
@@ -579,14 +606,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -599,14 +627,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "IS/Fam Res/Management",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Fam Res/Management",
 			"type": "Research",
@@ -619,15 +648,16 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Rebecca A. Benedict"
+			],
 			"level": 200,
 			"name": "IS/Human Nutrition",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Rebecca A. Benedict"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Human Nutrition",
 			"type": "Research",
@@ -640,14 +670,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Kathy C. Thomforde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathy C. Thomforde"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -660,15 +691,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -681,17 +713,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 222/224"
+			],
 			"name": "The Music Spectrum",
 			"num": 130,
 			"pf": false,
-			"places": [
-				"CHM 222/224"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 0800-0930"
@@ -707,17 +740,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 224"
+			],
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 1000-1130"
@@ -733,14 +767,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 300,
 			"name": "Analysis/Tonal Music",
 			"num": 313,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Analysis/Tonal Music",
 			"type": "Research",
@@ -753,14 +788,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"John Poling"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"John Poling"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -773,14 +809,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Aaron Bentley"
+			],
 			"level": 100,
 			"name": "Golf",
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Aaron Bentley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Golf",
 			"type": "Research",
@@ -793,14 +830,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Aaron Bentley"
+			],
 			"level": 100,
 			"name": "Wt Training Co-Ed .25",
 			"num": 140,
 			"pf": false,
-			"profs": [
-				"Aaron Bentley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Wt Training Co-Ed .25",
 			"type": "Research",
@@ -813,14 +851,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -833,14 +872,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 200,
 			"name": "IS/Athl Training II",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Athl Training II",
 			"type": "Research",
@@ -853,14 +893,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Daniel Hofrenning"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Daniel Hofrenning"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -873,14 +914,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Principles: Psych",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Principles: Psych",
 			"type": "Research",
@@ -893,14 +935,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Dana Gross"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Dana Gross"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -913,14 +956,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Mary Ellen Ross"
+			],
 			"level": 300,
 			"name": "IR/Music & Developmnt",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Mary Ellen Ross"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Music & Developmnt",
 			"type": "Research",
@@ -933,17 +977,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "The Greats",
 			"num": 203,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 0800-0930"
@@ -959,17 +1004,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "Chr Theol in Histor",
 			"num": 212,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 1230-0200PM"
@@ -985,14 +1031,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Charles Wilson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1005,14 +1052,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 300,
 			"name": "IR/Muslim/Chr Dialog",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Charles Wilson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Muslim/Chr Dialog",
 			"type": "Research",
@@ -1025,17 +1073,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Michael Leming"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "Dying,Death,Bereave",
 			"num": 248,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Michael Leming"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 0800-0930"
@@ -1051,17 +1100,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Michael Leming"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "Marriage & the Family",
 			"num": 260,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Michael Leming"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"times": [
 				"M-F 1000-1130"
@@ -1077,14 +1127,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Raymond DeVries"
+			],
 			"level": 300,
 			"name": "IR/Analy of Deviance",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Raymond DeVries"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Analy of Deviance",
 			"type": "Research",
@@ -1097,14 +1148,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"James A. Dunlop"
+			],
 			"level": 300,
 			"name": "IR/Adv Spa Grammar",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"James A. Dunlop"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Adv Spa Grammar",
 			"type": "Research",
@@ -1117,15 +1169,16 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"James A. Dunlop"
+			],
 			"level": 300,
 			"name": "IR/Adv Gr & Trans",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"James A. Dunlop"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Adv Gr & Trans",
 			"type": "Research",
@@ -1138,14 +1191,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1158,14 +1212,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1178,14 +1233,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "IS/Theater From 1700",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IS/Theater From 1700",
 			"type": "Research",
@@ -1198,14 +1254,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1218,14 +1275,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 300,
 			"name": "IR/Th Hist 1700-Pres",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Th Hist 1700-Pres",
 			"type": "Research",
@@ -1238,15 +1296,16 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 300,
 			"name": "IR/Speech Disorders",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19985,
 			"title": "IR/Speech Disorders",
 			"type": "Research",

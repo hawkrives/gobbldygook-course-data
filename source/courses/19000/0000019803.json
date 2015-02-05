@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"SC 227"
+	],
 	"name": "Thinking & Doing Bio",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"SC 227"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0900-0100PM"

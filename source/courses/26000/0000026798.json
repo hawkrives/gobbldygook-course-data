@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"CH 102"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM"

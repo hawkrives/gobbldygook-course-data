@@ -5,15 +5,16 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 300,
 	"name": "IR/Innvandring",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "IR/Innvandring",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
-	"name": "Ethics/The Good Life",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 2",
 		"M 2"
 	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "C",
-	"sem": 1,
+	"name": "Ethics/The Good Life",
+	"num": 252,
+	"pf": false,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 1145-0110PM",

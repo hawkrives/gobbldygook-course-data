@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Myron L. Solid"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Human ISSues in Educ",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Myron L. Solid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"M-F 1200-0400PM"

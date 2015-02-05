@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 100,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Math Analysis II",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1150-1245PM"

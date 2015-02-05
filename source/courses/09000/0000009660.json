@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dione J. Peterson"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Choral Lit I",
 	"num": 287,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Dione J. Peterson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"M 0700-0900PM"

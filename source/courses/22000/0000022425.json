@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Twain, Faulkner, Etc",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 1255-0150PM"

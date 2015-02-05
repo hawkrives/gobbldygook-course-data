@@ -7,18 +7,19 @@
 	],
 	"groupid": 108,
 	"grouptype": "3",
+	"instructors": [
+		"Ryan C. Atwell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Evolution & Diversity Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Ryan C. Atwell"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"Th 0800-1030"

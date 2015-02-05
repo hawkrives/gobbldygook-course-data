@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Corporate Finance",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

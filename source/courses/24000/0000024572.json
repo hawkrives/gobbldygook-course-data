@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"H 307"
+	],
 	"name": "Medieval Europe",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1255-0150PM"

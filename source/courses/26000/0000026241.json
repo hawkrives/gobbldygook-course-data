@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Amy Jessen-Marshall"
+	],
 	"level": 200,
 	"name": "IS/Biology of Women",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Amy Jessen-Marshall"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IS/Biology of Women",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Cr Writ II: Poetry",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"James Heynen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"T 0700-1000PM"

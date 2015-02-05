@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 300,
 	"name": "IR/Hegels Philosophy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Hegels Philosophy",
 	"type": "Research",

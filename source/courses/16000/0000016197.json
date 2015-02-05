@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Intermed Norwegian I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1045-1140"

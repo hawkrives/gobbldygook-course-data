@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversations students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

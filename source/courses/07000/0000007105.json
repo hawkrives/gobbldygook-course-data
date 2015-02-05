@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Siriwan Chutikamoltham"
+	],
 	"level": 200,
-	"name": "Corporate Finance",
-	"num": 281,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Siriwan Chutikamoltham"
-	],
-	"sem": 3,
+	"name": "Corporate Finance",
+	"num": 281,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

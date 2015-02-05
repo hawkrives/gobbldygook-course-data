@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jon Eric Nelson"
+	],
 	"level": 100,
-	"name": "Medieval Synthesis",
-	"num": 116,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 515",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Jon Eric Nelson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Medieval Synthesis",
+	"num": 116,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM",

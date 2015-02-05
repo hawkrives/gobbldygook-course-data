@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
+	"locations": [
+		"L 421"
+	],
 	"name": "The Biblical God",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

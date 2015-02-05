@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Laura Chihara"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Masterpieces of Math",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Laura Chihara"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 1040-1240PM"

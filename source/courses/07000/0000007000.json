@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 100,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Slavery/Americas",
 	"num": 132,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

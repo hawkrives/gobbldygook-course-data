@@ -5,17 +5,18 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Coll: Globaliz & Diffrnc",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"W 0200-0330PM"

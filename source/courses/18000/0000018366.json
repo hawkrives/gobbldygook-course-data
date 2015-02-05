@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 200,
+	"locations": [
+		"H 514"
+	],
 	"name": "Phil of Mind/Behavior",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

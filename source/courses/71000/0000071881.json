@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-N"
 	],
+	"instructors": [
+		"Nancy Aarsvold"
+	],
 	"level": 200,
+	"locations": [
+		"OM 015"
+	],
 	"name": "Intermed Norwegian II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 015"
-	],
-	"profs": [
-		"Nancy Aarsvold"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0800-0855"

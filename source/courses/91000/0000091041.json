@@ -5,15 +5,16 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"Matthew C. McDonald"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Matthew C. McDonald"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"title": "Internship",
 	"type": "Research",

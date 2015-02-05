@@ -5,17 +5,18 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Paul J. Roback"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Statistical Modeling",
 	"num": 272,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Paul J. Roback"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

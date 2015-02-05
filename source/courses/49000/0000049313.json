@@ -5,18 +5,19 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 200,
-	"name": "Top: Vietnam/Amer War",
-	"num": 213,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 3,
+	"name": "Top: Vietnam/Amer War",
+	"num": 213,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

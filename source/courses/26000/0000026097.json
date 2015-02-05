@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Knowing/Caring/Commun",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"MTThF 1040-1240PM"

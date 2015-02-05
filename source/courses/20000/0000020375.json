@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Christopher D. Grasso"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "American Revolution",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Christopher D. Grasso"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

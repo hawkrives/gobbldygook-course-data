@@ -5,19 +5,20 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Samiha Peterson"
+	],
 	"level": 200,
-	"name": "The Arab World",
-	"num": 236,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Samiha Peterson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "The Arab World",
+	"num": 236,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

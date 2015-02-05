@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 300,
 	"name": "IR/Johannes Climacus",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Johannes Climacus",
 	"type": "Research",

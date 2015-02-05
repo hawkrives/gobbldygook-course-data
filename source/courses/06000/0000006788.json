@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 200,
+	"locations": [
+		"SC 321"
+	],
 	"name": "Analytical Lab",
 	"num": 256,
 	"pf": true,
-	"places": [
-		"SC 321"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0520PM"

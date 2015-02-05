@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 300,
 	"name": "IR/Between the Wars",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Between the Wars",
 	"type": "Research",

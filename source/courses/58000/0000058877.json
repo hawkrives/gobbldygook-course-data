@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "The study of counterpoint is a way of understanding more completely the compositional techniques of great composers as well as developing one's own fluency in writing music. Students learn advanced contrapuntal techniques in Renaissance, Baroque, and 20th-centry styles, studying the works of such composers as Palestrina, Bach, and Barber. Prerequisite: Music 214. Offered Fall Semester, 2007-08, and alternate years.",
-	"level": 200,
-	"num": 222,
-	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
+	"instructors": [
 		"Charles Forsberg"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
+	"num": 222,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"MWF 0800-0855"

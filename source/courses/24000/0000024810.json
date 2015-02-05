@@ -6,17 +6,18 @@
 		"PETH"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Patrice Buresh"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Phys Ed/Elem Grades",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Patrice Buresh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0800-0925"

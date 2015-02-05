@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Economic Development",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

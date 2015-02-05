@@ -6,16 +6,17 @@
 		"MUSEN"
 	],
 	"desc": "This handbell ensemble features a high level of literature and a demanding performance schedule. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. P/N only. May be repeated.",
-	"level": 100,
-	"num": 142,
-	"pf": true,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
+	"instructors": [
 		"Jill Mahr"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"BMC 101"
+	],
+	"num": 142,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0345-0455PM"

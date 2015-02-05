@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 200,
-	"name": "Latin Am Culture",
-	"num": 237,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sem": 3,
+	"name": "Latin Am Culture",
+	"num": 237,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-0925",

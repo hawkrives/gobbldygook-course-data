@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"DC _STUDIO_2"
+	],
 	"name": "Fundamentally Dance",
 	"num": 110,
 	"pf": true,
-	"places": [
-		"DC _STUDIO_2"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MW 1150-1245PM"

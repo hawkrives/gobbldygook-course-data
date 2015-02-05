@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Heather M. Brooks-Shirey"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art History II",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Heather M. Brooks-Shirey"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 1230-0200PM"

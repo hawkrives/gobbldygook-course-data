@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Justin Lerfald"
+	],
 	"level": 100,
+	"locations": [
+		"TPH Wt Rm"
+	],
 	"name": "Wt Training-Women",
 	"num": 142,
 	"pf": false,
-	"places": [
-		"TPH Wt Rm"
-	],
-	"profs": [
-		"Justin Lerfald"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MW 0905-1000"

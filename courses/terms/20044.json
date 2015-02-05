@@ -7,17 +7,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
 			"level": 100,
+			"locations": [
+				"DC 305"
+			],
 			"name": "Intro/Art History II",
 			"num": 151,
 			"pf": false,
-			"places": [
-				"DC 305"
-			],
-			"profs": [
-				"Heather M. Brooks-Shirey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -34,17 +35,18 @@
 				"BIO"
 			],
 			"groupid": 126,
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"SC 278"
+			],
 			"name": "Human Anatomy & Physiol",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"SC 278"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -61,17 +63,18 @@
 				"BIO"
 			],
 			"groupid": 126,
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"SC 253"
+			],
 			"name": "Human Anatomy & Physiol",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"SC 253"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"TTh 0100-0400PM"
@@ -88,17 +91,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 374"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -115,17 +119,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 363"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 363"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"MW 0100-0400PM"
@@ -141,18 +146,19 @@
 			"depts": [
 				"CHEM"
 			],
-			"level": 200,
-			"name": "Organic Chemistry",
-			"num": 247,
-			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
+			"instructors": [
 				"Anthony T. Watson",
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"SC 378"
+			],
+			"name": "Organic Chemistry",
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -168,18 +174,19 @@
 			"depts": [
 				"CHEM"
 			],
-			"level": 200,
-			"name": "Synthesis Lab",
-			"num": 253,
-			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
+			"instructors": [
 				"Anthony T. Watson",
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"SC 311"
+			],
+			"name": "Synthesis Lab",
+			"num": 253,
+			"pf": true,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"MW 0100-0400PM"
@@ -195,17 +202,18 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Veronika Dolar"
+			],
 			"level": 100,
+			"locations": [
+				"HH 413"
+			],
 			"name": "Principles of Econ",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 413"
-			],
-			"profs": [
-				"Veronika Dolar"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -221,15 +229,16 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Daniel R. Forstner",
+				"Robert W. McClure"
+			],
 			"level": 300,
 			"name": "Soc St-Elem Classroom",
 			"num": 314,
 			"pf": false,
-			"profs": [
-				"Daniel R. Forstner",
-				"Robert W. McClure"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Soc St-Elem Classroom",
 			"type": "Research",
@@ -242,14 +251,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Daniel R. Forstner"
+			],
 			"level": 300,
 			"name": "Reading Comm Literacy",
 			"num": 315,
 			"pf": false,
-			"profs": [
-				"Daniel R. Forstner"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Reading Comm Literacy",
 			"type": "Research",
@@ -262,17 +272,18 @@
 			"depts": [
 				"DNCTE"
 			],
+			"instructors": [
+				"Jennifer Bader"
+			],
 			"level": 100,
+			"locations": [
+				"DC _STUDIO_2"
+			],
 			"name": "Ballet I",
 			"num": 121,
 			"pf": true,
-			"places": [
-				"DC _STUDIO_2"
-			],
-			"profs": [
-				"Jennifer Bader"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -288,17 +299,18 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Heather J. Klopchin"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Dance in America",
 			"num": 246,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Heather J. Klopchin"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -314,17 +326,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Eliot K. Wilson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Creat Wrtg: Fict/Poet",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Eliot K. Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -340,17 +353,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jon Eric Nelson"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Literature & Film",
 			"num": 275,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Jon Eric Nelson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -366,17 +380,18 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 200,
+			"locations": [
+				"SC 129"
+			],
 			"name": "Global Env Politics",
 			"num": 201,
 			"pf": false,
-			"places": [
-				"SC 129"
-			],
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20044,
 			"times": [
 				"M-F 0800-0930"
@@ -392,15 +407,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM35.",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -413,15 +429,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM35.",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -434,15 +451,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM35.",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -455,15 +473,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM35.",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -476,15 +495,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Speaking German",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM35.",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Speaking German",
 			"type": "Research",
@@ -497,17 +517,18 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "War and Peace",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -523,17 +544,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
+			"locations": [
+				"OM 001"
+			],
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"OM 001"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -549,17 +571,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 200,
+			"locations": [
+				"OM 003"
+			],
 			"name": "Principles of Math",
 			"num": 210,
 			"pf": false,
-			"places": [
-				"OM 003"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0800-0930"
@@ -575,17 +598,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Dorer Kari L."
+			],
 			"level": 100,
+			"locations": [
+				"RML 577"
+			],
 			"name": "Beginning Norwegian I",
 			"num": 111,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Dorer Kari L."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -601,17 +625,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Dorer Kari L."
+			],
 			"level": 100,
+			"locations": [
+				"RML 577"
+			],
 			"name": "Begin Norwegian II",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Dorer Kari L."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0800-0930"
@@ -627,17 +652,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Dorer Kari L."
+			],
 			"level": 200,
+			"locations": [
+				"RML 577"
+			],
 			"name": "Intermed Norwegian I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Dorer Kari L."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -653,14 +679,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Le Ann K H. Finger"
+			],
 			"level": 100,
 			"name": "Golf",
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Le Ann K H. Finger"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Golf",
 			"type": "Research",
@@ -673,17 +700,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"Tostrud Ctr"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"Tostrud Ctr"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0645-0745"
@@ -699,17 +727,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"Tostrud Ctr"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"Tostrud Ctr"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0645-0745"
@@ -725,17 +754,18 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Gary Wicks"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Sports Ethics/Society",
 			"num": 290,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Gary Wicks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0800-0930"
@@ -752,17 +782,18 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Matthew C. Feig"
+			],
 			"level": 100,
+			"locations": [
+				"SC 129"
+			],
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 129"
-			],
-			"profs": [
-				"Matthew C. Feig"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -779,17 +810,18 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Matthew C. Feig"
+			],
 			"level": 100,
+			"locations": [
+				"SC 111"
+			],
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 111"
-			],
-			"profs": [
-				"Matthew C. Feig"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"WTh 0100-0330PM"
@@ -805,17 +837,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 100,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Comparative Politics",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -831,17 +864,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"William A. Gorton"
+			],
 			"level": 100,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Intro: Pol Theory",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"William A. Gorton"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1230-0200PM"
@@ -857,17 +891,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"William A. Gorton"
+			],
 			"level": 100,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Current Contr/Us Pol",
 			"num": 114,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"William A. Gorton"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -883,17 +918,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 200,
+			"locations": [
+				"RML 421"
+			],
 			"name": "Distributive Justice",
 			"num": 249,
 			"pf": false,
-			"places": [
-				"RML 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -909,17 +945,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -935,17 +972,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Michael Leming"
+			],
 			"level": 200,
+			"locations": [
+				"HH 515"
+			],
 			"name": "Dying,Death,Bereave",
 			"num": 248,
 			"pf": false,
-			"places": [
-				"HH 515"
-			],
-			"profs": [
-				"Michael Leming"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 0800-0930"
@@ -961,18 +999,19 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Michael Leming"
+			],
 			"level": 300,
+			"locations": [
+				"HH 515"
+			],
 			"name": "Found Soc Sci Resrch",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 pm. in OM035.",
 			"num": 371,
 			"pf": false,
-			"places": [
-				"HH 515"
-			],
-			"profs": [
-				"Michael Leming"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -988,18 +1027,19 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Joseph McClanahan"
+			],
 			"level": 100,
+			"locations": [
+				"OM 021"
+			],
 			"name": "Beginning Spanish I",
 			"notes": "Class periods to be arranged. First class meets June 6 at 3:00 pm. in OM035.",
 			"num": 111,
 			"pf": false,
-			"places": [
-				"OM 021"
-			],
-			"profs": [
-				"Joseph McClanahan"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20044,
 			"times": [
 				"M-F 1000-1130"
@@ -1015,14 +1055,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Mark Schelske"
+			],
 			"level": 300,
 			"name": "The Exceptional Child",
 			"num": 376,
 			"pf": false,
-			"profs": [
-				"Mark Schelske"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20044,
 			"title": "The Exceptional Child",
 			"type": "Research",
@@ -1035,14 +1076,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Douglas Schuurman"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Douglas Schuurman"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20044,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1055,14 +1097,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Rita Glazebrook"
+			],
 			"level": 300,
 			"name": "Health Care-America",
 			"num": 372,
 			"pf": false,
-			"profs": [
-				"Rita Glazebrook"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20044,
 			"title": "Health Care-America",
 			"type": "Research",
@@ -1075,14 +1118,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 100,
 			"name": "Oral Interpretation",
 			"num": 100,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20044,
 			"title": "Oral Interpretation",
 			"type": "Research",

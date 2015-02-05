@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "IR/The Simple Life",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/The Simple Life",
 	"type": "Research",

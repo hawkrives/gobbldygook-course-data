@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"Ingeborg Kongslien"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 112"
+	],
 	"name": "Rewriting Nordic Ident",
 	"notes": "Open to first-year students.",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"TOH 112"
-	],
-	"profs": [
-		"Ingeborg Kongslien"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"times": [
 		"M-F 1040-1240PM"

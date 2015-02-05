@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Literary Studies",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

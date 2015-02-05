@@ -12,17 +12,18 @@
 				"BTS-T",
 				"WRI"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "St. Paul/Letter/Gospel",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -43,16 +44,17 @@
 				"EIN",
 				"WRI"
 			],
-			"level": 200,
-			"num": 276,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"James Hanson"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"DC 204"
+			],
+			"num": 276,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1230-0200PM"
@@ -73,17 +75,18 @@
 				"SED"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 435"
+			],
 			"name": "Chemical Reactions",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 435"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -100,17 +103,18 @@
 				"CHEM"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 350"
+			],
 			"name": "Chemical Reactions Lab",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 350"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"MW 0100-0400PM"
@@ -127,17 +131,18 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered Spring Semester.",
-			"level": 200,
-			"num": 248,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 248,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 0800-0930"
@@ -154,19 +159,20 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
-			"level": 200,
-			"name": "Synthesis Lab II",
-			"num": 254,
-			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sect": "A",
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"section": "A",
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"times": [
 				"MW 0100-0400PM"
@@ -183,19 +189,20 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
-			"level": 200,
-			"name": "Synthesis Lab II",
-			"num": 254,
-			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sect": "B",
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
+			"name": "Synthesis Lab II",
+			"num": 254,
+			"pf": true,
+			"section": "B",
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"times": [
 				"TTh 0100-0400PM"
@@ -212,17 +219,18 @@
 				"THEAT"
 			],
 			"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theatre 110. Some topics courses may require additional prerequisites. Please inquire in the Theatre Department office before registering. Offered every year.",
+			"instructors": [
+				"Todd F. Edwards"
+			],
 			"level": 300,
+			"locations": [
+				"TB Haugen"
+			],
 			"name": "Top: Stage Combat",
 			"num": 379,
 			"pf": false,
-			"places": [
-				"TB Haugen"
-			],
-			"profs": [
-				"Todd F. Edwards"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -243,17 +251,18 @@
 				"ALS-A",
 				"ORC"
 			],
+			"instructors": [
+				"Jeanne I. Willcoxon"
+			],
 			"level": 100,
+			"locations": [
+				"TB Haugen"
+			],
 			"name": "Acting for Non-Majors",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"TB Haugen"
-			],
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 1230-0200PM"
@@ -273,17 +282,18 @@
 			"gereqs": [
 				"MCD"
 			],
+			"instructors": [
+				"Anna Kuxhausen"
+			],
 			"level": 100,
+			"locations": [
+				"HH 302"
+			],
 			"name": "Intro Womens Studies",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
-				"Anna Kuxhausen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -304,17 +314,18 @@
 				"HBS",
 				"WRI"
 			],
+			"instructors": [
+				"Robert W. McClure"
+			],
 			"level": 200,
+			"locations": [
+				"TBA"
+			],
 			"name": "Educ Psychology",
 			"num": 290,
 			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
-				"Robert W. McClure"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 0900-1200PM"
@@ -334,17 +345,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"William Sean Goldsworthy"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 0230-0400PM"
@@ -364,17 +376,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"William Sean Goldsworthy"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 0400-0530PM"
@@ -394,13 +407,14 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Luke Benoit"
+			],
 			"level": 100,
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Luke Benoit"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 0300-0500PM"
@@ -421,17 +435,18 @@
 				"ALS-L",
 				"MCG"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -451,17 +466,18 @@
 			"gereqs": [
 				"ALS-L"
 			],
+			"instructors": [
+				"Jan C. Hill"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Children's Literature",
 			"num": 233,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"Jan C. Hill"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1230-0200PM"
@@ -482,17 +498,18 @@
 				"HBS",
 				"IST"
 			],
+			"instructors": [
+				"Jeremy Loebach"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"Jeremy Loebach"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -509,17 +526,18 @@
 				"PSYCH"
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: Determined by individual instructor. Offer based on department decision.",
+			"instructors": [
+				"Grace E. Cho"
+			],
 			"level": 300,
+			"locations": [
+				"RNS 136"
+			],
 			"name": "Res:Dev Psych Emotion",
 			"num": 396,
 			"pf": false,
-			"places": [
-				"RNS 136"
-			],
-			"profs": [
-				"Grace E. Cho"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -539,16 +557,17 @@
 			"gereqs": [
 				"WRI"
 			],
-			"level": 200,
-			"num": 255,
-			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
+			"instructors": [
 				"Jan C. Hill"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 208"
+			],
+			"num": 255,
+			"pf": false,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 0230-0400PM"
@@ -570,15 +589,16 @@
 				"HWC"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"David R. Castro"
+			],
 			"level": 200,
 			"name": "Lit and Common Good",
 			"notes": "Taught online via Moodle; includes online class meeting component. Students register for this course for Term 2, but course begins June 10 and continues through both summer sessions.",
 			"num": 240,
 			"pf": false,
-			"profs": [
-				"David R. Castro"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Literature and the Preservation of the Common Good",
 			"type": "Research",
@@ -595,16 +615,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 207,
-			"pf": false,
-			"places": [
-				"DC 115"
-			],
-			"profs": [
+			"instructors": [
 				"Kathryne Fisher"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"DC 115"
+			],
+			"num": 207,
+			"pf": false,
+			"semester": 5,
+			"status": "X",
 			"term": 20085,
 			"times": [
 				"M-F 0230-0400PM"
@@ -624,16 +645,17 @@
 			"gereqs": [
 				"EIN"
 			],
-			"level": 200,
-			"num": 257,
-			"pf": false,
-			"places": [
-				"TB 216"
-			],
-			"profs": [
+			"instructors": [
 				"Deepanwita Dasgupta"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"TB 216"
+			],
+			"num": 257,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1230-0200PM"
@@ -653,16 +675,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 120,
-			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 5,
+			"level": 100,
+			"locations": [
+				"SC 186"
+			],
+			"num": 120,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 0800-0930"
@@ -682,16 +705,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 126,
-			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 5,
+			"level": 100,
+			"locations": [
+				"SC 186"
+			],
+			"num": 126,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 0800-0930"
@@ -711,17 +735,18 @@
 			"gereqs": [
 				"WRI"
 			],
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 186"
+			],
 			"name": "Elem Real Analysis",
 			"num": 244,
 			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"times": [
 				"M-F 1000-1130"
@@ -737,14 +762,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"John D. Schade"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"John D. Schade"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -757,14 +783,15 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sean Goldsworthy"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -778,14 +805,15 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
+			"instructors": [
+				"Theodore Johnson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Theodore Johnson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -798,14 +826,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"Jan C. Hill"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Jan C. Hill"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -818,14 +847,15 @@
 			"depts": [
 				"DANCE"
 			],
+			"instructors": [
+				"Susan Bauer"
+			],
 			"level": 300,
 			"name": "IR/Fem Dance Crit Lit Rev",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Susan Bauer"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Research",
 			"type": "Research",
@@ -838,13 +868,14 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Anantanand Rambachan"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Anantanand Rambachan"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -857,14 +888,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Anna Kuxhausen"
+			],
 			"level": 200,
 			"name": "IS/Russian Ntl Identity",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Anna Kuxhausen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -877,14 +909,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -898,14 +931,15 @@
 				"THEAT"
 			],
 			"desc": "Prerequisite: at least five previous courses in the department.",
+			"instructors": [
+				"Todd F. Edwards"
+			],
 			"level": 300,
 			"name": "IR/Advanced Scene Design",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Todd F. Edwards"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Research",
 			"type": "Research",
@@ -918,14 +952,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"L. DeAne Lagerquist"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"L. DeAne Lagerquist"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -938,14 +973,15 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Daniel Hagen"
+			],
 			"level": 200,
 			"name": "IS/Condition Non-Athlete",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Daniel Hagen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -958,13 +994,14 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Mary Ann Emery"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Ann Emery"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -977,14 +1014,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Douglas Schuurman"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Douglas Schuurman"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -998,14 +1036,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major.",
+			"instructors": [
+				"Diana Neal"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Diana Neal"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1019,14 +1058,15 @@
 				"THEAT"
 			],
 			"desc": "Prerequisite: at least three previous courses in department.",
+			"instructors": [
+				"Jeanne I. Willcoxon"
+			],
 			"level": 200,
 			"name": "IS/Gender & Gods in Theat",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1039,14 +1079,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"Jeanne I. Willcoxon"
+			],
 			"level": 300,
 			"name": "IR/Image/Women/Pop Media",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1059,14 +1100,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1079,14 +1121,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eric J. Fure-Slocum"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1099,14 +1142,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Carolyn Anderson"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Carolyn Anderson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1120,14 +1164,15 @@
 				"PSCI"
 			],
 			"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1141,14 +1186,15 @@
 				"ART"
 			],
 			"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in Art History prerequisites: two upper-division courses in area of study.",
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Mixed Media Painting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1162,15 +1208,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1183,15 +1230,16 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1204,13 +1252,14 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Bruce Dalgaard"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Bruce Dalgaard"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1225,14 +1274,15 @@
 			],
 			"desc": "This course familiarizes students with research strategies in their respective disciplines and prepares them to successfully complete their faculty-led research projects through the TRiO McNair program. Students read research articles written by their faculty mentor, complete a literature search, and design a poster for a research symposium.",
 			"grouptype": "R",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 200,
 			"name": "Research Across Disciplin",
 			"num": 236,
 			"pf": true,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Research Strategies Across the Disciplines",
 			"type": "Research",
@@ -1245,15 +1295,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Anne Walter"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Anne Walter"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1266,14 +1317,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Douglas Schuurman"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Douglas Schuurman"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1286,14 +1338,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1306,14 +1359,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1326,14 +1380,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1346,14 +1401,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eric J. Fure-Slocum"
-			],
-			"sect": "C",
-			"sem": 5,
+			"section": "C",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1366,14 +1422,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"David Schodt"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David Schodt"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1387,15 +1444,16 @@
 				"ART"
 			],
 			"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in Art History prerequisites: two upper-division courses in area of study.",
+			"instructors": [
+				"Nancy M. Thompson"
+			],
 			"level": 200,
 			"name": "IS/Mod Architects: Brazil",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Nancy M. Thompson"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1408,14 +1466,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1428,14 +1487,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"William Poehlmann"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Poehlmann"
-			],
-			"sect": "C",
-			"sem": 5,
+			"section": "C",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1449,13 +1509,14 @@
 				"MATH"
 			],
 			"desc": "Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings, and fields. Prerequisite: Mathematics 220. Offered both semesters.",
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 200,
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"title": "Abstract Algebra I",
 			"type": "Research",
@@ -1468,14 +1529,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"David Booth"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"David Booth"
-			],
-			"sect": "D",
-			"sem": 5,
+			"section": "D",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1488,15 +1550,16 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1515,16 +1578,17 @@
 				"SED"
 			],
 			"groupid": 100,
-			"level": 100,
-			"name": "Biological Science",
-			"num": 121,
-			"pf": false,
-			"profs": [
+			"instructors": [
 				"Eric McDonald",
 				"Michael Swift",
 				"Anne Walter"
 			],
-			"sem": 5,
+			"level": 100,
+			"name": "Biological Science",
+			"num": 121,
+			"pf": false,
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"title": "Biological Science: Issues in Biology",
 			"type": "Research",
@@ -1538,16 +1602,17 @@
 				"BIO"
 			],
 			"groupid": 100,
-			"level": 100,
-			"name": "Biological Science Lab",
-			"num": 121,
-			"pf": false,
-			"profs": [
+			"instructors": [
 				"Eric McDonald",
 				"Michael Swift",
 				"Anne Walter"
 			],
-			"sem": 5,
+			"level": 100,
+			"name": "Biological Science Lab",
+			"num": 121,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Biological Science Lab",
 			"type": "Lab",
@@ -1565,14 +1630,15 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Michael Leming"
+			],
 			"level": 100,
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Michael Leming"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20085,
 			"title": "Introduction to Sociology",
 			"type": "Research",
@@ -1585,15 +1651,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Douglas J. Beussman"
+			],
 			"level": 300,
 			"name": "IR/Maldi-Tof Proteomics",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Douglas J. Beussman"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1606,14 +1673,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Carol Holly"
+			],
 			"level": 200,
 			"name": "IS/Summer at Walden Pond",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Carol Holly"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1626,14 +1694,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Robert Entenmann"
+			],
 			"level": 200,
 			"name": "IS/Ancient SE Asian Hist",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Robert Entenmann"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1646,15 +1715,16 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Internship",
 			"type": "Research",
@@ -1667,14 +1737,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Mary Walczak"
+			],
 			"level": 200,
 			"name": "IS/Lake Water Quality",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Walczak"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1687,14 +1758,15 @@
 			"depts": [
 				"IS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20085,
 			"title": "IS/",
 			"type": "Research",

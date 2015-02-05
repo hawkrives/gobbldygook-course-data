@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 200,
+	"locations": [
+		"M 35"
+	],
 	"name": "Reden, Reden, Reden!",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM",

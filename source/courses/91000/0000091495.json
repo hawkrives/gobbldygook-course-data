@@ -12,19 +12,20 @@
 	],
 	"groupid": 26649,
 	"grouptype": "2",
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 280"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150B must also register for one lab Bio 150 CL or DL.",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"TOH 280"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

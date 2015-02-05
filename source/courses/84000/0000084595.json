@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"OM 210"
-	],
-	"profs": [
+	"instructors": [
 		"Joseph L. Mbele"
 	],
-	"sect": "F",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"OM 210"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

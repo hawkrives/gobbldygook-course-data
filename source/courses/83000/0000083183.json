@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCD"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 100,
-	"name": "Intro to Arms",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 1,
+	"name": "Intro to Arms",
+	"num": 121,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0120-0245PM",

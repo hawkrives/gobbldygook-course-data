@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"William H. Bridges IV"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 312",
 		"TOH 312"
 	],
-	"profs": [
-		"William H. Bridges IV"
-	],
-	"sect": "O",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 300,
 	"name": "IR/Network Security",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Network Security",
 	"type": "Research",

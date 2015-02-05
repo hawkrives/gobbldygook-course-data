@@ -5,19 +5,20 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Siriwan Chutikamoltham"
+	],
 	"level": 200,
-	"name": "Management",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Siriwan Chutikamoltham"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Management",
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

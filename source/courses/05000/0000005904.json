@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sect": "G",
-	"sem": 1,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "G",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0800-0925",

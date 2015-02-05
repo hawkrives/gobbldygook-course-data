@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Thomas Jacobsen"
+	],
 	"level": 200,
+	"locations": [
+		"FH 21"
+	],
 	"name": "Motion Graphics",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"FH 21"
-	],
-	"profs": [
-		"Thomas Jacobsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MW 0700-1000PM"

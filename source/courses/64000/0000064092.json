@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Kristopher J. Keuseman"
+	],
 	"level": 300,
 	"name": "IR/Anti-Cancer Complexes",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kristopher J. Keuseman"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research",
 	"type": "Research",

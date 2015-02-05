@@ -5,14 +5,15 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 300,
 	"name": "Health Care in Amer",
 	"num": 372,
 	"pf": false,
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Health Care in Amer",
 	"type": "Research",

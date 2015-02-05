@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"title": "Internship",
 	"type": "Research",

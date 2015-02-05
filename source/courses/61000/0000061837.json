@@ -9,17 +9,18 @@
 	"gereqs": [
 		"HBS"
 	],
-	"level": 200,
-	"num": 251,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"Richard Goedde"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"MWF 1150-1245PM"

@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 20159,
+	"instructors": [
+		"John D. Schade"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Arctic Ecol/Climate Lab",
 	"num": 320,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"John D. Schade"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0200-0500PM"

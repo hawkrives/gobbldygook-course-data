@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Norman M. Watt"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 515",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Norman M. Watt"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0100-0300PM",

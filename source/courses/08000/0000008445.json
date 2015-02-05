@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Intro Russian Film-Tr",
 	"num": 265,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"times": [
 		"MWF 1045-1140"

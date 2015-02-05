@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Amy E. Borden"
+	],
 	"level": 200,
-	"notes": "Film screenings Monday evenings from 7-10 p.m.",
-	"num": 215,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 310",
 		"TB 227",
 		"TB 227"
 	],
-	"profs": [
-		"Amy E. Borden"
-	],
-	"sem": 3,
+	"notes": "Film screenings Monday evenings from 7-10 p.m.",
+	"num": 215,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"M 0700-1000PM",

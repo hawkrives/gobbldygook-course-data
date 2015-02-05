@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Peter J. Gittins"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Gen Chemistry/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Peter J. Gittins"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"M 0200-0500PM"

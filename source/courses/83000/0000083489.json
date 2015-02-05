@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 136,
+	"instructors": [
+		"Nicholas J. Deacon"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 455"
+	],
 	"name": "Plant Morphology Lab",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RNS 455"
-	],
-	"profs": [
-		"Nicholas J. Deacon"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"Th 0800-1100"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Sharon Lane-Getaz"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Sharon Lane-Getaz"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 0905-1000"

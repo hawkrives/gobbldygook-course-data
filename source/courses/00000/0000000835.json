@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 200,
 	"name": "Performing Arts in NY",
 	"num": 284,
 	"pf": false,
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"title": "Performing Arts in NY",
 	"type": "Research",

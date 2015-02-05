@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Jean R. Aguilar-Valdez"
+	],
 	"level": 200,
-	"name": "English Lang Learners",
-	"num": 246,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 214",
 		"TOH 214"
 	],
-	"profs": [
-		"Jean R. Aguilar-Valdez"
-	],
-	"sem": 1,
+	"name": "English Lang Learners",
+	"num": 246,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"T 0800-0925",

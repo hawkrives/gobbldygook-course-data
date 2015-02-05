@@ -5,17 +5,18 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Human Nutrition",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

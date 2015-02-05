@@ -6,15 +6,16 @@
 		"MATH"
 	],
 	"desc": "This course provides students with a transition from calculus and linear algebra to more advanced courses in theoretical mathematics. The unique feature of this course is that it is taught with a cultural context in Budapest, Hungary. This course not only supplies a bridge from beginning to advanced mathematics, but also allows participants to encounter an important worldwide center of mathematics.",
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
 	"name": "Struct of Higher Math",
 	"notes": "This is an off-campus course.",
 	"num": 234,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"title": "The Structure of Higher Mathematics",
 	"type": "Research",

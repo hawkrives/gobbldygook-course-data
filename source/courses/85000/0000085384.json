@@ -5,18 +5,19 @@
 	"depts": [
 		"ALSO"
 	],
+	"instructors": [
+		"Renata Debska-McWilliams"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 153"
+	],
 	"name": "Top: Beginning Arabic II",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"TOH 153"
-	],
-	"profs": [
-		"Renata Debska-McWilliams"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Microeconomic Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

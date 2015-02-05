@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 300,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Combinatorics",
 	"num": 364,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

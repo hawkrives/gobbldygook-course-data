@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Walter T. Hoops"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Encounter Primitive",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Walter T. Hoops"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"TTh 1145-0110PM"

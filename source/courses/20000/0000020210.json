@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
 	"name": "IR/Oo Game Developmnt",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Oo Game Developmnt",
 	"type": "Research",

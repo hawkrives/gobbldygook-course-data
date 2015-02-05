@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 200,
 	"name": "IS/Theatre-Autonomous Art",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"title": "Independent Study",
 	"type": "Research",

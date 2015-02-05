@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 100,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Principles Comp Sci",
 	"num": 172,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

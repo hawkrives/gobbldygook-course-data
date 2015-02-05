@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "IS/A Hmong Life",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IS/A Hmong Life",
 	"type": "Research",

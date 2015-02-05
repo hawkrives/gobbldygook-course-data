@@ -6,19 +6,20 @@
 		"ENGL"
 	],
 	"groupid": 399,
-	"level": 200,
-	"name": "Lit in Engl 1650-1850 Dis",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
+	"instructors": [
 		"Jonathan Hill",
 		"Colin Wells"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"BMC 109"
+	],
+	"name": "Lit in Engl 1650-1850 Dis",
+	"num": 222,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"F 1150-1245PM"

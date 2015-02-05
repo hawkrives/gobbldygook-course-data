@@ -5,15 +5,16 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
 	"name": "IR/Performance",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Performance",
 	"type": "Research",

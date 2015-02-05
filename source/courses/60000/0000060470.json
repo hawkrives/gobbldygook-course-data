@@ -7,18 +7,19 @@
 	],
 	"groupid": 239,
 	"grouptype": "1",
+	"instructors": [
+		"Luying Chen"
+	],
 	"level": 100,
+	"locations": [
+		"RML WLC"
+	],
 	"name": "Beginning Chinese II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"RML WLC"
-	],
-	"profs": [
-		"Luying Chen"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100"

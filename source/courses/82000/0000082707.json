@@ -10,19 +10,20 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Joshua Anderson"
+	],
 	"level": 100,
-	"notes": "This course has class year limits.",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Joshua Anderson"
-	],
-	"sect": "A",
-	"sem": 1,
+	"notes": "This course has class year limits.",
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0935-1100",

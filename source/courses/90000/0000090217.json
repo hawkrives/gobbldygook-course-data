@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
+	"instructors": [
 		"Jennifer Kwon Dobbs"
 	],
-	"sect": "G",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 515"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1255-0150PM"

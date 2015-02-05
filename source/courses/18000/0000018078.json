@@ -6,18 +6,19 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Larry Zimmerman"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Counsel/Comm in Schls",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Larry Zimmerman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
 	"name": "IR/Scale Construction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Scale Construction",
 	"type": "Research",

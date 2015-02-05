@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 300,
 	"name": "IR/Educ Transition",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Educ Transition",
 	"type": "Research",

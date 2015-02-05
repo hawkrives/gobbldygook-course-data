@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
+	"instructors": [
 		"Richard Buckstead"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 520"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

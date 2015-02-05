@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
 	"name": "Orchestral Music",
 	"num": 132,
 	"pf": false,
-	"profs": [
-		"David Carter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Orchestral Music",
 	"type": "Research",

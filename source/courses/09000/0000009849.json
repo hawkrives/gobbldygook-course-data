@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
-	"level": 300,
-	"name": "Psych of Counseling",
-	"num": 375,
-	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
+	"instructors": [
 		"Hussein J. Rajput",
 		"Marit S. Lysne"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"HH 515"
+	],
+	"name": "Psych of Counseling",
+	"num": 375,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

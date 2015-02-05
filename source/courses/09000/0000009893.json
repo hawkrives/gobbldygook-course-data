@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
-	"name": "Jews & Christians/Aft",
-	"num": 227,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sem": 3,
+	"name": "Jews & Christians/Aft",
+	"num": 227,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

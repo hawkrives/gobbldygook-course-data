@@ -5,15 +5,16 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 200,
 	"name": "IS/Midwifery",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Midwifery",
 	"type": "Research",

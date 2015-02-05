@@ -6,16 +6,17 @@
 		"REL"
 	],
 	"desc": "This integrative seminar focuses on the pursuit of research, the explanation of research to fellow students and the exploration of connections among diverse approaches to the selected topic, which changes annually. May be repeated if topics are different. Prerequisite: BTS-B. Counts towards ancient studies and medieval studies majors.",
-	"level": 300,
-	"num": 399,
-	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
+	"instructors": [
 		"Patricia Beckman"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"BMC 109"
+	],
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

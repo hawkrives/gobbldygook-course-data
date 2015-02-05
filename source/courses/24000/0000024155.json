@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Richard Senese"
+	],
 	"level": 300,
 	"name": "Placement Applied Set",
 	"num": 393,
 	"pf": true,
-	"profs": [
-		"Richard Senese"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "Placement Applied Set",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"AMCON"
 	],
+	"instructors": [
+		"Charles E. Umbanhowar Sr"
+	],
 	"level": 100,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Charles E. Umbanhowar Sr"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

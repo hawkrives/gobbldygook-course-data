@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "19th-21st C Novels",
 	"num": 283,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

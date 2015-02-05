@@ -10,16 +10,17 @@
 		"ALS-A",
 		"SPM"
 	],
-	"level": 300,
-	"num": 310,
-	"pf": false,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
+	"instructors": [
 		"Janice Roberts"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"DC Studio 1"
+	],
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0330PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Intermed French I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

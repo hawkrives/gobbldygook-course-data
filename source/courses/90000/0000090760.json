@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 300,
-	"name": "Sem: Hist Res Workshop",
-	"num": 397,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 319",
 		"HH 319"
 	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 3,
+	"name": "Sem: Hist Res Workshop",
+	"num": 397,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

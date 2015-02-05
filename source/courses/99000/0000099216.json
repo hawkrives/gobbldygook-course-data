@@ -10,17 +10,18 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Mahler to Madonna",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"C. George Holt"
+	],
 	"level": 200,
+	"locations": [
+		"L 277"
+	],
 	"name": "Family Relationships",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"L 277"
-	],
-	"profs": [
-		"C. George Holt"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"MWF 1045-1140"

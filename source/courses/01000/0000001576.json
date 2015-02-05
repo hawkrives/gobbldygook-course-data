@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Susan Bloom"
+	],
 	"level": 300,
 	"name": "IR/Terrorism",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Susan Bloom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Terrorism",
 	"type": "Research",

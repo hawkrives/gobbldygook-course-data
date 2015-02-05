@@ -10,18 +10,19 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Age of Goethe-Tr",
 	"notes": "In English, no prerequisites. This course is open to first-year students.",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

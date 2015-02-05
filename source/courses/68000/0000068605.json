@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"RNS 206"
-	],
-	"profs": [
+	"instructors": [
 		"Peder Bolstad"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 206"
+	],
+	"num": 120,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Christopher Thomforde placeholder"
+	],
 	"level": 300,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Colloquium: Honor",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Christopher Thomforde placeholder"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"Th 0215-0335PM"

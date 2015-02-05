@@ -5,17 +5,18 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Judith Sateren"
+	],
 	"level": 300,
+	"locations": [
+		"SC 278"
+	],
 	"name": "Healthcare Issues",
 	"num": 302,
 	"pf": false,
-	"places": [
-		"SC 278"
-	],
-	"profs": [
-		"Judith Sateren"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"MWF 0200-0255PM"

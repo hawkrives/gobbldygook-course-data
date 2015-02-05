@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 100,
+	"locations": [
+		"SC 378"
+	],
 	"name": "Fundamentls of Chem",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"SC 378"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

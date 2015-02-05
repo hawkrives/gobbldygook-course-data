@@ -5,14 +5,15 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Larry Schnoor"
+	],
 	"level": 200,
 	"name": "Debate/Forensics",
 	"num": 223,
 	"pf": true,
-	"profs": [
-		"Larry Schnoor"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "Debate/Forensics",
 	"type": "Research",

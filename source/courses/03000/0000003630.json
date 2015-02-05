@@ -5,17 +5,18 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "Mass Media",
 	"num": 160,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 0800-0930"

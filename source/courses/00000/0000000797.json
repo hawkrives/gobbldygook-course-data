@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 200,
 	"name": "IS/Health Cooper Inst",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"title": "IS/Health Cooper Inst",
 	"type": "Research",

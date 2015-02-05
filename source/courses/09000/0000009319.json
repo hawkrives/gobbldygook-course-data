@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 300,
-	"name": "Logic Programming",
-	"num": 336,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"name": "Logic Programming",
+	"num": 336,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark A. Granquist"
+	],
 	"level": 200,
+	"locations": [
+		"L 577"
+	],
 	"name": "The Greats",
 	"num": 203,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Mark A. Granquist"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19975,
 	"times": [
 		"M-F 1000-1130"

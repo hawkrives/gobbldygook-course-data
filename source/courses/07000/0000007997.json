@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dennis R. Hidalgo"
+	],
 	"level": 100,
-	"name": "Top: Caribbean History",
-	"num": 189,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"Dennis R. Hidalgo"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Top: Caribbean History",
+	"num": 189,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0120-0245PM",

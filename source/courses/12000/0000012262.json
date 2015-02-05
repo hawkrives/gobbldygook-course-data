@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1145-0215PM"

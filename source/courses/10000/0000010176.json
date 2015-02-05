@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"William A. Gorton"
+	],
 	"level": 100,
+	"locations": [
+		"RML 520"
+	],
 	"name": "Intro: Pol Theory",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
-		"William A. Gorton"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 1230-0200PM"

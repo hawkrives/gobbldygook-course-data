@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 300,
 	"name": "IR/Nonlin Oscillator",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Cederberg"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Nonlin Oscillator",
 	"type": "Research",

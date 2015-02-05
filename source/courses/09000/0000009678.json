@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Margaret H. O'Leary"
+	],
 	"level": 100,
+	"locations": [
+		"OM 015"
+	],
 	"name": "Begin Norwegian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 015"
-	],
-	"profs": [
-		"Margaret H. O'Leary"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

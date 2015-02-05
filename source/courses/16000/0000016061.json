@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 577"
+	],
 	"name": "U.S. Since 1865/Disc",
 	"num": 206,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"F 0905-1000"

@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Creative Writing I",
 	"num": 257,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"title": "Creative Writing I",
 	"type": "Research",

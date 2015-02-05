@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0200-0255PM"

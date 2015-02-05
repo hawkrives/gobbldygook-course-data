@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Charles E. Umbanhowar Sr"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Hist Mod Pol Thought",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Charles E. Umbanhowar Sr"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

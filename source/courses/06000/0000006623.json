@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Juliet A. Lynd"
+	],
 	"level": 100,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Juliet A. Lynd"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

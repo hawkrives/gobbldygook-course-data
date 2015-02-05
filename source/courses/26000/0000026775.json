@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 300,
 	"name": "IR/Homeschool Transit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Homeschool Transit",
 	"type": "Research",

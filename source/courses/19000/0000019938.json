@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Roger Proksch"
+	],
 	"level": 300,
 	"name": "IR/Biophysics & Afm",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Roger Proksch"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"title": "IR/Biophysics & Afm",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Herve Pensec"
+	],
 	"level": 300,
-	"name": "Genre: Theat Du Gr Sie",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 026",
 		"OM 026"
 	],
-	"profs": [
-		"Herve Pensec"
-	],
-	"sem": 3,
+	"name": "Genre: Theat Du Gr Sie",
+	"num": 373,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

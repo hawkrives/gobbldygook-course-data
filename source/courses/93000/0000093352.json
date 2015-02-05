@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 300,
 	"name": "IR/Optimizing Algal Comm",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"title": "Independent Research",
 	"type": "Research",

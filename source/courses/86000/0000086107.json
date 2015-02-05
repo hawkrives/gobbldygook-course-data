@@ -5,14 +5,15 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"Alberto Villate-Isaza"
+	],
 	"level": 300,
 	"name": "FLC - Spanish",
 	"num": 333,
 	"pf": false,
-	"profs": [
-		"Alberto Villate-Isaza"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "FLC - Spanish",
 	"type": "FLAC",

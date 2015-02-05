@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 227"
+	],
 	"name": "Cell Biology/Lab",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"SC 227"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"Th 1145-0245PM"

@@ -10,18 +10,19 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
-	"name": "Modern Philosophy",
-	"num": 236,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 3,
+	"name": "Modern Philosophy",
+	"num": 236,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

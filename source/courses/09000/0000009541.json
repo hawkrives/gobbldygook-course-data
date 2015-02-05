@@ -5,17 +5,18 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Patricia Richardson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Family Relationships",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Patricia Richardson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

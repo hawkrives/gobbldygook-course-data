@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 253"
+	],
 	"name": "Comp Vertebrate/Lab",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 253"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"Th 0100-0400PM"

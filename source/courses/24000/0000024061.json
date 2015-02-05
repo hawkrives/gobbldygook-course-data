@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 100,
+	"locations": [
+		"M 26"
+	],
 	"name": "Beginning French II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0800-1000"

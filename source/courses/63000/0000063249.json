@@ -10,18 +10,19 @@
 		"WRI"
 	],
 	"groupid": 207,
+	"instructors": [
+		"Nathaniel J. Schaefle"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 392"
+	],
 	"name": "Physical Lab",
 	"num": 357,
 	"pf": true,
-	"places": [
-		"RNS 392"
-	],
-	"profs": [
-		"Nathaniel J. Schaefle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"W 0100-0500PM"

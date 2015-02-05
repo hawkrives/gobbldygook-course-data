@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"David Booth"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Internship",
 	"type": "Research",

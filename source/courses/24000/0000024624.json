@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Christopher Schwartz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Math Analysis II",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Christopher Schwartz"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1150-1245PM"

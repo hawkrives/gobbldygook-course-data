@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Principles Comp Sci",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 203"
-	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

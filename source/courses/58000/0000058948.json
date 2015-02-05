@@ -6,18 +6,19 @@
 		"HIST"
 	],
 	"desc": "This course explores topics in American history, designed to emphasize active skills of critical reading, textual and contextual analysis, historiographical argument, and historical writing. Offered most years.",
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
-	"name": "Sem: Trail of Tears",
-	"num": 270,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"name": "Sem: Trail of Tears",
+	"num": 270,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM",

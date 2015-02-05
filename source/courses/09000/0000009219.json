@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Robert Rutherford"
+	],
 	"level": 300,
 	"name": "IR/Genetic Ed Res",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Robert Rutherford"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Genetic Ed Res",
 	"type": "Research",

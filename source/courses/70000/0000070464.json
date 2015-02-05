@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Todd F. Edwards"
+	],
 	"level": 300,
 	"name": "IR/Advanced Scene Design",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Todd F. Edwards"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20085,
 	"title": "Independent Research",
 	"type": "Research",

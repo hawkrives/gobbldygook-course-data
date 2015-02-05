@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "Students learn conducting techniques for instrumental literature, including rehearsal techniques, score preparation, and reading the full score. Repertorie includes characteristic examples from standard band and orchestra literature. Students gain practical experience in conducting an instrumental ensemble. Course work includes observation of conducting faculty. Prerequisite: Music 251. Offered annually in the Spring Semester.",
+	"instructors": [
+		"Timothy Mahr"
+	],
 	"level": 200,
-	"name": "Instru Conducting",
-	"num": 253,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 138",
 		"CHM 138"
 	],
-	"profs": [
-		"Timothy Mahr"
-	],
-	"sem": 3,
+	"name": "Instru Conducting",
+	"num": 253,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

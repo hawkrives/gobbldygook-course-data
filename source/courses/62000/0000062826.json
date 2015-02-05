@@ -10,19 +10,20 @@
 		"EIN",
 		"ORC"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 203",
+		"RNS 203"
+	],
 	"name": "Ethical Iss: Software",
 	"notes": "Prerequisite: Completion of BTS-T requirement. This course has class year limits.",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"RNS 203",
-		"RNS 203"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Ashley Hodgson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Ashley Hodgson"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"title": "Internship",
 	"type": "Research",

@@ -7,17 +7,18 @@
 	],
 	"desc": "This course offers an introduction to grammar and reading through oral and written work, supplemented by reading of graded Russian prose.",
 	"groupid": 1259,
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
+	"instructors": [
 		"Irina Walter"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"OM 004"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"MWF 1150-1245PM"

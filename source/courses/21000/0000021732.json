@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Virtue",
 	"num": 293,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"MWF 1045-1140"

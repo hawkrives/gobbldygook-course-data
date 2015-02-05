@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 200,
+	"locations": [
+		"H 514"
+	],
 	"name": "FLC-Spanish",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0800-0900"

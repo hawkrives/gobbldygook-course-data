@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
 	"name": "FLC-Spanish",
 	"num": 281,
 	"pf": false,
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "FLC-Spanish",
 	"type": "Research",

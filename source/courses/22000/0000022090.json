@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 300,
 	"name": "Placement Applied Set",
 	"num": 393,
 	"pf": true,
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "Placement Applied Set",
 	"type": "Research",

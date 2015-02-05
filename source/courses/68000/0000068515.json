@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 100,
-	"num": 121,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC Studio 2",
 		"DC Studio 2"
 	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sect": "A",
-	"sem": 3,
+	"num": 121,
+	"pf": true,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 1005-1100",

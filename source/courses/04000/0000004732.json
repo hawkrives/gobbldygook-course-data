@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kristi Holden"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Arts of Scandinavia",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Kristi Holden"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

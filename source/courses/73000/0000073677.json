@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 100,
+	"locations": [
+		"OM 015"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 015"
-	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 300,
-	"name": "Complex Analysis",
-	"num": 340,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 186"
 	],
-	"profs": [
-		"Paul Zorn"
-	],
-	"sem": 1,
+	"name": "Complex Analysis",
+	"num": 340,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"times": [
 		"T 1145-0110PM",

@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Brian B. Gibbens",
+		"Anne Walter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Cell Bio & Genetics",
 	"notes": "Students in Bio 125 must also register for lab Bio 125 L.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
-		"Brian B. Gibbens",
-		"Anne Walter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 0100-0300PM"

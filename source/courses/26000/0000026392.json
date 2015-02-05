@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"John T. Day"
+	],
 	"level": 200,
-	"name": "Lit in Engl to 1650",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 525",
 		"L 520",
 		"L 520"
 	],
-	"profs": [
-		"John T. Day"
-	],
-	"sem": 3,
+	"name": "Lit in Engl to 1650",
+	"num": 221,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Cassidy R. Terrell"
+	],
 	"level": 300,
 	"name": "IR/Enzymatic Rates",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Cassidy R. Terrell"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Independent Research",
 	"type": "Research",

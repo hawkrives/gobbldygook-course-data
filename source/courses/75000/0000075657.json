@@ -10,18 +10,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 200,
-	"name": "Econ Develop in Japan",
-	"num": 238,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 297",
 		"RNS 297"
 	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 1,
+	"name": "Econ Develop in Japan",
+	"num": 238,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 0120-0245PM",

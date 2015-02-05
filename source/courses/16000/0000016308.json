@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 1"
+	],
 	"name": "Anatomy & Kinesiology",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"SAC 1"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0800-0855"

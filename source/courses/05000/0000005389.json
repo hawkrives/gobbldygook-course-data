@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Classics and Moderns",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

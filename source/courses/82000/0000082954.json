@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Alberto Villate-Isaza"
+	],
 	"level": 200,
-	"name": "Exploring Hispanic Lit",
-	"num": 275,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 112",
 		"TOH 112"
 	],
-	"profs": [
-		"Alberto Villate-Isaza"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Exploring Hispanic Lit",
+	"num": 275,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0120-0245PM",

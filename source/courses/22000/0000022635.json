@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Peter S. Hamlin"
+	],
 	"level": 300,
 	"name": "IR/Organ in Concert",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Peter S. Hamlin"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Organ in Concert",
 	"type": "Research",

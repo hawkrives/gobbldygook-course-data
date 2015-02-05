@@ -6,18 +6,19 @@
 		"DNCTE"
 	],
 	"desc": "Ballroom classes are taught from a social/aesthetic perspective. In this course, students learn fundamental steps, rhythms and styling in foxtrot, slow waltz, Viennese waltz, east coast swing and cha cha or samba.",
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
+	"locations": [
+		"DC _STUDIO_1"
+	],
 	"name": "Ballroom I (Women)",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"DC _STUDIO_1"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MW 0905-1000"

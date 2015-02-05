@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
 	"name": "IR/Morality Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Morality Research",
 	"type": "Research",

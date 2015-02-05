@@ -5,14 +5,15 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Venture Study Ymca",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "IS/Venture Study Ymca",
 	"type": "Research",

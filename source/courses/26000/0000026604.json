@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"John Ferguson"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Church Music Pract II",
 	"num": 392,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"John Ferguson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 1145-0110PM"

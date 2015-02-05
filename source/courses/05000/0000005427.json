@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Contemp Issue/SE Asia",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

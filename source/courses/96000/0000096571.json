@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Bjorn Nordfjord"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Top: Great Amer Novel",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Bjorn Nordfjord"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0800-0855"

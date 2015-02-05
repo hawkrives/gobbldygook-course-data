@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
+	"locations": [
+		"M 1"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-F 0800-0930"

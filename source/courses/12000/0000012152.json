@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Composition III",
 	"num": 325,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 1255-0150PM"

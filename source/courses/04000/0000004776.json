@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
-	"name": "Human Anatomy & Physiol",
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 253"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Human Anatomy & Physiol",
+	"num": 243,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855",

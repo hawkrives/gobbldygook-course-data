@@ -9,16 +9,17 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"num": 230,
-	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
+	"instructors": [
 		"Gary Stansell"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
+	"num": 230,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

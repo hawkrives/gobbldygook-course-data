@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1850-Pres",
-	"num": 223,
-	"pf": false,
-	"places": [
-		"L 525",
-		"L 520"
-	],
-	"profs": [
+	"instructors": [
 		"Olivia Frey",
 		"Joan Hepburn"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"L 525",
+		"L 520"
+	],
+	"name": "Lit in Engl 1850-Pres",
+	"num": 223,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM",

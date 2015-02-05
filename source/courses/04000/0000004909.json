@@ -6,19 +6,20 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
-	"name": "Counsel/Comm in Schls",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10",
 		"FH 10"
 	],
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Counsel/Comm in Schls",
+	"num": 372,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

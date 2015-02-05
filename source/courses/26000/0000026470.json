@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
-	"name": "Dissenters/Defenders",
-	"num": 218,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 514",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Dissenters/Defenders",
+	"num": 218,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM",

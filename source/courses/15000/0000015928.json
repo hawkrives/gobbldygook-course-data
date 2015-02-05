@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SAC S GYM"
+	],
 	"name": "Ballroom I (Men)",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"SAC S GYM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 0200-0255PM"

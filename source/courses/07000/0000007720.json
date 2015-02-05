@@ -5,19 +5,20 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 100,
-	"name": "A Matter of Environ",
-	"num": 124,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 378",
 		"SC 378",
 		"SC 371"
 	],
-	"profs": [
-		"Mary Walczak"
-	],
-	"sem": 1,
+	"name": "A Matter of Environ",
+	"num": 124,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"times": [
 		"T 0935-1100",

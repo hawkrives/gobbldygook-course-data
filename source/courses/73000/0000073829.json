@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Douglas Scholz-Carlson"
+	],
 	"level": 100,
-	"name": "Acting for Non-Majors",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Douglas Scholz-Carlson"
-	],
-	"sem": 3,
+	"name": "Acting for Non-Majors",
+	"num": 115,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 1145-0110PM",

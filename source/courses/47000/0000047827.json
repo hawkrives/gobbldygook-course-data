@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 200,
 	"name": "IS/Physical Therapy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20045,
 	"title": "IS/Physical Therapy",
 	"type": "Research",

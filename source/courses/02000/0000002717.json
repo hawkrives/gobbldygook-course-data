@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 200,
-	"name": "Number Theory",
-	"num": 238,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sem": 2,
+	"name": "Number Theory",
+	"num": 238,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"times": [
 		"M-F 1045-1145",

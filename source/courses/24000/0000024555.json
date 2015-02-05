@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
-	"name": "Dissenters/Defenders",
-	"num": 218,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Dissenters/Defenders",
+	"num": 218,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1045-1140",

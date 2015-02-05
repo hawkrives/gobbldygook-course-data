@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Environ Philosophy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Environ Philosophy",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 300,
 	"name": "IR/Reform England",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary De Krey"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Reform England",
 	"type": "Research",

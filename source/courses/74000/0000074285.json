@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"John D. Schade"
+	],
 	"level": 100,
-	"name": "Intro: Enviro Studies",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 190",
 		"RNS 190"
 	],
-	"profs": [
-		"John D. Schade"
-	],
-	"sem": 3,
+	"name": "Intro: Enviro Studies",
+	"num": 137,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

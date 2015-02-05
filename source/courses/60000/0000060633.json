@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 300,
 	"name": "IR/20th C. Theolog Ethics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Keith D. McCutchen"
+	],
 	"level": 100,
-	"name": "Theory II",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Keith D. McCutchen"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Theory II",
+	"num": 114,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

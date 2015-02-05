@@ -5,15 +5,16 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "IR/US Ag II Farm to Fork",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

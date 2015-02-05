@@ -13,17 +13,18 @@
 				"SED"
 			],
 			"groupid": 106,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 390"
+			],
 			"name": "Cell Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 390"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -40,17 +41,18 @@
 				"BIO"
 			],
 			"groupid": 106,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 255"
+			],
 			"name": "Cell Bio & Genetics Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 255"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"W 0100-0500PM"
@@ -71,14 +73,15 @@
 				"EIN",
 				"ORC"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 300,
 			"name": "Top: Who Owns the Arts",
 			"num": 380,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 0800-0930"
@@ -99,13 +102,14 @@
 				"ALS-A",
 				"ORC"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 100,
 			"num": 100,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -126,17 +130,18 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -153,17 +158,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"MW 0100-0400PM"
@@ -181,16 +187,17 @@
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered annually in the fall semester.",
 			"groupid": 196,
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0800-0930"
@@ -208,18 +215,19 @@
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
 			"groupid": 196,
+			"instructors": [
+				"Cassidy R. Terrell"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Cassidy R. Terrell"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"TTh 0100-0400PM"
@@ -237,18 +245,19 @@
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
 			"groupid": 196,
+			"instructors": [
+				"Cassidy R. Terrell"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Cassidy R. Terrell"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"MW 0100-0400PM"
@@ -268,16 +277,17 @@
 			"gereqs": [
 				"HBS"
 			],
-			"level": 200,
-			"num": 249,
-			"pf": false,
-			"places": [
-				"RNS 124"
-			],
-			"profs": [
+			"instructors": [
 				"M. Minda Ori\u00f1a"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 124"
+			],
+			"num": 249,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0800-0930"
@@ -298,17 +308,18 @@
 				"HBS",
 				"IST"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 124"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 124"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -328,16 +339,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 207,
-			"pf": false,
-			"places": [
-				"DC 115"
-			],
-			"profs": [
+			"instructors": [
 				"Kathryne Fisher"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 115"
+			],
+			"num": 207,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0100-0400PM"
@@ -359,15 +371,16 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"William H. Bridges IV"
+			],
 			"level": 100,
 			"name": "Japanese SciFi/Glob Persp",
 			"notes": "This course has been canceled.",
 			"num": 130,
 			"pf": false,
-			"profs": [
-				"William H. Bridges IV"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -387,17 +400,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Robert K. McCarthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Robert K. McCarthy"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0800-0930"
@@ -417,17 +431,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Michael M. Ludwig"
+			],
 			"level": 100,
+			"locations": [
+				"TBA"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
-				"Michael M. Ludwig"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0230-0400PM"
@@ -448,17 +463,18 @@
 				"BTS-T",
 				"WRI"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"OM 110"
+			],
 			"name": "St. Paul/Letter/Gospel",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1230-0200PM"
@@ -479,16 +495,17 @@
 				"EIN",
 				"WRI"
 			],
-			"level": 200,
-			"num": 276,
-			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
+			"instructors": [
 				"James Hanson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"OM 110"
+			],
+			"num": 276,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0230-0400PM"
@@ -508,16 +525,17 @@
 			"gereqs": [
 				"IST"
 			],
-			"level": 300,
-			"num": 379,
-			"pf": false,
-			"places": [
-				"TOH 182"
-			],
-			"profs": [
+			"instructors": [
 				"Beth Abdella"
 			],
-			"sem": 4,
+			"level": 300,
+			"locations": [
+				"TOH 182"
+			],
+			"num": 379,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -539,17 +557,18 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Top: African Literature",
 			"num": 206,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -570,17 +589,18 @@
 				"ALS-L",
 				"MCG"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 210,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 0230-0400PM"
@@ -597,16 +617,17 @@
 				"MUSIC"
 			],
 			"desc": "Students are introduced to a number of compositional techniques and apply them in creating original works of music and hearing them performed. Participants listen to important 20th- and 21st-century compositions, and discuss current trends in music, the changing role of the composer in society, and practical composition issues. Prerequisite: Music 114, or permission of instructor. Generally offered each semester.",
-			"level": 200,
-			"num": 223,
-			"pf": false,
-			"places": [
-				"CHM 224"
-			],
-			"profs": [
+			"instructors": [
 				"Timothy Mahr"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"CHM 224"
+			],
+			"num": 223,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1230-0200PM"
@@ -628,17 +649,18 @@
 				"EIN",
 				"WRI"
 			],
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 200,
+			"locations": [
+				"HH 319"
+			],
 			"name": "Env Political Theory",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"HH 319"
-			],
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -659,16 +681,17 @@
 				"HWC",
 				"ORC"
 			],
-			"level": 200,
-			"num": 285,
-			"pf": false,
-			"places": [
-				"HH 319"
-			],
-			"profs": [
+			"instructors": [
 				"Anthony Lott"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"HH 319"
+			],
+			"num": 285,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1230-0200PM"
@@ -689,14 +712,15 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
 			"level": 100,
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Ibtesam Al Atiyat"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 0800-0930"
@@ -717,15 +741,16 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Theodore E. Thornhill"
+			],
 			"level": 200,
 			"name": "Race/Class-Am Culture",
 			"notes": "This course has been canceled.",
 			"num": 264,
 			"pf": false,
-			"profs": [
-				"Theodore E. Thornhill"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -746,14 +771,15 @@
 				"FOL-S",
 				"MCD"
 			],
+			"instructors": [
+				"Kristina Medina-Vilarino"
+			],
 			"level": 200,
 			"name": "Intermed Spanish II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Kristina Medina-Vilarino"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -770,14 +796,15 @@
 				"SPAN"
 			],
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: Spanish 112 or placement. Offered each semester and during Interim.",
+			"instructors": [
+				"Kristina Medina-Vilarino"
+			],
 			"level": 200,
 			"name": "Intermed Spanish I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Kristina Medina-Vilarino"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1230-0200PM"
@@ -797,14 +824,15 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Statistics for Science",
 			"num": 212,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -825,16 +853,17 @@
 				"HBS",
 				"MCD"
 			],
-			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
+			"instructors": [
 				"Joshua Anderson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"HH 302"
+			],
+			"num": 111,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -855,14 +884,15 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
 			"level": 200,
 			"name": "Intro Islamic Feminisms",
 			"num": 235,
 			"pf": false,
-			"profs": [
-				"Ibtesam Al Atiyat"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -879,18 +909,19 @@
 				"CHEM"
 			],
 			"desc": "This course, a continuation of Chemistry 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. Chemistry 121 and 123 together are equivalent in content to Chemistry 125 and are designed to prepare students for Chemistry 126. Prerequisite: Chemistry 121. Offered during Interim.",
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Atom/Molec Structure",
 			"notes": "This course is a special offering.",
 			"num": 123,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20124,
 			"times": [
 				"M-F 1000-1130"
@@ -907,20 +938,21 @@
 				"ID"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Matthew Richey",
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 400",
+				"RNS 400"
+			],
 			"name": "Res Opp Science for Sophs",
 			"notes": "Prerequisite: completion of Summer Bridge program or permission of instructor.",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"RNS 400",
-				"RNS 400"
-			],
-			"profs": [
-				"Matthew Richey",
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20124,
 			"times": [
 				"M-F 1100-1200PM",
@@ -937,14 +969,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Carlos Gallego"
+			],
 			"level": 200,
 			"name": "IS/19-20 C Am Lit Styles",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Carlos Gallego"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Study",
 			"type": "Research",
@@ -958,14 +991,15 @@
 				"PSYCH"
 			],
 			"desc": "This opportunity to investigate in depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for Psychology 398. Prerequisite: Psychology 125, at least three courses in the department, and permission of instructor. Psychology 230 is strongly recommended. Offered each semester.",
+			"instructors": [
+				"Nicholas D. Davenport"
+			],
 			"level": 200,
 			"name": "IS/Psychology of PTSD",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Nicholas D. Davenport"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Study",
 			"type": "Research",
@@ -979,14 +1013,15 @@
 				"CSCI"
 			],
 			"desc": "Class members participate in undergraduate research, including readings from the research literature, team development of project software, ethical analysis of their project applying Computer Science 263 principles, and writing a research paper for public presentation. Projects are frequently interdisciplinary in nature, and build on prior undergraduate research experiences among class members. Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including Computer Science 263, or permission of instructor. Offered annually.",
+			"instructors": [
+				"Richard Brown"
+			],
 			"level": 300,
 			"name": "Sem: Senior Capstone",
 			"num": 390,
 			"pf": false,
-			"profs": [
-				"Richard Brown"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20124,
 			"title": "Senior Capstone Seminar",
 			"type": "Seminar",
@@ -1000,14 +1035,15 @@
 				"CSCI"
 			],
 			"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, neural networks, applications of genetic algorithms to scheduling, computational Bayesian image reconstruction, and design of software to assist choreographers.",
+			"instructors": [
+				"Richard Brown"
+			],
 			"level": 300,
 			"name": "IR/HPC in Context",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Richard Brown"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1024,15 +1060,16 @@
 			"gereqs": [
 				"FOL-G"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"notes": "This course is a special offering.",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20124,
 			"title": "Intermediate German II",
 			"type": "Research",
@@ -1045,14 +1082,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 300,
 			"name": "IR/Religion in Film",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1066,15 +1104,16 @@
 				"PSYCH"
 			],
 			"desc": "This opportunity to investigate in depth a topic of interest, typically culminating in a library research-based paper, is strongly recommended as preparation for Psychology 398. Prerequisite: Psychology 125, at least three courses in the department, and permission of instructor. Psychology 230 is strongly recommended. Offered each semester.",
+			"instructors": [
+				"Jeremy Loebach"
+			],
 			"level": 200,
 			"name": "IS/Psycholinguistics",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Jeremy Loebach"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1087,14 +1126,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Charles Wilson"
+			],
 			"level": 200,
 			"name": "IS/Interdialogue & Peace",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Charles Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1112,14 +1152,15 @@
 				"IST"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"David Van Wylen"
+			],
 			"level": 100,
 			"name": "Water:Prec, Precar, &Prob",
 			"num": 128,
 			"pf": false,
-			"profs": [
-				"David Van Wylen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20124,
 			"title": "Water: Precious, Precarious, & Problematic",
 			"type": "Research",

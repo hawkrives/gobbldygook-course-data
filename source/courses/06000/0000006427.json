@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 200,
 	"name": "Cardiac Physiology",
 	"num": 250,
 	"pf": false,
-	"profs": [
-		"David Van Wylen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Cardiac Physiology",
 	"type": "Research",

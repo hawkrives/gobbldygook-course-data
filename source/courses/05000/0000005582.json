@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Marit Westergaard"
+	],
 	"level": 200,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Issues 1st & 2nd Lang",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Marit Westergaard"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 1230-0200PM"

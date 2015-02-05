@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 200,
 	"name": "IS/Applied Statistics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Michael Kahn"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IS/Applied Statistics",
 	"type": "Research",

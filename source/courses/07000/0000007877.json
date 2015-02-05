@@ -5,20 +5,21 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"RML 525",
-		"BC"
-	],
-	"profs": [
+	"instructors": [
 		"Jonathan Hill",
 		"Colin Wells"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"RML 525",
+		"BC"
+	],
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"MW 1045-1140",

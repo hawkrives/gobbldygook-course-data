@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Daniel Douglass"
+	],
 	"level": 200,
-	"notes": "First-Year Students may register only with permission of instructor.",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 435",
 		"RNS 435"
 	],
-	"profs": [
-		"Daniel Douglass"
-	],
-	"sem": 3,
+	"notes": "First-Year Students may register only with permission of instructor.",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

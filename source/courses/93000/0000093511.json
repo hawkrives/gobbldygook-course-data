@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 200,
+	"locations": [
+		"RML 421"
+	],
 	"name": "New York New York",
 	"notes": "Not open to first-year students. This course has class-year limits.",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

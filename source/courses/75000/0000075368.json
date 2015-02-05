@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Pol/Liberation Theol",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0200-0255PM"

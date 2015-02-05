@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Grace E. Cho"
+	],
 	"level": 200,
-	"name": "Developmental Psych",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Grace E. Cho"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Developmental Psych",
+	"num": 241,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Ethics/The Good Life",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

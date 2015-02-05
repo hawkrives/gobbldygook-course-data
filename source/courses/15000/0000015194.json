@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CARLSON CRTS"
+	],
 	"name": "Tennis",
 	"num": 157,
 	"pf": false,
-	"places": [
-		"CARLSON CRTS"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"times": [
 		"MW 0200-0255PM"

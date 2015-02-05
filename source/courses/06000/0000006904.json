@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Steen"
+	],
 	"level": 200,
-	"name": "Creative Nonfiction",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Mary Steen"
-	],
-	"sem": 3,
+	"name": "Creative Nonfiction",
+	"num": 251,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

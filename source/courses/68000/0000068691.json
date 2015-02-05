@@ -12,19 +12,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Dissenters/Defenders",
 	"notes": "Open to Great Conversations students only.",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1150-1245PM"

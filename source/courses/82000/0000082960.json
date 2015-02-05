@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
+	"instructors": [
 		"Rebecca S. Richards"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"RML 420"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 0905-1000"

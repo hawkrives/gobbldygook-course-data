@@ -5,19 +5,20 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Patricia Richardson"
+	],
 	"level": 300,
-	"name": "Social Wrk Methds III",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BC 220",
 		"BC 220",
 		"BC 220"
 	],
-	"profs": [
-		"Patricia Richardson"
-	],
-	"sem": 1,
+	"name": "Social Wrk Methds III",
+	"num": 373,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"times": [
 		"TTh 0935-1100",

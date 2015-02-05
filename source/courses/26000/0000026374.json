@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 200,
+	"locations": [
+		"CT RHT"
+	],
 	"name": "Modern Dance II",
 	"num": 210,
 	"pf": false,
-	"places": [
-		"CT RHT"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MW 0200-0330PM"

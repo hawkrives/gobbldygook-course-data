@@ -7,17 +7,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0800-0930"
@@ -33,17 +34,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"MT 0100-0400PM"
@@ -59,14 +61,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 300,
 			"name": "Senior Project",
 			"num": 389,
 			"pf": false,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Senior Project",
 			"type": "Research",
@@ -79,17 +82,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"L 515"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1000-1130"
@@ -105,17 +109,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Melanie Richards"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Creative Writing I",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Melanie Richards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1230-0200PM"
@@ -131,17 +136,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 300,
+			"locations": [
+				"L 515"
+			],
 			"name": "Topics/Post-Colonial",
 			"num": 347,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1000-1130"
@@ -157,17 +163,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Melanie Richards"
+			],
 			"level": 300,
+			"locations": [
+				"L 520"
+			],
 			"name": "Creative Writing II",
 			"num": 372,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Melanie Richards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1230-0200PM"
@@ -183,14 +190,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -203,14 +211,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -223,14 +232,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -243,17 +253,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "America 1490-1865",
 			"num": 205,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1000-1130"
@@ -269,17 +280,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
+			"locations": [
+				"L 421"
+			],
 			"name": "Age of Renaissance",
 			"num": 213,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1230-0200PM"
@@ -295,17 +307,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1000-1130"
@@ -321,17 +334,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0800-0930"
@@ -347,17 +361,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
+			"locations": [
+				"M 1"
+			],
 			"name": "Gateways/Mathematics",
 			"num": 117,
 			"pf": false,
-			"places": [
-				"M 1"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0800-0930"
@@ -373,14 +388,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Calculus I",
 			"type": "Research",
@@ -393,14 +409,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Counterpoint",
 			"num": 222,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Counterpoint",
 			"type": "Research",
@@ -413,14 +430,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Composition I",
 			"type": "Research",
@@ -433,17 +451,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 239"
+			],
 			"name": "The Art of Music",
 			"num": 230,
 			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0800-0930"
@@ -459,14 +478,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Robert V. Scholz"
+			],
 			"level": 200,
 			"name": "Choral Lit II",
 			"num": 288,
 			"pf": false,
-			"profs": [
-				"Robert V. Scholz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Choral Lit II",
 			"type": "Research",
@@ -479,17 +499,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1230-0200PM"
@@ -505,17 +526,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Vices and Virtues",
 			"num": 258,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-Th 1000-1130"
@@ -531,17 +553,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0700-0800"
@@ -557,17 +580,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0700-0800"
@@ -583,14 +607,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 200,
 			"name": "Modern Phys Lab (244)",
 			"num": 245,
 			"pf": false,
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"title": "Modern Phys Lab (244)",
 			"type": "Lab",
@@ -603,17 +628,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Philip E. Stoltzfus"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "Chr Theol in History",
 			"num": 212,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Philip E. Stoltzfus"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 0800-0930"
@@ -629,17 +655,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Daniel Malotky"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Daniel Malotky"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-F 1000-1130"
@@ -655,17 +682,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Mark Goodale"
+			],
 			"level": 100,
+			"locations": [
+				"H 516"
+			],
 			"name": "Int/Cult Anthropology",
 			"num": 128,
 			"pf": false,
-			"places": [
-				"H 516"
-			],
-			"profs": [
-				"Mark Goodale"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-Th 1000-1130"
@@ -681,17 +709,18 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Michael Gibbons"
+			],
 			"level": 200,
+			"locations": [
+				"H 516"
+			],
 			"name": "Social Deviance",
 			"num": 245,
 			"pf": false,
-			"places": [
-				"H 516"
-			],
-			"profs": [
-				"Michael Gibbons"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20004,
 			"times": [
 				"M-Th 0800-0930"

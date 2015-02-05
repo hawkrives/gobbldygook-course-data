@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 300,
 	"name": "IR/Dimilin in Leaves",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "Independent Research",
 	"type": "Research",

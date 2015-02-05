@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Karen Gervais"
+	],
 	"level": 200,
 	"name": "Philosophy & Feminism",
 	"num": 245,
 	"pf": false,
-	"profs": [
-		"Karen Gervais"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Philosophy & Feminism",
 	"type": "Research",

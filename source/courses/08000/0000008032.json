@@ -5,19 +5,20 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"C. George Holt"
+	],
 	"level": 200,
-	"name": "Human Sexuality",
-	"num": 253,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"HH 501"
 	],
-	"profs": [
-		"C. George Holt"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Human Sexuality",
+	"num": 253,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 1145-0110PM",

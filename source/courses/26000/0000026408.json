@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Melanie Richards"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Adv Creative Nonfict",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Melanie Richards"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"T 0600-0900PM"

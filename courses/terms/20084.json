@@ -12,17 +12,18 @@
 				"MCG",
 				"WRI"
 			],
+			"instructors": [
+				"Barbara Reed"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 316"
+			],
 			"name": "Asian Cultures",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"RNS 316"
-			],
-			"profs": [
-				"Barbara Reed"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -43,19 +44,20 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Maria L. Kelly"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 190",
+				"RNS 190"
+			],
 			"name": "Top:Sci in World & Word",
 			"notes": "This class has been canceled.",
 			"num": 211,
 			"pf": false,
-			"places": [
-				"RNS 190",
-				"RNS 190"
-			],
-			"profs": [
-				"Maria L. Kelly"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"MTThF 1000-1200",
@@ -76,17 +78,18 @@
 			"gereqs": [
 				"BTS-T"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -107,17 +110,18 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 435"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 435"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -134,17 +138,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 350"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 350"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"MW 0100-0400PM"
@@ -161,17 +166,18 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered Fall Semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0800-0930"
@@ -188,19 +194,20 @@
 				"CHEM"
 			],
 			"desc": "This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
-			"level": 200,
-			"name": "Synthesis Lab I",
-			"num": 253,
-			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sect": "A",
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
+			"name": "Synthesis Lab I",
+			"num": 253,
+			"pf": true,
+			"section": "A",
+			"semester": 4,
+			"status": "C",
 			"term": 20084,
 			"times": [
 				"MW 0100-0400PM"
@@ -217,19 +224,20 @@
 				"CHEM"
 			],
 			"desc": "This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
-			"level": 200,
-			"name": "Synthesis Lab I",
-			"num": 253,
-			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
+			"instructors": [
 				"Peter J. Gittins",
 				"Wesley Pearson"
 			],
-			"sect": "B",
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
+			"name": "Synthesis Lab I",
+			"num": 253,
+			"pf": true,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"TTh 0100-0400PM"
@@ -250,16 +258,17 @@
 				"HBS",
 				"HWC"
 			],
-			"level": 200,
-			"num": 283,
-			"pf": false,
-			"places": [
-				"TB 216"
-			],
-			"profs": [
+			"instructors": [
 				"J. Patrick Dale"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"TB 216"
+			],
+			"num": 283,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -279,17 +288,18 @@
 			"gereqs": [
 				"EIN"
 			],
+			"instructors": [
+				"J. Patrick Dale"
+			],
 			"level": 200,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Citizenship War Terror",
 			"num": 284,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"J. Patrick Dale"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0230-0400PM"
@@ -306,13 +316,14 @@
 				"EDUC"
 			],
 			"desc": "The course includes strategies and materials for teaching English to speakers of other languages. Students learn strategies that focus on the development of listening, speaking, reading, and writing skills in English language learners. Students review materials appropriate for non-native English speakers and create their own materials and lesson plans. Fulfills Education 382: Human Relations requirement. Required field experience component. Prerequisites: Education 246 and Education 330. Offered Summer Session only.",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"num": 347,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0730-1000"
@@ -329,13 +340,14 @@
 				"EDUC"
 			],
 			"desc": "This course provides students with theoretical and practical knowledge about assessing the language proficiency of English Language Learners. Students learn how to construct and administer appropriate and non-discriminatory assessment and evaluation tools. Students administer several assessments and write a formal report. Required field experience component. Prerequisites: Education 246 and Education 330. Offered Summer Session only.",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"num": 348,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1230PM"
@@ -356,18 +368,19 @@
 				"ALS-A",
 				"SPM"
 			],
+			"instructors": [
+				"Anthony Roberts"
+			],
 			"level": 100,
+			"locations": [
+				"DC Studio 1"
+			],
 			"name": "Movement/Camera/Process",
 			"notes": "This class has been canceled.",
 			"num": 150,
 			"pf": false,
-			"places": [
-				"DC Studio 1"
-			],
-			"profs": [
-				"Anthony Roberts"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -387,17 +400,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Judith Stromayer"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Judith Stromayer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0400-0530PM"
@@ -417,13 +431,14 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Luke Benoit"
+			],
 			"level": 100,
 			"num": 103,
 			"pf": false,
-			"profs": [
-				"Luke Benoit"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0300-0500PM"
@@ -444,17 +459,18 @@
 				"ALS-L",
 				"ORC"
 			],
+			"instructors": [
+				"Stephen Longfellow"
+			],
 			"level": 100,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Intro to Poetry",
 			"num": 123,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Stephen Longfellow"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -474,17 +490,18 @@
 			"gereqs": [
 				"WRI"
 			],
+			"instructors": [
+				"Stephen Longfellow"
+			],
 			"level": 200,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Creat Wrtg: Fict/Poet",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Stephen Longfellow"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -501,18 +518,19 @@
 				"ENGL"
 			],
 			"desc": "Students learn about and analyze the English language, beginning with the building blocks of language: morphology, syntax, semantics, and phonetics/phonology. Students also explore the ways humans acquire language, social and geographical influences on English, and major changes during the history of the English language. The course serves as an introduction to the linguistics concentration, and fulfills the linguistics requirement of the communication Arts and Literature license. Prerequisite: FYW or equivalent.",
+			"instructors": [
+				"Louis E. Janus"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 316"
+			],
 			"name": "Eng Lang/Linguistics",
 			"notes": "This class has been canceled.",
 			"num": 274,
 			"pf": false,
-			"places": [
-				"RNS 316"
-			],
-			"profs": [
-				"Louis E. Janus"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 0230-0400PM"
@@ -532,17 +550,18 @@
 			"gereqs": [
 				"IST"
 			],
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 136"
+			],
 			"notes": "This class has been canceled.",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"RNS 136"
-			],
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -563,17 +582,18 @@
 				"HBS",
 				"IST"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 316"
+			],
 			"name": "Principles: Psych",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 316"
-			],
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -591,17 +611,18 @@
 			],
 			"desc": "Students journey toward greater understanding of the human body through an integrated study of the structure of the body (anatomy) and how organs such as the brain, heart, and kidney perform their remarkable functions (physiology). The course is designed primarily for students intending careers in the health sciences. Students attend lectures plus one 3-hour laboratory per week. Prerequisite: Biology 125, or Chemistry/Biology 125-127. Offered annually.",
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 290"
+			],
 			"name": "Human Anatomy & Physiol",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"RNS 290"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -618,17 +639,18 @@
 				"BIO"
 			],
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 254"
+			],
 			"name": "Human Anatomy & Physiol L",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"RNS 254"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"TTh 0100-0400PM"
@@ -649,17 +671,18 @@
 				"SED"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 208"
+			],
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"RNS 208"
-			],
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -676,17 +699,18 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"David Nitz"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 292"
+			],
 			"name": "Principles Physics I Lab",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"RNS 292"
-			],
-			"profs": [
-				"David Nitz"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"MW 0100-0400PM"
@@ -707,18 +731,19 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 100,
+			"locations": [
+				"HH 302"
+			],
 			"name": "Intro to Sociology",
 			"notes": "This course has been canceled.",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 0800-0930"
@@ -739,18 +764,19 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 200,
+			"locations": [
+				"HH 302"
+			],
 			"name": "Marriage & the Family",
 			"notes": "This class has been canceled.",
 			"num": 260,
 			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -770,16 +796,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 207,
-			"pf": false,
-			"places": [
-				"DC 115"
-			],
-			"profs": [
+			"instructors": [
 				"Kathryne Fisher"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 115"
+			],
+			"num": 207,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0230-0400PM"
@@ -799,17 +826,18 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
 			"name": "Gateways/Mathematics",
 			"num": 117,
 			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 0800-0930"
@@ -829,18 +857,19 @@
 			"gereqs": [
 				"HWC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 426"
+			],
 			"name": "Making of Modern Mind",
 			"notes": "This class has been canceled.",
 			"num": 118,
 			"pf": false,
-			"places": [
-				"RNS 426"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -860,17 +889,18 @@
 			"gereqs": [
 				"BTS-T"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "God and Faith/Autobio",
 			"num": 233,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -890,17 +920,18 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Kristina Garrett"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
 			"notes": "This class has been canceled.",
 			"num": 120,
 			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
-				"Kristina Garrett"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -917,17 +948,18 @@
 				"MATH"
 			],
 			"desc": "This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered both semesters.",
+			"instructors": [
+				"Kristina Garrett"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 204"
+			],
 			"name": "Multivariable Calc",
 			"num": 226,
 			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
-				"Kristina Garrett"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -944,18 +976,19 @@
 				"FREN"
 			],
 			"desc": "Students expand their ability to communicate in French, understand French texts and interpret French and U.S. cultures through study and discussion of specific social and cultural topics that are relevant (e.g. stereotypes, the family, education, immigration). Explicit focus on cross-cultural comparison/contrast and analysis. Students develop their ability to listen, speak, read and write, while paying particular attention to listening and reading strategies. Prerequisite: French 112 or placement. Offered Fall and Spring Semesters.",
+			"instructors": [
+				"Amine R. Bekhechi"
+			],
 			"level": 200,
+			"locations": [
+				"OM 026"
+			],
 			"name": "Intermed French I",
 			"notes": "This class has been canceled.",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"OM 026"
-			],
-			"profs": [
-				"Amine R. Bekhechi"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 0800-0930"
@@ -976,18 +1009,19 @@
 				"FOL-F",
 				"MCG"
 			],
+			"instructors": [
+				"Amine R. Bekhechi"
+			],
 			"level": 200,
+			"locations": [
+				"OM 026"
+			],
 			"name": "Intermed French II",
 			"notes": "This course has been canceled.",
 			"num": 232,
 			"pf": false,
-			"places": [
-				"OM 026"
-			],
-			"profs": [
-				"Amine R. Bekhechi"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -1009,16 +1043,17 @@
 				"MCG"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 240,
-			"pf": false,
-			"places": [
-				"RNS 290"
-			],
-			"profs": [
+			"instructors": [
 				"Jon Eric Nelson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 290"
+			],
+			"num": 240,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1230-0200PM"
@@ -1040,17 +1075,18 @@
 				"SED"
 			],
 			"groupid": 106,
+			"instructors": [
+				"Sara E. Fruehling"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Cell Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Sara E. Fruehling"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -1067,17 +1103,18 @@
 				"BIO"
 			],
 			"groupid": 106,
+			"instructors": [
+				"Sara E. Fruehling"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 255"
+			],
 			"name": "Cell Bio & Genetics Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 255"
-			],
-			"profs": [
-				"Sara E. Fruehling"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"times": [
 				"TTh 0100-0400PM"
@@ -1097,18 +1134,19 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Douglas D. Baumann"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 426"
+			],
 			"name": "Prin of Statistics",
 			"notes": "This course has been canceled.",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"RNS 426"
-			],
-			"profs": [
-				"Douglas D. Baumann"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 1000-1130"
@@ -1128,18 +1166,19 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Craig D. Stern"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"notes": "This class has been canceled.",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Craig D. Stern"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20084,
 			"times": [
 				"M-F 0230-0400PM"
@@ -1156,14 +1195,15 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application.",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"title": "Internship",
 			"type": "Research",
@@ -1177,14 +1217,15 @@
 				"BIO"
 			],
 			"desc": "Independent Research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, a student conceives and performs a research project leading to the writng of a major research paper and a poster presentation. Independent research requires permission of a supervisor, a secondary faculty reader of the paper, and completion of an independent research form available at the Registrar's Office or its website.",
+			"instructors": [
+				"Steven Freedberg"
+			],
 			"level": 300,
 			"name": "IR/Molecular Ecology",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Steven Freedberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"title": "Independent Research",
 			"type": "Research",
@@ -1197,14 +1238,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Barbara Reed"
+			],
 			"level": 200,
 			"name": "IS/Buddhism and Death",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Barbara Reed"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1217,14 +1259,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Douglas J. Beussman"
+			],
 			"level": 300,
 			"name": "IR/CE Forensic Method Dev",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Douglas J. Beussman"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20084,
 			"title": "Independent Research",
 			"type": "Research",

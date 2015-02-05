@@ -6,14 +6,15 @@
 		"ECON"
 	],
 	"desc": "Academic Internship.",
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305",
+		"DC 305"
+	],
 	"name": "World Architecture",
 	"notes": "This course has been canceled.",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"DC 305",
-		"DC 305"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "X",
 	"term": 20091,
 	"times": [
 		"T 1145-0110PM",

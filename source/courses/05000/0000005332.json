@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 300,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Sem: American Politics",
 	"num": 311,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0200-0255PM"

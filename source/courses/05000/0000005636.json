@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
 	"name": "IS/The Hexateuch",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Gary Stansell"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"title": "IS/The Hexateuch",
 	"type": "Research",

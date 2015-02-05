@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 100,
-	"name": "Intro to Acting",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 290",
 		"RNS 290"
 	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 3,
+	"name": "Intro to Acting",
+	"num": 130,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

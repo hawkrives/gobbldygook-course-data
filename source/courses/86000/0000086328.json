@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+	"instructors": [
+		"Kristina Garrett"
+	],
 	"level": 300,
-	"name": "Sem: Part. Theory",
-	"num": 382,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Kristina Garrett"
-	],
-	"sem": 3,
+	"name": "Sem: Part. Theory",
+	"num": 382,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

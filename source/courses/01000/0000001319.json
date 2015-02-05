@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Aaron Michaelson"
+	],
 	"level": 100,
+	"locations": [
+		"L 577"
+	],
 	"name": "Global,1500-Present",
 	"num": 196,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Aaron Michaelson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

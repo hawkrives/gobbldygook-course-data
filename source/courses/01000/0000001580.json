@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Otteson"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Principles: Psych",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"James Otteson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

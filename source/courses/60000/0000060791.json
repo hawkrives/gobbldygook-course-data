@@ -6,19 +6,20 @@
 		"BIO"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Paul A. Rupp"
+	],
 	"level": 100,
-	"name": "Cell Bio & Genetics Lab",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 211",
 		"SC 211"
 	],
-	"profs": [
-		"Paul A. Rupp"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Cell Bio & Genetics Lab",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"times": [
 		"M-F 0800-1000",

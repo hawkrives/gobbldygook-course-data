@@ -5,17 +5,18 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Top: Performance Stu",
 	"num": 203,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

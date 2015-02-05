@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
-	"name": "Computer Applications",
-	"num": 230,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 301",
 		"H 205"
 	],
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 2,
+	"name": "Computer Applications",
+	"num": 230,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"MWF 1040-1140",

@@ -10,18 +10,19 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Diane C. LeBlanc"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Intro Womens Studies",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Diane C. LeBlanc"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 1150-1245PM"

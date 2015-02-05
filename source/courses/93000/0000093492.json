@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
+	"instructors": [
 		"Thomas St. George"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 204"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 300,
 	"name": "IR/Septuagint Study",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James May"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Septuagint Study",
 	"type": "Research",

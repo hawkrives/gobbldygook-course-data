@@ -6,16 +6,17 @@
 		"NURS"
 	],
 	"groupid": 946,
-	"level": 300,
-	"num": 306,
-	"pf": false,
-	"places": [
-		"HH 215"
-	],
-	"profs": [
+	"instructors": [
 		"Diana Neal"
 	],
-	"sem": 1,
+	"level": 300,
+	"locations": [
+		"HH 215"
+	],
+	"num": 306,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"TTh 0700-0300PM"

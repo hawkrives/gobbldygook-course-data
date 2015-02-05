@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Adv Archit Drawing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "IS/Adv Archit Drawing",
 	"type": "Research",

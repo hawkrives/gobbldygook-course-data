@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students work intensively in a special topic of an applied character. Topics vary from year to year. May be repeated if topics are different. Offered in 2007-08 and alternate years.",
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
-	"name": "Topics in Math: Applied",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 186"
 	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 3,
+	"name": "Topics in Math: Applied",
+	"num": 384,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM",

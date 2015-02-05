@@ -10,18 +10,19 @@
 		"SED"
 	],
 	"groupid": 124,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 200,
-	"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL.",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 310",
 		"RNS 310"
 	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL.",
+	"num": 242,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

@@ -11,20 +11,21 @@
 		"IST",
 		"SED"
 	],
+	"instructors": [
+		"Brian Borovsky",
+		"Douglas Schuurman"
+	],
 	"level": 200,
+	"locations": [
+		"OM 004",
+		"RNS 400"
+	],
 	"name": "Well-Ordered Universe",
 	"notes": "Open to Science Conversation students only.",
 	"num": 215,
 	"pf": false,
-	"places": [
-		"OM 004",
-		"RNS 400"
-	],
-	"profs": [
-		"Brian Borovsky",
-		"Douglas Schuurman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1210PM",

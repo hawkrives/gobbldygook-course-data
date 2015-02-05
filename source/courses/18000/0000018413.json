@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 100,
+	"locations": [
+		"SAC N GYM"
+	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"SAC N GYM"
-	],
-	"profs": [
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 1045-1140"

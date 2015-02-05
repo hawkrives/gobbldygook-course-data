@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "The Victorian Era",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 0935-1100"

@@ -6,16 +6,17 @@
 		"ART"
 	],
 	"desc": "This course introduces modern culture and thought through a chronological study of painting, sculpture, architecture, and related arts. Students learn about the strikingly new modes of art created in Europe and the United States after 1880, examining work by Edvard Munch, Frank Lloyd Wright, Pablo Picasso, the Dadaists, Abstract Expressionists, and many others.",
-	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
+	"instructors": [
 		"Matthew Rohn"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"DC 305"
+	],
+	"num": 252,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"MWF 1045-1140"

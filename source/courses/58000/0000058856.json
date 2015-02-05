@@ -6,18 +6,19 @@
 		"HIST"
 	],
 	"desc": "This seminar covers varying topics in African, Asian, Latin American, or Middle Eastern history, depending upon the instructor. Offered periodically. May be repeated if topics are different.",
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
-	"name": "Sem: China & its World",
-	"num": 340,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 1,
+	"name": "Sem: China & its World",
+	"num": 340,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"T 0120-0245PM",

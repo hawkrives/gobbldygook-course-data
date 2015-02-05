@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 100,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Chem-Life's Beginning",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"times": [
 		"M-F 0800-1000"

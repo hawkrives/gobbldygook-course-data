@@ -5,18 +5,19 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Emily A. Swanson"
+	],
 	"level": 200,
-	"name": "Saving Wild Places",
-	"num": 259,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Emily A. Swanson"
-	],
-	"sem": 3,
+	"name": "Saving Wild Places",
+	"num": 259,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

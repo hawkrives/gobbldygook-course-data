@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Lavern Rippley",
+		"Steve Soderlind"
+	],
 	"level": 200,
 	"name": "The Mare Balticum",
 	"num": 249,
 	"pf": false,
-	"profs": [
-		"Lavern Rippley",
-		"Steve Soderlind"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"title": "The Mare Balticum",
 	"type": "Research",

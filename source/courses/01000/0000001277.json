@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 100,
+	"locations": [
+		"L 577"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

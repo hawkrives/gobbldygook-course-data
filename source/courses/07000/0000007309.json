@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 200,
-	"name": "Developmental Psych",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Developmental Psych",
+	"num": 241,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

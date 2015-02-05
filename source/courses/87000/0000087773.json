@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Kevin R. Sanft"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Comp Sci for Science/Math",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 203"
-	],
-	"profs": [
-		"Kevin R. Sanft"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

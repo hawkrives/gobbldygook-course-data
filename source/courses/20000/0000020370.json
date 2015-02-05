@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Greek Philosophy",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

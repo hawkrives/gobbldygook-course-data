@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Carol H. Austin"
+	],
 	"level": 200,
 	"name": "IS/OB Nursing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Carol H. Austin"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Study",
 	"type": "Research",

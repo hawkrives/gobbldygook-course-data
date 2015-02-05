@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-K"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 300,
-	"name": "Homer & Greek Epic",
-	"num": 375,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 200",
 		"TOH 200"
 	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 3,
+	"name": "Homer & Greek Epic",
+	"num": 375,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

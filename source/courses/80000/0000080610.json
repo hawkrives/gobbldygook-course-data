@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"num": 104,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"Guido Alvarez"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC 100"
+	],
+	"num": 104,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1245PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Margaret A. Rowland"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Ear/Keyboard II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Margaret A. Rowland"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

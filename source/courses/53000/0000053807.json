@@ -5,15 +5,16 @@
 	"depts": [
 		"RUSST"
 	],
+	"instructors": [
+		"Peter-John Thomas"
+	],
 	"level": 300,
 	"name": "IR/Bulgakov's Satire",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Peter-John Thomas"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "IR/Bulgakov's Satire",
 	"type": "Research",

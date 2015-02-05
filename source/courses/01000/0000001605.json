@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Pia Strunk"
+	],
 	"level": 300,
+	"locations": [
+		"H 301/320"
+	],
 	"name": "Sem: Dev/Behavior/Chld",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 301/320"
-	],
-	"profs": [
-		"Pia Strunk"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

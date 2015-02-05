@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"David Wee"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 421",
 		"L 421"
 	],
-	"profs": [
-		"David Wee"
-	],
-	"sect": "J",
-	"sem": 1,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "J",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 0935-1100",

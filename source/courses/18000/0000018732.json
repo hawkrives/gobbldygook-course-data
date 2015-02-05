@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Lavinia Moyer"
+	],
 	"level": 200,
 	"name": "IS/Advanced Acting",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Lavinia Moyer"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Advanced Acting",
 	"type": "Research",

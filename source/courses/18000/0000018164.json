@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Frieda Knobloch"
+	],
 	"level": 300,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Sem: Environ Studies",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Frieda Knobloch"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1100"

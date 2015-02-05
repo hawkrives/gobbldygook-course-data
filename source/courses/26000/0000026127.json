@@ -5,18 +5,19 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
-	"name": "Soc Welfare/Glob Comm",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 31",
 		"M 31"
 	],
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sem": 2,
+	"name": "Soc Welfare/Glob Comm",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 0830-1000",

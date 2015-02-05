@@ -6,19 +6,20 @@
 		"EDUC"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
-	"name": "The Exceptional Child",
-	"num": 375,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10",
 		"FH 10"
 	],
-	"profs": [
-		"Mark Schelske"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "The Exceptional Child",
+	"num": 375,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

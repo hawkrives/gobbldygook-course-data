@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anantanand Rambachan"
+	],
 	"level": 200,
-	"name": "Asian Philosophy",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Anantanand Rambachan"
-	],
-	"sem": 3,
+	"name": "Asian Philosophy",
+	"num": 251,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

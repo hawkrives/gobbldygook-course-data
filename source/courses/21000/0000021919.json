@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
 	"name": "IS/Japanese Ceramics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "IS/Japanese Ceramics",
 	"type": "Research",

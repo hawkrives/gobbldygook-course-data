@@ -6,17 +6,18 @@
 		"THEAT"
 	],
 	"desc": "This course focuses on training the speaking voice, with an emphasis on clarity and flexibility of voice usage. Students learn how to use the phonetic alphabet to improve their speech.",
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
+	"locations": [
+		"TB 227"
+	],
 	"name": "Voice & Phonetics",
 	"num": 200,
 	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1150-1245PM"

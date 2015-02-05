@@ -5,19 +5,20 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 300,
-	"name": "Tchg of Mathematics",
-	"num": 350,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184",
 		"TBA"
 	],
-	"profs": [
-		"Martha Wallace"
-	],
-	"sem": 3,
+	"name": "Tchg of Mathematics",
+	"num": 350,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

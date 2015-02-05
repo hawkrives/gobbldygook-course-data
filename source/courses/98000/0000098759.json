@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Marc David"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"name": "Race/Class-Am Culture",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Marc David"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0200-0255PM"

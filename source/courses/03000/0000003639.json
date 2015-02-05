@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Richard Thomas"
+	],
 	"level": 100,
-	"name": "Principles Physics I",
-	"num": 124,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 170",
 		"SC 111"
 	],
-	"profs": [
-		"Richard Thomas"
-	],
-	"sem": 4,
+	"name": "Principles Physics I",
+	"num": 124,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"M-F 1000-1130",

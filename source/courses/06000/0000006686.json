@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 116"
+	],
 	"name": "Watercolor Painting",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"DC 116"
-	],
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0255PM"

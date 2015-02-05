@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"William A. Gorton"
+	],
 	"level": 300,
-	"name": "Sem: Amer Pol Thought",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 035",
 		"OM 035"
 	],
-	"profs": [
-		"William A. Gorton"
-	],
-	"sem": 3,
+	"name": "Sem: Amer Pol Thought",
+	"num": 384,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

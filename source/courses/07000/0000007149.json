@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alison Feldt"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Vocal Solo Lit II",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Alison Feldt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MF 1150-1245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Judith Stromayer"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "X-Country Ski/Cycling",
 	"num": 134,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Judith Stromayer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MW 0200-0255PM"

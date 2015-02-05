@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"groupid": 171,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
 	"name": "Animal Behavior Lab",
 	"num": 386,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"title": "Animal Behavior Lab",
 	"type": "Lab",

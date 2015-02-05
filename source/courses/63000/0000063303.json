@@ -10,20 +10,21 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Clark Ohnesorge"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150",
+		"RNS 150"
+	],
 	"name": "Principles: Psych",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 150",
-		"RNS 150"
-	],
-	"profs": [
-		"Clark Ohnesorge"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

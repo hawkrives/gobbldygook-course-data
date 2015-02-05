@@ -6,18 +6,19 @@
 		"RUSSN"
 	],
 	"groupid": 1259,
+	"instructors": [
+		"Erik McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 114"
+	],
 	"name": "Beginning Russian I Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"TOH 114"
-	],
-	"profs": [
-		"Erik McDonald"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0200-0255PM"

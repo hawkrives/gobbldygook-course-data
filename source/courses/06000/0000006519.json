@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Deborah Alexander"
+	],
 	"level": 200,
-	"name": "Top: Film and History",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 282",
 		"HH 317"
 	],
-	"profs": [
-		"Deborah Alexander"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Top: Film and History",
+	"num": 250,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM",

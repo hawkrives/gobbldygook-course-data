@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Heather M. Brooks-Shirey"
+	],
 	"level": 200,
-	"name": "African Art History",
-	"num": 269,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 305",
 		"DC 305"
 	],
-	"profs": [
-		"Heather M. Brooks-Shirey"
-	],
-	"sem": 3,
+	"name": "African Art History",
+	"num": 269,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

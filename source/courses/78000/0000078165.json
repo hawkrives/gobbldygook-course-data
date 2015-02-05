@@ -11,20 +11,21 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist",
+		"Mary Titus"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Remaking Am: 1865-1945",
 	"notes": "Open to American Conversations students only.",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"L. DeAne Lagerquist",
-		"Mary Titus"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 1255-0150PM"

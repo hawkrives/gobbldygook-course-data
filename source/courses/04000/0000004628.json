@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Robert Flaten"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Amer Foreign Policy",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Robert Flaten"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

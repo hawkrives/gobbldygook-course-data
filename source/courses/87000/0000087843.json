@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 200,
+	"locations": [
+		"DC Studio 2"
+	],
 	"name": "Modern Dance II:Technique",
 	"notes": "New course",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"DC Studio 2"
-	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0200-0330PM"

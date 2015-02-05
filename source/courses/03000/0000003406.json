@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Evelyn Davidheiser"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Russian Pol Econ",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Evelyn Davidheiser"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"M 0700-1000PM"

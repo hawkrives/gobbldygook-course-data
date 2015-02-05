@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 136",
+		"RNS 136"
+	],
 	"name": "Sem: Preceptors",
 	"notes": "Permission of instructor required. Not open during web registration.",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"RNS 136",
-		"RNS 136"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-0855",

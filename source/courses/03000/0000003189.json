@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"SAC_POOL"
+	],
 	"name": "Swim Fitness",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"SAC_POOL"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MW 0800-0855"

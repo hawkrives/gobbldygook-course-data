@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 100,
-	"name": "Capitalism: Struggles",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"MFH 230",
 		"MFH 230"
 	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sem": 2,
+	"name": "Capitalism: Struggles",
+	"num": 111,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"MWF 1045-1215PM",

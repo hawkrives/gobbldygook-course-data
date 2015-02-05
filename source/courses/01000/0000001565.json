@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Central European Pol",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

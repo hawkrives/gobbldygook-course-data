@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Janice Pellino"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Struct Chem & Equilib",
 	"notes": "Students registering for Chem 125 must also register for a Chem 125 lab. This course has class year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Janice Pellino"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0800-0855"

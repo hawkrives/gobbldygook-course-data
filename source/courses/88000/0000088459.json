@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"John Kim"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Developmental Psych",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"John Kim"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"MWF 1150-1245PM"

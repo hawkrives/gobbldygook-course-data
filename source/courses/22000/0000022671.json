@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 300,
 	"name": "IR/Concepts of Self",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Poling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Concepts of Self",
 	"type": "Research",

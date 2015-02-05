@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 200,
-	"name": "Principles of Math",
-	"num": 210,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Martha Wallace"
-	],
-	"sem": 2,
+	"name": "Principles of Math",
+	"num": 210,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0800-1000",

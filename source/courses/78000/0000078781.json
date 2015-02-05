@@ -9,17 +9,18 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 100,
-	"num": 119,
-	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
+	"instructors": [
 		"Anthony Lott",
 		"Douglas J. Casson"
 	],
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"HH 501"
+	],
+	"num": 119,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0100-0300PM"

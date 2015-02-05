@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20085,
 	"title": "Academic Internship",
 	"type": "Research",

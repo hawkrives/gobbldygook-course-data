@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 200,
-	"name": "Greek & Roman Myth-Tr",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 312",
 		"TOH 312"
 	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 3,
+	"name": "Greek & Roman Myth-Tr",
+	"num": 241,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 1145-0110PM",

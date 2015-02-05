@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Thinking Abt Thinking",
 	"num": 180,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19945,
 	"title": "Thinking Abt Thinking",
 	"type": "Research",

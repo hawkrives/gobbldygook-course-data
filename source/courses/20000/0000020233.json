@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Larry Zimmerman"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Senior Seminar Educ",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Larry Zimmerman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0800-0855"

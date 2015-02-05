@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Robert Weinstock-Collins"
+	],
 	"level": 300,
+	"locations": [
+		"SC 110"
+	],
 	"name": "The Spirit of Science",
 	"num": 300,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"Robert Weinstock-Collins"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 300,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Buddhism,Peace,Justic",
 	"num": 351,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

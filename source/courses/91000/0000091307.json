@@ -6,15 +6,16 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 300,
 	"name": "IR/Smokefree St Olaf",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

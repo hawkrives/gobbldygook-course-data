@@ -10,17 +10,18 @@
 		"MCG",
 		"WRI"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 200,
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 210",
 		"RNS 210"
 	],
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"num": 243,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0120-0245PM",

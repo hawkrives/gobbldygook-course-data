@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "The Art of Music",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 100,
+	"locations": [
+		"OM 340"
+	],
 	"name": "Bible/Culture/Commun",
 	"notes": "Open to Environmental Conversations students only.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 340"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 1045-1140"

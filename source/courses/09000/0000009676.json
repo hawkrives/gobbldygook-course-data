@@ -5,19 +5,20 @@
 	"depts": [
 		"NEURO"
 	],
-	"level": 200,
-	"name": "Intro to Neuroscience",
-	"num": 234,
-	"pf": false,
-	"places": [
-		"RML 515",
-		"SC 253"
-	],
-	"profs": [
+	"instructors": [
 		"Alan F. Ernst",
 		"Anne Walter"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RML 515",
+		"SC 253"
+	],
+	"name": "Intro to Neuroscience",
+	"num": 234,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000",

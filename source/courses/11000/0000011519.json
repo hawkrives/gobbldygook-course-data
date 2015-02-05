@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
-	"name": "Top: Psych/Good & Evil",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sem": 2,
+	"name": "Top: Psych/Good & Evil",
+	"num": 391,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"times": [
 		"M-F 0900-1000",

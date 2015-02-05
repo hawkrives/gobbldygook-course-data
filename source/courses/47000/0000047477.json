@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"title": "Academic Internship",
 	"type": "Research",

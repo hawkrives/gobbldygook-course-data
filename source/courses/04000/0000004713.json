@@ -5,17 +5,18 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Consumer Culture",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

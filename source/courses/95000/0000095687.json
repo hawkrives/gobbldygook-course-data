@@ -7,18 +7,19 @@
 	],
 	"groupid": 26649,
 	"grouptype": "1",
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Biodiversity Found Lab",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"M 0100-0400PM"

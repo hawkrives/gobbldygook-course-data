@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Melanie Richards"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "50's Beat Generation",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Melanie Richards"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

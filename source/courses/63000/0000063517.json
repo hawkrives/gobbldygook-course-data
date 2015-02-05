@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Jerry Olszewski"
+	],
 	"level": 100,
+	"locations": [
+		"MFH Wt Rm"
+	],
 	"name": "Wt Training-Men",
 	"num": 141,
 	"pf": false,
-	"places": [
-		"MFH Wt Rm"
-	],
-	"profs": [
-		"Jerry Olszewski"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"TTh 0935-1030"

@@ -9,16 +9,17 @@
 	"gereqs": [
 		"MCG"
 	],
-	"level": 200,
-	"num": 250,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Entenmann"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"num": 250,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

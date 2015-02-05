@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 300,
-	"name": "Seminar in Literature",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sem": 3,
+	"name": "Seminar in Literature",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

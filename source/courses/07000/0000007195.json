@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 300,
-	"name": "Sem: Ethics/Thy/Value",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sem": 3,
+	"name": "Sem: Ethics/Thy/Value",
+	"num": 373,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

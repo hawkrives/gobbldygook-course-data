@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Neil Palosaari"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Neil Palosaari"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 0300-0600PM"

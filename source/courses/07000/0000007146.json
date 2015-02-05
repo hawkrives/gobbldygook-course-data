@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kenneth G. Graber"
+	],
 	"level": 200,
-	"name": "Kybd Proficiency Skil",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 222",
 		"CHM 222"
 	],
-	"profs": [
-		"Kenneth G. Graber"
-	],
-	"sem": 3,
+	"name": "Kybd Proficiency Skil",
+	"num": 261,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

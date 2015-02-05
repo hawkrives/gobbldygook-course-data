@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "I",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "I",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

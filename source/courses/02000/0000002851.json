@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Topics in Art History",
 	"num": 275,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

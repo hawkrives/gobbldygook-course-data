@@ -6,19 +6,20 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Christopher Galdieri"
+	],
 	"level": 200,
-	"name": "Top: Pres/Obama Era",
-	"num": 299,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"Christopher Galdieri"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Top: Pres/Obama Era",
+	"num": 299,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

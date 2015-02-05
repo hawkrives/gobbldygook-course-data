@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 100,
+	"locations": [
+		"RML 420"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversations students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

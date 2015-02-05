@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
-	"name": "Dancing With Computer",
-	"num": 150,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC _STUDIO_1",
 		"DC 100"
 	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sem": 2,
+	"name": "Dancing With Computer",
+	"num": 150,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"MTThF 1040-1200PM",

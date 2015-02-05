@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Kris A. Cropsey"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 108"
-	],
-	"profs": [
-		"Kris A. Cropsey"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

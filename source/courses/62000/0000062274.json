@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Kimberly A. Kandl",
+		"Patrick Quint"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Cell Bio & Genetics",
 	"notes": "Students in Bio 125 must also register for one lab Bio 125 AL or BL. This course has class-year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Kimberly A. Kandl",
-		"Patrick Quint"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"times": [
 		"M-F 0100-0300PM"

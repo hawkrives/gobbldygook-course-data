@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 300,
+	"locations": [
+		"SC 151"
+	],
 	"name": "Adv Physics Lab (376)",
 	"num": 386,
 	"pf": false,
-	"places": [
-		"SC 151"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"Th 0120-0420PM"

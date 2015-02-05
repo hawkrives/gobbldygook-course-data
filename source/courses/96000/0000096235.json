@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 100,
+	"locations": [
+		"OM 210"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversations students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"OM 210"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

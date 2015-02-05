@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Pamela Bacon"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Principles: Psych",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Pamela Bacon"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

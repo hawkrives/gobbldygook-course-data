@@ -9,19 +9,20 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Water:Prec, Precar, &Prob",
 	"notes": "This course has class-year limits.",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"RNS 190",
-		"RNS 190"
-	],
-	"profs": [
-		"David Van Wylen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"times": [
 		"M-F 0900-1000",

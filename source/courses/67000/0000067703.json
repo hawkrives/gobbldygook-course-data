@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 1072,
+	"instructors": [
+		"Angela Reisetter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Principles Physics I",
 	"notes": "Students in Physics 124B must also register for one lab Physics 124AL, BL, CL, DL, EL, or FL.",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Angela Reisetter"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 0905-1000"

@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 300,
-	"name": "Ibsen-Tr",
-	"num": 382,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 015",
 		"OM 015"
 	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 3,
+	"name": "Ibsen-Tr",
+	"num": 382,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

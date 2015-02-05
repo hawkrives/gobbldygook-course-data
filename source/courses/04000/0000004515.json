@@ -5,14 +5,15 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 300,
 	"name": "IR/Warranty Study",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Warranty Study",
 	"type": "Research",

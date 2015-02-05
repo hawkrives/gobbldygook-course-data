@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 128,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
+	"locations": [
+		"SC 269"
+	],
 	"name": "Animal Physiology Lab",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"SC 269"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0120-0420PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Computer Organization",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0200-0255PM"

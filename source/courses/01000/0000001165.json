@@ -6,14 +6,15 @@
 		"EDUC"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Olivia Frey"
+	],
 	"level": 300,
 	"name": "Teaching of Reading",
 	"num": 346,
 	"pf": false,
-	"profs": [
-		"Olivia Frey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"T 0700-0900PM"

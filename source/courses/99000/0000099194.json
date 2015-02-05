@@ -10,18 +10,19 @@
 		"FOL-J"
 	],
 	"groupid": 664,
+	"instructors": [
+		"Hiroe Akimoto"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Intermed Japanese II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
-		"Hiroe Akimoto"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0200-0255PM"

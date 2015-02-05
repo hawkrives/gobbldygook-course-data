@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Christopher Pappas"
+	],
 	"level": 100,
+	"locations": [
+		"RML 520"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
-		"Christopher Pappas"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"times": [
 		"M-F 1230-0200PM"

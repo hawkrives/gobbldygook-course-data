@@ -7,19 +7,20 @@
 		"BIO"
 	],
 	"groupid": 18803,
-	"level": 100,
-	"name": "Integrate Chem/Bio II Lab",
-	"num": 126,
-	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
+	"instructors": [
 		"Janice Pellino",
 		"Robert Hanson"
 	],
-	"sect": "A",
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
+	"name": "Integrate Chem/Bio II Lab",
+	"num": 126,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-Th 1230-0300PM"

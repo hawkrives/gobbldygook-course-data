@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

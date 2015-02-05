@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Jan Shoger"
+	],
 	"level": 200,
 	"name": "IS/Biological Illustr",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jan Shoger"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"title": "IS/Biological Illustr",
 	"type": "Research",

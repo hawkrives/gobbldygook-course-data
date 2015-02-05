@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 157,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"David A. Stromme"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 157,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MW 1045-1140"

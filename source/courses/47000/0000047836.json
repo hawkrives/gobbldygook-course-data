@@ -6,19 +6,20 @@
 		"ENGL"
 	],
 	"groupid": 399,
-	"level": 200,
-	"name": "Lit in Engl 1650-1850 Dis",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
+	"instructors": [
 		"Richard DuRocher",
 		"Mary Titus"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"RML 515"
+	],
+	"name": "Lit in Engl 1650-1850 Dis",
+	"num": 222,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"F 1045-1140"

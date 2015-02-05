@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 100,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 1045-1140"

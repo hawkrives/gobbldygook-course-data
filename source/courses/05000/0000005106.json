@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Jon Bruss"
+	],
 	"level": 200,
+	"locations": [
+		"OM 003"
+	],
 	"name": "Vergil & Latin Epic",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
-		"Jon Bruss"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

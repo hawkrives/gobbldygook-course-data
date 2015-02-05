@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Shelly D. Dickinson"
+	],
 	"level": 300,
 	"name": "IR/Dev Neuropharmacol",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Shelly D. Dickinson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IR/Dev Neuropharmacol",
 	"type": "Research",

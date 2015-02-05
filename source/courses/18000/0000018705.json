@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Naurine Lennox"
+	],
 	"level": 300,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Social Worker as Prof",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Naurine Lennox"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0100PM"

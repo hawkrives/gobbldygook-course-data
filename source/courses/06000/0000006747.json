@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
 	"name": "IS/Wren Research",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Wren Research",
 	"type": "Research",

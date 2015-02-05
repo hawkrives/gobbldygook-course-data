@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Sarah M. Ferguson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Social Policy",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Sarah M. Ferguson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

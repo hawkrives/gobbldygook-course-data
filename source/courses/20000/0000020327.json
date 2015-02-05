@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Herve Pensec"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning French I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Herve Pensec"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

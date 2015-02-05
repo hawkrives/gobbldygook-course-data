@@ -7,18 +7,19 @@
 	],
 	"groupid": 106,
 	"grouptype": "2",
+	"instructors": [
+		"Pele E. Rich"
+	],
 	"level": 100,
+	"locations": [
+		"SC 273"
+	],
 	"name": "Cell Bio & Genetics Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 273"
-	],
-	"profs": [
-		"Pele E. Rich"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0300-0530PM"

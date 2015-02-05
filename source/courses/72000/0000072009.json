@@ -10,19 +10,20 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Nanaho Hanada"
+	],
 	"level": 100,
-	"name": "Intro Womens Studies",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Nanaho Hanada"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intro Womens Studies",
+	"num": 121,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

@@ -6,17 +6,18 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Priscilla M. Paton"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 421"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 0905-1000"

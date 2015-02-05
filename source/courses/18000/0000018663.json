@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"James Tallon"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Soc Prob/Soc Change",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"James Tallon"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0110PM"

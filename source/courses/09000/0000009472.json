@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Beginning German II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

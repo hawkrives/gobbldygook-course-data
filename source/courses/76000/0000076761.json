@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Erik M. Epp"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Chemical Reactions Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Erik M. Epp"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"F 0200-0500PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 100,
+	"locations": [
+		"H 516"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 100,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Nutrition & Wellness",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

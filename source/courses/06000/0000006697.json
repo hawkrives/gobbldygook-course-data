@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kristen Lowe"
+	],
 	"level": 200,
 	"name": "IS/Advanced Drawing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kristen Lowe"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Advanced Drawing",
 	"type": "Research",

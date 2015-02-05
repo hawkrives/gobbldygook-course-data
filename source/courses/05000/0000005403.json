@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Anantanand Rambachan"
+	],
 	"level": 200,
-	"name": "Rel Pluralsm/Communit",
-	"num": 295,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Anantanand Rambachan"
-	],
-	"sem": 3,
+	"name": "Rel Pluralsm/Communit",
+	"num": 295,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

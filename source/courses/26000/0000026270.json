@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 200,
+	"locations": [
+		"SC 378/311"
+	],
 	"name": "Synthesis Lab",
 	"num": 254,
 	"pf": true,
-	"places": [
-		"SC 378/311"
-	],
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"M 0200-0500PM"

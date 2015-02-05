@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 100,
+	"locations": [
+		"L 525"
+	],
 	"name": "Literary Studies",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM"

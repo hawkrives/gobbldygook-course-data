@@ -5,13 +5,14 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"title": "Academic Internship",
 	"type": "Research",

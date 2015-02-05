@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "F",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "F",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1040-1240PM",

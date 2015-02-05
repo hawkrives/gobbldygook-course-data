@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
-	"name": "Personal Finance",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 301",
 		"L 177",
 		"H 301"
 	],
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sem": 2,
+	"name": "Personal Finance",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"MWF 0900-1000",

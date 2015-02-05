@@ -5,18 +5,19 @@
 	"depts": [
 		"AMCON"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 200,
+	"locations": [
+		"L 515"
+	],
 	"name": "Pur/Happiness: 1920-00",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

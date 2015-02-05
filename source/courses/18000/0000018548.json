@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"J Wesley Brown"
+	],
 	"level": 300,
+	"locations": [
+		"M 20"
+	],
 	"name": "Psych of Religion",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"J Wesley Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0120-0245PM"

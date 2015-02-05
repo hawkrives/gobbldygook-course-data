@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Liska Rutherford"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Marketing",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Liska Rutherford"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"M 0700-1000PM"

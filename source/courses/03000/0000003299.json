@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Formal Logic & Phil",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

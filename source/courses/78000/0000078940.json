@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Joshua Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 307"
+	],
 	"notes": "This course has class year limits.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Joshua Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1255-0150PM"

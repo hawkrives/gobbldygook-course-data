@@ -6,19 +6,20 @@
 		"MATH"
 	],
 	"desc": "This course introduces differential equations and analytical, numerical, and graphical techniques for their analysis. First and second order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology, and physics. Students use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered both semesters.",
+	"instructors": [
+		"Urmila S. Malvadkar"
+	],
 	"level": 200,
-	"name": "Intro Differ Equations",
-	"num": 230,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Urmila S. Malvadkar"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intro Differ Equations",
+	"num": 230,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

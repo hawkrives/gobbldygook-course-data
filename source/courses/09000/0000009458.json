@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

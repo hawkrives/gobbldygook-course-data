@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 100,
+	"locations": [
+		"H 201B"
+	],
 	"name": "Prin: Exper Psy/Lab",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"H 201B"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"T 1145-0245PM"

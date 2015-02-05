@@ -14,20 +14,21 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"William H. Bridges IV",
+		"Ka F. Wong"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210",
+		"TOH 210"
+	],
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"TOH 210",
-		"TOH 210"
-	],
-	"profs": [
-		"William H. Bridges IV",
-		"Ka F. Wong"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

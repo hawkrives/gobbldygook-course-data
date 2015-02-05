@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: At least three previous courses in department.",
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 200,
 	"name": "IS/Applied Design",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Study",
 	"type": "Research",

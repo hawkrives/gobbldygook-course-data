@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

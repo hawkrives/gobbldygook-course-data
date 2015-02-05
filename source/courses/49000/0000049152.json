@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Christian Aesthetic,Ethic",
 	"num": 292,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"times": [
 		"M-F 0100-0300PM"

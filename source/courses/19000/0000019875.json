@@ -5,15 +5,16 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Gerald Hoekstra"
+	],
 	"level": 100,
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"profs": [
-		"Gerald Hoekstra"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"title": "Romans & Christians",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
+	"locations": [
+		"DC 115C"
+	],
 	"name": "Ceramics",
 	"num": 234,
 	"pf": false,
-	"places": [
-		"DC 115C"
-	],
-	"profs": [
-		"Ron Gallas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0245PM"

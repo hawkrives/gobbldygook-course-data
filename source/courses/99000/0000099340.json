@@ -6,15 +6,16 @@
 		"ENGL"
 	],
 	"desc": "Students pursue an independent topic of study with a faculty director.",
+	"instructors": [
+		"Juliet Patterson"
+	],
 	"level": 200,
 	"name": "IS/Spoken Word in the US",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Juliet Patterson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"title": "Independent Study",
 	"type": "Research",

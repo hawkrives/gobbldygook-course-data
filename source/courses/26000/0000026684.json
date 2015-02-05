@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Randy Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Skills/Tech Spt Act",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Randy Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

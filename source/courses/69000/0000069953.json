@@ -5,15 +5,16 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 300,
 	"name": "IR/Dance/Meditation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research",
 	"type": "Research",

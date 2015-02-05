@@ -5,13 +5,14 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 100,
+	"locations": [
+		"M 35"
+	],
 	"name": "Europe,1500-Present",
 	"num": 191,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

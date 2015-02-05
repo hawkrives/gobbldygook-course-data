@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "France in WW II",
 	"num": 253,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "France in WW II",
 	"type": "Research",

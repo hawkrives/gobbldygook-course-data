@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Hagedorn"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 138"
+	],
 	"name": "Percussion Class",
 	"num": 167,
 	"pf": false,
-	"places": [
-		"CHM 138"
-	],
-	"profs": [
-		"David Hagedorn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 0905-1000"

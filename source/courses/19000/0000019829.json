@@ -5,17 +5,18 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Singers of Tales-Tr",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0800-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 100,
+	"locations": [
+		"ST"
+	],
 	"name": "Perspec Amer Culture",
 	"num": 100,
 	"pf": false,
-	"places": [
-		"ST"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"MWF 1255-0150PM"

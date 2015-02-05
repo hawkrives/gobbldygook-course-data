@@ -6,16 +6,17 @@
 		"BIO"
 	],
 	"desc": "From tiny ion channels to the basis for learning, neuroscience is a rapidly developing area. Using texts, reviews and current literature, students examine in depth the fundamental unit of the nervous system, the neuron. The goals are to understand how neurons accomplish their unique functions: electrical signaling, synaptic transmission and directed growth and remodeling. Prerequisites: Biology 125 and progress towards a major in any of the natural sciences. GE: ORC.",
-	"level": 300,
-	"num": 385,
-	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
+	"instructors": [
 		"Kevin M. Crisp"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"SC 274"
+	],
+	"num": 385,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MW 0100-0300PM"

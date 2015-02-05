@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 200,
-	"name": "Music/Chr Worship",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 2,
+	"name": "Music/Chr Worship",
+	"num": 235,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"MTTh 1040-1240PM",

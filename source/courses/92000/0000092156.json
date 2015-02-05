@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "C",
-	"sem": 5,
+	"section": "C",
+	"semester": 5,
+	"status": "O",
 	"term": 20125,
 	"title": "Internship",
 	"type": "Research",

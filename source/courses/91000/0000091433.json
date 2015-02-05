@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 171,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
-	"notes": "Students in Bio 386 must also register for lab Bio 386L. Open to juniors and seniors only.",
-	"num": 386,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 124",
 		"RNS 124",
 		"RNS 124"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 2,
+	"notes": "Students in Bio 386 must also register for lab Bio 386L. Open to juniors and seniors only.",
+	"num": 386,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-Th 0900-1000",

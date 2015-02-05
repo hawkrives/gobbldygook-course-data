@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Conscience-Critics",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open only to seniors and juniors during web registration.",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

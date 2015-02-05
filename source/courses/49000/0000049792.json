@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 300,
 	"name": "IR/Dickinson/Perf Art",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Titus"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Research",
 	"type": "Research",

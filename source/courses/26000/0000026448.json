@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 100,
+	"locations": [
+		"L 525"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 1145-0110PM"

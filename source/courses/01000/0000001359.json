@@ -5,17 +5,18 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Tomoko Hoogenboom"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Advanced Japanese II",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Tomoko Hoogenboom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Creative Dance/Child",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19942,
 	"title": "Creative Dance/Child",
 	"type": "Research",

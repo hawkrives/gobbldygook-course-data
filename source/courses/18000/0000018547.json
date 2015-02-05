@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
 	"name": "IS/Gender Attribution",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Gender Attribution",
 	"type": "Research",

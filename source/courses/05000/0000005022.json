@@ -5,19 +5,20 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 100,
-	"name": "Cinema B/A Hitler",
-	"num": 149,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 035",
 		"OM 035",
 		"VIKING THTR"
 	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sem": 3,
+	"name": "Cinema B/A Hitler",
+	"num": 149,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

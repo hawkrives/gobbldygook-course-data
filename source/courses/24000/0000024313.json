@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Kathleen L. Shea"
+	],
 	"level": 300,
 	"name": "IR/Forest Ecology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kathleen L. Shea"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Forest Ecology",
 	"type": "Research",

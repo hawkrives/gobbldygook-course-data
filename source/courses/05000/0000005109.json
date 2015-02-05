@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"James Halverson"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"James Halverson"
-	],
-	"sem": 3,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

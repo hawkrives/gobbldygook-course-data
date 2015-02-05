@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 300,
+	"locations": [
+		"SC 151"
+	],
 	"name": "Adv Physics Lab (375)",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"SC 151"
-	],
-	"profs": [
-		"James Cederberg"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"F 0200-0500PM"

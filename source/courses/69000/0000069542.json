@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20084,
 	"times": [
 		"MW 0100-0400PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Dorer Kari L."
+	],
 	"level": 100,
+	"locations": [
+		"M 11"
+	],
 	"name": "Beginning Norwegian I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Dorer Kari L."
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"times": [
 		"MWF 1150-1245PM"

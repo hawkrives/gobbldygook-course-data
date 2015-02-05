@@ -6,19 +6,20 @@
 		"ECON"
 	],
 	"desc": "This course takes an analytical approach to economic reasoning and contemporary issues. Offered each semester, the course introduces microeconomic and macroeconomic theories with applications to relevant issues, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers.",
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 130",
 		"SC 130"
 	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sect": "E",
-	"sem": 1,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"T 1145-0110PM",

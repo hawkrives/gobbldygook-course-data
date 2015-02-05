@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Janice Pellino"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Janice Pellino"
-	],
-	"sect": "G",
-	"sem": 1,
+	"section": "G",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"Th 0800-1100"

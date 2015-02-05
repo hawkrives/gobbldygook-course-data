@@ -9,17 +9,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Stanley Trout"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 208"
+	],
 	"name": "Origin of Nuclear Weapons",
 	"num": 154,
 	"pf": false,
-	"places": [
-		"RNS 208"
-	],
-	"profs": [
-		"Stanley Trout"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 0905-1000"

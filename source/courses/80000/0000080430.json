@@ -11,17 +11,18 @@
 		"SED"
 	],
 	"groupid": 106,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Cell Bio & Genetics",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20104,
 	"times": [
 		"M-F 1000-1130"

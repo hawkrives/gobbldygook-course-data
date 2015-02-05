@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 300,
 	"name": "IR/The Nurse Educator",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Research",
 	"type": "Research",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Cuneyt Orman"
+	],
 	"level": 100,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Cuneyt Orman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

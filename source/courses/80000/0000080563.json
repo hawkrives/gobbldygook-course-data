@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "God & Human Suffering",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 1150-1245PM"

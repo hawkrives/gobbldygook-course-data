@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 300,
+	"locations": [
+		"SKOG 1"
+	],
 	"name": "Adv Sport Medicine",
 	"num": 355,
 	"pf": false,
-	"places": [
-		"SKOG 1"
-	],
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM",

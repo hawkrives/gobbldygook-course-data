@@ -7,18 +7,19 @@
 	],
 	"groupid": 26649,
 	"grouptype": "2",
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Biodiversity Found Lab",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0120-0420PM"

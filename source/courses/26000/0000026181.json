@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Perette Michelli"
+	],
 	"level": 100,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Renaissance--Present",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"Perette Michelli"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM"

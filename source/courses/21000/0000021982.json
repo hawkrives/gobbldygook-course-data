@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 100,
-	"name": "Arthurian Romance",
-	"num": 118,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 515",
 		"L 515"
 	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sem": 2,
+	"name": "Arthurian Romance",
+	"num": 118,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19972,
 	"times": [
 		"M-F 0900-1000",

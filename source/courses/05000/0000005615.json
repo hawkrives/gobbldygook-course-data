@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "War and Peace",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"times": [
 		"M-F 1230-0200PM"

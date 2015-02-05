@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
 	"name": "Senior Seminar",
 	"num": 399,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "Senior Seminar",
 	"type": "Seminar",

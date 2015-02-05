@@ -6,16 +6,17 @@
 		"MUSEN"
 	],
 	"desc": "This choir of 120 mixed voices performs a wide range of choral repertoire that includes larger works for choir and orchestra. Participation is by audition and does not include first-year students. The ensemble conductor provides full details of all rehearsal and performance obligations. P/N only. May be repeated. Students in the St. Olaf Chapel Choir are encouraged to register for voice lessons.",
-	"level": 100,
-	"num": 105,
-	"pf": true,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
+	"instructors": [
 		"Christopher P. Aspaas"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
+	"num": 105,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0310-0415PM"

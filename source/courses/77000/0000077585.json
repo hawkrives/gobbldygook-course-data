@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Guido Alvarez"
+	],
 	"level": 100,
-	"notes": "This course has class year limits.",
-	"num": 104,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 100",
 		"DC 100"
 	],
-	"profs": [
-		"Guido Alvarez"
-	],
-	"sect": "A",
-	"sem": 1,
+	"notes": "This course has class year limits.",
+	"num": 104,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 0800-1100",

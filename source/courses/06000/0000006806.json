@@ -5,19 +5,20 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Shannon Cannella"
+	],
 	"level": 100,
-	"name": "Beginning Chinese II",
-	"num": 112,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"OM 001"
 	],
-	"profs": [
-		"Shannon Cannella"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Beginning Chinese II",
+	"num": 112,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM",

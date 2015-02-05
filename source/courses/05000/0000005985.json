@@ -5,18 +5,19 @@
 	"depts": [
 		"ID"
 	],
-	"level": 200,
-	"name": "Soc/Ethics & Medicine",
-	"num": 232,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"Edward David Emery",
 		"Karen Gervais"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"name": "Soc/Ethics & Medicine",
+	"num": 232,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"M 0700-1000PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Amer Short Stories",
 	"num": 114,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19942,
 	"title": "Amer Short Stories",
 	"type": "Research",

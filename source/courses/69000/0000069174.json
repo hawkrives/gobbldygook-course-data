@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "This course introduces basic techniques for performance on all instruments of the percussion family, with an emphasis on the snare drum. Additional topics include: pedagogical techniques, tools, and literature; teaching repertoire; and instrument care. Prerequisite: permission of instructor required for students not majoring in Theory/Composition or Music Education. Offered annually in the Spring Semester.",
-	"level": 100,
-	"num": 167,
-	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
+	"instructors": [
 		"David Hagedorn"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
+	"num": 167,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

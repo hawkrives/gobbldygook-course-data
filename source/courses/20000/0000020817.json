@@ -5,15 +5,16 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Janet Contursi"
+	],
 	"level": 200,
 	"name": "IS/Anthropology 290",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Janet Contursi"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Anthropology 290",
 	"type": "Research",

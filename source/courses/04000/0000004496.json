@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 300,
 	"name": "IR/Propofol & Amnesia",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Propofol & Amnesia",
 	"type": "Research",

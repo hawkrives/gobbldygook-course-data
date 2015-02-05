@@ -6,14 +6,15 @@
 		"CHEM"
 	],
 	"groupid": 215,
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 300,
 	"name": "Organic Analys/Theory Lab",
 	"num": 380,
 	"pf": false,
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Organic Analys/Theory Lab",
 	"type": "Lab",

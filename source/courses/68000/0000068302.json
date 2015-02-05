@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
-	"num": 132,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 2,
+	"num": 132,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"times": [
 		"M-Th 0900-1000",

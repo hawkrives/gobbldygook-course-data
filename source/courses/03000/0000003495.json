@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 300,
 	"name": "IR/Theology & Arts",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Theology & Arts",
 	"type": "Research",

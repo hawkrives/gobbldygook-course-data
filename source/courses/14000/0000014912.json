@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Hellin Blake & Mlt",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "IR/Hellin Blake & Mlt",
 	"type": "Research",

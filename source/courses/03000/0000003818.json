@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 300,
 	"name": "IR/Sa Monolayers",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Walczak"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"title": "IR/Sa Monolayers",
 	"type": "Research",

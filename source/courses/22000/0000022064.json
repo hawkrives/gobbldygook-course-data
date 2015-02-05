@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 142"
+	],
 	"name": "Hist/Phil P Ed/Sport",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"SAC 142"
-	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0900-1100"

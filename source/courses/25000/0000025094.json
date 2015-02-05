@@ -5,15 +5,16 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Individualized Phy Ed",
 	"num": 100,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 4,
+	"section": "B",
+	"semester": 4,
+	"status": "O",
 	"term": 19984,
 	"title": "Individualized Phy Ed",
 	"type": "Research",

@@ -10,17 +10,18 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "20C British & Irish Lit",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"TOH 316"
-	],
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Mary C. Henry"
+	],
 	"level": 300,
 	"name": "IR/Fly Learning",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary C. Henry"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Fly Learning",
 	"type": "Research",

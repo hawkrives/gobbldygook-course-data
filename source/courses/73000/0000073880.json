@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 151,
-	"pf": false,
-	"places": [
-		"SAC N Gym"
-	],
-	"profs": [
+	"instructors": [
 		"David A. Stromme"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC N Gym"
+	],
+	"num": 151,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MW 1045-1140"

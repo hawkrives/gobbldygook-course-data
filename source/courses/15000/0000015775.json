@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SC 211"
+	],
 	"name": "Organismic Biol/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 211"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"T 0800-1030"

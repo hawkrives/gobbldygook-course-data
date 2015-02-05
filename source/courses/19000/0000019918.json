@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"William Narum"
+	],
 	"level": 100,
-	"name": "Phil of C.S. Lewis",
-	"num": 127,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 317",
 		"L 520"
 	],
-	"profs": [
-		"William Narum"
-	],
-	"sem": 2,
+	"name": "Phil of C.S. Lewis",
+	"num": 127,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM",

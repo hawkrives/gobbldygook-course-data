@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"L 520"
+	],
 	"name": "War and Peace",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"times": [
 		"M-F 1000-1130"

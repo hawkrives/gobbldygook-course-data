@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"WR ROOM"
+	],
 	"name": "Individual Fitness",
 	"num": 132,
 	"pf": false,
-	"places": [
-		"WR ROOM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 1150-1245PM"

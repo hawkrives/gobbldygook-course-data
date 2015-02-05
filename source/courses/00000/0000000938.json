@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Mark Goodale"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Writing Culture",
 	"num": 234,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Mark Goodale"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-Th 0100-0330PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kurt Burch"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Sem: Intl Relations",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Kurt Burch"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

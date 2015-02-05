@@ -9,19 +9,20 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Alison Wallace"
+	],
 	"level": 100,
-	"name": "Intro: Env Studies",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 150",
 		"RNS 150"
 	],
-	"profs": [
-		"Alison Wallace"
-	],
-	"sect": "B",
-	"sem": 2,
+	"name": "Intro: Env Studies",
+	"num": 137,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20102,
 	"times": [
 		"M-F 0800-1000",

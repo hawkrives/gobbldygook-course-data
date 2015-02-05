@@ -9,15 +9,16 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Kathy T. Granquist",
+		"Nanette Schroeder"
+	],
 	"level": 100,
 	"name": "Introduction to Latin",
 	"num": 101,
 	"pf": false,
-	"profs": [
-		"Kathy T. Granquist",
-		"Nanette Schroeder"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20125,
 	"title": "Introduction to Latin",
 	"type": "Research",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Grace E. Cho"
+	],
 	"level": 300,
-	"name": "Dev in Diverse Families",
-	"num": 350,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 124",
 		"RNS 124"
 	],
-	"profs": [
-		"Grace E. Cho"
-	],
-	"sem": 3,
+	"name": "Dev in Diverse Families",
+	"num": 350,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

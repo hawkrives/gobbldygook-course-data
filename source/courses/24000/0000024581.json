@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Christopher D. Grasso"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Us Top: Intellectual",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Christopher D. Grasso"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

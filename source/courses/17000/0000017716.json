@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
 	"name": "IR/Milton Inspired",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "IR/Milton Inspired",
 	"type": "Research",

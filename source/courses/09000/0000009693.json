@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 100,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Kristina Garrett"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 186"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"TOH 186"
-	],
-	"profs": [
-		"Kristina Garrett"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
 	"name": "IR/Stellar Evolution",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 200,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Plant Physiology",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

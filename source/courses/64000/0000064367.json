@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 126,
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Human Anatomy & Physiol L",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"Th 0200-0500PM"

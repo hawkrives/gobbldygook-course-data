@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Sian E. Muir"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Sian E. Muir"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 300,
 	"name": "IR/Myocardialischemia",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Van Wylen"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Myocardialischemia",
 	"type": "Research",

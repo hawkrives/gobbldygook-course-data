@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Steven Edwins"
+	],
 	"level": 200,
+	"locations": [
+		"FH AB"
+	],
 	"name": "Arch Drawing/Design I",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"FH AB"
-	],
-	"profs": [
-		"Steven Edwins"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-1100"

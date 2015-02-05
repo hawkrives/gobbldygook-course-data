@@ -9,19 +9,20 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 200,
-	"name": "Research Methods",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 131",
 		"RNS 131"
 	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Research Methods",
+	"num": 231,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"T 0120-0245PM",

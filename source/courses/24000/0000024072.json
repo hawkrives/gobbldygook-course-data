@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 514",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sect": "D",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1040-1240PM",

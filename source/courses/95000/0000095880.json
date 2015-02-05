@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"num": 104,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"Peter B. Nelson"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC 100"
+	],
+	"num": 104,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0800-1000"

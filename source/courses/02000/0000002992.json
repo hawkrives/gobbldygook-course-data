@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "Sem: Theory of Computn",
 	"num": 378,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "Sem: Theory of Computn",
 	"type": "Seminar",

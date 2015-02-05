@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Scott Homler"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Intermed French I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Scott Homler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

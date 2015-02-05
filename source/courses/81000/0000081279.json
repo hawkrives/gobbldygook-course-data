@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"level": 200,
-	"num": 246,
-	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
+	"instructors": [
 		"Kaethe Schwehn"
 	],
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"RML 420"
+	],
+	"num": 246,
+	"pf": false,
+	"semester": 4,
+	"status": "C",
 	"term": 20104,
 	"times": [
 		"M-F 0800-0930"

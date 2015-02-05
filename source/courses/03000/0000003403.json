@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Charles E. Umbanhowar Sr"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Charles E. Umbanhowar Sr"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "Academic Internship",
 	"type": "Research",

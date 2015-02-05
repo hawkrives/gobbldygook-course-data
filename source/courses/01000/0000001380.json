@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Pamela Brethorst"
+	],
 	"level": 100,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Calculus II",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Pamela Brethorst"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

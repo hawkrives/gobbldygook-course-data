@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

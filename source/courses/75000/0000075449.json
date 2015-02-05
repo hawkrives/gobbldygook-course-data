@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 300,
 	"name": "IR/Pacific Isl Literature",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

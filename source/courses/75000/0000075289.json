@@ -10,18 +10,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Top: Am Musical Theatre",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"times": [
 		"M-F 1000-1130"

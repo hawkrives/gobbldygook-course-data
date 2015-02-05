@@ -5,15 +5,16 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/Er-Amb Care",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "IS/Er-Amb Care",
 	"type": "Research",

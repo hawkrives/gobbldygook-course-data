@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 200,
-	"num": 205,
-	"pf": false,
-	"places": [
-		"DC 102"
-	],
-	"profs": [
+	"instructors": [
 		"Sara Belleau"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"DC 102"
+	],
+	"num": 205,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 1045-1245PM"

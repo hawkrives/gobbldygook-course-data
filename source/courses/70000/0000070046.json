@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20084,
 	"times": [
 		"M-F 0800-0930"

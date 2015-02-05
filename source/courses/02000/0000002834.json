@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 100,
+	"locations": [
+		"DC 216"
+	],
 	"name": "Found Conceptual Draw",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"DC 216"
-	],
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

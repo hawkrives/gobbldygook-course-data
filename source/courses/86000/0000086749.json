@@ -10,15 +10,16 @@
 		"IST",
 		"SED"
 	],
+	"instructors": [
+		"Eric McDonald",
+		"Nicholas J. Deacon"
+	],
 	"level": 100,
 	"name": "Biological Science",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Eric McDonald",
-		"Nicholas J. Deacon"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"title": "Biological Science: Issues in Biology",
 	"type": "Research",

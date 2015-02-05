@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 200,
 	"name": "IS/Cadaver Dissection",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"title": "IS/Cadaver Dissection",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
-	"name": "Top: Environ Ethics",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Top: Environ Ethics",
+	"num": 257,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

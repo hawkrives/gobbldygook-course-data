@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Michael Wala"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "Sem: German Studies",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Michael Wala"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

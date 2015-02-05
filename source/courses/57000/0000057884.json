@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Su Smallen"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Su Smallen"
-	],
-	"sect": "O",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0245PM",

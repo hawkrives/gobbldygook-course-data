@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 200,
+	"locations": [
+		"M 3"
+	],
 	"name": "Medieval Latin",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"James May"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

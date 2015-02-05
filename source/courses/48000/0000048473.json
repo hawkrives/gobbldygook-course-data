@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Kathleen L. Shea"
+	],
 	"level": 100,
 	"name": "Biological Science",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Kathleen L. Shea"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20045,
 	"title": "Biological Science",
 	"type": "Research",

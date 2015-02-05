@@ -5,17 +5,18 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 300,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Contemp Latin Am ISS",
 	"num": 333,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

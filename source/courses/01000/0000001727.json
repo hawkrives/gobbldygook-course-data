@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
+	"locations": [
+		"CT HAUGEN"
+	],
 	"name": "Stage Direction",
 	"num": 338,
 	"pf": false,
-	"places": [
-		"CT HAUGEN"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

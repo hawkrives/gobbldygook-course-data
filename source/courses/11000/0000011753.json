@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"desc": "The important early discoveries in chemistry serve as a foundation for a broadly based study of the fundamentals of chemistry. This course pays particular attention to chemistry as it relates to the environment. Students attend three classes and one 3-hour laboratory per week.",
+	"instructors": [
+		"Marc A. Klingshirn"
+	],
 	"level": 100,
-	"name": "Chemistry & the World",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 378",
 		"SC 378"
 	],
-	"profs": [
-		"Marc A. Klingshirn"
-	],
-	"sem": 3,
+	"name": "Chemistry & the World",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0935-1100",

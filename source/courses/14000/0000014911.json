@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Writing/Shrt Story",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "IR/Writing/Shrt Story",
 	"type": "Research",

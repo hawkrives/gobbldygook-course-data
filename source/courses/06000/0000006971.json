@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Intermed German I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

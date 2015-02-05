@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "This course introduces basic techniques for performance on a student's choice of three of the following: trumpet, horn, trombone, euphonium, and tuba. Additional topics include: pedagogical techniques, tools and literature; teaching repertoire; and instrument care. Prerequisite: permission of instructor required for students not majoring in Theory/Composition or Music Education. Offered Spring Semester.",
-	"level": 100,
-	"num": 166,
-	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
+	"instructors": [
 		"Paul Niemisto"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
+	"num": 166,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

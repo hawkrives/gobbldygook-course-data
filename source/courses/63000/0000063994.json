@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 186"
 	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 2,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"times": [
 		"M-F 0830-1000",

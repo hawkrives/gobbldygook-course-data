@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 300,
 	"name": "IR/Microalgae & Biofuels",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 100,
+	"locations": [
+		"M 35"
+	],
 	"name": "Politics Human Rights",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"T-F 1040-1240PM"

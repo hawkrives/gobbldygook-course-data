@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Sylvia Fischer"
+	],
 	"level": 300,
-	"name": "Top: German Literature",
-	"num": 371,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 200",
 		"TOH 200"
 	],
-	"profs": [
-		"Sylvia Fischer"
-	],
-	"sem": 3,
+	"name": "Top: German Literature",
+	"num": 371,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

@@ -6,17 +6,18 @@
 		"CSCI"
 	],
 	"desc": "This course addresses computational problems arising from the need to store, access, transform, and utilize DNA-related data. Topics from computer science central to the development of problem- solving tools include: exhaustive search; algorithms (including dynamic programming, divide-and- conquer, graph and greedy algorithms); combinatorial pattern matching; clustering and trees; and hidden Markov models. Prerequisites: Computer Science 253, or Computer Science 251 and Biology 125, or equivalent computer science and biology study, or permission of instructor.",
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 300,
-	"num": 315,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 186"
 	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"num": 315,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

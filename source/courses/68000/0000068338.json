@@ -9,17 +9,18 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 100,
-	"num": 119,
-	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
+	"instructors": [
 		"Anthony Lott",
 		"Douglas J. Casson"
 	],
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"RNS 290"
+	],
+	"num": 119,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 0100-0300PM"

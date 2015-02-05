@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 200,
-	"name": "Rel, Culture, Society",
-	"num": 265,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sem": 3,
+	"name": "Rel, Culture, Society",
+	"num": 265,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

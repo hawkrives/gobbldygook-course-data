@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 300,
 	"name": "IR/Installation Art",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Irve Dell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research: Art History",
 	"type": "Research",

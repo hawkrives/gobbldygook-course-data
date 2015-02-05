@@ -5,18 +5,19 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 100,
-	"name": "I Want to Help People",
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sem": 2,
+	"name": "I Want to Help People",
+	"num": 120,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"T-F 0830-1000",

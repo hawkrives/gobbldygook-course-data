@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"David E. Ryan"
+	],
 	"level": 200,
 	"name": "IS/Senior Studies Prep",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"David E. Ryan"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Independent Study",
 	"type": "Research",

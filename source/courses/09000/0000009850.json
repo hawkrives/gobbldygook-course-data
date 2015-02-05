@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
-	"name": "Human Neuropsychology",
-	"num": 385,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 204",
 		"HH 204"
 	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"name": "Human Neuropsychology",
+	"num": 385,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM",

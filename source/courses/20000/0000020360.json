@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "Sem: Deutsch-Amerikane",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

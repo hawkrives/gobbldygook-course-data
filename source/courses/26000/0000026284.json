@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 300,
+	"locations": [
+		"SC 340"
+	],
 	"name": "Adv Synthesis Lab",
 	"num": 374,
 	"pf": true,
-	"places": [
-		"SC 340"
-	],
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"Th 0120-0420PM"

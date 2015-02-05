@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Balkan Politics",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0800-1000"

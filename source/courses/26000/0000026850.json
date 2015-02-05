@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Annette Nierobisz"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Law and Society",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Annette Nierobisz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1150-1245PM"

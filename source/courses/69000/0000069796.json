@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"desc": "The field of chemistry is constantly expanding into new frontiers. This course provides an in-depth study of advanced topics that are chosen with attention to student interest and available staff. Recent topics include biophysical chemistry and environmental chemical analysis. Topics are announced prior to registration for the term; see the current Class and Lab Schedule. Prerequisite: permission of instructor. May be repeated if topic is different.",
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
-	"name": "Top:Biophysical Chemistry",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 316",
 		"RNS 316"
 	],
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sem": 3,
+	"name": "Top:Biophysical Chemistry",
+	"num": 391,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0800-0925",

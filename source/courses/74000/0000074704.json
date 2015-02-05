@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 157,
-	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
+	"instructors": [
 		"David A. Stromme"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
+	"num": 157,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"TTh 0900-0955"

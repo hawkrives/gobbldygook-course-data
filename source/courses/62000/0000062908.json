@@ -9,17 +9,18 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Health Care Econ",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

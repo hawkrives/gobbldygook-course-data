@@ -5,14 +5,15 @@
 	"depts": [
 		"BMOLS"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 300,
 	"name": "IR/GC/MS Lipid Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 300,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Social Worker as Prof",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 1145-0100PM"

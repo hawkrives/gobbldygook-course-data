@@ -5,15 +5,16 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Ashley Hodgson"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Ashley Hodgson"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

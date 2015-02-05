@@ -10,20 +10,21 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 100,
+	"locations": [
+		"HH 403",
+		"HH 403"
+	],
 	"name": "Intro to Sociology",
 	"notes": "Open to all class years.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 403",
-		"HH 403"
-	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0935-1100",

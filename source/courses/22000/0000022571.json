@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Laura Chihara"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Int Differ Equations",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Laura Chihara"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140"

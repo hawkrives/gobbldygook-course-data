@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"title": "Internships",
 	"type": "Research",

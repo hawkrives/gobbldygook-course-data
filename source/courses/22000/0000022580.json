@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 300,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Math Statistics",
 	"num": 312,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Michael Kahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1255-0150PM"

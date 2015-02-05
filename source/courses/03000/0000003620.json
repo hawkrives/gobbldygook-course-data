@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 311"
+	],
 	"name": "Synthesis Lab",
 	"num": 253,
 	"pf": true,
-	"places": [
-		"SC 311"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20014,
 	"times": [
 		"MT 0100-0400PM"

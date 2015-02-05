@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: At least three previous courses in department.",
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 200,
 	"name": "IS/Elizabethan Acting",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Study",
 	"type": "Research",

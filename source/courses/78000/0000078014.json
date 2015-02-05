@@ -11,18 +11,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"notes": "Closed to Seniors and Juniors except by permission of department.",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 0905-1000"

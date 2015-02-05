@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Asitha Sandanayake"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Asitha Sandanayake"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

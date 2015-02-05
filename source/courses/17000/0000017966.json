@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 300,
 	"name": "IR/Dual Microdialysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Van Wylen"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Dual Microdialysis",
 	"type": "Research",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-G"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"MWF 1255-0150PM"

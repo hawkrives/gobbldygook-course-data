@@ -7,18 +7,19 @@
 	],
 	"groupid": 122,
 	"grouptype": "2",
+	"instructors": [
+		"Paul A. Rupp"
+	],
 	"level": 200,
+	"locations": [
+		"SC 263"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 263"
-	],
-	"profs": [
-		"Paul A. Rupp"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"Th 1245-0345PM"

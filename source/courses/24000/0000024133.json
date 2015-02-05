@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Electronic Circuits",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1030-1200PM"

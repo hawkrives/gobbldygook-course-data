@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Martin Hodel"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Theory III",
 	"num": 213,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Martin Hodel"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0800-0925"

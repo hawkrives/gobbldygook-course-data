@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Olaf A. Hall-Holt"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Software Design",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Olaf A. Hall-Holt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

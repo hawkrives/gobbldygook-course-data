@@ -6,18 +6,19 @@
 		"ID"
 	],
 	"groupid": 28968,
-	"level": 200,
-	"name": "Integr Sci/Soc Lab",
-	"num": 245,
-	"pf": false,
-	"places": [
-		"RNS 123"
-	],
-	"profs": [
+	"instructors": [
 		"Thomas A. Williamson",
 		"Shelly D. Dickinson"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 123"
+	],
+	"name": "Integr Sci/Soc Lab",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"W 0100-0400PM"

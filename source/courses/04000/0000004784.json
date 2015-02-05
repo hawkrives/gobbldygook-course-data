@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 140B"
+	],
 	"name": "Rsch Top: Medical Term",
 	"num": 291,
 	"pf": false,
-	"places": [
-		"SC 140B"
-	],
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"F 0200-0500PM"

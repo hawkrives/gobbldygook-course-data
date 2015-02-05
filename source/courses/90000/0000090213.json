@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
+	"instructors": [
 		"Colin Wells"
 	],
-	"sect": "F",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"HH 302"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"C. George Holt"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Human Sexuality",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"C. George Holt"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 1000-1130"

@@ -11,17 +11,18 @@
 		"SED"
 	],
 	"groupid": 1086,
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 210"
+	],
 	"notes": "Students in Physics 252 must also register for lab Physics 252 L. Closed to First-Year Students during web registration.",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 1040-1210PM"

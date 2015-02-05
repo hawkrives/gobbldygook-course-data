@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"David M. Perry"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Women/Medieval Europe",
 	"num": 237,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"David M. Perry"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

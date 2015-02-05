@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
 	"name": "IS/Interactive Draw",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Interactive Draw",
 	"type": "Research",

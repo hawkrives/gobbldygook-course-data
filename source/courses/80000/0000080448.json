@@ -7,18 +7,19 @@
 	],
 	"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester.",
 	"groupid": 197,
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 340"
+	],
 	"name": "Synthesis Lab II",
 	"num": 254,
 	"pf": true,
-	"places": [
-		"RNS 340"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 5,
+	"section": "B",
+	"semester": 5,
+	"status": "X",
 	"term": 20105,
 	"times": [
 		"TTh 0100-0400PM"

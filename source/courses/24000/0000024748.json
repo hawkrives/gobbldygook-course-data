@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 300,
 	"name": "IR/Kierk-Lang & Commun",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Poling"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Kierk-Lang & Commun",
 	"type": "Research",

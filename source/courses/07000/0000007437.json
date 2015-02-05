@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Andrea Wollenberg"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Oral Interpretation",
 	"num": 100,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Andrea Wollenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

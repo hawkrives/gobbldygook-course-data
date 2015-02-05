@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Nancy Paddleford"
+	],
 	"level": 300,
 	"name": "IR/Piano Literature",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Nancy Paddleford"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Piano Literature",
 	"type": "Research",

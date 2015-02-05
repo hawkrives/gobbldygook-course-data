@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Harriet McCleary"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Diction: French Lyric",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Harriet McCleary"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MW 0905-1000"

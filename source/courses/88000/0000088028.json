@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Knut A. Christianson"
+	],
 	"level": 300,
 	"name": "IR/Remote Sens/Earth Sci",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Knut A. Christianson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

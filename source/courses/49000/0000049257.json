@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Investigative Math",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 1255-0150PM"

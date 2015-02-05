@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Patrice Buresh"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Racquetball",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"Patrice Buresh"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0905-1000"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Austen/Eliot/Woolf",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

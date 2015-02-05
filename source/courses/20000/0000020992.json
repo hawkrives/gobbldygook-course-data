@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Organic Chemistry",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"times": [
 		"M-F 1000-1130"

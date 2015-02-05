@@ -5,16 +5,17 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Rosemary A. Pfarr-Baker",
+		"Heather Campbell"
+	],
 	"level": 200,
 	"name": "Standards/Technology",
 	"num": 291,
 	"pf": true,
-	"profs": [
-		"Rosemary A. Pfarr-Baker",
-		"Heather Campbell"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"title": "Standards/Technology",
 	"type": "Research",

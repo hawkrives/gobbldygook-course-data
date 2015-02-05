@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 300,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Biochemistry II",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

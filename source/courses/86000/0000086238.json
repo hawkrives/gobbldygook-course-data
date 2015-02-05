@@ -5,16 +5,17 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dana L. Maeda",
+		"Mark Kelley"
+	],
 	"level": 200,
 	"name": "IS/How-To-Bassoon",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dana L. Maeda",
-		"Mark Kelley"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Study",
 	"type": "Research",

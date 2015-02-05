@@ -9,19 +9,20 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Arthur Cunningham"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 204",
+		"RNS 204"
+	],
 	"name": "Sem:Causation/Determinism",
 	"notes": "This course does NOT fulfill an HWC requirement.",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"RNS 204",
-		"RNS 204"
-	],
-	"profs": [
-		"Arthur Cunningham"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

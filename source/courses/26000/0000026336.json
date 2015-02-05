@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Rosemary A. Pfarr-Baker"
+	],
 	"level": 200,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Educ Psychology",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Rosemary A. Pfarr-Baker"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 300,
 	"name": "FLC-Norwegian",
 	"num": 382,
 	"pf": false,
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "FLC-Norwegian",
 	"type": "Research",

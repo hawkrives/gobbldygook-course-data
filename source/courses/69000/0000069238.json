@@ -10,18 +10,19 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"M. Minda Ori\u00f1a"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Principles: Psych",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"M. Minda Ori\u00f1a"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0800-0855"

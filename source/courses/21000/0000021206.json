@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 300,
 	"name": "IR/Immunochemistry",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"title": "IR/Immunochemistry",
 	"type": "Research",

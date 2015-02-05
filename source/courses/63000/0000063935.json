@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
 	"name": "IR/Museums & Culture",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research: Art History",
 	"type": "Research",

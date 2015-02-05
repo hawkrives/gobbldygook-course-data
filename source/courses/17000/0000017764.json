@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"William Narum"
+	],
 	"level": 100,
 	"name": "Phil of C.S. Lewis",
 	"num": 127,
 	"pf": false,
-	"profs": [
-		"William Narum"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Phil of C.S. Lewis",
 	"type": "Research",

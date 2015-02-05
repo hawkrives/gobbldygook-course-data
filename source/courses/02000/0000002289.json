@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Hagedorn"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 233"
+	],
 	"name": "World Music",
 	"num": 237,
 	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
-		"David Hagedorn"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"times": [
 		"MWF 0905-1000"

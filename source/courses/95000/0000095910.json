@@ -10,18 +10,19 @@
 		"HBS",
 		"ORC"
 	],
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 100,
-	"notes": "This course has class-year limits.",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 110",
 		"TOH 110"
 	],
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sem": 3,
+	"notes": "This course has class-year limits.",
+	"num": 115,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

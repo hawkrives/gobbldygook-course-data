@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"James A. Dunlop"
+	],
 	"level": 300,
+	"locations": [
+		"M 21"
+	],
 	"name": "Seminar in Literature",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"James A. Dunlop"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

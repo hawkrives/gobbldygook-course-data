@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Calculus/Algebra II",
 	"num": 119,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0800-0855"

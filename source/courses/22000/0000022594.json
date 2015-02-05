@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Steven Amundson"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Theory I",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Steven Amundson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

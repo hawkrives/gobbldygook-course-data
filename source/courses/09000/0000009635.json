@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Margaret A. Rowland"
+	],
 	"level": 100,
-	"name": "Theory II",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"Margaret A. Rowland"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Theory II",
+	"num": 114,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

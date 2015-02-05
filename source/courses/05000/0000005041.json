@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 100,
-	"name": "Europe/Great War",
-	"num": 116,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 516",
 		"HH 516"
 	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"name": "Europe/Great War",
+	"num": 116,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

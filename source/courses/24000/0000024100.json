@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Intro to Knot Theory",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0900-0200PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 300,
-	"name": "Seminar",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 02",
 		"SH 02"
 	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sem": 3,
+	"name": "Seminar",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

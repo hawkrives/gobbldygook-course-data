@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Eric McDonald"
+	],
 	"level": 200,
 	"name": "IS/Stu Activ Higher Educ",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Eric McDonald"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"title": "Independent Study",
 	"type": "Research",

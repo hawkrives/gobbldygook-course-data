@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 200,
 	"name": "IS/Philosophy of Lang",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Corliss Swain"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Philosophy of Lang",
 	"type": "Research",

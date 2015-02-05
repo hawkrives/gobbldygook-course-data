@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
 	"name": "IR/Microscopy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"title": "IR/Microscopy",
 	"type": "Research",

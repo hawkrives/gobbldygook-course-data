@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Women/Gender/Europe",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

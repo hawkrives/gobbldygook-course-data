@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 128,
-	"pf": false,
-	"places": [
-		"TOH 186"
-	],
-	"profs": [
+	"instructors": [
 		"Adam H. Berliner"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"TOH 186"
+	],
+	"num": 128,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 1045-1140"

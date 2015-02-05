@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
+	"instructors": [
 		"Jeff Solomon"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"RML 420"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 0905-1000"

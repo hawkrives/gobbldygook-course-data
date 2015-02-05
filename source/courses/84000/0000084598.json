@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Sarah B. Stein"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Sarah B. Stein"
-	],
-	"sect": "I",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0800-0925",

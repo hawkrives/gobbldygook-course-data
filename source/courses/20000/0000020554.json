@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
+	"locations": [
+		"SAC CTR GYM"
+	],
 	"name": "Volleyball",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"SAC CTR GYM"
-	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0200-0255PM"

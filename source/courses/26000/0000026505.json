@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 300,
+	"locations": [
+		"L 577"
+	],
 	"name": "Us Sem: Emancipation",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

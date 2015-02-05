@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 200,
-	"name": "Principles of Math",
-	"num": 210,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 182"
 	],
-	"profs": [
-		"David Molnar"
-	],
-	"sem": 2,
+	"name": "Principles of Math",
+	"num": 210,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1200PM",

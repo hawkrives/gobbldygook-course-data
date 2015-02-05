@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Mary Steen"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Mary Steen"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Bruce Marshall",
+		"Robert Nichols"
+	],
 	"level": 200,
 	"name": "East Orthodox Christ",
 	"num": 250,
 	"pf": false,
-	"profs": [
-		"Bruce Marshall",
-		"Robert Nichols"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19952,
 	"title": "East Orthodox Christ",
 	"type": "Research",

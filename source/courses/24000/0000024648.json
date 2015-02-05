@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 300,
 	"name": "IR/Real Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Humke"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Real Analysis",
 	"type": "Research",

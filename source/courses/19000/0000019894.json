@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Lowell E. Johnson"
+	],
 	"level": 200,
 	"name": "Theater in London",
 	"num": 258,
 	"pf": false,
-	"profs": [
-		"Lowell E. Johnson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"title": "Theater in London",
 	"type": "Research",

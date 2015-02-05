@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning Greek II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

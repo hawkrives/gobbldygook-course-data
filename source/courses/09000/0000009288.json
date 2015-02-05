@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Terry J. Fitzgerald"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Terry J. Fitzgerald"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

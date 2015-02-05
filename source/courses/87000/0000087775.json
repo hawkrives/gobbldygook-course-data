@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Brandt A. Richardson"
+	],
 	"level": 100,
-	"name": "Principles of Econ",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 210",
 		"TOH 210"
 	],
-	"profs": [
-		"Brandt A. Richardson"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "Principles of Econ",
+	"num": 121,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

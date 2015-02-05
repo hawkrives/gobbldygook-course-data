@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Daniel Malotky"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CH 110",
 		"CH 110"
 	],
-	"profs": [
-		"Daniel Malotky"
-	],
-	"sect": "N",
-	"sem": 1,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "N",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 0120-0245PM",

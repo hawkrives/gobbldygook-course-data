@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Glen M. Castore"
+	],
 	"level": 200,
-	"name": "Operations Research",
-	"num": 266,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Glen M. Castore"
-	],
-	"sem": 3,
+	"name": "Operations Research",
+	"num": 266,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

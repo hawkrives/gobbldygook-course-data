@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 172,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 300,
+	"locations": [
+		"SC 248"
+	],
 	"name": "Top: Bioinformatics/Disc",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"SC 248"
-	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"Th 0800-1100"

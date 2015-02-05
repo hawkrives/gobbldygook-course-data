@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sect": "J",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "J",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

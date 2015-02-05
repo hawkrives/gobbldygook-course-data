@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 293"
+	],
 	"name": "Analytical II Lab",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 293"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 1145-0215PM"

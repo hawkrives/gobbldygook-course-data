@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
+	"instructors": [
 		"Shannon Cannella"
 	],
-	"sect": "F",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TB 216"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 124,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 250"
+	],
 	"name": "Vertebrate Biology Lab",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"RNS 250"
-	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"Th 0120-0420PM"

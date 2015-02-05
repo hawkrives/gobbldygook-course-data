@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 378"
+	],
 	"name": "Chemical Structure",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SC 378"
-	],
-	"profs": [
-		"Robert Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0100-0300PM"

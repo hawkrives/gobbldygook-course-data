@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 100,
+	"locations": [
+		"L 520"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "N",
-	"sem": 3,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

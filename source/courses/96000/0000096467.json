@@ -6,16 +6,17 @@
 		"PHYS"
 	],
 	"desc": "Seniors study topics of current interest, based upon presentations by staff, participants, and visitors, library research and assigned readings. Prerequisites: PHYS 374, PHYS 375, and PHYS 376. P/N only. Available on request. May be repeated if topics are different.",
-	"level": 300,
-	"num": 399,
-	"pf": true,
-	"places": [
-		"RNS 297"
-	],
-	"profs": [
+	"instructors": [
 		"Brian Borovsky"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"RNS 297"
+	],
+	"num": 399,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"F 0200-0300PM"

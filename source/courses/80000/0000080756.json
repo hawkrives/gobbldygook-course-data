@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Abdulai Iddrisu"
+	],
 	"level": 300,
 	"name": "IR/Israeli-Palestine Hist",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Abdulai Iddrisu"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

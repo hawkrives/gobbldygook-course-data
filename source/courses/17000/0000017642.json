@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "FLC-Spanish",
 	"num": 268,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "FLC-Spanish",
 	"type": "Research",

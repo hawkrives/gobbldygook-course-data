@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"title": "Independent Study",
 	"type": "Research",

@@ -6,19 +6,20 @@
 		"PSYCH"
 	],
 	"desc": "Students engage in hands-on laboratory experiments to (1) understand the experimental basis of current scientific theory in psychology; and (2) develop proficiency in using equipment, testing hypotheses, collecting data, and interpreting results. Phenomena selected for these introductory investigations are robust, central to introductory psychology, of interest to students, and relevant to psychological research. Prerequisite/corequisite: Psychology 125. Offered each semester.",
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 100,
+	"locations": [
+		"SC 280"
+	],
 	"name": "Invest Explor Lab",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 280"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1145-0245PM"

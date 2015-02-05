@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gregory A. Walter"
+	],
 	"level": 200,
-	"name": "Essentials Chr Theol",
-	"num": 201,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Gregory A. Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Essentials Chr Theol",
+	"num": 201,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 293"
+	],
 	"name": "Analytical II Lab",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 293"
-	],
-	"profs": [
-		"Amy Kolan"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0215-0445PM"

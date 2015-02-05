@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Principles Physics I",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

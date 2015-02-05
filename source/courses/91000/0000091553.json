@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"desc": "In-depth study of particular topics in physics in a full-semester format. Topics are based on student interest and available staff. Recently taught courses include solid state physics, cosmology, and stellar evolution.",
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Top: Non-linear Dynamics",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"RNS 297"
-	],
-	"profs": [
-		"Amy Kolan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

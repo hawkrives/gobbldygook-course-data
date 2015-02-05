@@ -5,15 +5,16 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Latino Studies II",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 19945,
 	"title": "IR/Latino Studies II",
 	"type": "Research",

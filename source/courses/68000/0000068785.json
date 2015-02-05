@@ -9,20 +9,21 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Gateways/Mathematics",
 	"notes": "Topic: Contemporary Applications of Math",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"RNS 190",
-		"RNS 190"
-	],
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

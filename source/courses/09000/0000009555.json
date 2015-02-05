@@ -5,19 +5,20 @@
 	"depts": [
 		"IS"
 	],
-	"level": 200,
-	"name": "Life: Biol & Theol",
-	"num": 210,
-	"pf": false,
-	"places": [
-		"DC 204",
-		"SC 229"
-	],
-	"profs": [
+	"instructors": [
 		"Eric Cole",
 		"David Booth"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"DC 204",
+		"SC 229"
+	],
+	"name": "Life: Biol & Theol",
+	"num": 210,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"WF 0200-0255PM",

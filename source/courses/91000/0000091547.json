@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 181,
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Forensic Sci With Lab",
 	"notes": "Students in Chem 107 must also register for Chem 107 lab.",
 	"num": 107,
 	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1045-1140"

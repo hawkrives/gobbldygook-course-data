@@ -7,18 +7,19 @@
 	],
 	"desc": "Students apply computational techniques and tools to the analysis of biological data. From mining large genetic sequence databases to simulating population dynamics, computer programming is rapidly becoming essential to the study of a broad range of biological systems. This course introduces computer programming to biologists and allows for the creative application of this skill to an array of biological questions, with an emphasis on advanced genetics topics. Prerequisites: Biology 126 and 233. Offered in alternate years.",
 	"groupid": 20158,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 199"
+	],
 	"name": "Prin of Bioinformatics",
 	"notes": "Open to Juniors and Seniors only.",
 	"num": 315,
 	"pf": false,
-	"places": [
-		"RNS 199"
-	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

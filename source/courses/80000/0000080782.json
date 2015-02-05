@@ -10,17 +10,18 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 200,
+	"locations": [
+		"TB 227"
+	],
 	"name": "Religion & Literature",
 	"num": 280,
 	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
 	"name": "IR/Creative Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Creative Writing",
 	"type": "Research",

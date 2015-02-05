@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 4"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "K",
-	"sem": 3,
+	"section": "K",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

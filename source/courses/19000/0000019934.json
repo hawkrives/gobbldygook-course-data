@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Amy Larsen"
+	],
 	"level": 200,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Musical Acoustics",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Amy Larsen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0900-0955",

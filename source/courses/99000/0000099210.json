@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Linda Mokdad"
+	],
 	"level": 200,
-	"notes": "Film screenings Thursday evenings.",
-	"num": 240,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 114",
 		"HH 501"
 	],
-	"profs": [
-		"Linda Mokdad"
-	],
-	"sem": 3,
+	"notes": "Film screenings Thursday evenings.",
+	"num": 240,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM",

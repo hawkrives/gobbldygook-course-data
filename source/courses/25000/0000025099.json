@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"H 204"
+	],
 	"name": "Principles: Psych",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19984,
 	"times": [
 		"M-F 0800-0930"

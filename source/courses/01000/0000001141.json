@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 300,
+	"locations": [
+		"M 2"
+	],
 	"name": "International Econ",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

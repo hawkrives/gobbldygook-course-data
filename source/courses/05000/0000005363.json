@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Uta Wolfe"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Brain & Language",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Uta Wolfe"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855"

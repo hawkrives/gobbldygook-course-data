@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Ethics/The Good Life",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
 	"name": "IR/Afm Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Afm Research",
 	"type": "Research",

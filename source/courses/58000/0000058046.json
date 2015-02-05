@@ -6,18 +6,19 @@
 		"WMNST"
 	],
 	"desc": "Required for the women's studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women.",
+	"instructors": [
+		"Anna Kuxhausen"
+	],
 	"level": 100,
-	"name": "Intro Women's Studies",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Anna Kuxhausen"
-	],
-	"sem": 3,
+	"name": "Intro Women's Studies",
+	"num": 121,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

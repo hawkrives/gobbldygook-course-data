@@ -9,15 +9,16 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 100,
 	"name": "Principles Comp Sci",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "X",
 	"term": 20103,
 	"title": "Principles of Computer Science",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
 	"name": "IS/Travel Literature",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Study",
 	"type": "Research",

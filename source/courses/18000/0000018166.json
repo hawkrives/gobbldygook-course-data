@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 100,
+	"locations": [
+		"M 26"
+	],
 	"name": "Beginning French I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Wendy Allen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

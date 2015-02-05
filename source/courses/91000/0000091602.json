@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 300,
+	"locations": [
+		"OM 140"
+	],
 	"name": "Conscience-Critics",
 	"notes": "Prerequisite: Completion of BTS-T or permission of the instructor. Open only to seniors and a limited number juniors during web registration.",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"OM 140"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 0905-1000"

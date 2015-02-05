@@ -10,20 +10,21 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"TBA",
+		"TBA"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "This course has been canceled.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TBA",
-		"TBA"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "X",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

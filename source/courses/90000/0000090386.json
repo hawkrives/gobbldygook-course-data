@@ -11,18 +11,19 @@
 		"HWC",
 		"ORC"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art History II",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

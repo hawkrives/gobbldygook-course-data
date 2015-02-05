@@ -10,19 +10,20 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Medieval Synthesis",
 	"notes": "Open to Great Conversations students only.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

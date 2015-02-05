@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 100,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Stowe Paula J."
+	],
 	"level": 300,
 	"name": "Test Course Disc",
 	"num": 301,
 	"pf": false,
-	"profs": [
-		"Stowe Paula J."
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Test Course Disc",
 	"type": "Discussion",

@@ -5,15 +5,16 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
 	"name": "IR/Picturing America",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC POOL"
+	],
 	"name": "Swim Fitness",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"SAC POOL"
-	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 0800-0855"

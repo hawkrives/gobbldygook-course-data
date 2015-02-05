@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"John Campion"
+	],
 	"level": 100,
+	"locations": [
+		"SAC_POOL"
+	],
 	"name": "Scuba Diving",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SAC_POOL"
-	],
-	"profs": [
-		"John Campion"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"F 0600-0900PM"

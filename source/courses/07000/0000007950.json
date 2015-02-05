@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Mary V. Winstead"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Mary V. Winstead"
-	],
-	"sect": "J",
-	"sem": 1,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "J",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 1145-0110PM",

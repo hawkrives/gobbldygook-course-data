@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "20th Century Cuba",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0100-0300PM"

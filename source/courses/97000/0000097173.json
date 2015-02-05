@@ -5,15 +5,16 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 300,
 	"name": "IR/Screendance & Perform",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

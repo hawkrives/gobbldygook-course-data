@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Tchg of Soc Studies",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 0600-0730PM"

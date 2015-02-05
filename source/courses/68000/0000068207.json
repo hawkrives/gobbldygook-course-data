@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 124"
+	],
 	"name": "IS/Austen and Pop Culture",
 	"num": 298,
 	"pf": false,
-	"places": [
-		"RNS 124"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1240PM"

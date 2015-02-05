@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Amy R. Gohdes-Luhman"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Amy R. Gohdes-Luhman"
-	],
-	"sect": "S",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "S",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "General Chemistry",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"times": [
 		"MWF 1045-1140"

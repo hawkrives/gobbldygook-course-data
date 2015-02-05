@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Todd F. Edwards"
+	],
 	"level": 200,
 	"name": "IS/Scenic Art & Tech",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Todd F. Edwards"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Study",
 	"type": "Research",

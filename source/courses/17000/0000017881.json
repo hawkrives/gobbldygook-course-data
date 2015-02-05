@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Jan Shoger"
+	],
 	"level": 100,
+	"locations": [
+		"FH 42"
+	],
 	"name": "Found Conceptual Draw",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"FH 42"
-	],
-	"profs": [
-		"Jan Shoger"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0200-0255PM"

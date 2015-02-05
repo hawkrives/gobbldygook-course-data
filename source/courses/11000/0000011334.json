@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"desc": "Independent Research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, students conceive and perform a research project leading to the writng of a major research paper and a poster presentation. Independant research requires permission of a supervisor, a secondary faculty reader of the paper and completion of an independantresearch form.",
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
 	"name": "IR/TB Operons",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey Dahlseid"
+	],
 	"level": 300,
+	"locations": [
+		"SC 274"
+	],
 	"name": "Biochemistry I",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"SC 274"
-	],
-	"profs": [
-		"Jeffrey Dahlseid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 200,
-	"name": "Marriage & the Family",
-	"num": 260,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 3,
+	"name": "Marriage & the Family",
+	"num": 260,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

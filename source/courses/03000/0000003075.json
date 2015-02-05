@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
 	"name": "IR/Writ Short Fiction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Writ Short Fiction",
 	"type": "Research",

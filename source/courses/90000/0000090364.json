@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 122,
+	"instructors": [
+		"Lisa M. Bowers"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 394"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"RNS 394"
-	],
-	"profs": [
-		"Lisa M. Bowers"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"Th 0215-0515PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 100,
-	"name": "Foundation 2-D Media",
-	"num": 102,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 216",
 		"DC 216"
 	],
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Foundation 2-D Media",
+	"num": 102,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0245PM",

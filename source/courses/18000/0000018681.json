@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Joan Odd"
+	],
 	"level": 100,
+	"locations": [
+		"M 21"
+	],
 	"name": "Beginning Spanish I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Joan Odd"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

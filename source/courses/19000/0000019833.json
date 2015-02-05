@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "Arts Management",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Novel",
 	"num": 283,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Olivia Frey"
+	],
 	"level": 300,
 	"name": "IR/Linguistics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Olivia Frey"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Linguistics",
 	"type": "Research",

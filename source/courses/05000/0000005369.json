@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
 	"name": "IR/Number Forms",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Number Forms",
 	"type": "Research",

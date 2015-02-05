@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Geoffrey Gorham"
+	],
 	"level": 200,
+	"locations": [
+		"CT 216"
+	],
 	"name": "Philosophy & Science",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"CT 216"
-	],
-	"profs": [
-		"Geoffrey Gorham"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0200-0255PM"

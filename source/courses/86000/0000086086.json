@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 200,
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 10",
 		"OM 10"
 	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 222,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

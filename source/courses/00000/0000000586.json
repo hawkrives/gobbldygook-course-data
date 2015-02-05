@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"William Scott Gregory"
+	],
 	"level": 300,
 	"name": "IR/Business Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William Scott Gregory"
-	],
-	"sect": "I",
-	"sem": 1,
+	"section": "I",
+	"semester": 1,
+	"status": "O",
 	"term": 20001,
 	"title": "IR/Business Analysis",
 	"type": "Research",

@@ -6,19 +6,20 @@
 		"BIO"
 	],
 	"groupid": 171,
-	"level": 300,
-	"name": "Animal Behavior",
-	"num": 386,
-	"pf": false,
-	"places": [
-		"SC 374",
-		"SC 374"
-	],
-	"profs": [
+	"instructors": [
 		"James Dickson Jr.",
 		"Louis Henry Kermott"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"SC 374",
+		"SC 374"
+	],
+	"name": "Animal Behavior",
+	"num": 386,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 0935-1100",

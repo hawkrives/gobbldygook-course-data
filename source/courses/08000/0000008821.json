@@ -5,14 +5,15 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
 	"name": "ID French St--Paris",
 	"num": 275,
 	"pf": false,
-	"profs": [
-		"Wendy Allen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"title": "ID French St--Paris",
 	"type": "Research",

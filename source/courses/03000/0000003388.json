@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Special Topics",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

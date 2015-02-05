@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Judith Stromayer"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Archery",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Judith Stromayer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0800-0855"

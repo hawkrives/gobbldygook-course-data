@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 200,
-	"num": 239,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"Guido Alvarez"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"DC 100"
+	],
+	"num": 239,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"times": [
 		"MWF 1045-1245PM"

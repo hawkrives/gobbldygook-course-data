@@ -5,15 +5,16 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"title": "Academic Internship",
 	"type": "Research",

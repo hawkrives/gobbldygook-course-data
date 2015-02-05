@@ -7,18 +7,19 @@
 	],
 	"groupid": 192,
 	"grouptype": "2",
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/363"
+	],
 	"name": "Struct Chem/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 374/363"
-	],
-	"profs": [
-		"Robert Hanson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"T 0800-1100"

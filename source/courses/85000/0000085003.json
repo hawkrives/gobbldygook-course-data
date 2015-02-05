@@ -10,17 +10,18 @@
 		"IST"
 	],
 	"groupid": 207,
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 208"
+	],
 	"notes": "Students in Chem 371 must also register for Chem 357 AL or BL.",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"RNS 208"
-	],
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

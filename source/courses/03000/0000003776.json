@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
 	"name": "IR/Phospholipase",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "H",
-	"sem": 1,
+	"section": "H",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"title": "IR/Phospholipase",
 	"type": "Research",

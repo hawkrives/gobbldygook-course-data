@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Dorer Kari L."
+	],
 	"level": 100,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Beginning Norwegian I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Dorer Kari L."
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"times": [
 		"M-F 1230-0200PM"

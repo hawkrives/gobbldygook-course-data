@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 200,
 	"name": "FLC-Spanish",
 	"num": 257,
 	"pf": true,
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "FLC-Spanish",
 	"type": "Research",

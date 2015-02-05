@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Timothy Mahr"
+	],
 	"level": 200,
 	"name": "IS/Band Score Study",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Timothy Mahr"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Band Score Study",
 	"type": "Research",

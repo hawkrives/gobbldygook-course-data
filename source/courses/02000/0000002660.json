@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
 	"name": "Multi-Cult Ed Hawaii",
 	"num": 378,
 	"pf": true,
-	"profs": [
-		"Mark Schelske"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"title": "Multi-Cult Ed Hawaii",
 	"type": "Research",

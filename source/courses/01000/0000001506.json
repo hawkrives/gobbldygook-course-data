@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
+	"locations": [
+		"SAC N GYM"
+	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"SAC N GYM"
-	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1255-0150PM"

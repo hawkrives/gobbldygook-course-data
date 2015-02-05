@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "Soc/Ethics & Medicine",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"M 0700-1000PM"

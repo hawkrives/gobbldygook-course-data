@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Biblical Hebrew II",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Rebecca A. Benedict"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Nutrition & Wellness",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Rebecca A. Benedict"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0800-1000"

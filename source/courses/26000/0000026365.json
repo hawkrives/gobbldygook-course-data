@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
+	"locations": [
+		"CTR ST"
+	],
 	"name": "Am Dn: Native/Immigrnt",
 	"num": 108,
 	"pf": true,
-	"places": [
-		"CTR ST"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 1150-1245PM"

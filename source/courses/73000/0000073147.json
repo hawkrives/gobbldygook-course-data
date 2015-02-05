@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Paul J. Roback"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 354"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"RNS 354"
-	],
-	"profs": [
-		"Paul J. Roback"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 1045-1140"

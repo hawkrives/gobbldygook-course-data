@@ -5,14 +5,15 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
 	"name": "Hardware Design",
 	"num": 241,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20045,
 	"title": "Hardware Design",
 	"type": "Research",

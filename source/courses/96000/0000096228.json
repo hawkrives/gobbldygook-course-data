@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"groupid": 743,
-	"level": 200,
-	"name": "Math of Biology Lab",
-	"num": 236,
-	"pf": false,
-	"places": [
-		"RNS 398"
-	],
-	"profs": [
+	"instructors": [
 		"Rebecca M. Vandiver",
 		"Anne Walter"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 398"
+	],
+	"name": "Math of Biology Lab",
+	"num": 236,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"M 1255-0300PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
 	"name": "IS/Phil in Dostoevsky",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Phil in Dostoevsky",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jenny Dunning"
+	],
 	"level": 300,
 	"name": "IR/Adv. Travel Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jenny Dunning"
-	],
-	"sect": "A",
-	"sem": 5,
+	"section": "A",
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"title": "Independent Research",
 	"type": "Research",

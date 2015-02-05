@@ -6,13 +6,14 @@
 		"MGMT"
 	],
 	"desc": "This course focuses on using Microsoft Excel to analyze common management problems and develop solutions. Microsoft PowerPoint, a presentation graphics software program, is also introduced. Offered during Interim.",
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
 	"num": 230,
 	"pf": false,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"times": [
 		"M-F 1040-1240PM"

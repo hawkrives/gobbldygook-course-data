@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 300,
 	"name": "Adv Sport Medicine",
 	"num": 355,
 	"pf": false,
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Adv Sport Medicine",
 	"type": "Research",

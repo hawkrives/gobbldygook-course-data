@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 200,
 	"name": "IS/20th Cent Amer Poetry",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Titus"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Study",
 	"type": "Research",

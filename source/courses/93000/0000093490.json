@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Thomas St. George"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Thomas St. George"
-	],
-	"sem": 2,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 1040-1240PM",

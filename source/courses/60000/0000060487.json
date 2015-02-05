@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Shirin Deylami"
+	],
 	"level": 200,
+	"locations": [
+		"OM 003"
+	],
 	"name": "Top: Feminist Pol Theory",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
-		"Shirin Deylami"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"MWF 1045-1140"

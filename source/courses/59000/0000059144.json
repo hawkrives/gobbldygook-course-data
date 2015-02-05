@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
 	"name": "IS/Fellowship",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Study",
 	"type": "Research",

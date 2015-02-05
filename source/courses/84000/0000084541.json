@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"groupid": 1084,
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 294"
+	],
 	"name": "Electronic Circuits Lab",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"RNS 294"
-	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0120-0420PM"

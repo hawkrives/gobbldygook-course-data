@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Intro Russ Lit I-Tr",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

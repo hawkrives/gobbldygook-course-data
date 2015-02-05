@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 300,
 	"name": "IR/Eastern Orthodoxy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Eastern Orthodoxy",
 	"type": "Research",

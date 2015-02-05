@@ -5,17 +5,18 @@
 	"depts": [
 		"ARMS"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Intro to Arms",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

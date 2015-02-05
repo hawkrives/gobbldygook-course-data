@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Scott Woitaszewski"
+	],
 	"level": 100,
+	"locations": [
+		"H 307"
+	],
 	"name": "Principles: Exp Psych",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Scott Woitaszewski"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

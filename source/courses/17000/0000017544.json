@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"David Kuchera"
+	],
 	"level": 200,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Hum Behav in Soc Env",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"David Kuchera"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"MWF 1150-1245PM"

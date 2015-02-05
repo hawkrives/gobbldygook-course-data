@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Chr Theol/Moral Life",
 	"num": 207,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 0100-0300PM"

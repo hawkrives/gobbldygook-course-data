@@ -10,16 +10,17 @@
 		"ALS-L",
 		"FOL-L"
 	],
-	"level": 200,
-	"num": 235,
-	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
+	"instructors": [
 		"Christopher M. Brunelle"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"OM 031"
+	],
+	"num": 235,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0905-1000"

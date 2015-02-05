@@ -6,18 +6,19 @@
 		"DANCE"
 	],
 	"desc": "This course provides students with an introduction to ballet vocabulary, technique and body awareness. Offered both semesters. Can be repeated with instructor's permission.",
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 100,
-	"num": 121,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC _STUDIO_2",
 		"DC _STUDIO_2"
 	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 121,
+	"pf": true,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"T 1150-1245PM",

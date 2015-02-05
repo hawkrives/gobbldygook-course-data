@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Mary C. Henry"
+	],
 	"level": 300,
 	"name": "IR/Learning in Flies",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary C. Henry"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Learning in Flies",
 	"type": "Research",

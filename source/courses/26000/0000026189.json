@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"David E. Ryan"
+	],
 	"level": 200,
+	"locations": [
+		"SC 18"
+	],
 	"name": "Video Art Production",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"SC 18"
-	],
-	"profs": [
-		"David E. Ryan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0800-1100"

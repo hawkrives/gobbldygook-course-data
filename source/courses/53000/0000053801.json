@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 200,
 	"name": "IS/Sustainable Living",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Study",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 200,
+	"locations": [
+		"H 301"
+	],
 	"name": "Sex Differences",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"H 301"
-	],
-	"profs": [
-		"Mark Sundby"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"M 0700-1000PM"

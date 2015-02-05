@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Juliet A. Lynd"
+	],
 	"level": 200,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Cult & Civ of Lat Am",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Juliet A. Lynd"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

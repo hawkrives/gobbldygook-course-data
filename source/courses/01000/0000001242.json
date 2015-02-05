@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Wee"
+	],
 	"level": 300,
 	"name": "IR/Poetry & Fiction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Wee"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Poetry & Fiction",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 300,
+	"locations": [
+		"RML 520"
+	],
 	"name": "Adv Creative Nonfict",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

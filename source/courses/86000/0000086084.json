@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Michael Fuerstein"
+	],
 	"level": 200,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Democra:Rule of Ignorant?",
 	"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Michael Fuerstein"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0200-0255PM"

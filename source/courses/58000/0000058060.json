@@ -6,14 +6,15 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 300,
 	"name": "IR/Apprenticeship",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research: Art History",
 	"type": "Research",

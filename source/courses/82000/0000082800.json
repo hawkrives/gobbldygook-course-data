@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Torin D. Alexander"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 140",
 		"OM 140"
 	],
-	"profs": [
-		"Torin D. Alexander"
-	],
-	"sect": "K",
-	"sem": 1,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "K",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0935-1100",

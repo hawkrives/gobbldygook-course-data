@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Kenneth Alberts"
+	],
 	"level": 100,
+	"locations": [
+		"L 250"
+	],
 	"name": "Prin of Statistics",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"L 250"
-	],
-	"profs": [
-		"Kenneth Alberts"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Principles Physics II Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"times": [
 		"MW 0100-0330PM"

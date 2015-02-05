@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 139,
+	"instructors": [
+		"Kathleen L. Shea"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 440"
+	],
 	"name": "Ecological Principles Lab",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"RNS 440"
-	],
-	"profs": [
-		"Kathleen L. Shea"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 1145-0245PM"

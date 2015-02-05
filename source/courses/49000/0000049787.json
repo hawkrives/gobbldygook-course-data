@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 300,
 	"name": "IR/Painting and Drawing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "Independent Research: Art History",
 	"type": "Research",

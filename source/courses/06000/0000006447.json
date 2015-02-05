@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 200,
 	"name": "IS/Medical Shadowing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/Medical Shadowing",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Scott Nesbit"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Intermediate Tennis",
 	"num": 158,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Scott Nesbit"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
+	"locations": [
+		"HH 204"
+	],
 	"name": "Human Neuropsychology Lab",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"HH 204"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"F 0800-0855"

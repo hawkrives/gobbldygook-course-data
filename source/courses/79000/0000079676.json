@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"Amy Larsen"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Principles Physics II",
 	"notes": "Students in Physics 125 must also register for one lab Physics 125 AL, BL, CL, DL, or EL.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Amy Larsen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 1150-1245PM"

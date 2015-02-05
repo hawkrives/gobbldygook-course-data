@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
-	"name": "Jesus in Script/Trad",
-	"num": 221,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Jesus in Script/Trad",
+	"num": 221,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

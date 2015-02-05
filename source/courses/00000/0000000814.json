@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 100,
-	"name": "Econ Thru Experiments",
-	"num": 110,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 302",
 		"H 302"
 	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sem": 2,
+	"name": "Econ Thru Experiments",
+	"num": 110,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"MWTh 1040-1200PM",

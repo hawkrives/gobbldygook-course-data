@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Ji Hoon Ryoo"
+	],
 	"level": 200,
+	"locations": [
+		"RML 250"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"RML 250"
-	],
-	"profs": [
-		"Ji Hoon Ryoo"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1045-1140"

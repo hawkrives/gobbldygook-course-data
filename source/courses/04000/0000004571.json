@@ -5,14 +5,15 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Mark Schelske"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "Academic Internship",
 	"type": "Research",

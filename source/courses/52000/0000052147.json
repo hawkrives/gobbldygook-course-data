@@ -6,16 +6,17 @@
 		"PEAC"
 	],
 	"desc": "Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard. Prerequisite: Physical Eduction 121 or 130.",
-	"level": 100,
-	"num": 122,
-	"pf": false,
-	"places": [
-		"SAC_POOL"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Hauck"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC_POOL"
+	],
+	"num": 122,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"TTh 1255-0150PM"

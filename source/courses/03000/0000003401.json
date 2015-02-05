@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "Environmentl Politics",
 	"num": 276,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"M 0700-1000PM"

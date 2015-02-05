@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
+	"locations": [
+		"DC  STUDIO 1"
+	],
 	"name": "Ballroom I (Women)",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"DC  STUDIO 1"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0200-0255PM"

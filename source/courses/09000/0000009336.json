@@ -5,19 +5,20 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Elizabeth A. Leer"
+	],
 	"level": 300,
-	"name": "Principles of Educ",
-	"num": 330,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Elizabeth A. Leer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Principles of Educ",
+	"num": 330,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

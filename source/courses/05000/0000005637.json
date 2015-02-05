@@ -5,14 +5,15 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20025,
 	"title": "Academic Internship",
 	"type": "Research",

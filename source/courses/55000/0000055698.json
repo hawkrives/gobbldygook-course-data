@@ -6,17 +6,18 @@
 		"INTD"
 	],
 	"groupid": 17719,
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"YH Conf Rm"
+	],
 	"name": "Test Course Disc",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"YH Conf Rm"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"T 0800-0900"

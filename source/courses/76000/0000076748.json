@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Karen Gervais"
+	],
 	"level": 200,
-	"name": "Philosophy & Feminism",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Karen Gervais"
-	],
-	"sem": 3,
+	"name": "Philosophy & Feminism",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

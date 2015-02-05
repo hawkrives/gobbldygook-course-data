@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Olivia Frey"
+	],
 	"level": 300,
 	"name": "IR/Creative Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Olivia Frey"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"title": "IR/Creative Writing",
 	"type": "Research",

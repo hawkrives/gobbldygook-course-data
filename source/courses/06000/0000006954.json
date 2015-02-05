@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 100,
+	"locations": [
+		"RML 420"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

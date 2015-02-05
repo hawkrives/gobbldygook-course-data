@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Jan Shoger"
+	],
 	"level": 200,
 	"name": "IS/Printmaking",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jan Shoger"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Printmaking",
 	"type": "Research",

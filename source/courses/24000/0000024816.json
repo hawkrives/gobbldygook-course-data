@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Intro Astronomy",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1150-1245PM"

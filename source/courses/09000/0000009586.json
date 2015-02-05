@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 200,
-	"name": "Multivariable Calc",
-	"num": 226,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Paul Zorn"
-	],
-	"sem": 3,
+	"name": "Multivariable Calc",
+	"num": 226,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

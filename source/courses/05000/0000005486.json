@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 300,
-	"name": "Top: Theatre Architec",
-	"num": 379,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Green Rm",
 		"TB Green Rm"
 	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"name": "Top: Theatre Architec",
+	"num": 379,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

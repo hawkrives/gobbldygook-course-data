@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"SAC 112"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

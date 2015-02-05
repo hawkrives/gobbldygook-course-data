@@ -5,18 +5,19 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 100,
+	"locations": [
+		"M 3"
+	],
 	"name": "Beginning Russian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

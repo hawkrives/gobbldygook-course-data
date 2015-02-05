@@ -6,16 +6,17 @@
 		"BIO"
 	],
 	"desc": "Bird watching is a passion for many. This course introduces to avian biology, behavior, and appreciation through a combination of lectures, hands-on experiences, and field trips. Students learn about many native Minnesota birds and gain an appreciation for their place in nature. One hour lecture per week and two required field trips, times to be determined. Offered alternate years.",
-	"level": 100,
-	"num": 145,
-	"pf": true,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
+	"instructors": [
 		"Louis Henry Kermott"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
+	"num": 145,
+	"pf": true,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"W 0200-0300PM"

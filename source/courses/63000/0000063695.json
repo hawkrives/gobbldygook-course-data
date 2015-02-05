@@ -6,14 +6,15 @@
 		"PARAF"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Staff"
+	],
 	"level": 900,
 	"name": "Test course with MSD",
 	"num": 950,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "Test course with MSD",
 	"type": "Research",

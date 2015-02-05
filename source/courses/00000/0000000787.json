@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Jon Hallberg"
+	],
 	"level": 100,
-	"name": "Epidemic",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"VIKING THTR"
 	],
-	"profs": [
-		"Jon Hallberg"
-	],
-	"sem": 2,
+	"name": "Epidemic",
+	"num": 137,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1200PM",

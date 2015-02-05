@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Konrad Talbot"
+	],
 	"level": 300,
 	"name": "IR/Cyanide and Nos",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Konrad Talbot"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Cyanide and Nos",
 	"type": "Research",

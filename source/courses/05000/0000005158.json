@@ -5,19 +5,20 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"Angelica Fenner"
+	],
 	"level": 200,
-	"name": "World Cinema",
-	"num": 240,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 278",
 		"VIKING THTR"
 	],
-	"profs": [
-		"Angelica Fenner"
-	],
-	"sem": 3,
+	"name": "World Cinema",
+	"num": 240,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

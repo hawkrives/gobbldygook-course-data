@@ -10,18 +10,19 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 114"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 114"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Paul Cabe"
+	],
 	"level": 300,
 	"name": "IR/Adv Molec Tech",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Cabe"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Adv Molec Tech",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 300,
-	"name": "Adv Non-Fiction Wrtg",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sem": 3,
+	"name": "Adv Non-Fiction Wrtg",
+	"num": 373,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

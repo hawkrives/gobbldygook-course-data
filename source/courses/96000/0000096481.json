@@ -9,20 +9,21 @@
 	"gereqs": [
 		"HWC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"HH 302",
+		"HH 302"
+	],
 	"name": "Sociological Theory",
 	"notes": "Open to Sociology/Anthropology majors only. This section has been canceled",
 	"num": 291,
 	"pf": false,
-	"places": [
-		"HH 302",
-		"HH 302"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "X",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

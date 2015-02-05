@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 300,
 	"name": "IR/Modern Geometries",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Martha Wallace"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

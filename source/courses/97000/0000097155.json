@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
-	"name": "Media/Contemp Culture",
-	"num": 260,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB 216",
 		"TB 216"
 	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 1,
+	"name": "Media/Contemp Culture",
+	"num": 260,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 1145-0110PM",

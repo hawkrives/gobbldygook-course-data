@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 300,
-	"name": "Ethical ISSues/Gr Con",
-	"num": 310,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"CD 204"
 	],
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sem": 3,
+	"name": "Ethical ISSues/Gr Con",
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

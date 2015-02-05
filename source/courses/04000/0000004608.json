@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Peter S. Hamlin"
+	],
 	"level": 300,
 	"name": "IR/Electronic Music",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Peter S. Hamlin"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Electronic Music",
 	"type": "Research",

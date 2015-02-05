@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 200,
+	"locations": [
+		"SH 01"
+	],
 	"name": "U.S. Since 1865",
 	"num": 206,
 	"pf": false,
-	"places": [
-		"SH 01"
-	],
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

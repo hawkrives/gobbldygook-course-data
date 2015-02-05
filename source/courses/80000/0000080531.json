@@ -9,16 +9,17 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 200,
-	"num": 224,
-	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
+	"instructors": [
 		"Anna Kuxhausen"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
+	"num": 224,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 0905-1000"

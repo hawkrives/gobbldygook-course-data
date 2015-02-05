@@ -10,18 +10,19 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 200,
+	"locations": [
+		"OM 001"
+	],
 	"name": "Vikings in Literature",
 	"notes": "Open to First-Year Students.",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"OM 001"
-	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 0100-0300PM"

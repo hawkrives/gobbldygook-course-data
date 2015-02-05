@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 300,
-	"name": "Lit/Soc/La: Topics",
-	"num": 314,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sem": 3,
+	"name": "Lit/Soc/La: Topics",
+	"num": 314,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

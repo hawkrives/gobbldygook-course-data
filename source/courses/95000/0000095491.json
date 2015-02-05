@@ -6,14 +6,15 @@
 		"CSCI"
 	],
 	"desc": "This is an intermediate-level version of CSCI 394.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"title": "Internship",
 	"type": "Research",

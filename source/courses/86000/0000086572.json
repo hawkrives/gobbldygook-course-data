@@ -10,18 +10,19 @@
 		"ALS-L",
 		"HWC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 200,
-	"name": "Hist Theater-To 1700",
-	"num": 270,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 101",
 		"BMC 101"
 	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 3,
+	"name": "Hist Theater-To 1700",
+	"num": 270,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Robert Hedin"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Cr Writ II: Poet/Fict",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Robert Hedin"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 19991,
 	"times": [
 		"T 0600-0900PM"

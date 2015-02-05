@@ -6,16 +6,17 @@
 		"SPAN"
 	],
 	"desc": "Students begin learning Spanish through listening, speaking, reading, and writing about topics familiar to them, including family, academic, and social life, in an intercultural context. They reinforce these skills through complementary exercises in the World Languages Center. Open only to students with no prior experience in Spanish or who have placed into Spanish 111. Offered during interim.",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
+	"instructors": [
 		"Kris A. Cropsey"
 	],
-	"sem": 4,
+	"level": 100,
+	"locations": [
+		"TOH 308"
+	],
+	"num": 111,
+	"pf": false,
+	"semester": 4,
+	"status": "X",
 	"term": 20104,
 	"times": [
 		"M-F 1000-1130"

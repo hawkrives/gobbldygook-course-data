@@ -6,18 +6,19 @@
 		"MUSEN"
 	],
 	"desc": "The college's touring symphonic band of approximately 90-95 instrumentalists performs a broad range of repertoire for winds and percussion. Participation is by audition. The ensemble conductor provides full details of all rehearsal and performance obligations. P/N only. May be repeated. Students in the St. Olaf Band are required to register for lessons on their band instrumen t.",
+	"instructors": [
+		"John Lace"
+	],
 	"level": 100,
-	"num": 112,
-	"pf": true,
-	"places": [
+	"locations": [
 		"CHM 138",
 		"CHM 138",
 		"CHM 138"
 	],
-	"profs": [
-		"John Lace"
-	],
-	"sem": 3,
+	"num": 112,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"M 0315-0445PM",

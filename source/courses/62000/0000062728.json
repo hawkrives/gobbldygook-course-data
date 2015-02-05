@@ -7,18 +7,19 @@
 	],
 	"groupid": 194,
 	"grouptype": "1",
+	"instructors": [
+		"Kristopher J. Keuseman"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Kristopher J. Keuseman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0800-1100"

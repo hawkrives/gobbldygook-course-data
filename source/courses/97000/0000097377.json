@@ -12,19 +12,20 @@
 	],
 	"groupid": 26649,
 	"grouptype": "3",
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150C must also register for one lab Bio 150 EL or FL.",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

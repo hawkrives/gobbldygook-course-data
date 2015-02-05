@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 300,
-	"name": "Oral/Written Express",
-	"num": 379,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 30",
 		"M 30"
 	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sem": 2,
+	"name": "Oral/Written Express",
+	"num": 379,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"M-F 0900-1000",

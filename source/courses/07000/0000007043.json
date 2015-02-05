@@ -5,18 +5,19 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 200,
-	"name": "Intermed Japanese II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 002",
 		"OM 002"
 	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"name": "Intermed Japanese II",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM",

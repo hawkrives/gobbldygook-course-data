@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 200,
 	"name": "IS/Life Sculpture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Irve Dell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "IS/Life Sculpture",
 	"type": "Research",

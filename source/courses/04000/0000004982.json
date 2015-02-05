@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 100,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Conservation Biology",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MW 0100-0300PM"

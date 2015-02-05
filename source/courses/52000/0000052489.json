@@ -6,16 +6,17 @@
 		"PEAC"
 	],
 	"desc": "Students learn the fundamental skills, rules, techniques, and strategies associated with the sport of Ultimate Frisbee.",
-	"level": 100,
-	"num": 117,
-	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
+	"instructors": [
 		"Scott Nesbit"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
+	"num": 117,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MW 1255-0150PM"

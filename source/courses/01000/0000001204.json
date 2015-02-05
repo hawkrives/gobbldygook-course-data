@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 200,
+	"locations": [
+		"YTT CONF RM"
+	],
 	"name": "Movement Analysis",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"YTT CONF RM"
-	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

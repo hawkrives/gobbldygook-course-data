@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 122,
+	"instructors": [
+		"Sara E. Fruehling"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 394"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"RNS 394"
-	],
-	"profs": [
-		"Sara E. Fruehling"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0420PM"

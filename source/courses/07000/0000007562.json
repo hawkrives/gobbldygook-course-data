@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Children's Literature",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "C",
 	"term": 20035,
 	"times": [
 		"M-F 1000-1130"

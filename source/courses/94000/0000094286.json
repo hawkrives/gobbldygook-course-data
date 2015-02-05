@@ -10,19 +10,20 @@
 		"FOL-C"
 	],
 	"groupid": 241,
+	"instructors": [
+		"Hsiang-Lin Shih"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Intermed Chinese I",
 	"notes": "Students in Chinese 231A must also register for one lab Chinese 231AL or BL.",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"TOH 316"
-	],
-	"profs": [
-		"Hsiang-Lin Shih"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 0905-1000"

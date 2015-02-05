@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 300,
 	"name": "IR/Spme-Env Profiles",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19991,
 	"title": "IR/Spme-Env Profiles",
 	"type": "Research",

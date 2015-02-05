@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
 	"name": "IR/Nucleic Acid",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "P",
-	"sem": 3,
+	"section": "P",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 100,
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Romans & Christians",
 	"type": "Research",

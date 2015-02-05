@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Adam H. Berliner"
+	],
 	"level": 300,
 	"name": "IR/Adv Linear Algebra",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Adam H. Berliner"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

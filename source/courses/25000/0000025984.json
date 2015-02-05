@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
 	"name": "IS/Exotic Species Is",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"title": "IS/Exotic Species Is",
 	"type": "Research",

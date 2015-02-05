@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 200,
-	"name": "Ethics/The Good Life",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Ethics/The Good Life",
+	"num": 252,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0120-0245PM",

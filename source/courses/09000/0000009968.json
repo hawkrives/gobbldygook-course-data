@@ -5,18 +5,19 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Sarah M. Ferguson"
+	],
 	"level": 200,
-	"name": "Eval/Sw Practice/Prog",
-	"num": 274,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 110",
 		"SC 110"
 	],
-	"profs": [
-		"Sarah M. Ferguson"
-	],
-	"sem": 3,
+	"name": "Eval/Sw Practice/Prog",
+	"num": 274,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

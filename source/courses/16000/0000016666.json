@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Rhetoric/Early Wm",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 4,
+	"section": "B",
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "IR/Rhetoric/Early Wm",
 	"type": "Research",

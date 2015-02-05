@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 300,
 	"name": "IR/Equity Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IR/Equity Analysis",
 	"type": "Research",

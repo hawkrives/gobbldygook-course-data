@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 200,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Dissenters/Defenders",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0200-0255PM"

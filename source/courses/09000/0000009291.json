@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 200,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Economic Methods",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Edward David Emery"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

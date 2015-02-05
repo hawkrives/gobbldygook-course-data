@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 200,
+	"locations": [
+		"SC 18"
+	],
 	"name": "Exploring Symmetry",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"SC 18"
-	],
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"Th 0935-1100"

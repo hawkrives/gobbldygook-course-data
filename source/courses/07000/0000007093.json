@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 300,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Math Statistics",
 	"num": 312,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

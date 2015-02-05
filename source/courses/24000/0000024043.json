@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
 	"name": "IR/Urban Teaching",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark Schelske"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"title": "IR/Urban Teaching",
 	"type": "Research",

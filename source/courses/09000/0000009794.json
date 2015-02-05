@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Modern Physics",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

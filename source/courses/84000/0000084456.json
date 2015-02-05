@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Keir Fogarty"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Chemical Reactions Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Keir Fogarty"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"W 1150-0250PM"

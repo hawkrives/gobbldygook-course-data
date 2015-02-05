@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 300,
-	"name": "Mgmt Policy & Strat",
-	"num": 383,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"name": "Mgmt Policy & Strat",
+	"num": 383,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

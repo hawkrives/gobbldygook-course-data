@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Mark P. Bresnan"
+	],
 	"level": 200,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Auth Engl: Am 1920s-30s",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Mark P. Bresnan"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

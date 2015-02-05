@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Kaethe Schwehn"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 124"
+	],
 	"name": "IS/Writing Popular Sci",
 	"num": 298,
 	"pf": false,
-	"places": [
-		"RNS 124"
-	],
-	"profs": [
-		"Kaethe Schwehn"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1240PM"

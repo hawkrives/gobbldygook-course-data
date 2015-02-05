@@ -5,18 +5,19 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 200,
-	"name": "Geometry and Culture",
-	"num": 208,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 2,
+	"name": "Geometry and Culture",
+	"num": 208,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1200PM",

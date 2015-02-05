@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
 	"name": "IS/Promo W/Dig Arts",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Promo W/Dig Arts",
 	"type": "Research",

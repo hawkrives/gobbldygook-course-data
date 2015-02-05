@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Timothy R. Howe"
+	],
 	"level": 300,
-	"name": "Sem: Greek Civilizatn",
-	"num": 302,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Timothy R. Howe"
-	],
-	"sem": 3,
+	"name": "Sem: Greek Civilizatn",
+	"num": 302,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

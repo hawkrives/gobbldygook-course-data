@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Marit Westergaard"
+	],
 	"level": 200,
+	"locations": [
+		"H 307"
+	],
 	"name": "Issues 1st & 2nd Lang",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Marit Westergaard"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

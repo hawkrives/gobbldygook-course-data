@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
+	"locations": [
+		"M 21"
+	],
 	"name": "Applied Linguistics",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0800-0925"

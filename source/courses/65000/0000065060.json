@@ -10,18 +10,19 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Megan J. Feeney"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216"
+	],
 	"notes": "This course has class year limits.",
 	"num": 160,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Megan J. Feeney"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

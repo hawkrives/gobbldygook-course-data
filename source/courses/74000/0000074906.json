@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 200,
 	"name": "IS/20th Century Poetry",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Colin Wells"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered. May be repeated if topics are different. Prerequisites: Political Science 220, and one course in the subfield or permission of instructor.",
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 300,
-	"name": "Sem:Courageous Resistance",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 3,
+	"name": "Sem:Courageous Resistance",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0245PM",

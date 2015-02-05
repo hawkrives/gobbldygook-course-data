@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Cecilia Cornejo"
+	],
 	"level": 100,
-	"name": "Intro to Film Studies",
-	"notes": "Film screenings Monday evenings. This course has class-year limits",
-	"num": 101,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421",
 		"HH 501"
 	],
-	"profs": [
-		"Cecilia Cornejo"
-	],
-	"sem": 3,
+	"name": "Intro to Film Studies",
+	"notes": "Film screenings Monday evenings. This course has class-year limits",
+	"num": 101,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

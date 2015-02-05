@@ -6,14 +6,15 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 300,
 	"name": "IR/Textile Sculpture",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Irve Dell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research: Art History",
 	"type": "Research",

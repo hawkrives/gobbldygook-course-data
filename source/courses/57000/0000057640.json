@@ -6,16 +6,17 @@
 		"ESAC"
 	],
 	"desc": "Beginning level archers learn shooting skills. Students have opportunities for shooting both recurve and compound bows.",
-	"level": 100,
-	"num": 101,
-	"pf": false,
-	"places": [
-		"SAC_FH"
-	],
-	"profs": [
+	"instructors": [
 		"William Thornton"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC_FH"
+	],
+	"num": 101,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 0800-0855"

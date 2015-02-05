@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Linda Devenish"
+	],
 	"level": 300,
+	"locations": [
+		"CT 216"
+	],
 	"name": "Topics: Intercult Comm",
 	"num": 389,
 	"pf": false,
-	"places": [
-		"CT 216"
-	],
-	"profs": [
-		"Linda Devenish"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

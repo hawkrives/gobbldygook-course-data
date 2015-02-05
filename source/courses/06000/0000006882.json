@@ -5,19 +5,20 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 200,
-	"name": "Modern Dance II",
-	"num": 211,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC _STUDIO_3",
 		"DC _STUDIO_3"
 	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Modern Dance II",
+	"num": 211,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

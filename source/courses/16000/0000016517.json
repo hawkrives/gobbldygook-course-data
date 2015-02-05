@@ -5,14 +5,15 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Spanish Drama",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"title": "IR/Spanish Drama",
 	"type": "Research",

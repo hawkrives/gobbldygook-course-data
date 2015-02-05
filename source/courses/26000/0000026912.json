@@ -5,17 +5,18 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Kenneth Alberts"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Design of Experiments",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Kenneth Alberts"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

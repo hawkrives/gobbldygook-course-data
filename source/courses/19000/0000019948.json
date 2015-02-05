@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Konrad Talbot"
+	],
 	"level": 200,
+	"locations": [
+		"H 204"
+	],
 	"name": "Alzheimer's Disease",
 	"num": 227,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"Konrad Talbot"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
 	"name": "IS/Comp Cd Marketing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Comp Cd Marketing",
 	"type": "Research",

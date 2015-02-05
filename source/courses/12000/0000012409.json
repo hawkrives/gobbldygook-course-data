@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 200,
-	"name": "Spanish 1st/2nd Lang",
-	"num": 276,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 3,
+	"name": "Spanish 1st/2nd Lang",
+	"num": 276,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

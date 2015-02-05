@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joseph L. Mbele"
+	],
 	"level": 200,
+	"locations": [
+		"L 515"
+	],
 	"name": "Post-Colonial Lit",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Joseph L. Mbele"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-F 1000-1130"

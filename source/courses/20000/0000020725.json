@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark A. Granquist"
+	],
 	"level": 100,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Mark A. Granquist"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

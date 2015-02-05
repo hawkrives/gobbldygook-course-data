@@ -10,18 +10,19 @@
 		"HBS",
 		"ORC"
 	],
+	"instructors": [
+		"Margaret H. O'Leary"
+	],
 	"level": 100,
-	"name": "Norway: Contin/Change",
-	"num": 140,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 015",
 		"OM 015"
 	],
-	"profs": [
-		"Margaret H. O'Leary"
-	],
-	"sem": 3,
+	"name": "Norway: Contin/Change",
+	"num": 140,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

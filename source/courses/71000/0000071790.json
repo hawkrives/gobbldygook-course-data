@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-G"
 	],
+	"instructors": [
+		"Steffen Kaupp"
+	],
 	"level": 200,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Steffen Kaupp"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

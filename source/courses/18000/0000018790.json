@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Cellular Bio & Gen/Lab",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Cellular Bio & Gen/Lab",
 	"type": "Lab",

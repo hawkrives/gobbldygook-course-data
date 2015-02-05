@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Econ Develop in Japan",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0120-0245PM"

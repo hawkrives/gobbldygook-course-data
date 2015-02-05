@@ -5,14 +5,15 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Images of Wellness",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19942,
 	"title": "Images of Wellness",
 	"type": "Research",

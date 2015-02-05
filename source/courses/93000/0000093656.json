@@ -10,17 +10,18 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Alperen Evrin"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Transition Economies",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Alperen Evrin"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

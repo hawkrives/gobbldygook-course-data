@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
+	"instructors": [
 		"Kurt Anderson"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
+	"num": 130,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MW 0800-0855"

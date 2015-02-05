@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 101,
-	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
+	"instructors": [
 		"Philip Lundin"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
+	"num": 101,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0800-0855"

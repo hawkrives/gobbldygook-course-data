@@ -6,15 +6,16 @@
 		"PEAC"
 	],
 	"halfcredit": "2",
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 100,
 	"name": "Individualized Phy Ed",
 	"num": 100,
 	"pf": false,
-	"profs": [
-		"Gary Wicks"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"title": "Individualized Phy Ed",
 	"type": "Research",

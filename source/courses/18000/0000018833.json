@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 200,
 	"name": "IS/Head Start Program",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mark Sundby"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "IS/Head Start Program",
 	"type": "Research",

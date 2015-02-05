@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 300,
 	"name": "Senior Project II",
 	"num": 392,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "Senior Project II",
 	"type": "Research",

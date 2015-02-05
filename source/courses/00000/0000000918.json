@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"T. William Altermatt"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "Altruism/Prosocial",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"T. William Altermatt"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

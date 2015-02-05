@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Cederberg"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Analytical II",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"James Cederberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

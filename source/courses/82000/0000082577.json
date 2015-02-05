@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 105,
-	"pf": true,
-	"places": [
-		"DC Studio 2"
-	],
-	"profs": [
+	"instructors": [
 		"Sheryl Saterstrom"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC Studio 2"
+	],
+	"num": 105,
+	"pf": true,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MF 1045-1140"

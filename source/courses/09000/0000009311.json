@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Math Found Computing",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

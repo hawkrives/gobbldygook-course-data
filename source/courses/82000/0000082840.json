@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Marju Purin"
+	],
 	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 186",
 		"TOH 186"
 	],
-	"profs": [
-		"Marju Purin"
-	],
-	"sect": "E",
-	"sem": 1,
+	"num": 120,
+	"pf": false,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 1145-0110PM",

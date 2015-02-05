@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Buddhism",
 	"num": 257,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 0100-0300PM"

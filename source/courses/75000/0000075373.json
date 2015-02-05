@@ -10,16 +10,17 @@
 	"gereqs": [
 		"MCG"
 	],
-	"level": 200,
-	"num": 257,
-	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
+	"instructors": [
 		"Barbara Reed"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
+	"num": 257,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

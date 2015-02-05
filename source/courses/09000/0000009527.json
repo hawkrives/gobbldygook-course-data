@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 300,
-	"name": "Sem: Revolution",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"name": "Sem: Revolution",
+	"num": 370,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

@@ -6,18 +6,19 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
-	"name": "Teaching Reading 5-12",
-	"num": 321,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sem": 3,
+	"name": "Teaching Reading 5-12",
+	"num": 321,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

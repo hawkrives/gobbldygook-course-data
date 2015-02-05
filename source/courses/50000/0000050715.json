@@ -6,15 +6,16 @@
 		"ENGL"
 	],
 	"groupid": 399,
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Lit in Engl 1650-1850 Dis",
 	"num": 222,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"F 1045-1140"

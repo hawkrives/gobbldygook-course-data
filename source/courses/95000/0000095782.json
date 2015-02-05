@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "This course continues the study in creative composition begun in MUSIC 223 and MUSIC 324 and includes writing for large ensembles. May be repeated. Prerequisites: MUSIC 221, MUSIC 223, MUSIC 324, and permission of instructor. Generally offered each semester.",
-	"level": 300,
-	"num": 325,
-	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
+	"instructors": [
 		"Justin W. Merritt"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"CHM 224"
+	],
+	"num": 325,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

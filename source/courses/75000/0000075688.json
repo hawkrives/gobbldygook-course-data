@@ -6,16 +6,17 @@
 		"CHEM"
 	],
 	"desc": "This course builds depth of biochemical understanding upon the foundation laid in Chemistry 379. Contents may include selected topics in catabolic and anabolic metabolism, integration and regulation of metabolism, photosynthesis and biochemical genetics. In addition, students will gain experience with the primary literature. Prerequisite: Chemistry 379. Offered annually in the spring semester.",
-	"level": 300,
-	"num": 385,
-	"pf": false,
-	"places": [
-		"RNS 435"
-	],
-	"profs": [
+	"instructors": [
 		"Jennifer C. Klein"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"RNS 435"
+	],
+	"num": 385,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

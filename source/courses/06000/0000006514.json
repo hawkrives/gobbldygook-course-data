@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Norman M. Watt"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Romans & Christians",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Norman M. Watt"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

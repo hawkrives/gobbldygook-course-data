@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Gibbons"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Social Deviance",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Michael Gibbons"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-Th 0800-0930"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Stephen Blake"
+	],
 	"level": 200,
+	"locations": [
+		"M 1"
+	],
 	"name": "British India",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Stephen Blake"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0100-0300PM"

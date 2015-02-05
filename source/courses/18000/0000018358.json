@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Jo M. Beld"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Media and Politics",
 	"num": 227,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Jo M. Beld"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

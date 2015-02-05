@@ -6,15 +6,16 @@
 		"BIO"
 	],
 	"groupid": 164,
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
 	"name": "Developmental Biology Lab",
 	"num": 372,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"Th 0215-0515PM"

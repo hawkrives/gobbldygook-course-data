@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Anton Armstrong"
+	],
 	"level": 300,
-	"name": "Advanced Conducting",
-	"num": 354,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 233",
 		"CHM 233"
 	],
-	"profs": [
-		"Anton Armstrong"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Advanced Conducting",
+	"num": 354,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"T 0935-1100",

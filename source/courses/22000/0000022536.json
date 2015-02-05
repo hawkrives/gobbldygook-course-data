@@ -5,14 +5,15 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Nutr in Comm/Lab",
 	"num": 373,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "Nutr in Comm/Lab",
 	"type": "Lab",

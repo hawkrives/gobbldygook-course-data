@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 100,
-	"name": "Principles of Psych",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 501",
 		"SC 282"
 	],
-	"profs": [
-		"Mark Sundby"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Principles of Psych",
+	"num": 121,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MW 1045-1140",

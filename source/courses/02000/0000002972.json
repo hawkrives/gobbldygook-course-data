@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Terry J. Fitzgerald"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Macroeconomic Theory",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Terry J. Fitzgerald"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

@@ -7,14 +7,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Advanced Painting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Advanced Painting",
 			"type": "Research",
@@ -27,15 +28,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Costume Design",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Costume Design",
 			"type": "Research",
@@ -48,15 +50,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Industrial Design",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Industrial Design",
 			"type": "Research",
@@ -69,14 +72,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
 			"level": 100,
 			"name": "Biological Science",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Charles Jr. Umbanhowar"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Biological Science",
 			"type": "Research",
@@ -89,14 +93,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 300,
 			"name": "IR/House Wren Researc",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IR/House Wren Researc",
 			"type": "Research",
@@ -109,17 +114,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 248,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 0800-0930"
@@ -135,17 +141,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 254,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"MT 0100-0400PM"
@@ -161,14 +168,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Steve Soderlind"
+			],
 			"level": 100,
 			"name": "Capitalism: Struggles",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Steve Soderlind"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Capitalism: Struggles",
 			"type": "Research",
@@ -181,14 +189,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -201,17 +210,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen E. Marsalek"
+			],
 			"level": 100,
+			"locations": [
+				"L 515"
+			],
 			"name": "Reading for Life",
 			"num": 132,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Karen E. Marsalek"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1000-1130"
@@ -227,17 +237,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Signe Levine"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Creative Nonfiction",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Signe Levine"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1000-1130"
@@ -253,17 +264,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen E. Marsalek"
+			],
 			"level": 200,
+			"locations": [
+				"L 515"
+			],
 			"name": "Shakespeare & Contemp",
 			"num": 280,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Karen E. Marsalek"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1230-0200PM"
@@ -279,17 +291,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Karen E. Marsalek"
+			],
 			"level": 300,
+			"locations": [
+				"L 515"
+			],
 			"name": "Shakespeare",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Karen E. Marsalek"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1230-0200PM"
@@ -305,14 +318,15 @@
 			"depts": [
 				"IDFA"
 			],
+			"instructors": [
+				"Susan Bauer"
+			],
 			"level": 200,
 			"name": "IS/Perf-Art-Choreog",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Susan Bauer"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Perf-Art-Choreog",
 			"type": "Research",
@@ -325,14 +339,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -345,14 +360,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -365,14 +381,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -385,14 +402,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
 			"level": 200,
 			"name": "Speaking German",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Frederike Von Schwerin-High"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Speaking German",
 			"type": "Research",
@@ -405,17 +423,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "Age of Renaissance",
 			"num": 213,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1000-1130"
@@ -431,14 +450,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -451,17 +471,18 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"J. L. Carrington"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "War and Peace",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"J. L. Carrington"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1230-0200PM"
@@ -477,14 +498,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Anne Groton"
+			],
 			"level": 100,
 			"name": "Beginning Latin II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Anne Groton"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Beginning Latin II",
 			"type": "Research",
@@ -497,14 +519,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Kathy C. Thomforde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathy C. Thomforde"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -517,14 +540,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -537,17 +561,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Thomas C. Schnauber"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 232"
+			],
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
-				"Thomas C. Schnauber"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1000-1130"
@@ -563,17 +588,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 200,
+			"locations": [
+				"L 421"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-Th 1000-1130",
@@ -590,14 +616,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 200,
 			"name": "IS/Philosophy in Lit",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Philosophy in Lit",
 			"type": "Research",
@@ -610,14 +637,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Charles Taliaferro"
+			],
 			"level": 300,
 			"name": "IR/Religious Phil",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Charles Taliaferro"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IR/Religious Phil",
 			"type": "Research",
@@ -630,14 +658,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"John Campion"
+			],
 			"level": 100,
 			"name": "Scuba Diving",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"John Campion"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Scuba Diving",
 			"type": "Research",
@@ -650,17 +679,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 100,
+			"locations": [
+				"L 421"
+			],
 			"name": "Comparative Politics",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 0800-0930"
@@ -676,17 +706,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 100,
+			"locations": [
+				"L 421"
+			],
 			"name": "Intro: Polit. Theory",
 			"num": 113,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1230-0200PM"
@@ -702,14 +733,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Howard Thorsheim"
+			],
 			"level": 300,
 			"name": "IR/Cov Oral Behavior",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Howard Thorsheim"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IR/Cov Oral Behavior",
 			"type": "Research",
@@ -722,17 +754,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Jesus in Script/Trad",
 			"num": 221,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1000-1130"
@@ -748,17 +781,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "St.Paul/Letter/Gospel",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"times": [
 				"M-F 1230-0200PM"
@@ -774,14 +808,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"W. Bruce Benson"
+			],
 			"level": 200,
 			"name": "IS/Spiritual Friendsh",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"W. Bruce Benson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IS/Spiritual Friendsh",
 			"type": "Research",
@@ -794,14 +829,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 200,
 			"name": "Hist/Theat-Since 1700",
 			"num": 271,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "Hist/Theat-Since 1700",
 			"type": "Research",
@@ -814,14 +850,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Gary C. Gisselman"
+			],
 			"level": 300,
 			"name": "IR/Theater & Educ",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Gary C. Gisselman"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20015,
 			"title": "IR/Theater & Educ",
 			"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
-	"name": "Intermed Chinese II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"OM 004",
 		"OM 004"
 	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"name": "Intermed Chinese II",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM",

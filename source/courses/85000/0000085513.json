@@ -6,20 +6,21 @@
 		"MUSIC"
 	],
 	"desc": "Second-semester music majors continue formal musicianship studies. Students perform rhythms and melodies at sight. Students also analyze and compose Western tonal music that employs non-dominant seventh chords, applied chords, sequences, modulations, and small forms. These topics are closely integrated into melodic and harmonic dictations. Pre-requisite: Music 112. Co-requisite: Music 162, Piano Class 2 (or placement into a higher level of keyboard proficiency). Offered annually in the spring semester.",
+	"instructors": [
+		"Kirsten Broberg"
+	],
 	"level": 100,
-	"name": "Theory & Aural Skills II",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Kirsten Broberg"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Theory & Aural Skills II",
+	"num": 114,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM",

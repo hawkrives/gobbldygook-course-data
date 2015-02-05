@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 200,
 	"name": "The Art of Music",
 	"num": 230,
 	"pf": false,
-	"profs": [
-		"David Carter"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "The Art of Music",
 	"type": "Research",

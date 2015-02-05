@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
 	"name": "IR/Japanese Temples",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Japanese Temples",
 	"type": "Research",

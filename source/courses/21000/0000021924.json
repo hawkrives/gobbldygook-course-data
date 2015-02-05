@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 100,
-	"name": "Cellular Bio & Genetics",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 273",
 		"SC 273",
 		"SC 274"
 	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 2,
+	"name": "Cellular Bio & Genetics",
+	"num": 125,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19972,
 	"times": [
 		"M-F 0800-1000",

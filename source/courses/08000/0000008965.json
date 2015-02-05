@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Elaine G. Siemsen"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "God & Human Suffering",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Elaine G. Siemsen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Math Analysis II",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

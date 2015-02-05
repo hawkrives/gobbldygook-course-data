@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 300,
-	"name": "Sem: Sports Economics",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 110",
 		"OM 110"
 	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sem": 3,
+	"name": "Sem: Sports Economics",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"M 1"
+	],
 	"name": "Greek Philosophy",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"Th 1150-0110PM"

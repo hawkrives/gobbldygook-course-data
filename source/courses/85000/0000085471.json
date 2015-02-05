@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one level III course in philosophy.",
+	"instructors": [
+		"Arthur Cunningham"
+	],
 	"level": 300,
 	"name": "IR/Philosophy of Math",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Arthur Cunningham"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

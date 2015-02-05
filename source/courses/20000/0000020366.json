@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Dissenters/Defenders",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

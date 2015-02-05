@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students work intensively on a special topic in applied mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 300,
-	"name": "Sem: Applied",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 206",
 		"RNS 206"
 	],
-	"profs": [
-		"Paul Humke"
-	],
-	"sem": 1,
+	"name": "Sem: Applied",
+	"num": 384,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 0935-1100",

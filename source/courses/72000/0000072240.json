@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 100,
-	"name": "Acting for Non-Majors",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sem": 1,
+	"name": "Acting for Non-Majors",
+	"num": 115,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"T 0935-1100",

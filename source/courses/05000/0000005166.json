@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Martin Hodel"
+	],
 	"level": 100,
-	"name": "Theory II",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Martin Hodel"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Theory II",
+	"num": 114,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0800-0925",

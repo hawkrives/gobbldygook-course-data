@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Judy Kutulas"
+	],
 	"level": 300,
 	"name": "IR/U.S. Space Program",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Judy Kutulas"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/U.S. Space Program",
 	"type": "Research",

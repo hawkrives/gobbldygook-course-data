@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one Level III course in philosophy.",
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Ecological Visions",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research",
 	"type": "Research",

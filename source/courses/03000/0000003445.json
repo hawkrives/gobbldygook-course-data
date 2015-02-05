@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Scott Woitaszewski"
+	],
 	"level": 300,
 	"name": "IR/Resiliency Res",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Scott Woitaszewski"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Resiliency Res",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"name": "Hispanic Linguistics",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

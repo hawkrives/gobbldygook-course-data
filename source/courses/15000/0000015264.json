@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/Libertarian Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"title": "IR/Libertarian Theory",
 	"type": "Research",

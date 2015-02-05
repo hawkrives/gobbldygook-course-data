@@ -10,18 +10,19 @@
 		"ALS-L",
 		"FOL-F"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Intro Literary Analy",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"TOH 316"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

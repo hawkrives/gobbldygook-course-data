@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Roger Proksch"
+	],
 	"level": 100,
+	"locations": [
+		"SC 159"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 159"
-	],
-	"profs": [
-		"Roger Proksch"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"W 1255-0325PM"

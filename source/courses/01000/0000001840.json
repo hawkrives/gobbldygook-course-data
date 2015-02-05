@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Forsberg"
+	],
 	"level": 200,
 	"name": "Ear/Keyboard IV",
 	"num": 212,
 	"pf": false,
-	"profs": [
-		"Charles Forsberg"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Ear/Keyboard IV",
 	"type": "Research",

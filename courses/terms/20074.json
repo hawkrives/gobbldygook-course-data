@@ -11,18 +11,19 @@
 				"ALS-A"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Lilla Johnson"
+			],
 			"level": 100,
-			"name": "Foundation 2-D Media",
-			"num": 102,
-			"pf": false,
-			"places": [
+			"locations": [
 				"DC 216",
 				"DC 216"
 			],
-			"profs": [
-				"Lilla Johnson"
-			],
-			"sem": 4,
+			"name": "Foundation 2-D Media",
+			"num": 102,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930",
@@ -44,17 +45,18 @@
 				"ALS-A",
 				"MCG"
 			],
+			"instructors": [
+				"Christine O'Malley"
+			],
 			"level": 100,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Intro/Art History I",
 			"num": 150,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Christine O'Malley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -72,17 +74,18 @@
 			],
 			"desc": "Students journey toward greater understanding of one of the most wondrous objects in existence - the human body - through an integrated study of the structure of the body (anatomy) and how organs such as the brain, heart, and kidney perform their remarkable functions (physiology). The course is designed primarily for students intending careers in the health sciences. Students attend lectures plus one 3-hour laboratory per week. Prerequisite: Biology 125, or Chemistry/Biology 125-127. Offered annually.",
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"SC 278"
+			],
 			"name": "Human Anatomy & Physiol",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"SC 278"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0830-1000"
@@ -99,17 +102,18 @@
 				"BIO"
 			],
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"SC 253"
+			],
 			"name": "Human Anatomy & Physiol L",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"SC 253"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"TTh 0100-0400PM"
@@ -127,17 +131,18 @@
 			],
 			"desc": "This study of chemical stoichiometry, equilibrium, acid-base chemistry, coordination chemistry and atomic and molecular structure supplies the fundamental background on which all later chemistry courses depend. It includes applications of equilibrium principles to acid-base chemistry. Students attend three classes and one 3-hour laboratory each week. Prerequisites: high school chemistry and physics and concurrent registration in Mathematics 120 or 121. The course cannot be taken in conjunction with or after credit in Chemistry 121. Offered Fall Semester.",
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 374"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -154,17 +159,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"SC 371"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 371"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"MW 0100-0400PM"
@@ -181,16 +187,17 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic hydrocarbons, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered Fall Semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"SC 378"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -207,18 +214,19 @@
 				"CHEM"
 			],
 			"desc": "This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements and infrared, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
+			"instructors": [
+				"Sally Kessler"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Sally Kessler"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"MW 0100-0400PM"
@@ -235,18 +243,19 @@
 				"CHEM"
 			],
 			"desc": "This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements and infrared, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
+			"instructors": [
+				"Sally Kessler"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Sally Kessler"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"TTh 0100-0400PM"
@@ -266,16 +275,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 246,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"Heather J. Klopchin"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 204"
+			],
+			"num": 246,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1230-0200PM"
@@ -295,17 +305,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"Anthony Becker"
+			],
 			"level": 100,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Principles of Econ",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Anthony Becker"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -322,14 +333,15 @@
 				"EDUC"
 			],
 			"desc": "The course includes strategies and materials for teaching English to speakers of other languages. Students learn strategies that focus on the development of listening, speaking, reading, and writing skills in English language learners. Students review materials appropriate for non-native English speakers and create their own materials and lesson plans. Fulfills Education 382. Required field experience component. Prerequisite: Education 330 or permission of instructor. Offered Summer Session only.",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"notes": "This class will meet in the Education Department Seminar Room.",
 			"num": 347,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-1000"
@@ -349,14 +361,15 @@
 			"gereqs": [
 				"WRI"
 			],
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 300,
 			"notes": "This class will meet in the Education Department Seminar Room.",
 			"num": 348,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1200PM"
@@ -376,17 +389,18 @@
 			"gereqs": [
 				"WRI"
 			],
+			"instructors": [
+				"Stephen Longfellow"
+			],
 			"level": 200,
+			"locations": [
+				"RML 577"
+			],
 			"name": "Creat Wrtg: Fict/Poet",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"RML 577"
-			],
-			"profs": [
-				"Stephen Longfellow"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -406,17 +420,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"Rebecca Judge"
+			],
 			"level": 200,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Env Policy/Regulation",
 			"num": 232,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Rebecca Judge"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -433,16 +448,17 @@
 				"GERM"
 			],
 			"desc": "Students begin to learn German through listening, speaking, reading, and writing about topics familiar to them (their personal biographies, family, daily life, interests). Regular writing assignments are designed to learn vocabulary, check spelling, and to form thoughts with German sentence structure. Regular language lab activities aid in acquiring good pronunciation and listening skills. Offered Fall Semester.",
-			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
+			"instructors": [
 				"Staff"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RML 525"
+			],
+			"num": 111,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -459,16 +475,17 @@
 				"GERM"
 			],
 			"desc": "Students continue to develop basic language skills with emphasis on expanding vocabulary and on writing assignments that aid in the practical application of grammatical concepts. Communicating in German about familiar personal topics, students acquire vocabulary about sports, food, holidays, school, the environment, and life in German speaking cultures. Prerequisite: German 111 or placement by test.",
-			"level": 100,
-			"num": 112,
-			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
+			"instructors": [
 				"Staff"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RML 525"
+			],
+			"num": 112,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -485,17 +502,18 @@
 				"GERM"
 			],
 			"desc": "Students explore life in the German-speaking countries through reading, discussing, and retelling narrative texts. The course emphasizes vocabulary building, a thorough review of German grammar, and the composition of short narratives to develop writing skills in paragraph length discourse. Taught in German with some grammar explanations in English. Prerequisite: German 112 or placement by test.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -515,17 +533,18 @@
 			"gereqs": [
 				"FOL-G"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"RML 525"
+			],
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"places": [
-				"RML 525"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -545,17 +564,18 @@
 			"gereqs": [
 				"AQR"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 100,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Gateways/Mathematics",
 			"num": 117,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -575,16 +595,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 120,
-			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"SC 186"
+			],
+			"num": 120,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -604,16 +625,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 126,
-			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
+			"instructors": [
 				"Bruce Hanson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"SC 186"
+			],
+			"num": 126,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -630,17 +652,18 @@
 				"MATH"
 			],
 			"desc": "Students encounter the theory of calculus and tools for communicating ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives and integrals) necessary to verify such important proofs as the Fundamental Theorem of Calculus, the continuity of the uniform limit of continuous functions and the Bolzano-Weierstrass Theorem and their context in the theory of analysis. Prerequisite: Mathematics 126 or 128. Offered both semesters.",
+			"instructors": [
+				"Bruce Hanson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 186"
+			],
 			"name": "Elem Real Analysis",
 			"num": 244,
 			"pf": false,
-			"places": [
-				"SC 186"
-			],
-			"profs": [
-				"Bruce Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1230-0200PM"
@@ -661,16 +684,17 @@
 			"gereqs": [
 				"EIN"
 			],
-			"level": 200,
-			"num": 278,
-			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
+			"instructors": [
 				"Edmund Santurri"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RML 520"
+			],
+			"num": 278,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -690,17 +714,18 @@
 			"gereqs": [
 				"BTS-T"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"RML 520"
+			],
 			"name": "God & Human Suffering",
 			"num": 225,
 			"pf": false,
-			"places": [
-				"RML 520"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1230-0200PM"
@@ -718,17 +743,18 @@
 			],
 			"desc": "This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. One laboratory per week. Prerequisite: Mathematics 120 or 121.",
 			"groupid": 1072,
+			"instructors": [
+				"David Dahl"
+			],
 			"level": 100,
+			"locations": [
+				"SC 129"
+			],
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 129"
-			],
-			"profs": [
-				"David Dahl"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -748,17 +774,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"Anthony Lott"
+			],
 			"level": 100,
+			"locations": [
+				"HH 515"
+			],
 			"name": "Intl Relations",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 515"
-			],
-			"profs": [
-				"Anthony Lott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -778,16 +805,17 @@
 			"gereqs": [
 				"HWC"
 			],
-			"level": 100,
-			"num": 119,
-			"pf": false,
-			"places": [
-				"HH 515"
-			],
-			"profs": [
+			"instructors": [
 				"Anthony Lott"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"HH 515"
+			],
+			"num": 119,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -807,16 +835,17 @@
 			"gereqs": [
 				"HBS"
 			],
-			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
-				"HH 514"
-			],
-			"profs": [
+			"instructors": [
 				"Jonathan Peterson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"HH 514"
+			],
+			"num": 111,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -833,18 +862,19 @@
 				"PSYCH"
 			],
 			"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: Determined by individual instructor. Offer based on department decision.",
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
 			"level": 300,
+			"locations": [
+				"HH 209"
+			],
 			"name": "Research:",
 			"notes": "Instructor signature is required for admittance.",
 			"num": 396,
 			"pf": false,
-			"places": [
-				"HH 209"
-			],
-			"profs": [
-				"Shelly D. Dickinson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20074,
 			"times": [
 				"M-F 1040-1240PM",
@@ -865,17 +895,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -895,17 +926,18 @@
 			"gereqs": [
 				"HBS"
 			],
+			"instructors": [
+				"Ryan R. Sheppard"
+			],
 			"level": 200,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Marriage & the Family",
 			"num": 260,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Ryan R. Sheppard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -926,17 +958,18 @@
 				"EIN",
 				"ORC"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 300,
+			"locations": [
+				"TB 227"
+			],
 			"name": "Top: Who Owns the Arts?",
 			"num": 380,
 			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 0800-0930"
@@ -957,16 +990,17 @@
 				"HBS",
 				"ORC"
 			],
-			"level": 100,
-			"num": 120,
-			"pf": false,
-			"places": [
-				"TB 227"
-			],
-			"profs": [
+			"instructors": [
 				"Karen Wilson"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"TB 227"
+			],
+			"num": 120,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -983,17 +1017,18 @@
 				"HIST"
 			],
 			"desc": "Students use original texts, historical studies, and literature to examine, comparatively and chronologically, the evolution of selected cultures and societies before 1500. They explore topics such as political, cultural, and economic exchange, religious practices, human interaction with the environment, forms of political authority, family life, and gender roles. Offered most years.",
+			"instructors": [
+				"Timothy Smit"
+			],
 			"level": 100,
+			"locations": [
+				"SC 184"
+			],
 			"name": "Global Hist to 1500",
 			"num": 194,
 			"pf": false,
-			"places": [
-				"SC 184"
-			],
-			"profs": [
-				"Timothy Smit"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -1013,17 +1048,18 @@
 			"gereqs": [
 				"HWC"
 			],
+			"instructors": [
+				"Timothy Smit"
+			],
 			"level": 200,
+			"locations": [
+				"SC 184"
+			],
 			"name": "High/Late Middle Ages",
 			"num": 212,
 			"pf": false,
-			"places": [
-				"SC 184"
-			],
-			"profs": [
-				"Timothy Smit"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"times": [
 				"M-F 1230-0200PM"
@@ -1044,17 +1080,18 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Daniel R. Forstner"
+			],
 			"level": 200,
+			"locations": [
+				"SC 188"
+			],
 			"name": "Top: Sci in World & Word",
 			"num": 211,
 			"pf": false,
-			"places": [
-				"SC 188"
-			],
-			"profs": [
-				"Daniel R. Forstner"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-F 1000-1130"
@@ -1071,17 +1108,18 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"David Dahl"
+			],
 			"level": 100,
+			"locations": [
+				"SC 111"
+			],
 			"name": "Principles Physics I Lab",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"SC 111"
-			],
-			"profs": [
-				"David Dahl"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"MW 0100-0330PM"
@@ -1098,17 +1136,18 @@
 				"ESAC"
 			],
 			"desc": "Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness.",
+			"instructors": [
+				"Judith Stromayer"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Judith Stromayer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-Th 0230-0400PM"
@@ -1125,17 +1164,18 @@
 				"ESAC"
 			],
 			"desc": "Students learn the principles, techniques and safety aspects of weight-training and implement a personal training plan. Students participate in a wide range of assessments (strength, power, endurance, nutrition, flexibility, body composition, stress).",
+			"instructors": [
+				"Judith Stromayer"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Judith Stromayer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"times": [
 				"M-Th 0230-0400PM"
@@ -1156,13 +1196,14 @@
 				"ALS-L",
 				"FOL-L"
 			],
+			"instructors": [
+				"Anne Groton"
+			],
 			"level": 200,
 			"num": 235,
 			"pf": false,
-			"profs": [
-				"Anne Groton"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20074,
 			"title": "Medieval Latin",
 			"type": "Research",
@@ -1175,14 +1216,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Brett A. Werner"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Brett A. Werner"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"title": "Internship",
 			"type": "Research",
@@ -1197,14 +1239,15 @@
 			],
 			"desc": "This course familiarizes students with research strategies in their respective disciplines and prepares them to successfully complete their faculty-led research projects through the TRiO McNair program. Students read research articles written by their faculty mentor, complete a literature search, and design a poster for a research symposium.",
 			"grouptype": "R",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 200,
 			"name": "Research Across Disciplin",
 			"num": 236,
 			"pf": true,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20074,
 			"title": "Research Strategies Across the Disciplines",
 			"type": "Research",
@@ -1217,14 +1260,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "IS/Hitchcock and Gender",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1237,14 +1281,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20074,
 			"title": "Internship",
 			"type": "Research",

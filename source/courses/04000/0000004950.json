@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 100,
-	"name": "Literary Studies",
-	"num": 185,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Literary Studies",
+	"num": 185,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

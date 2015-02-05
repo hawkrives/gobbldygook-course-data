@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
 	"name": "FLC-Russian",
 	"num": 223,
 	"pf": false,
-	"profs": [
-		"Irina Walter"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "FLC-Russian",
 	"type": "Research",

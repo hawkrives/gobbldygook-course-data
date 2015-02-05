@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Age of Renaissance",
 	"num": 217,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

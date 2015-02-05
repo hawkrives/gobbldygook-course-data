@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 100,
+	"locations": [
+		"RML 520"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

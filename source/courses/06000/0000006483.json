@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jon Eric Nelson"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Detective Fiction",
 	"num": 169,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Jon Eric Nelson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

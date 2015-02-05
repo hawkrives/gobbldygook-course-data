@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 100,
-	"name": "First Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 01",
 		"SH 01"
 	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "N",
-	"sem": 3,
+	"name": "First Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

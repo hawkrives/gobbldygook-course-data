@@ -6,18 +6,19 @@
 		"CHIN"
 	],
 	"groupid": 237,
+	"instructors": [
+		"Luying Chen"
+	],
 	"level": 100,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Beginning Chinese I Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Luying Chen"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 1145-0110PM"

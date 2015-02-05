@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Judith Sateren"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Judith Sateren"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Internship",
 	"type": "Research",

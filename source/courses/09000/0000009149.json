@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Mary Griep"
+	],
 	"level": 200,
+	"locations": [
+		"DC 216"
+	],
 	"name": "Figure Drawing",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"DC 216"
-	],
-	"profs": [
-		"Mary Griep"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0800-1000"

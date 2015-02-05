@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Scott Nesbit"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Racquet Sports .50",
 	"num": 150,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Scott Nesbit"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

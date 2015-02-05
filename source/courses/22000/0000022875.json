@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
 	"name": "IS/Hist Christian Thg",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IS/Hist Christian Thg",
 	"type": "Research",

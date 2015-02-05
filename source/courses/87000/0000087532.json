@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Priscilla M. Paton"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 305",
 		"OM 305"
 	],
-	"profs": [
-		"Priscilla M. Paton"
-	],
-	"sect": "O",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "O",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 1145-0110PM",

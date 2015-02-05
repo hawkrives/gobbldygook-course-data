@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Patrice Buresh"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Patrice Buresh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 1150-1245PM"

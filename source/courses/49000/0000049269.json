@@ -6,19 +6,20 @@
 		"PSCI"
 	],
 	"desc": "Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 300,
-	"name": "Sem: Immigrat & Citizen",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 011",
 		"OM 011"
 	],
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Sem: Immigrat & Citizen",
+	"num": 399,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

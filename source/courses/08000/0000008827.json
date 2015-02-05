@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "FLC--German",
 	"num": 149,
 	"pf": true,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sect": "L",
-	"sem": 2,
+	"section": "L",
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-Th 1230-0100PM"

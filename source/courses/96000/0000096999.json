@@ -5,15 +5,16 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 200,
 	"name": "IS/Strength Training Cert",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Study",
 	"type": "Research",

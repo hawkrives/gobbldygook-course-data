@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Rodney G. Grubb"
+	],
 	"level": 100,
+	"locations": [
+		"L 420"
+	],
 	"name": "Int'l Relations",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Rodney G. Grubb"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"times": [
 		"M-F 1000-1130"

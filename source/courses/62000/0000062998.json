@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 100,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Intl Relations",
 	"notes": "This course has class year limits.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Anthony Lott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

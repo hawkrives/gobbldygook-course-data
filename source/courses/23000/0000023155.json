@@ -5,14 +5,15 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Aaron Bentley"
+	],
 	"level": 100,
 	"name": "Golf",
 	"num": 103,
 	"pf": false,
-	"profs": [
-		"Aaron Bentley"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19975,
 	"title": "Golf",
 	"type": "Research",

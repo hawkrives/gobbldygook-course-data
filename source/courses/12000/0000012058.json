@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
+	"locations": [
+		"SH 001"
+	],
 	"name": "Human Geography",
 	"num": 234,
 	"pf": false,
-	"places": [
-		"SH 001"
-	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 0905-1000"

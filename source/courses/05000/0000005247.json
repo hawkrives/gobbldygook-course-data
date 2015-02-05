@@ -5,19 +5,20 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
-	"name": "Rock Climbing",
-	"num": 106,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TC",
 		"TC"
 	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Rock Climbing",
+	"num": 106,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1005-1100",

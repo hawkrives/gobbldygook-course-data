@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Jean R. Aguilar-Valdez"
+	],
 	"level": 300,
+	"locations": [
+		"TOH 214",
+		"TOH 214"
+	],
 	"name": "Principles of Educ",
 	"notes": "Open to rising Seniors and Juniors only.",
 	"num": 330,
 	"pf": false,
-	"places": [
-		"TOH 214",
-		"TOH 214"
-	],
-	"profs": [
-		"Jean R. Aguilar-Valdez"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Linda Devenish"
+	],
 	"level": 100,
+	"locations": [
+		"CT 216"
+	],
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"CT 216"
-	],
-	"profs": [
-		"Linda Devenish"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

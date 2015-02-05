@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 300,
+	"locations": [
+		"L 525"
+	],
 	"name": "Poetry",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 100,
+	"locations": [
+		"FH 42"
+	],
 	"name": "Found Perceptual Draw",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"FH 42"
-	],
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

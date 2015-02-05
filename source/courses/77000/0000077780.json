@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FOL-L"
 	],
-	"level": 200,
-	"num": 231,
-	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
+	"instructors": [
 		"Christopher M. Brunelle"
 	],
-	"sect": "B",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"TOH 110"
+	],
+	"num": 231,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"MWF 1255-0150PM"

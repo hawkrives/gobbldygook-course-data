@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Adv Organic Chemistry",
 	"num": 388,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0800-0925"

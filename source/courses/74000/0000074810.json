@@ -6,19 +6,20 @@
 		"MUSIC"
 	],
 	"desc": "Through group instruction, students encounter the fundamentals of singing and an introduction to song literature. In-class performance is required. This course may be repeated once. Offered each semester.",
-	"level": 100,
-	"num": 164,
-	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
+	"instructors": [
 		"Anton Armstrong",
 		"Sigrid Johnson",
 		"Robert C. Smith"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 233"
+	],
+	"num": 164,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MW 1045-1140"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Principles Physics II",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

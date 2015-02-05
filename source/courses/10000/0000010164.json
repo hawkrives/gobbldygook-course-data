@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Peder Bolstad"
+	],
 	"level": 100,
+	"locations": [
+		"OM 001"
+	],
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"OM 001"
-	],
-	"profs": [
-		"Peder Bolstad"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 1000-1130"

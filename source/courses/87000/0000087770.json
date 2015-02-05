@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FOL-C"
 	],
-	"level": 300,
-	"num": 302,
-	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
+	"instructors": [
 		"Luying Chen"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"TOH 214"
+	],
+	"num": 302,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

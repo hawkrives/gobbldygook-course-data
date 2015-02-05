@@ -5,17 +5,18 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"Jon Gregory"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Fall of Roman Empire",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Jon Gregory"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

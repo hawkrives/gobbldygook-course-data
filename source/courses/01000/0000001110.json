@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Susan Green"
+	],
 	"level": 300,
 	"name": "IR/Franck-Condon Thry",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Susan Green"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Franck-Condon Thry",
 	"type": "Research",

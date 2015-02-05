@@ -6,19 +6,20 @@
 		"FREN"
 	],
 	"desc": "Students read a variety of French literary texts. The course focuses on aspects of literary analysis, terminology, methodology, and literary history. Students develop critical skills through discussion and analytical writing. Taught in French. Prerequisite: French 232, 233 or equivalent.",
+	"instructors": [
+		"M. Clare Mather"
+	],
 	"level": 200,
-	"name": "Intro Literary Analy",
-	"num": 253,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 026",
 		"OM 026"
 	],
-	"profs": [
-		"M. Clare Mather"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Intro Literary Analy",
+	"num": 253,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

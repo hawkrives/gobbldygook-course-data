@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Mary Griep"
+	],
 	"level": 200,
+	"locations": [
+		"FH 40"
+	],
 	"name": "Oil/Acrylic Painting",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"FH 40"
-	],
-	"profs": [
-		"Mary Griep"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0800-1000"

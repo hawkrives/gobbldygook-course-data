@@ -5,17 +5,18 @@
 	"depts": [
 		"WMNST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Sem: Women Cross-Cult",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 0800-0925"

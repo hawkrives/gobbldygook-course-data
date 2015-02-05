@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Joan Odd"
+	],
 	"level": 100,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Joan Odd"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

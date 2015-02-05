@@ -6,17 +6,18 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Kaethe Schwehn"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"RML 421"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"MWF 0800-0855"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Us Top: Native Amer",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855"

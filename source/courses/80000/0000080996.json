@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 169,
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 393"
+	],
 	"name": "Evolutionary Bio Lab",
 	"num": 383,
 	"pf": false,
-	"places": [
-		"RNS 393"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"M 0100-0400PM"

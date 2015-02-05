@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-K"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 300,
-	"name": "Topics in Greek Lit",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 300",
 		"TOH 300"
 	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 3,
+	"name": "Topics in Greek Lit",
+	"num": 370,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

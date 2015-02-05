@@ -6,18 +6,19 @@
 		"STAT"
 	],
 	"groupid": 1402,
+	"instructors": [
+		"Laura F. Boehm"
+	],
 	"level": 100,
+	"locations": [
+		"RML 115"
+	],
 	"name": "Prin of Statistics Lab",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RML 115"
-	],
-	"profs": [
-		"Laura F. Boehm"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"F 1255-0150PM"

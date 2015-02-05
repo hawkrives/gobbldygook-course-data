@@ -10,18 +10,19 @@
 		"FOL-R"
 	],
 	"groupid": 1266,
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 312"
+	],
 	"name": "Intermed Russian II",
 	"notes": "Students in Russian 232 must also register for Russian 232 L.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 312"
-	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

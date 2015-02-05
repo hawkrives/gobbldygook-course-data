@@ -5,18 +5,19 @@
 	"depts": [
 		"IDFA"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 100,
-	"name": "Exploring the Arts",
-	"num": 174,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 233",
 		"CHM 233"
 	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 1,
+	"name": "Exploring the Arts",
+	"num": 174,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 0935-1100",

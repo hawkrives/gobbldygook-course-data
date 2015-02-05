@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Richard Senese"
+	],
 	"level": 300,
 	"name": "IR/Psych Impact/Job",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Senese"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"title": "IR/Psych Impact/Job",
 	"type": "Research",

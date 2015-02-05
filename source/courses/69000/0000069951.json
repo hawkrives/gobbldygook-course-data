@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
 	"name": "IR/Fourier Transforms",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Ann (wagner) Wagner"
+	],
 	"level": 100,
+	"locations": [
+		"SAC"
+	],
 	"name": "Ballroom II (Women)",
 	"num": 107,
 	"pf": true,
-	"places": [
-		"SAC"
-	],
-	"profs": [
-		"Ann (wagner) Wagner"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MW 0200-0255PM"

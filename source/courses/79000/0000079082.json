@@ -10,18 +10,19 @@
 		"ALS-A",
 		"MCG"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
-	"name": "Chinese Calligraphy",
-	"num": 268,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"name": "Chinese Calligraphy",
+	"num": 268,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

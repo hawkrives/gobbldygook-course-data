@@ -5,20 +5,21 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Yasmine L. Konheim"
+	],
 	"level": 200,
-	"name": "Cognit,Learn & Memory",
-	"num": 237,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301",
 		"HH 319"
 	],
-	"profs": [
-		"Yasmine L. Konheim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Cognit,Learn & Memory",
+	"num": 237,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

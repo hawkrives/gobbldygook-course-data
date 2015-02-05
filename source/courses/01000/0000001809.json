@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Mark Goodale"
+	],
 	"level": 100,
+	"locations": [
+		"H 516"
+	],
 	"name": "Int/Cult Anthropology",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Mark Goodale"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20004,
 	"times": [
 		"M-Th 1000-1130"

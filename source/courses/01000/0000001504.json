@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Randy Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"MFH WT RM"
+	],
 	"name": "Wt Training-Women",
 	"num": 142,
 	"pf": false,
-	"places": [
-		"MFH WT RM"
-	],
-	"profs": [
-		"Randy Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1005-1100"

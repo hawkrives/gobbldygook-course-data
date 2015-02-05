@@ -10,17 +10,18 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 212"
+	],
 	"name": "Human Geography",
 	"num": 234,
 	"pf": false,
-	"places": [
-		"TOH 212"
-	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20145,
 	"times": [
 		"M-F 1230-0200PM"

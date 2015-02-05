@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 300,
+	"locations": [
+		"M 2"
+	],
 	"name": "Russ Political Econ",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"M 0700-1000PM"

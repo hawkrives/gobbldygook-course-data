@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"William H. Bridges IV"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 112"
+	],
 	"name": "Japan SciFi/Global Persp",
 	"notes": "New course",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"TOH 112"
-	],
-	"profs": [
-		"William H. Bridges IV"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 1040-1240PM"

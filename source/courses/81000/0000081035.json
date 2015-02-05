@@ -5,14 +5,15 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
 	"name": "FLC - Russian",
 	"num": 255,
 	"pf": true,
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "FLC - Russian",
 	"type": "FLAC",

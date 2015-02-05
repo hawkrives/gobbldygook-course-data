@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
+	"locations": [
+		"SC 371"
+	],
 	"name": "Gen Chemistry/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 371"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0800-1100"

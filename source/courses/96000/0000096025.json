@@ -11,17 +11,18 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

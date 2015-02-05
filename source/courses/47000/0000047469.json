@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "D",
-	"sem": 5,
+	"section": "D",
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"title": "Academic Internship",
 	"type": "Research",

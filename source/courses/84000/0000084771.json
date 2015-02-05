@@ -12,19 +12,20 @@
 		"ORC"
 	],
 	"groupid": 32,
+	"instructors": [
+		"Nancy M. Thompson",
+		"Christopher Tradowsky"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art History II",
 	"notes": "This course has class-year limits. Students in Art 151 must also register for one discussion section Art 151AD or 151BD.",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Nancy M. Thompson",
-		"Christopher Tradowsky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MW 1150-1245PM"

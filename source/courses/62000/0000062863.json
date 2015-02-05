@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "M",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "M",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 1145-0110PM",

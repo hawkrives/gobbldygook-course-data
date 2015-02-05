@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"name": "Cult & Civ of Lat Am",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

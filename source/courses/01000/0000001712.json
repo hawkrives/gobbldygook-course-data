@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
+	"locations": [
+		"CT 227"
+	],
 	"name": "Mass Media",
 	"num": 160,
 	"pf": false,
-	"places": [
-		"CT 227"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

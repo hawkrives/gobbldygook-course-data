@@ -7,18 +7,19 @@
 	],
 	"groupid": 158,
 	"grouptype": "A",
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
+	"locations": [
+		"SC 263"
+	],
 	"name": "Cell Physiology Lab",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"SC 263"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"W 0120-0420PM"

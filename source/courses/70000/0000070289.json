@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Douglas D. Baumann"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 426"
+	],
 	"name": "Prin of Statistics",
 	"notes": "This course has been canceled.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RNS 426"
-	],
-	"profs": [
-		"Douglas D. Baumann"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20084,
 	"times": [
 		"M-F 1000-1130"

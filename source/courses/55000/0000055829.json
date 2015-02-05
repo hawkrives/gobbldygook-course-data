@@ -6,14 +6,15 @@
 		"PEAC"
 	],
 	"desc": "Physical Education (0.25)",
+	"instructors": [
+		"Judith Stromayer"
+	],
 	"level": 100,
 	"name": "Individualized PE",
 	"num": 100,
 	"pf": true,
-	"profs": [
-		"Judith Stromayer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"title": "Individualized Physical Education",
 	"type": "Research",

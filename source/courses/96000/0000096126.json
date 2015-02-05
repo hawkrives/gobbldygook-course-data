@@ -6,14 +6,15 @@
 		"ENGL"
 	],
 	"desc": "Students pursue an independent topic of study with a faculty director.",
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 200,
 	"name": "IS/Lost & Beat Literature",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Colin Wells"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"title": "Independent Study",
 	"type": "Research",

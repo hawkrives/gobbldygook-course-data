@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"CH 102"
+	],
 	"name": "St. Paul/Chr Message",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 200,
 	"name": "IS/WTO/Globalization",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/WTO/Globalization",
 	"type": "Research",

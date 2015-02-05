@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Jenny Bourne Wahl"
+	],
 	"level": 300,
+	"locations": [
+		"H 302"
+	],
 	"name": "Labor Econ/Employ Rel",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Jenny Bourne Wahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

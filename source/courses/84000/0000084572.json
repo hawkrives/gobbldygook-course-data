@@ -11,18 +11,19 @@
 	],
 	"groupid": 108,
 	"grouptype": "1",
+	"instructors": [
+		"Thomas C. Giarla"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"notes": "Students in Bio 126 A must also register for one lab Bio 126 GL, HL, or IL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Thomas C. Giarla"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0800-0855"

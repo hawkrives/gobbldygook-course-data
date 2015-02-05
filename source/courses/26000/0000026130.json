@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Patrick Quade"
+	],
 	"level": 200,
-	"name": "Prod Theater: Advanced",
-	"num": 234,
-	"pf": true,
-	"places": [
+	"locations": [
 		"KELSEY",
 		"KELSEY"
 	],
-	"profs": [
-		"Patrick Quade"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Advanced",
+	"num": 234,
+	"pf": true,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"times": [
 		"M-F 0900-0500PM",

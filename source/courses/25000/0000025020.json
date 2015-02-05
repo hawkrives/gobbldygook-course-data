@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 300,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Inter Stage Direction",
 	"num": 338,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

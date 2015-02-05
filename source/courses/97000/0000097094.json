@@ -7,15 +7,16 @@
 	],
 	"groupid": 26714,
 	"grouptype": "2",
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 200,
 	"name": "Cell Biology Lab",
 	"num": 227,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"Th 0215-0515PM"

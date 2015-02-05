@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Amy Larsen"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Modern Physics",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Amy Larsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1150-1245PM"

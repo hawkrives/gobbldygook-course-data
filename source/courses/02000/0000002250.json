@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 300,
 	"name": "IR/Galois Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Galois Theory",
 	"type": "Research",

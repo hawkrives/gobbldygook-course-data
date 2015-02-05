@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 200,
-	"name": "Phil Theology",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 02",
 		"SH 02"
 	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Phil Theology",
+	"num": 241,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0120-0245PM",

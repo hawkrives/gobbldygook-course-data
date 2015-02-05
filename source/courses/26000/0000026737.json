@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 300,
 	"name": "FLC-Russian",
 	"num": 383,
 	"pf": false,
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "FLC-Russian",
 	"type": "Research",

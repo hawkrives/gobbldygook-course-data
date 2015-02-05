@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"John O. Hanson"
+	],
 	"level": 200,
-	"name": "Technol & Entr Spirit",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CH 110",
 		"CH 110"
 	],
-	"profs": [
-		"John O. Hanson"
-	],
-	"sem": 2,
+	"name": "Technol & Entr Spirit",
+	"num": 232,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0900-1000",

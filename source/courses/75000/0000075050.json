@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Molly Westerman"
+	],
 	"level": 300,
 	"name": "IR/Hist/Memory India Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Molly Westerman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

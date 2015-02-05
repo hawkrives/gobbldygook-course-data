@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul Fischer"
+	],
 	"level": 300,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Adv Inorganic Chem",
 	"num": 386,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Paul Fischer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1150-1245PM"

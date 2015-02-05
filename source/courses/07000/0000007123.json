@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Catherine R. Rodland"
+	],
 	"level": 100,
-	"name": "Theory II",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"Catherine R. Rodland"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Theory II",
+	"num": 114,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

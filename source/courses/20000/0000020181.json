@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 200,
+	"locations": [
+		"L 420"
+	],
 	"name": "Management",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

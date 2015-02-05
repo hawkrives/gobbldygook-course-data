@@ -6,18 +6,19 @@
 		"NEURO"
 	],
 	"groupid": 22782,
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Cell/Molec Neuro Lab",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"Th 0800-1050"

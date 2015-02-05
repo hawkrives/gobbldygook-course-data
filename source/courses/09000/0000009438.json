@@ -5,19 +5,20 @@
 	"depts": [
 		"IDFA"
 	],
-	"level": 200,
-	"name": "Perspective-The Arts",
-	"num": 274,
-	"pf": false,
-	"places": [
-		"CHM 233",
-		"CHM 233"
-	],
-	"profs": [
+	"instructors": [
 		"Staff",
 		"Dan Dressen"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"CHM 233",
+		"CHM 233"
+	],
+	"name": "Perspective-The Arts",
+	"num": 274,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

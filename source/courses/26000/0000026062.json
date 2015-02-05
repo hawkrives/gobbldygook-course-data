@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
-	"level": 300,
-	"name": "Mathematics Practicum",
-	"num": 390,
-	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
+	"instructors": [
 		"Philip Gloor",
 		"Michael Kahn"
 	],
-	"sem": 2,
+	"level": 300,
+	"locations": [
+		"SC 130"
+	],
+	"name": "Mathematics Practicum",
+	"num": 390,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 0800-1200PM"

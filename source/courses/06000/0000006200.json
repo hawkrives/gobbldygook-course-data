@@ -5,19 +5,20 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Charles E. Umbanhowar Sr"
+	],
 	"level": 200,
-	"name": "Amer Const Law",
-	"num": 272,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Charles E. Umbanhowar Sr"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Amer Const Law",
+	"num": 272,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Kenneth S. Casey"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Top: Tragedy/Comedy",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Kenneth S. Casey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

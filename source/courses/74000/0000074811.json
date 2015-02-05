@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "Through group instruction, students encounter the fundamentals of singing and an introduction to song literature. In-class performance is required. This course may be repeated once. Offered each semester.",
-	"level": 100,
-	"num": 164,
-	"pf": false,
-	"places": [
-		"CHM 233"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Wilkerson",
 		"Sigrid Johnson"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 233"
+	],
+	"num": 164,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MW 1255-0150PM"

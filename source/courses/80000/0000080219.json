@@ -5,20 +5,21 @@
 	"depts": [
 		"BIO"
 	],
-	"level": 100,
-	"name": "Cell Bio & Genetics Lab",
-	"num": 125,
-	"pf": false,
-	"places": [
-		"RNS 394",
-		"RNS 394"
-	],
-	"profs": [
+	"instructors": [
 		"Brian B. Gibbens",
 		"Anne Walter"
 	],
-	"sect": "B",
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"RNS 394",
+		"RNS 394"
+	],
+	"name": "Cell Bio & Genetics Lab",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 0800-1000",

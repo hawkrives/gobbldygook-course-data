@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
 	"name": "IS/American Buddhism",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Barbara Reed"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

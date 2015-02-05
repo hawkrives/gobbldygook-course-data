@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Sem: Festival Drama",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"Th 0700-1000PM"

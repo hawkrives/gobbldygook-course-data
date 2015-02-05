@@ -5,18 +5,19 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 200,
+	"locations": [
+		"L 177"
+	],
 	"name": "Friendship Love/Gd Lf",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"L 177"
-	],
-	"profs": [
-		"Corliss Swain"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

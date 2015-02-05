@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Senior Sem: Theo Ethic",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

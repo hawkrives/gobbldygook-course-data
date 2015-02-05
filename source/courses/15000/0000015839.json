@@ -5,19 +5,20 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
-	"name": "Analytical Lab",
-	"num": 256,
-	"pf": true,
-	"places": [
+	"locations": [
 		"SC 310/321",
 		"SC 310/321"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Analytical Lab",
+	"num": 256,
+	"pf": true,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"T 0120-0245PM",

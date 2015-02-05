@@ -9,16 +9,17 @@
 	"gereqs": [
 		"FOL-C"
 	],
-	"level": 200,
-	"num": 251,
-	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
+	"instructors": [
 		"Shannon Cannella"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"OM 011"
+	],
+	"num": 251,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"MWF 1255-0150PM"

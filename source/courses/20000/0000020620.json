@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Christine Daymont"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 142"
+	],
 	"name": "Physiology/Exercise",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"SAC 142"
-	],
-	"profs": [
-		"Christine Daymont"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

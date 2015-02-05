@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 114,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 455"
+	],
 	"name": "Thinking & Doing Bio Lab",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"RNS 455"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-0100PM"

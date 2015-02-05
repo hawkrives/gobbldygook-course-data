@@ -5,15 +5,16 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Grant P. Arndt"
+	],
 	"level": 300,
 	"name": "IR/Global Apartheid",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Grant P. Arndt"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Independent Research",
 	"type": "Research",

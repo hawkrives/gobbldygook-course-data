@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 300,
 	"name": "IR/Modern Norwegian Theat",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"title": "Independent Research",
 	"type": "Research",

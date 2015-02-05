@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Judith Cederberg"
+	],
 	"level": 300,
 	"name": "Senior Project II",
 	"num": 392,
 	"pf": false,
-	"profs": [
-		"Judith Cederberg"
-	],
-	"sect": "N",
-	"sem": 3,
+	"section": "N",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "Senior Project II",
 	"type": "Research",

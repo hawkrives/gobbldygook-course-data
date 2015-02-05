@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Chinese Civilization",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20001,
 	"times": [
 		"MWF 0905-1000"

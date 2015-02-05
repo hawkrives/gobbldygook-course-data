@@ -6,17 +6,18 @@
 		"EDUC"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Mark Storry"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Drugs & Alcohol",
 	"num": 231,
 	"pf": true,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Mark Storry"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0700-0900PM"

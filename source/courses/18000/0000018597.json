@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Understand Rel Trad",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

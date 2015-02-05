@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Stephen Cronin"
+	],
 	"level": 200,
 	"name": "IS/P53 Gene & Cancer",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Stephen Cronin"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/P53 Gene & Cancer",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 300,
 	"name": "IR/Coming Age America",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20041,
 	"title": "IR/Coming Age America",
 	"type": "Research",

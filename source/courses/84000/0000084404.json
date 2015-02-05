@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 105",
 		"OM 105"
 	],
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sect": "M",
-	"sem": 3,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "M",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0800-0925",

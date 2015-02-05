@@ -6,15 +6,16 @@
 		"BIO"
 	],
 	"groupid": 20158,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 300,
 	"name": "Prin of Bioinform Lab",
 	"notes": "This course has class-year limits.",
 	"num": 315,
 	"pf": false,
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0120-0420PM"

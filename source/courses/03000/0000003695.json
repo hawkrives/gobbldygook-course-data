@@ -5,19 +5,20 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 100,
-	"name": "Foundation Sculpture",
-	"num": 114,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 106",
 		"DC 106"
 	],
-	"profs": [
-		"Irve Dell"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Foundation Sculpture",
+	"num": 114,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"T 0935-1100",

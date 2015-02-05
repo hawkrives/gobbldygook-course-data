@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jenny Dunning"
+	],
 	"level": 300,
 	"name": "IR/Point of View",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jenny Dunning"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

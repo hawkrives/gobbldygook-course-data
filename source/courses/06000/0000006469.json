@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 200,
 	"name": "IS/My Business Eval",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/My Business Eval",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 200,
+	"locations": [
+		"RML 577"
+	],
 	"name": "U.S. Since 1865",
 	"num": 206,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

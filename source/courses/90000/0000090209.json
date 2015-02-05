@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
+	"instructors": [
 		"Jonathan T. Naito"
 	],
-	"sect": "E",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"OM 020"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 1150-1245PM"

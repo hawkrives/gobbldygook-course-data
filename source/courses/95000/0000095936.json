@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Honors Stats for Science",
 	"notes": "This course has class year limits.",
 	"num": 214,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "X",
 	"term": 20143,
 	"times": [
 		"MWF 1150-1245PM"

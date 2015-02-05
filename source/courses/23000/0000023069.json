@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "U.S. Since 1865",
 	"num": 206,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"times": [
 		"M-F 1000-1130"

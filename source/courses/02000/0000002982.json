@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Terry J. Fitzgerald"
+	],
 	"level": 300,
 	"name": "IR/Pop Employ Growth",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Terry J. Fitzgerald"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Pop Employ Growth",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Thomas Schierholz"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Sem: Latin Am Politics",
 	"num": 367,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Thomas Schierholz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

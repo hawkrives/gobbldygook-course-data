@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Wittengenstein: Read",
 	"num": 247,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"John Poling"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"MWF 1150-1245PM"

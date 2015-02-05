@@ -9,16 +9,17 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"num": 202,
-	"pf": false,
-	"places": [
-		"OM 210"
-	],
-	"profs": [
+	"instructors": [
 		"Dana K. Scopatz"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"OM 210"
+	],
+	"num": 202,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 1045-1140"

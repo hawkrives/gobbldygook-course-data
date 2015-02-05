@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Keir Fogarty"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Chemistry & the World",
 	"notes": "Students in Chem 111 must also register for one lab Chem 111 AL or BL.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 390",
-		"RNS 390"
-	],
-	"profs": [
-		"Keir Fogarty"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

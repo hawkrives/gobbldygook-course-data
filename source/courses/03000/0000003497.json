@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 300,
 	"name": "IR/Seminar: Prayer",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Seminar: Prayer",
 	"type": "Research",

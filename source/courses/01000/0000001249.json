@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 100,
+	"locations": [
+		"H 514"
+	],
 	"name": "Culture of Nature",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

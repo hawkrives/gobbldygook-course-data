@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Hebrew Prophets",
 	"num": 273,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

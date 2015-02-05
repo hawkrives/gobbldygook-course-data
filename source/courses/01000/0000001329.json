@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 200,
+	"locations": [
+		"L 177"
+	],
 	"name": "Amer Environmental",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"L 177"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1045-1140"

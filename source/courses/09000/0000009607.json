@@ -5,18 +5,19 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Principles of Acct",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

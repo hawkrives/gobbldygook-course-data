@@ -7,14 +7,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Wendell Arneson"
+			],
 			"level": 200,
 			"name": "IS/Pysanky Design",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Wendell Arneson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Pysanky Design",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 200,
 			"name": "IS/Warbler Migrations",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Warbler Migrations",
 			"type": "Research",
@@ -47,17 +49,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
+			"locations": [
+				"SC 374"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"SC 374"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -73,14 +76,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Struct Chem & Equ/Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Struct Chem & Equ/Lab",
 			"type": "Lab",
@@ -93,17 +97,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gary O. Spessard"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Gary O. Spessard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -119,14 +124,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gary O. Spessard"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"profs": [
-				"Gary O. Spessard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -139,14 +145,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Enviro Policy/Regulat",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Enviro Policy/Regulat",
 			"type": "Research",
@@ -159,14 +166,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Richard Brown"
+			],
 			"level": 200,
 			"name": "IS/Math Computing C++",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Richard Brown"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Math Computing C++",
 			"type": "Research",
@@ -179,14 +187,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "College English",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "College English",
 			"type": "Research",
@@ -199,17 +208,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Post-Colonial Lit",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1230-0200PM"
@@ -225,17 +235,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Expository Writing",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -251,14 +262,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Creative Writing I",
 			"num": 257,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Creative Writing I",
 			"type": "Research",
@@ -271,14 +283,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Carol Holly"
+			],
 			"level": 200,
 			"name": "IS/Writing-Wmns Life",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Carol Holly"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Writing-Wmns Life",
 			"type": "Research",
@@ -291,17 +304,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
+			"locations": [
+				"L 520"
+			],
 			"name": "Cr Writ II: Nonfiction",
 			"num": 373,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -317,14 +331,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 300,
 			"name": "IR/19 & 20 Cent Lit",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/19 & 20 Cent Lit",
 			"type": "Research",
@@ -337,14 +352,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Eugene Bakko"
+			],
 			"level": 100,
 			"name": "Minn Natural History",
 			"num": 150,
 			"pf": false,
-			"profs": [
-				"Eugene Bakko"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Minn Natural History",
 			"type": "Research",
@@ -357,14 +373,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intro: Enviro Studies",
 			"num": 237,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Intro: Enviro Studies",
 			"type": "Research",
@@ -377,14 +394,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 200,
 			"name": "Saving Wild Places",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Saving Wild Places",
 			"type": "Research",
@@ -397,14 +415,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 200,
 			"name": "IS/Nat Resource Prot",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Nat Resource Prot",
 			"type": "Research",
@@ -417,17 +436,18 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 200,
+			"locations": [
+				"M 26"
+			],
 			"name": "Intermed French I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"M 26"
-			],
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -443,17 +463,18 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 200,
+			"locations": [
+				"M 20"
+			],
 			"name": "Intermed French II",
 			"num": 232,
 			"pf": false,
-			"places": [
-				"M 20"
-			],
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1230-0200PM"
@@ -469,14 +490,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 100,
 			"name": "Beginning German I",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Beginning German I",
 			"type": "Research",
@@ -489,14 +511,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 100,
 			"name": "Beginning German II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Beginning German II",
 			"type": "Research",
@@ -509,14 +532,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 200,
 			"name": "Intermed German I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Intermed German I",
 			"type": "Research",
@@ -529,14 +553,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 200,
 			"name": "Intermed German II",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Intermed German II",
 			"type": "Research",
@@ -549,14 +574,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 300,
 			"name": "IR/Gm Novella 1800-40",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/Gm Novella 1800-40",
 			"type": "Research",
@@ -569,15 +595,16 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Lavern Rippley"
+			],
 			"level": 300,
 			"name": "IR/Gm Novella 1860-90",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Lavern Rippley"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/Gm Novella 1860-90",
 			"type": "Research",
@@ -590,17 +617,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"H 501"
+			],
 			"name": "U.S. Since 1865",
 			"num": 206,
 			"pf": false,
-			"places": [
-				"H 501"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -616,17 +644,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -642,17 +671,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 26"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"M 26"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1230-0200PM"
@@ -668,14 +698,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 100,
 			"name": "Calculus I",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Calculus I",
 			"type": "Research",
@@ -688,14 +719,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 100,
 			"name": "Calculus II",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Calculus II",
 			"type": "Research",
@@ -708,14 +740,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 200,
 			"name": "Multivariable Calc",
 			"num": 226,
 			"pf": false,
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Multivariable Calc",
 			"type": "Research",
@@ -728,14 +761,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Richard Allen"
+			],
 			"level": 200,
 			"name": "Elem Real Analysis",
 			"num": 244,
 			"pf": false,
-			"profs": [
-				"Richard Allen"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Elem Real Analysis",
 			"type": "Research",
@@ -748,17 +782,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Timothy Mahr"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 232"
+			],
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
-				"Timothy Mahr"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1230-0200PM"
@@ -774,17 +809,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Timothy Mahr"
+			],
 			"level": 300,
+			"locations": [
+				"CHM 232"
+			],
 			"name": "Composition II",
 			"num": 324,
 			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
-				"Timothy Mahr"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -800,14 +836,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Solveig Zempel"
+			],
 			"level": 300,
 			"name": "IR/Ibsen-Ethical ISS",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Solveig Zempel"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/Ibsen-Ethical ISS",
 			"type": "Research",
@@ -820,17 +857,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"H 515"
+			],
 			"name": "Biomedical Ethics",
 			"num": 250,
 			"pf": false,
-			"places": [
-				"H 515"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -846,17 +884,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
+			"locations": [
+				"H 514"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"H 514"
-			],
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1230-0200PM"
@@ -872,17 +911,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Rick A. Fairbanks"
+			],
 			"level": 200,
+			"locations": [
+				"M 21"
+			],
 			"name": "Top: Environ Ethics",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"M 21"
-			],
-			"profs": [
-				"Rick A. Fairbanks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -898,14 +938,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Individualized Phy Ed",
 			"num": 100,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Individualized Phy Ed",
 			"type": "Research",
@@ -918,14 +959,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Gary Wicks"
+			],
 			"level": 100,
 			"name": "Orienteering",
 			"num": 109,
 			"pf": false,
-			"profs": [
-				"Gary Wicks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Orienteering",
 			"type": "Research",
@@ -938,14 +980,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Gary Deason"
+			],
 			"level": 100,
 			"name": "Canoeing",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Gary Deason"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Canoeing",
 			"type": "Research",
@@ -958,14 +1001,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
 			"name": "Individual Fitness",
 			"num": 132,
 			"pf": false,
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Individual Fitness",
 			"type": "Research",
@@ -978,14 +1022,15 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
 			"name": "Weight Training",
 			"num": 140,
 			"pf": false,
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Weight Training",
 			"type": "Research",
@@ -998,14 +1043,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"James Dickson Jr."
+			],
 			"level": 200,
 			"name": "IS/N.O. & the Brain",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Dickson Jr."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/N.O. & the Brain",
 			"type": "Research",
@@ -1018,14 +1064,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Donna McMillan"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Donna McMillan"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1038,14 +1085,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Rick A. Fairbanks"
+			],
 			"level": 300,
 			"name": "IR/Existential Psych",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Rick A. Fairbanks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/Existential Psych",
 			"type": "Research",
@@ -1058,17 +1106,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "The Greats",
 			"num": 203,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 0800-0930"
@@ -1084,17 +1133,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 577"
+			],
 			"name": "Chr Theol in History",
 			"num": 212,
 			"pf": false,
-			"places": [
-				"L 577"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"times": [
 				"M-F 1000-1130"
@@ -1110,14 +1160,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"James Hanson"
+			],
 			"level": 200,
 			"name": "IS/Bible and Authorit",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"James Hanson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Bible and Authorit",
 			"type": "Research",
@@ -1130,14 +1181,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Naurine Lennox"
+			],
 			"level": 200,
 			"name": "IS/Hmn Bio Applicaysw",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Naurine Lennox"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Hmn Bio Applicaysw",
 			"type": "Research",
@@ -1150,15 +1202,16 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "IS/Intro Soc Welfare",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Intro Soc Welfare",
 			"type": "Research",
@@ -1171,14 +1224,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Karen Wilson"
+			],
 			"level": 200,
 			"name": "IS/Speech Path Ind St",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Karen Wilson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Speech Path Ind St",
 			"type": "Research",
@@ -1191,14 +1245,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 300,
 			"name": "IR/Origins of Theater",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IR/Origins of Theater",
 			"type": "Research",
@@ -1211,14 +1266,15 @@
 			"depts": [
 				"ARMS"
 			],
+			"instructors": [
+				"Joan Hepburn"
+			],
 			"level": 200,
 			"name": "IS/Mixed Race Lit",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Joan Hepburn"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 19974,
 			"title": "IS/Mixed Race Lit",
 			"type": "Research",

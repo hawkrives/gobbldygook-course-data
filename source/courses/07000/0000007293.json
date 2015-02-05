@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Top: Urban Politics",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"M 0700-1000PM"

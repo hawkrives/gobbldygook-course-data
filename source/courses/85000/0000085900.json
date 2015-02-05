@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 110,
+	"instructors": [
+		"Laura Listenberger"
+	],
 	"level": 100,
-	"notes": "Students in Bio 127 must also register for lab Bio 127 L. This course has class-year limits. Class will meet on Friday, January 4",
-	"num": 127,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 290",
 		"RNS 290"
 	],
-	"profs": [
-		"Laura Listenberger"
-	],
-	"sem": 2,
+	"notes": "Students in Bio 127 must also register for lab Bio 127 L. This course has class-year limits. Class will meet on Friday, January 4",
+	"num": 127,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-Th 0900-1000",

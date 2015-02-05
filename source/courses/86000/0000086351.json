@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Jonathan T. Naito"
+	],
 	"level": 200,
+	"locations": [
+		"RML 420"
+	],
 	"name": "20C British & Irish Lit",
 	"notes": "New course",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Jonathan T. Naito"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

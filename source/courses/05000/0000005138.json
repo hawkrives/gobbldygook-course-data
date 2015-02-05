@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Bloss"
+	],
 	"level": 300,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Abstract Algebra II",
 	"num": 352,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Matthew Bloss"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

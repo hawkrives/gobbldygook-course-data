@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-G"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
-	"name": "Intermed German II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 1,
+	"name": "Intermed German II",
+	"num": 232,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"times": [
 		"T 0935-1100",

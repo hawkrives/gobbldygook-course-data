@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 248"
+	],
 	"name": "Ecological Prin/Lab",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"SC 248"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"T 0120-0355PM"

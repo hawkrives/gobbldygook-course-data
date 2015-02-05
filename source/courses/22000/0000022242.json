@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Top: Stress Biology",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"Th 0120-0420PM"

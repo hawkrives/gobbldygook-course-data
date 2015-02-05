@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Clifton Corzatt"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Abstract Algebra I",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Clifton Corzatt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul Fischer"
+	],
 	"level": 300,
 	"name": "IR/Chemical Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Fischer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Chemical Research",
 	"type": "Research",

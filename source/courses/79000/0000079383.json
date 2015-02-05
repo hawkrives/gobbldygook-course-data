@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Elodie Marlier"
+	],
 	"level": 300,
 	"name": "IR/Adv Organomet Synth",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Elodie Marlier"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

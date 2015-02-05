@@ -9,14 +9,15 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
 	"name": "Comm Science and Math",
 	"num": 230,
 	"pf": true,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"title": "Communicating Science and Mathematics",
 	"type": "Research",

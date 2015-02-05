@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Andrew W. Hertel"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Psych of Personality",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Andrew W. Hertel"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"MWF 0200-0255PM"

@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan Furness"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Ryan Furness"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 0800-0925",

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Hagedorn"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Ear/Keyboard IV",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"David Hagedorn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0905-1000"

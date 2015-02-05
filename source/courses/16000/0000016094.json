@@ -5,18 +5,19 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"M 2"
+	],
 	"name": "Beginning Japanese II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1150-1245PM"

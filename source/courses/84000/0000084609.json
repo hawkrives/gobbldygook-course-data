@@ -6,16 +6,17 @@
 		"PHIL"
 	],
 	"desc": "Formal systems of logic attempt to make principles of good reasoning explicit. This course introduces two such systems of logic: propositional and predicate calculus. Students learn to use formal techniques to analyze arguments and explore philosophical issues related to meta- theory, including consistency and completeness, the paradoxes of material implication, ontological commitment, and the interpretation of quantifiers. Offered annually.",
-	"level": 200,
-	"num": 240,
-	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
+	"instructors": [
 		"Arthur Cunningham"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 403"
+	],
+	"num": 240,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Top:Trail of Tears",
 	"notes": "This course does NOT carry HWC. Not open to students who completed Hist 270 in Spring 2008.",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1150-1245PM"

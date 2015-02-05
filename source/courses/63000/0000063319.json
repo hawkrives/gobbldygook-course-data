@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
-	"name": "Religions China/Japan",
-	"num": 256,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sem": 3,
+	"name": "Religions China/Japan",
+	"num": 256,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

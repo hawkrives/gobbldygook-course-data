@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Ann (wagner) Wagner"
+	],
 	"level": 100,
+	"locations": [
+		"SAC"
+	],
 	"name": "Ballroom I (Men)",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"SAC"
-	],
-	"profs": [
-		"Ann (wagner) Wagner"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MW 1255-0150PM"

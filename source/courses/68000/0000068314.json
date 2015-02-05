@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Todd F. Edwards"
+	],
 	"level": 100,
-	"name": "Prod Theater: Intro",
-	"notes": "Admission by audition/interview.",
-	"num": 133,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Kelsey",
 		"TB Kelsey",
 		"TB Kelsey"
 	],
-	"profs": [
-		"Todd F. Edwards"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Intro",
+	"notes": "Admission by audition/interview.",
+	"num": 133,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 0900-1000",

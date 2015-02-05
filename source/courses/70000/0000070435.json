@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
 	"name": "FLC - French",
 	"notes": "This section has been canceled.",
 	"num": 233,
 	"pf": false,
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "X",
 	"term": 20093,
 	"title": "FLC - French",
 	"type": "FLAC",

@@ -5,15 +5,16 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 300,
 	"name": "IR/College and Community",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

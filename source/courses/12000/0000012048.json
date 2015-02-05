@@ -5,18 +5,19 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 200,
-	"name": "Top: Sport & Religion",
-	"num": 212,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"name": "Top: Sport & Religion",
+	"num": 212,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0800-0925",

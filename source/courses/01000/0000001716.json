@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
+	"locations": [
+		"CT 216"
+	],
 	"name": "Hist/Theat-Up to 1700",
 	"num": 270,
 	"pf": false,
-	"places": [
-		"CT 216"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

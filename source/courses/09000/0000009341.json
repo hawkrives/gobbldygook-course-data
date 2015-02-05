@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Joseph McClanahan"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Tchg of World Lang",
 	"num": 353,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Joseph McClanahan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Kimberly A. Kandl"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Kimberly A. Kandl"
-	],
-	"sect": "P",
-	"sem": 1,
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 1,
+	"status": "C",
 	"term": 20131,
 	"times": [
 		"T 0120-0245PM",

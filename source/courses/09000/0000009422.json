@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 300,
 	"name": "IR/Literary Non-Fict",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Literary Non-Fict",
 	"type": "Research",

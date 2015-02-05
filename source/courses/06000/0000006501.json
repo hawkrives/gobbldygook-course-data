@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Alexander Hertich"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Intermed French I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Alexander Hertich"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

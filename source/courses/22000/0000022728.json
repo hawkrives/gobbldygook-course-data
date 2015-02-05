@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Skills/Tech Spt Act",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1150-1245PM"

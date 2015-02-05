@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "This course is a hands-on study of the science, aesthetics, history and current practices of electronic music. Creative projects include work with MIDI synthesizers and sequencers, as well as digital sampling and software synthesis.",
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Music/Electronic Med",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20062,
 	"times": [
 		"M-F 0100-0300PM"

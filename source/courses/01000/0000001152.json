@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "IR/Proj: Web Mgmt Sys",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Proj: Web Mgmt Sys",
 	"type": "Research",

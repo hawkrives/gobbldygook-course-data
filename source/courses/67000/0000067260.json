@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 1150-1245PM"

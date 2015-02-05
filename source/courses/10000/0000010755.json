@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Catherine R. Rodland"
+	],
 	"level": 200,
-	"name": "Theory III",
-	"num": 213,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Catherine R. Rodland"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Theory III",
+	"num": 213,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"T 0800-0925",

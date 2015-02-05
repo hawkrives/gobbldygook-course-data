@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Voice Class",
 	"num": 164,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MW 0200-0255PM"

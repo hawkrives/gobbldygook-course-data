@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Anne G. Sabo"
+	],
 	"level": 300,
+	"locations": [
+		"M 11"
+	],
 	"name": "Norsk Lit Etter 1890",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Anne G. Sabo"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0200-0255PM"

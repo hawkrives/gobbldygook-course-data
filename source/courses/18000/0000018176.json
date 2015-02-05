@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Applied Linguistics",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0120-0245PM"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 200,
-	"name": "Literary Eras: Victorian",
-	"num": 230,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sem": 3,
+	"name": "Literary Eras: Victorian",
+	"num": 230,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

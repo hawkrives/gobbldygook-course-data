@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 204",
 		"RNS 204"
 	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "P",
-	"sem": 1,
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0120-0245PM",

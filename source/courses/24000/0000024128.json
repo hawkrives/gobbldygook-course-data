@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Freud/Human Behavior",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"times": [
 		"M-Th 0100-0300PM"

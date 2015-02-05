@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

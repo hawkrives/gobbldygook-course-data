@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
+	"locations": [
+		"H 206"
+	],
 	"name": "Comparative Psych/Lab",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"H 206"
-	],
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"Th 1145-0110PM"

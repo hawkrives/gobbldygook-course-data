@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Tchg of World Lang",
 	"num": 353,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0600-0900PM"

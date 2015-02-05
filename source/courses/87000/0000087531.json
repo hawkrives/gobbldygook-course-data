@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Priscilla M. Paton"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Priscilla M. Paton"
-	],
-	"sect": "J",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0800-0925",

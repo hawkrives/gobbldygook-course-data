@@ -5,15 +5,16 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 300,
 	"name": "IR/Classroom Language Use",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Maggie Broner"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

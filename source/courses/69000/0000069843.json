@@ -10,19 +10,20 @@
 		"FOL-J"
 	],
 	"groupid": 664,
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Intermed Japanese II",
 	"notes": "Students in Japanese 232A and B must also register for one lab Japanese 232 AL or BL.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

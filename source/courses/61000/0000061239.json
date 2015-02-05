@@ -6,18 +6,19 @@
 		"CHIN"
 	],
 	"groupid": 237,
+	"instructors": [
+		"Shannon Cannella"
+	],
 	"level": 100,
+	"locations": [
+		"RML WLC"
+	],
 	"name": "Beginning Chinese I Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RML WLC"
-	],
-	"profs": [
-		"Shannon Cannella"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"T 1145-0110PM"

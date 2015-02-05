@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
+	"locations": [
+		"SC 329"
+	],
 	"name": "Physical Lab",
 	"num": 357,
 	"pf": true,
-	"places": [
-		"SC 329"
-	],
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"W 0100-0500PM"

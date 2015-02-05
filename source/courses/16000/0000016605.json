@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 4,
+	"section": "A",
+	"semester": 4,
+	"status": "O",
 	"term": 19944,
 	"title": "Internship",
 	"type": "Research",

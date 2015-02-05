@@ -10,17 +10,18 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 200,
+	"locations": [
+		"DC Studio 1"
+	],
 	"name": "Intl Dance II",
 	"num": 209,
 	"pf": true,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MW 0905-1000"

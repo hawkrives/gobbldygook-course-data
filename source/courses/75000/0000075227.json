@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
-	"name": "Movement/Camera/Process",
-	"num": 150,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC Studio 1",
 		"DC 100"
 	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sem": 2,
+	"name": "Movement/Camera/Process",
+	"num": 150,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20102,
 	"times": [
 		"M-F 1040-1200PM",

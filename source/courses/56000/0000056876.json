@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"desc": "Seminars allow in-depth study of particular themes or topics in psychology. Prerequisite: Psychology 231. See department website for descriptions and additional prerequisites. May be repeated if topics are different. Offered most years.",
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
+	"locations": [
+		"OM 003"
+	],
 	"name": "Sem: Psych of Women",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"MWF 1045-1140"

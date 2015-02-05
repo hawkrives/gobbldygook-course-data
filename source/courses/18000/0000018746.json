@@ -5,17 +5,18 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Richard Single"
+	],
 	"level": 200,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Design of Experiments",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Richard Single"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

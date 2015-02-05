@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 100,
+	"locations": [
+		"OM 240"
+	],
 	"name": "Bible/Culture/Commun",
 	"notes": "Subtitle: Is the Bible Immoral?",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 240"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

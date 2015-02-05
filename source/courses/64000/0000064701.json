@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "A sequel to Mathematics 230, this course studies differential equations from a more rigorous mathematical perspective and extends their use as modeling tools. Students examine dynamical systems and their use in the study of chaos and fractals and partial differential equations and their use to describe complex physical phenomena such as wave motion and diffusion. Mathematical computing plays an important role. Prerequisite: Mathematics 230. Offered periodically.",
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Differential Equation",
 	"num": 330,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

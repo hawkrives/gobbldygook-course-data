@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Dissenters/Defenders",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 100,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Intro to Sociology",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20114,
 	"times": [
 		"M-F 0800-0930"

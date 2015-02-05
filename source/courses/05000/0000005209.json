@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Jo Ann Polley"
+	],
 	"level": 300,
 	"name": "IR/Hist/Lit/Ped-Clar",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jo Ann Polley"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Hist/Lit/Ped-Clar",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Naurine Lennox"
+	],
 	"level": 200,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Eval/Sw Prac & Prog",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Naurine Lennox"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

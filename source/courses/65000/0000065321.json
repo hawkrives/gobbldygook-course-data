@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 300,
 	"name": "IR/Amer. Adolescent Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Independent Research",
 	"type": "Research",

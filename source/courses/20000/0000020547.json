@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kurt Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"NFLD BOWL"
+	],
 	"name": "Bowling",
 	"num": 104,
 	"pf": false,
-	"places": [
-		"NFLD BOWL"
-	],
-	"profs": [
-		"Kurt Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"W 1255-0255PM"

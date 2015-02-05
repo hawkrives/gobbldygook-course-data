@@ -6,14 +6,15 @@
 		"PEAC"
 	],
 	"desc": "This course introduces students to the lifetime sport of fly-fishing and fly-tying. Equipment available. Lab fee.",
+	"instructors": [
+		"Scott Nesbit"
+	],
 	"level": 100,
 	"name": "Fly Fishing",
 	"num": 128,
 	"pf": false,
-	"profs": [
-		"Scott Nesbit"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"TTh 1255-0150PM"

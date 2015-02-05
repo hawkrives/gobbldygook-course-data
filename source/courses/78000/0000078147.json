@@ -10,19 +10,20 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Jeremy Loebach"
+	],
 	"level": 100,
-	"name": "Principles: Psych",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 150",
 		"RNS 150"
 	],
-	"profs": [
-		"Jeremy Loebach"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Principles: Psych",
+	"num": 125,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 0935-1100",

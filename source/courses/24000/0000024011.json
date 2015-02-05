@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 200,
 	"name": "Equatorial Biology",
 	"num": 288,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"title": "Equatorial Biology",
 	"type": "Research",

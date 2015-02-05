@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Ann (wagner) Wagner"
+	],
 	"level": 200,
+	"locations": [
+		"SAC S GYM"
+	],
 	"name": "Ballrm II (Wm)",
 	"num": 206,
 	"pf": true,
-	"places": [
-		"SAC S GYM"
-	],
-	"profs": [
-		"Ann (wagner) Wagner"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MW 0200-0255PM"

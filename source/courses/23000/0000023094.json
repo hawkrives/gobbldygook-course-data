@@ -5,15 +5,16 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "IS/Intro Soc Welfare",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 4,
+	"section": "A",
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"title": "IS/Intro Soc Welfare",
 	"type": "Research",

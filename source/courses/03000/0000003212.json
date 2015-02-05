@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 200,
 	"name": "IS/Discrete Math",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Discrete Math",
 	"type": "Research",

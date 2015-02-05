@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 200,
-	"name": "Econ Develop in Japan",
-	"num": 238,
-	"pf": false,
-	"places": [
+	"locations": [
 		"Mod 3",
 		"Mod 3"
 	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 3,
+	"name": "Econ Develop in Japan",
+	"num": 238,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

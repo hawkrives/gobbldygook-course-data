@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 200,
-	"name": "Literature & Film",
-	"num": 275,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sem": 3,
+	"name": "Literature & Film",
+	"num": 275,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

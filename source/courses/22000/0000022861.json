@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Susan Lindley"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Types Protestantism",
 	"num": 215,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Susan Lindley"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

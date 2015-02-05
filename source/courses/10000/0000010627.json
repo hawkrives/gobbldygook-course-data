@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 300,
 	"name": "IR/Progressive History",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "Independent Research",
 	"type": "Research",

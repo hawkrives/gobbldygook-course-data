@@ -6,17 +6,18 @@
 		"PETH"
 	],
 	"halfcredit": "1",
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 1"
+	],
 	"name": "Adm of Phys Educ/Spt",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"SAC 1"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 1255-0150PM"

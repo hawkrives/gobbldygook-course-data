@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 100,
+	"locations": [
+		"DC 106",
+		"DC 106"
+	],
 	"name": "Foundation 3-D Media",
 	"notes": "This course has class year limits.",
 	"num": 103,
 	"pf": false,
-	"places": [
-		"DC 106",
-		"DC 106"
-	],
-	"profs": [
-		"Irve Dell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-1100",

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Scott Nesbit"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Fly Fishing",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"SAC 112"
-	],
-	"profs": [
-		"Scott Nesbit"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"TTh 1255-0150PM"

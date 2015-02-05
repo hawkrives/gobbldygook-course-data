@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 300,
+	"locations": [
+		"OM 20"
+	],
 	"name": "Labor Econ/Empl Rel",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor.",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"OM 20"
-	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

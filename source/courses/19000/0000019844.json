@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
-	"name": "Seminar Computer Sci",
-	"num": 378,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 130"
 	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sem": 2,
+	"name": "Seminar Computer Sci",
+	"num": 378,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0900-1200PM",

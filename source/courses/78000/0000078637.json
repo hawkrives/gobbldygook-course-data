@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
 	"name": "IR/Professional Direction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Independent Research",
 	"type": "Research",

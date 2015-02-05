@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Matthew C. McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"TC"
+	],
 	"name": "Rock Climbing",
 	"num": 106,
 	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
-		"Matthew C. McDonald"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"MW 1045-1140"

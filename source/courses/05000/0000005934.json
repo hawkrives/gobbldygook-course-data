@@ -5,18 +5,19 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 300,
-	"name": "Homer & Greek Epic",
-	"num": 375,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 003",
 		"OM 003"
 	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 1,
+	"name": "Homer & Greek Epic",
+	"num": 375,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0935-1100",

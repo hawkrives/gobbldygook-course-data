@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"William Sean Goldsworthy"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 142"
+	],
 	"name": "Biomechanics",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"SAC 142"
-	],
-	"profs": [
-		"William Sean Goldsworthy"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

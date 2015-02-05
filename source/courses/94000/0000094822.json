@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Laura F. Boehm"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Laura F. Boehm"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 0905-1000"

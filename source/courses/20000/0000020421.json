@@ -5,17 +5,18 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"David Booth"
+	],
 	"level": 300,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Ethical ISSues/Gr Con",
 	"num": 310,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

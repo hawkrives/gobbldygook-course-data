@@ -5,14 +5,15 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Internship",
 	"type": "Research",

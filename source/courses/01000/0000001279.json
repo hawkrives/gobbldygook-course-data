@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Melanie Richards"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "First Year Writing",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Melanie Richards"
-	],
-	"sect": "K",
-	"sem": 3,
+	"section": "K",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

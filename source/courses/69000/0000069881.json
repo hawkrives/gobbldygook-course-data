@@ -6,20 +6,21 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Nanaho Hanada"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 290",
+		"RNS 290"
+	],
 	"name": "Top: Citizen Activism",
 	"notes": "This course has been cancelled.",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"RNS 290",
-		"RNS 290"
-	],
-	"profs": [
-		"Nanaho Hanada"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "X",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

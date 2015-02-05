@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 100,
+	"locations": [
+		"DC 216",
+		"DC 216"
+	],
 	"name": "Foundation 2-D Media",
 	"notes": "This course has class year limits.",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"DC 216",
-		"DC 216"
-	],
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0800-1100",

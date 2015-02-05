@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
 	"name": "IS/Diseases",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Diseases",
 	"type": "Research",

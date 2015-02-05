@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Odd S. Lovoll"
+	],
 	"level": 100,
+	"locations": [
+		"M 1"
+	],
 	"name": "Norwegian/Amer Exper",
 	"num": 155,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Odd S. Lovoll"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"times": [
 		"M-Th 1040-1240PM"

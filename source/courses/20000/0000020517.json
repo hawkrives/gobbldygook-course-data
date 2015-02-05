@@ -5,17 +5,18 @@
 	"depts": [
 		"PARA"
 	],
+	"instructors": [
+		"Jon Eric Nelson"
+	],
 	"level": 200,
+	"locations": [
+		"L 520"
+	],
 	"name": "On the Road",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Jon Eric Nelson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1150-1245PM"

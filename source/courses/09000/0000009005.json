@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 200,
-	"name": "Prod Theater: Advanced",
-	"num": 234,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Advanced",
+	"num": 234,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 0900-1000",

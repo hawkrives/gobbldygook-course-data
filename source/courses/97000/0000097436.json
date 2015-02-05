@@ -10,17 +10,18 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 200,
+	"locations": [
+		"OM 310"
+	],
 	"name": "Global Interdepend",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"OM 310"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

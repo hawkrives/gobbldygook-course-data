@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 100,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Calculus II",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

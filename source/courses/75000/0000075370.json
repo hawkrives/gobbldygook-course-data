@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"name": "Theol of Religions/Dialog",
-	"num": 245,
-	"pf": false,
-	"places": [
-		"DC 305",
-		"DC 305"
-	],
-	"profs": [
+	"instructors": [
 		"Gregory A. Walter",
 		"Anantanand Rambachan"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"DC 305",
+		"DC 305"
+	],
+	"name": "Theol of Religions/Dialog",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

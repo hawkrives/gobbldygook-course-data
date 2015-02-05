@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 200,
+	"locations": [
+		"DC  STUDIO 1"
+	],
 	"name": "Movement Analysis",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 1"
-	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

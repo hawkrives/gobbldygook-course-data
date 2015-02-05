@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Italian Renaissance",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

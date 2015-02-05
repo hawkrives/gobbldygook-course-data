@@ -10,18 +10,19 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"J. L. Carrington"
+	],
 	"level": 300,
-	"name": "Sem: Medieval Italy",
-	"num": 310,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"J. L. Carrington"
-	],
-	"sem": 3,
+	"name": "Sem: Medieval Italy",
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

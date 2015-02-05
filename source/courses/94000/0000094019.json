@@ -10,16 +10,17 @@
 		"SPM"
 	],
 	"halfcredit": "1",
-	"level": 100,
-	"num": 125,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Hauck"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 125,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MW 1255-0255PM"

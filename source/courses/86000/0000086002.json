@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FOL-L"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 300,
-	"name": "Topics in Latin Lit: Ovid",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sem": 3,
+	"name": "Topics in Latin Lit: Ovid",
+	"num": 370,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

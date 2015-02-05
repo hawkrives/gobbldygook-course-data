@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Craig A. Solid"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Prin of Statistics",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Craig A. Solid"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

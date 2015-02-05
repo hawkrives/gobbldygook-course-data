@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 100,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sect": "N",
-	"sem": 3,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

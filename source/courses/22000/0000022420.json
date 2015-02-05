@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 200,
+	"locations": [
+		"L 420"
+	],
 	"name": "Expository Writing",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"L 420"
-	],
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140"

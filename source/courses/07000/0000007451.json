@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
-	"name": "Adv Stage Direction",
-	"num": 338,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB 227"
 	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 3,
+	"name": "Adv Stage Direction",
+	"num": 338,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

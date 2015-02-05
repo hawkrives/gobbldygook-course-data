@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Naurine Lennox"
+	],
 	"level": 300,
+	"locations": [
+		"M 1"
+	],
 	"name": "Field Practicum Sem",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Naurine Lennox"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19981,
 	"times": [
 		"M 0630-0930PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Abstract Algebra I",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Paul Zorn"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

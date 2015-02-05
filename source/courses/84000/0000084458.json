@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Cassidy R. Terrell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Chemistry & the World",
 	"notes": "Students in Chem 111 must also register for one lab Chem 111AL or BL.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 390",
-		"RNS 390"
-	],
-	"profs": [
-		"Cassidy R. Terrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

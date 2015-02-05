@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Beth Abdella"
+	],
 	"level": 300,
+	"locations": [
+		"SC 278"
+	],
 	"name": "Biochemistry",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"SC 278"
-	],
-	"profs": [
-		"Beth Abdella"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

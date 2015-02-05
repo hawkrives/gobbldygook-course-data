@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Islam & Politics",
 	"num": 377,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"M 0700-1000PM"

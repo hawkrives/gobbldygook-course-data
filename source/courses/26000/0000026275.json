@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 282"
+	],
 	"name": "Analytical Chem",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

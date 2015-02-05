@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Intermed Russian II Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1150-1245PM"

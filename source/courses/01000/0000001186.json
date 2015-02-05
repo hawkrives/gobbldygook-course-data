@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
+	"locations": [
+		"SAC"
+	],
 	"name": "Ballroom I (Women)",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"SAC"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0200-0255PM"

@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Christopher B. Chapp"
+	],
 	"level": 100,
+	"locations": [
+		"Mod 3"
+	],
 	"notes": "This course has class year limits.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"Mod 3"
-	],
-	"profs": [
-		"Christopher B. Chapp"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0800-0855"

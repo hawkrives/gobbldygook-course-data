@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"John T. Day"
+	],
 	"level": 300,
 	"name": "Shakespeare",
 	"num": 380,
 	"pf": false,
-	"profs": [
-		"John T. Day"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Shakespeare",
 	"type": "Research",

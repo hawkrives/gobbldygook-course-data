@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"desc": "Building upon skills learned in Chemistry 253, 254, students perform multi-step syntheses that require the use of advanced techniques for purifying and characterizing compounds. The second half of the course may focus on a project chosen by each student in consultation with the instructor. Prerequisites: Chemistry 253, 254. P/N only. Offered Spring Semester.",
+	"instructors": [
+		"William P. Roberts"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 351"
+	],
 	"name": "Adv Synthesis Lab",
 	"num": 374,
 	"pf": true,
-	"places": [
-		"RNS 351"
-	],
-	"profs": [
-		"William P. Roberts"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"Th 0100-0500PM"

@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "Complex analysis treats the calculus of complex-valued functions of a complex variable. Familiar words and ideas from ordinary calculus (limit, derivative, integral, maximum and minimum, infinite series) reappear in the complex setting. Topics include complex mappings, derivatives and integrals; applications focus especially on the physical sciences. Prerequisite: Mathematics 220. Recommended: Mathematics 226.",
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 300,
-	"num": 340,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 130",
 		"SC 130"
 	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 1,
+	"num": 340,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"T 0935-1100",

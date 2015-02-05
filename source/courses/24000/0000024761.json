@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"SAC WR RM"
+	],
 	"name": "Aerobics",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"SAC WR RM"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0200-0255PM"

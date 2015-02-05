@@ -9,17 +9,18 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "St.Paul/Letter/Gospel",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

@@ -6,18 +6,19 @@
 		"CHIN"
 	],
 	"groupid": 243,
+	"instructors": [
+		"Steven P. Day"
+	],
 	"level": 200,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Intermed Chinese II Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Steven P. Day"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"TTh 0800-0855"

@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Applied Linguistics",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM"

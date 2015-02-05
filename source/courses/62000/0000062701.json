@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Eric McDonald"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Biological Science",
 	"notes": "Students in Bio 121 must also register for one lab Bio 121 AL or BL.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
-		"Eric McDonald"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

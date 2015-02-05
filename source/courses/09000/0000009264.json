@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 300,
 	"name": "IR/Steroid Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Steroid Research",
 	"type": "Research",

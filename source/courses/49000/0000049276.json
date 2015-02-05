@@ -5,18 +5,19 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Peter-John Thomas"
+	],
 	"level": 100,
+	"locations": [
+		"OM 003"
+	],
 	"name": "Beginning Russian II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 003"
-	],
-	"profs": [
-		"Peter-John Thomas"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1150-1245PM"

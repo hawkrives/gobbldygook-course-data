@@ -10,20 +10,21 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 114",
+		"TOH 114"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 114",
-		"TOH 114"
-	],
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Forsberg"
+	],
 	"level": 100,
 	"name": "The Music Spectrum",
 	"num": 130,
 	"pf": false,
-	"profs": [
-		"Charles Forsberg"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "The Music Spectrum",
 	"type": "Research",

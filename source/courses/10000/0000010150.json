@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Veronika Dolar"
+	],
 	"level": 100,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Veronika Dolar"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20044,
 	"times": [
 		"M-F 1000-1130"

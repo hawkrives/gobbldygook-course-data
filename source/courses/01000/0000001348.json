@@ -5,15 +5,16 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 300,
 	"name": "FLC-Spanish",
 	"num": 333,
 	"pf": true,
-	"profs": [
-		"David Schodt"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "FLC-Spanish",
 	"type": "Research",

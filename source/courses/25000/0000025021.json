@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 300,
+	"locations": [
+		"SPT GREEN RM"
+	],
 	"name": "Topics Interp & Thtr",
 	"num": 379,
 	"pf": false,
-	"places": [
-		"SPT GREEN RM"
-	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

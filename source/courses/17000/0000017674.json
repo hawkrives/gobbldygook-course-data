@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 200,
 	"name": "Organometallic Chem",
 	"num": 252,
 	"pf": false,
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Organometallic Chem",
 	"type": "Research",

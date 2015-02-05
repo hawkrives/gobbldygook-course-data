@@ -7,18 +7,19 @@
 	],
 	"groupid": 192,
 	"grouptype": "2",
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/363"
+	],
 	"name": "Struct Chem/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 374/363"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"times": [
 		"T 0300-0600PM"

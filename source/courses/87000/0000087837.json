@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 151,
-	"pf": false,
-	"places": [
-		"SAC Gym North"
-	],
-	"profs": [
+	"instructors": [
 		"David A. Stromme"
 	],
-	"sect": "C",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Gym North"
+	],
+	"num": 151,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MW 0800-0855"

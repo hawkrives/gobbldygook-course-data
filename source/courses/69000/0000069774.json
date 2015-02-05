@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 300,
 	"name": "IR/Mark Twain",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research",
 	"type": "Research",

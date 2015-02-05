@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 200,
+	"locations": [
+		"YH 132"
+	],
 	"name": "Marriage & the Family",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"YH 132"
-	],
-	"profs": [
-		"Michael Leming"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

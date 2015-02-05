@@ -5,18 +5,19 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Gia Someya"
+	],
 	"level": 100,
+	"locations": [
+		"M 2"
+	],
 	"name": "Begin Japanese II/Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Gia Someya"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"T 1150-1245PM"

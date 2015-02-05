@@ -10,18 +10,19 @@
 		"SED"
 	],
 	"groupid": 1159,
+	"instructors": [
+		"Jeremy Loebach"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Sensation/Perception",
 	"notes": "Students in Psych 235 must also register for lab Psych 235 AL, BL, or CL.",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Jeremy Loebach"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

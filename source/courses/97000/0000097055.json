@@ -10,16 +10,17 @@
 		"ALS-A",
 		"ORC"
 	],
-	"level": 100,
-	"num": 132,
-	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
+	"instructors": [
 		"David Carter"
 	],
-	"sem": 5,
+	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
+	"num": 132,
+	"pf": false,
+	"semester": 5,
+	"status": "X",
 	"term": 20135,
 	"times": [
 		"M-F 0800-0930"

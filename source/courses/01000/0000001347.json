@@ -5,17 +5,18 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 300,
+	"locations": [
+		"M 4"
+	],
 	"name": "Contemp Lat Amer ISS",
 	"num": 333,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

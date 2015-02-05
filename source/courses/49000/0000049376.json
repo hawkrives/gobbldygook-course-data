@@ -5,14 +5,15 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
 	"name": "Advanced Pizza Tossing",
 	"num": 201,
 	"pf": false,
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "Advanced Pizza Tossing",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"OM 030"
+	],
 	"name": "Beginning Greek II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

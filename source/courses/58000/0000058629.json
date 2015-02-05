@@ -5,15 +5,16 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "IS/Germany Immigration",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20062,
 	"title": "Independent Study",
 	"type": "Research",

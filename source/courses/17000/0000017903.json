@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
 	"name": "IS/Sculpture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Sculpture",
 	"type": "Research",

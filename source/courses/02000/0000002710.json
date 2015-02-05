@@ -5,18 +5,19 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"John Walters"
+	],
 	"level": 200,
-	"name": "Computers in Health",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 18",
 		"SC 18"
 	],
-	"profs": [
-		"John Walters"
-	],
-	"sem": 2,
+	"name": "Computers in Health",
+	"num": 251,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1230PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Devyani Chandran"
+	],
 	"level": 200,
 	"name": "IS/Psych of Sexuality",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Devyani Chandran"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

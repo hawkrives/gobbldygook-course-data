@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Theodore Vessey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Theodore Vessey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000"

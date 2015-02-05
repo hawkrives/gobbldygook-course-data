@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 200,
 	"name": "IS/Algorithm Theory",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Matthew Richey"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"title": "IS/Algorithm Theory",
 	"type": "Research",

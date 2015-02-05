@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 100,
+	"locations": [
+		"CTR ST"
+	],
 	"name": "Ballet I",
 	"num": 121,
 	"pf": true,
-	"places": [
-		"CTR ST"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 100,
+	"locations": [
+		"HAUGEN"
+	],
 	"name": "Beginning Acting",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"HAUGEN"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 1145-0110PM"

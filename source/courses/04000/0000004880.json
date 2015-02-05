@@ -5,19 +5,20 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
-	"name": "Software Design & Impl",
-	"num": 272,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"OMH 300"
 	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Software Design & Impl",
+	"num": 272,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM",

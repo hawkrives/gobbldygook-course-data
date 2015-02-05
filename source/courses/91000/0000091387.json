@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Peter B. Nelson"
+	],
 	"level": 100,
-	"notes": "This course has class-year limits.",
-	"num": 104,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 100",
 		"DC 100",
 		"DC 100"
 	],
-	"profs": [
-		"Peter B. Nelson"
-	],
-	"sem": 2,
+	"notes": "This course has class-year limits.",
+	"num": 104,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0900-1000",

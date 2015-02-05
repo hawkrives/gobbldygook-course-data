@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Anna Kuxhausen"
+	],
 	"level": 200,
 	"name": "FLC - Russian",
 	"num": 231,
 	"pf": false,
-	"profs": [
-		"Anna Kuxhausen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "FLC - Russian",
 	"type": "FLAC",

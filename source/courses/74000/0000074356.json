@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Maria L. Kelly"
+	],
 	"level": 200,
 	"name": "IS/Education in the U.S.",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Maria L. Kelly"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

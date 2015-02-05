@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Richard M. Hirsch"
+	],
 	"level": 200,
 	"name": "IS/Promotional Strategies",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard M. Hirsch"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

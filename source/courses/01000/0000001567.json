@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Andrew Seligsohn"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Hist Mod Pol Thought",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Andrew Seligsohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

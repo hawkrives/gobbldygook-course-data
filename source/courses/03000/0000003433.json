@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Sem: Jr Research",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

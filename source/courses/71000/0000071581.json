@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ibtesam Al Atiyat"
+	],
 	"level": 100,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Intro to Sociology",
 	"notes": "Open to First-Year Students only.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Ibtesam Al Atiyat"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 0100-0300PM"

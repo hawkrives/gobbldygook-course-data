@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Studies Women & Rel",
 	"num": 389,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MWF 1045-1140"

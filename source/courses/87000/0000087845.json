@@ -9,20 +9,21 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Jason Marsh"
+	],
 	"level": 200,
+	"locations": [
+		"OM 310",
+		"OM 310"
+	],
 	"name": "Science, Ethics, Religion",
 	"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration. New course",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"OM 310",
-		"OM 310"
-	],
-	"profs": [
-		"Jason Marsh"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

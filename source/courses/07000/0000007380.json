@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 300,
 	"name": "IR/Contemp Theology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Contemp Theology",
 	"type": "Research",

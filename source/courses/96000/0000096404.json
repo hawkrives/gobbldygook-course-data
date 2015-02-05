@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 200,
-	"name": "Romantic/Victorian/Modern",
-	"num": 228,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 520",
 		"RML 520"
 	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sem": 3,
+	"name": "Romantic/Victorian/Modern",
+	"num": 228,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

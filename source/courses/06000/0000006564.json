@@ -5,14 +5,15 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Judith Sateren"
+	],
 	"level": 200,
 	"name": "IS/Adolescent Health",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Judith Sateren"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/Adolescent Health",
 	"type": "Research",

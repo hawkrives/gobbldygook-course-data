@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Nicole B. Beckmann"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501"
+	],
 	"name": "Nutrition & Wellness",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
-		"Nicole B. Beckmann"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 1040-1240PM"

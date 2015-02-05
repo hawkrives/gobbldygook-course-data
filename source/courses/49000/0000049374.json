@@ -5,14 +5,15 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
 	"name": "Knitting for Registrars",
 	"num": 200,
 	"pf": false,
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"title": "Knitting for Registrars",
 	"type": "Research",

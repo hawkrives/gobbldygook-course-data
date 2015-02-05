@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "Transition Economies",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"times": [
 		"M-Th 1040-1240PM"

@@ -10,19 +10,20 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Susi K. Keefe"
+	],
 	"level": 200,
-	"notes": "Prerequisite: One sociology/anthropology course.",
-	"num": 267,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Susi K. Keefe"
-	],
-	"sect": "B",
-	"sem": 1,
+	"notes": "Prerequisite: One sociology/anthropology course.",
+	"num": 267,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 1145-0110PM",

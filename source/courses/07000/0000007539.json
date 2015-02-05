@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Politics & Developmnt",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 1000-1130"

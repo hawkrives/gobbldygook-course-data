@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20035,
 	"title": "Academic Internship",
 	"type": "Research",

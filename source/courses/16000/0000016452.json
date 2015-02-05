@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"YH 100"
+	],
 	"name": "Judaism",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"YH 100"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

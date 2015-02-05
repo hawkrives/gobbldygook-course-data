@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
-	"name": "Sculpt: Metal Direct",
-	"num": 224,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 105",
 		"DC 105"
 	],
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"name": "Sculpt: Metal Direct",
+	"num": 224,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0800-1100",

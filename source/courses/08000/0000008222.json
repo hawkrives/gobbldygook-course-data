@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 100,
-	"name": "Moral Psychology",
-	"num": 119,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Moral Psychology",
+	"num": 119,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0800-0925",

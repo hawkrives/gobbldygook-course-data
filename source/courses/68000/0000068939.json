@@ -11,19 +11,20 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Intro: Pol Theory",
 	"notes": "This course has class year limits.",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 300,
 	"name": "IR/Phil of Sci & Gov",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Phil of Sci & Gov",
 	"type": "Research",

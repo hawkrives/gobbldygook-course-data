@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"desc": "This course, meeting once a week, uses both historical experiments and open-ended investigations with modern instrumentation to examine in detail the important developments covered in PHYS 244. Offered annually in the spring semester.",
+	"instructors": [
+		"James Demas"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 298"
+	],
 	"name": "Modern Phys Lab (244)",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"RNS 298"
-	],
-	"profs": [
-		"James Demas"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0245PM"

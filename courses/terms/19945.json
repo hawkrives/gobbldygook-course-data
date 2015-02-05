@@ -7,14 +7,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Human Biology",
 			"num": 123,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 19945,
 			"title": "Human Biology",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Cellular Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Cellular Bio & Genetics",
 			"type": "Research",
@@ -47,14 +49,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Cellular Bio & Gene/Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Cellular Bio & Gene/Lab",
 			"type": "Lab",
@@ -67,14 +70,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Plant Physiology",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Plant Physiology",
 			"type": "Research",
@@ -87,14 +91,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Organic Chemistry",
 			"num": 248,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Organic Chemistry",
 			"type": "Research",
@@ -107,14 +112,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Synthesis Lab",
 			"num": 254,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Synthesis Lab",
 			"type": "Lab",
@@ -127,14 +133,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -147,14 +154,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -167,14 +175,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Exceptional Childr",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Exceptional Childr",
 			"type": "Research",
@@ -187,14 +196,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Amer Lit Since 1945",
 			"num": 244,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Amer Lit Since 1945",
 			"type": "Research",
@@ -207,14 +217,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Expository Writing",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Expository Writing",
 			"type": "Research",
@@ -227,14 +238,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/East African Lit.",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/East African Lit.",
 			"type": "Research",
@@ -247,14 +259,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Cr Writ II: Nonfiction",
 			"num": 373,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Cr Writ II: Nonfiction",
 			"type": "Research",
@@ -267,14 +280,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -287,14 +301,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Thinking Abt Thinking",
 			"num": 180,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Thinking Abt Thinking",
 			"type": "Research",
@@ -307,14 +322,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Math Statistics",
 			"num": 312,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Math Statistics",
 			"type": "Research",
@@ -327,14 +343,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Church Serv Playing",
 			"num": 262,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Church Serv Playing",
 			"type": "Research",
@@ -347,14 +364,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Large Sacred Works",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Large Sacred Works",
 			"type": "Research",
@@ -367,14 +385,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -387,14 +406,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Ethics/The Good Life",
 			"type": "Research",
@@ -407,14 +427,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Metaphysics",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Metaphysics",
 			"type": "Research",
@@ -427,14 +448,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Phenomenological II",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 19945,
 			"title": "Phenomenological II",
 			"type": "Research",
@@ -447,14 +469,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Phenomenolog II/Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Phenomenolog II/Lab",
 			"type": "Lab",
@@ -467,14 +490,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Intro Comparative Pol",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Intro Comparative Pol",
 			"type": "Research",
@@ -487,14 +511,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Political Analysis",
 			"num": 118,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Political Analysis",
 			"type": "Research",
@@ -507,14 +532,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -527,14 +553,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Policy Studies",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Policy Studies",
 			"type": "Research",
@@ -547,14 +574,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -567,15 +595,16 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Introductory Psych",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "Z",
-			"sem": 5,
+			"section": "Z",
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Introductory Psych",
 			"type": "Research",
@@ -588,14 +617,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Research Methods",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Research Methods",
 			"type": "Research",
@@ -608,14 +638,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -628,14 +659,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Hmong Adjustmnt II",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IR/Hmong Adjustmnt II",
 			"type": "Research",
@@ -648,14 +680,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Theology of Luther",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IS/Theology of Luther",
 			"type": "Research",
@@ -668,14 +701,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Stud: Spiritual Autobi",
 			"num": 389,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Stud: Spiritual Autobi",
 			"type": "Research",
@@ -688,14 +722,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 19945,
 			"title": "Intro to Sociology",
 			"type": "Research",
@@ -708,14 +743,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Nfld Imagines",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IR/Nfld Imagines",
 			"type": "Research",
@@ -728,15 +764,16 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Latino Studies II",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IR/Latino Studies II",
 			"type": "Research",
@@ -749,14 +786,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "Internship",
 			"type": "Research",
@@ -769,14 +807,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Feminist Comm Theo",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 19945,
 			"title": "IR/Feminist Comm Theo",
 			"type": "Research",

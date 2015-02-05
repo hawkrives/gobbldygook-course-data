@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Edward David Emery"
+	],
 	"level": 200,
 	"name": "IS/Work in America",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Edward David Emery"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "IS/Work in America",
 	"type": "Research",

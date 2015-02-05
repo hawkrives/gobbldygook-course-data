@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
 	"name": "Histor Geograph Bible",
 	"num": 275,
 	"pf": false,
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Histor Geograph Bible",
 	"type": "Research",

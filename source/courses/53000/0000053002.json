@@ -6,16 +6,17 @@
 		"MUSIC"
 	],
 	"desc": "Intended primarily for music majors, this course introduces basic techniques for performance on selected instruments in the woodwind family. Tone production and technical facility are highlighted. Discussion topics include posture, breathing, embouchure, history of the woodwind instruments, instrument families, reed adjustment, maintenance and basic repair, resource materials, method books, solo and ensemble editions, and similarities and differences in teaching the various woodwind instruments.",
-	"level": 100,
-	"num": 169,
-	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
+	"instructors": [
 		"Karrin D. Meffert-Nelson"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
+	"num": 169,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 1150-1245PM"

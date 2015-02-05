@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Major Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"Th 0700-1000PM"

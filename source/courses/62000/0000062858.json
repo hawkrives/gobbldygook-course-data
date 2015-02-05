@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sect": "H",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "H",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

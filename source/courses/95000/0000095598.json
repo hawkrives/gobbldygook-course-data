@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"Jay D. Tasson"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 208"
+	],
 	"name": "Analytical II",
 	"notes": "Students in Physics 131 must also register for one lab Physics 131 AL, BL, or CL",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 208"
-	],
-	"profs": [
-		"Jay D. Tasson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 200,
 	"name": "IS/Memoir Writing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Memoir Writing",
 	"type": "Research",

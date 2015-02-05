@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one Level III course in philosophy.",
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 300,
 	"name": "IR/Hegel's Phenomenology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research",
 	"type": "Research",

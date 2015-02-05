@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 300,
 	"name": "IR/Advanced Sound Design",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

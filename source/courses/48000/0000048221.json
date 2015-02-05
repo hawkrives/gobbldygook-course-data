@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"groupid": 1161,
+	"instructors": [
+		"Shelly D. Dickinson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 206"
+	],
 	"name": "Condition & Learning Lab",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"HH 206"
-	],
-	"profs": [
-		"Shelly D. Dickinson"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"W 1045-1140"

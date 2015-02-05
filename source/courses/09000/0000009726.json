@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
-	"name": "Basketball",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC_GYM_C",
 		"SAC_GYM_C"
 	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sem": 3,
+	"name": "Basketball",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1005-1100",

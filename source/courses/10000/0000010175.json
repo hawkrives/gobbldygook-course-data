@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Comparative Politics",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 1230-0200PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Mary Ann Emery",
+		"David Hauck"
+	],
 	"level": 300,
 	"name": "IR/Aquatic Center St",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mary Ann Emery",
-		"David Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Aquatic Center St",
 	"type": "Research",

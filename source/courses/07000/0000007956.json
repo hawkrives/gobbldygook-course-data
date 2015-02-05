@@ -5,19 +5,20 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 100,
-	"name": "First-Year Writing",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "P",
-	"sem": 1,
+	"name": "First-Year Writing",
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0120-0245PM",

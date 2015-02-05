@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Maria L. Kelly"
+	],
 	"level": 300,
 	"name": "IR/Winter Outdoor Ed",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Maria L. Kelly"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IR/Winter Outdoor Ed",
 	"type": "Research",

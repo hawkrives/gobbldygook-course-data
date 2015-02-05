@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Archery",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0800-0855"

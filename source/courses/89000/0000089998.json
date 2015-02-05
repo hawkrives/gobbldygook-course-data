@@ -6,18 +6,19 @@
 		"JAPAN"
 	],
 	"groupid": 660,
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 175"
+	],
 	"name": "Beginning Japanese II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"TOH 175"
-	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"Th 0930-1025"

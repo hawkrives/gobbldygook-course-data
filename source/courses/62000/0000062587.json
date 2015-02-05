@@ -5,14 +5,15 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Internship",
 	"type": "Research",

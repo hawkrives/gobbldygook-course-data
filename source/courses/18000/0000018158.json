@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"David Brunet"
+	],
 	"level": 300,
 	"name": "IR/IDentity & Rushdie",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"David Brunet"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/IDentity & Rushdie",
 	"type": "Research",

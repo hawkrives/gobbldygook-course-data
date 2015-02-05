@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 100,
-	"name": "Romans & Christians",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"FH 1 PLENARY"
 	],
-	"profs": [
-		"James May"
-	],
-	"sect": "C",
-	"sem": 2,
+	"name": "Romans & Christians",
+	"num": 115,
+	"pf": false,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM",

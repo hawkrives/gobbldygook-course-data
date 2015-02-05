@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
 	"name": "IR/Ger Medieval Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Ger Medieval Lit",
 	"type": "Research",

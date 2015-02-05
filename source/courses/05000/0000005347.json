@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
-	"name": "Developmental Psych",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 001",
 		"OM 001"
 	],
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Developmental Psych",
+	"num": 241,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0120-0245PM",

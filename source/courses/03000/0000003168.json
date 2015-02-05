@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Richard A. Olson"
+	],
 	"level": 300,
 	"name": "IR/Athens and Sparta",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard A. Olson"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Athens and Sparta",
 	"type": "Research",

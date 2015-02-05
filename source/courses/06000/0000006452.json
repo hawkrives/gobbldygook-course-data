@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Beth Abdella"
+	],
 	"level": 100,
+	"locations": [
+		"SC 378"
+	],
 	"name": "Atom/Molec Structure",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SC 378"
-	],
-	"profs": [
-		"Beth Abdella"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning German I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

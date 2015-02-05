@@ -7,17 +7,18 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Margaret Ojala"
+			],
 			"level": 100,
+			"locations": [
+				"DC 102"
+			],
 			"name": "Found Photography",
 			"num": 124,
 			"pf": false,
-			"places": [
-				"DC 102"
-			],
-			"profs": [
-				"Margaret Ojala"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -33,17 +34,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 378"
+			],
 			"name": "Organic Chemistry",
 			"num": 247,
 			"pf": false,
-			"places": [
-				"SC 378"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -59,17 +61,18 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Wesley Pearson"
+			],
 			"level": 200,
+			"locations": [
+				"SC 311"
+			],
 			"name": "Synthesis Lab",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"SC 311"
-			],
-			"profs": [
-				"Wesley Pearson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"MT 0100-0400PM"
@@ -85,17 +88,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jan C. Hill"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "Children's Literature",
 			"num": 233,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"Jan C. Hill"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -111,17 +115,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Melanie Richards"
+			],
 			"level": 200,
+			"locations": [
+				"L 515"
+			],
 			"name": "50's Beat Literature",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Melanie Richards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1230-0200PM"
@@ -137,17 +142,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Melanie Richards"
+			],
 			"level": 200,
+			"locations": [
+				"L 515"
+			],
 			"name": "Creative Writing I",
 			"num": 257,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Melanie Richards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -163,17 +169,18 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Melanie Richards"
+			],
 			"level": 300,
+			"locations": [
+				"L 515"
+			],
 			"name": "Creative Writing II",
 			"num": 372,
 			"pf": false,
-			"places": [
-				"L 515"
-			],
-			"profs": [
-				"Melanie Richards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -189,17 +196,18 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Steven C. Hahn"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "America 1490-1865",
 			"num": 205,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Steven C. Hahn"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -215,17 +223,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Family Relationships",
 			"num": 242,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -241,17 +250,18 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"C. George Holt"
+			],
 			"level": 200,
+			"locations": [
+				"M 4"
+			],
 			"name": "Human Sexuality",
 			"num": 253,
 			"pf": false,
-			"places": [
-				"M 4"
-			],
-			"profs": [
-				"C. George Holt"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -267,17 +277,18 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Peder Bolstad"
+			],
 			"level": 200,
+			"locations": [
+				"M 1"
+			],
 			"name": "Principles of Math",
 			"num": 210,
 			"pf": false,
-			"places": [
-				"M 1"
-			],
-			"profs": [
-				"Peder Bolstad"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -293,17 +304,18 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Lisa Lindley"
+			],
 			"level": 200,
+			"locations": [
+				"H 516"
+			],
 			"name": "Management",
 			"num": 251,
 			"pf": false,
-			"places": [
-				"H 516"
-			],
-			"profs": [
-				"Lisa Lindley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -319,17 +331,18 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 100,
+			"locations": [
+				"SPT 216"
+			],
 			"name": "Mass Media",
 			"num": 160,
 			"pf": false,
-			"places": [
-				"SPT 216"
-			],
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -345,14 +358,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Counterpoint",
 			"num": 222,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"title": "Counterpoint",
 			"type": "Research",
@@ -365,14 +379,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
 			"name": "Composition I",
 			"num": 223,
 			"pf": false,
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"title": "Composition I",
 			"type": "Research",
@@ -385,17 +400,18 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Charles Forsberg"
+			],
 			"level": 200,
+			"locations": [
+				"CHM 232"
+			],
 			"name": "The Art of Music",
 			"num": 230,
 			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
-				"Charles Forsberg"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -411,17 +427,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Dorer Kari L."
+			],
 			"level": 100,
+			"locations": [
+				"L 421"
+			],
 			"name": "Beginning Norwegian I",
 			"num": 111,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"Dorer Kari L."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -437,17 +454,18 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Dorer Kari L."
+			],
 			"level": 200,
+			"locations": [
+				"L 421"
+			],
 			"name": "Intermed Norwegian I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"L 421"
-			],
-			"profs": [
-				"Dorer Kari L."
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -463,17 +481,18 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Ethics/The Good Life",
 			"num": 252,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1230-0200PM"
@@ -489,17 +508,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0700-0800"
@@ -515,17 +535,18 @@
 			"depts": [
 				"PEAC"
 			],
+			"instructors": [
+				"Christine Daymont"
+			],
 			"level": 100,
+			"locations": [
+				"MFH"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"MFH"
-			],
-			"profs": [
-				"Christine Daymont"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0700-0800"
@@ -541,18 +562,19 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Richard Thomas"
+			],
 			"level": 100,
-			"name": "Principles Physics I",
-			"num": 124,
-			"pf": false,
-			"places": [
+			"locations": [
 				"SC 170",
 				"SC 111"
 			],
-			"profs": [
-				"Richard Thomas"
-			],
-			"sem": 4,
+			"name": "Principles Physics I",
+			"num": 124,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130",
@@ -569,17 +591,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 100,
+			"locations": [
+				"L 520"
+			],
 			"name": "Comparative Politics",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -595,17 +618,18 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"D Christopher Brooks"
+			],
 			"level": 200,
+			"locations": [
+				"L 520"
+			],
 			"name": "Distributive Justice",
 			"num": 249,
 			"pf": false,
-			"places": [
-				"L 520"
-			],
-			"profs": [
-				"D Christopher Brooks"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1230-0200PM"
@@ -621,17 +645,18 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Marit Westergaard"
+			],
 			"level": 200,
+			"locations": [
+				"H 403"
+			],
 			"name": "Issues 1st & 2nd Lang",
 			"num": 222,
 			"pf": false,
-			"places": [
-				"H 403"
-			],
-			"profs": [
-				"Marit Westergaard"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -647,17 +672,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "The Greats",
 			"num": 203,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -673,17 +699,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Edmund Santurri"
+			],
 			"level": 200,
+			"locations": [
+				"L 420"
+			],
 			"name": "Chri Theol/Moral Life",
 			"num": 207,
 			"pf": false,
-			"places": [
-				"L 420"
-			],
-			"profs": [
-				"Edmund Santurri"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"
@@ -699,17 +726,18 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Mark A. Granquist"
+			],
 			"level": 200,
+			"locations": [
+				"L 525"
+			],
 			"name": "Religion in America",
 			"num": 260,
 			"pf": false,
-			"places": [
-				"L 525"
-			],
-			"profs": [
-				"Mark A. Granquist"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1230-0200PM"
@@ -725,17 +753,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Marisol Galicia"
+			],
 			"level": 100,
+			"locations": [
+				"M 2"
+			],
 			"name": "Beginning Spanish I",
 			"num": 111,
 			"pf": false,
-			"places": [
-				"M 2"
-			],
-			"profs": [
-				"Marisol Galicia"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 0800-0930"
@@ -751,17 +780,18 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Marisol Galicia"
+			],
 			"level": 100,
+			"locations": [
+				"M 2"
+			],
 			"name": "Beginning Spanish II",
 			"num": 112,
 			"pf": false,
-			"places": [
-				"M 2"
-			],
-			"profs": [
-				"Marisol Galicia"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20014,
 			"times": [
 				"M-F 1000-1130"

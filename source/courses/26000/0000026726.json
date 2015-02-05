@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Rodney G. Grubb"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "World Pol/Mid East",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Rodney G. Grubb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

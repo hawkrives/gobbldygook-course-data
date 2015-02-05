@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 200,
-	"name": "Exploring Hispanic Lit",
-	"num": 275,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 314",
 		"TOH 314"
 	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sem": 3,
+	"name": "Exploring Hispanic Lit",
+	"num": 275,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

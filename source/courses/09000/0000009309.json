@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 100,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Principles Comp Sci",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

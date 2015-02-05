@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Julius Snell"
+	],
 	"level": 200,
-	"name": "Contemp Native Am",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Julius Snell"
-	],
-	"sem": 3,
+	"name": "Contemp Native Am",
+	"num": 242,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 1145-0110PM",

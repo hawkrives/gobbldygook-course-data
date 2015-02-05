@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 200,
 	"name": "Modern IRish Lit",
 	"num": 252,
 	"pf": false,
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Modern IRish Lit",
 	"type": "Research",

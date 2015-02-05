@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Steven Amundson"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Instrumentation",
 	"num": 221,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Steven Amundson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0110PM"

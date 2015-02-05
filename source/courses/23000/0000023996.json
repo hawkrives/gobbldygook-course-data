@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Irve Dell"
+	],
 	"level": 200,
 	"name": "Pratt-Manhattan",
 	"num": 262,
 	"pf": false,
-	"profs": [
-		"Irve Dell"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"title": "Pratt-Manhattan",
 	"type": "Research",

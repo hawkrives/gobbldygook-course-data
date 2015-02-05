@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Michael Wala"
+	],
 	"level": 200,
+	"locations": [
+		"M 35"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Michael Wala"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

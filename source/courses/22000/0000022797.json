@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
+	"locations": [
+		"H 204"
+	],
 	"name": "Sensation/Percep/Lab",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"Th 1145-0245PM"

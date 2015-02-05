@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Medieval Art",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM"

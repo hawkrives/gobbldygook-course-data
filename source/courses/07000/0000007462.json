@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Paul J. Roback"
+	],
 	"level": 200,
-	"name": "Design of Experiments",
-	"num": 266,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Paul J. Roback"
-	],
-	"sem": 3,
+	"name": "Design of Experiments",
+	"num": 266,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

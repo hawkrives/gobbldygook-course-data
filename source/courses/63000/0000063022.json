@@ -9,20 +9,21 @@
 	"gereqs": [
 		"SED"
 	],
+	"instructors": [
+		"Deborah Anderson",
+		"Howard Thorsheim"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Invest Explor Lab",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 240"
-	],
-	"profs": [
-		"Deborah Anderson",
-		"Howard Thorsheim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"M 0700-1000PM"

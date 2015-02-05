@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
-	"name": "Making of Modern Mind",
-	"num": 118,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 302",
 		"H 317"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Making of Modern Mind",
+	"num": 118,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19941,
 	"times": [
 		"TTh 1005-1100",

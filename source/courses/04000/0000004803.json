@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 300,
 	"name": "IR/Gene Flow of Fish",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Gene Flow of Fish",
 	"type": "Research",

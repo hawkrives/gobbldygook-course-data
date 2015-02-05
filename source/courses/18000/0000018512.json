@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Post Soviet Pol Econ",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"M 0700-1000PM"

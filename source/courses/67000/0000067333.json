@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FOL-L"
 	],
-	"level": 200,
-	"num": 231,
-	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
+	"instructors": [
 		"Christopher M. Brunelle"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"OM 031"
+	],
+	"num": 231,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20091,
 	"times": [
 		"MWF 0800-0855"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
 	"name": "IS/Autism",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Autism",
 	"type": "Research",

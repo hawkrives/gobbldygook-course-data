@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Barbara Thatcher"
+	],
 	"level": 300,
+	"locations": [
+		"DC  STUDIO 1"
+	],
 	"name": "Modern III",
 	"num": 311,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 1"
-	],
-	"profs": [
-		"Barbara Thatcher"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0330-0500PM"

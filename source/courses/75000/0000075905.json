@@ -6,14 +6,15 @@
 		"BIO"
 	],
 	"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Center for Experiential Learning, enlist a faculty sponsor, and complete an internship application. Internships do not count toward the biology major requirements.",
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"title": "Internship",
 	"type": "Research",

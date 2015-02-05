@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 200,
-	"name": "Macroeconomic Theory",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 031",
 		"OM 031"
 	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Macroeconomic Theory",
+	"num": 261,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Lavinia Moyer"
+	],
 	"level": 200,
 	"name": "IS/Text and Voice",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Lavinia Moyer"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Text and Voice",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 200,
+	"locations": [
+		"RML 420"
+	],
 	"name": "Utopias",
 	"num": 272,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kosmas Diveris"
+	],
 	"level": 300,
 	"name": "IR/Commutative Algebra",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kosmas Diveris"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

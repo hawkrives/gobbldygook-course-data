@@ -9,14 +9,15 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Olaf A. Hall-Holt"
+	],
 	"level": 100,
 	"name": "Comp Sci for Science/Math",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"Olaf A. Hall-Holt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

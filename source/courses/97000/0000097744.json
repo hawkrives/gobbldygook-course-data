@@ -9,17 +9,18 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"David Kaden"
+	],
 	"level": 200,
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 010",
 		"OM 010"
 	],
-	"profs": [
-		"David Kaden"
-	],
-	"sem": 3,
+	"num": 222,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

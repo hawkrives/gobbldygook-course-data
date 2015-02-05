@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
 	"name": "IR/Latin Lit/Milton",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Latin Lit/Milton",
 	"type": "Research",

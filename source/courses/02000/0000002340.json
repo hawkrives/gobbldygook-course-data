@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 300,
 	"name": "IR/Art Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "H",
-	"sem": 1,
+	"section": "H",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Art Theory",
 	"type": "Research",

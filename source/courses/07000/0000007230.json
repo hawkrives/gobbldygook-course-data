@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"SAC_WR_RM"
+	],
 	"name": "Self Defense",
 	"num": 161,
 	"pf": false,
-	"places": [
-		"SAC_WR_RM"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"TTh 0200-0255PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Paul Westermeyer"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 232",
+		"CHM 232"
+	],
 	"name": "Music/Chr Worship",
 	"notes": "Open to non-music majors. Open to first-year students.",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"CHM 232",
-		"CHM 232"
-	],
-	"profs": [
-		"Paul Westermeyer"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"MTTh 1040-1240PM",

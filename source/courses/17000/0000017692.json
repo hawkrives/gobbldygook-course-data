@@ -5,14 +5,15 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
 	"name": "Computer Organization",
 	"num": 274,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Computer Organization",
 	"type": "Research",

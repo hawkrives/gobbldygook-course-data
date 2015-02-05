@@ -10,18 +10,19 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Claudia Giannini"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 112"
+	],
 	"name": "Intermed Spanish II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 112"
-	],
-	"profs": [
-		"Claudia Giannini"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

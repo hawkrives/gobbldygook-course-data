@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 216"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"SPT 216"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 1045-1140"

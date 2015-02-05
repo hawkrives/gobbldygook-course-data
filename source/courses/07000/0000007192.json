@@ -5,19 +5,20 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Paola L. Kindred"
+	],
 	"level": 200,
-	"name": "Law,Politics,Morality",
-	"num": 254,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Paola L. Kindred"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Law,Politics,Morality",
+	"num": 254,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

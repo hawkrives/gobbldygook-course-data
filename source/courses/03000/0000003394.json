@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "Comparative Politics",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

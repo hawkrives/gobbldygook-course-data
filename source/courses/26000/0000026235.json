@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Kathleen L. Shea"
+	],
 	"level": 200,
-	"name": "Ecological Principles",
-	"num": 261,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 248"
 	],
-	"profs": [
-		"Kathleen L. Shea"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Ecological Principles",
+	"num": 261,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0905-1000",

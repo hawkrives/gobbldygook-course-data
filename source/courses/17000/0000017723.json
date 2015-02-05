@@ -5,14 +5,15 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 200,
 	"name": "Age of Goethe-Tr",
 	"num": 246,
 	"pf": false,
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Age of Goethe-Tr",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 122,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 200,
+	"locations": [
+		"SC 211"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 211"
-	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0120-0420PM"

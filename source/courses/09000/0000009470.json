@@ -5,18 +5,19 @@
 	"depts": [
 		"GEOG"
 	],
+	"instructors": [
+		"Richard Dunning"
+	],
 	"level": 200,
-	"name": "Human Geography",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 015",
 		"OM 015"
 	],
-	"profs": [
-		"Richard Dunning"
-	],
-	"sem": 3,
+	"name": "Human Geography",
+	"num": 232,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

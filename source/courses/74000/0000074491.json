@@ -11,17 +11,18 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 200,
+	"locations": [
+		"DC Studio 1"
+	],
 	"notes": "First-years may register with permission of instructor.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

@@ -5,19 +5,20 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Martha Harris"
+	],
 	"level": 300,
-	"name": "Prin Secondary Educ",
-	"num": 330,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Martha Harris"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Prin Secondary Educ",
+	"num": 330,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

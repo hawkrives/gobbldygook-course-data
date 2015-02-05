@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Dance in America",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 1230-0200PM"

@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"title": "Internships",
 	"type": "Research",

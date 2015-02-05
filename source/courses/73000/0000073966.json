@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"RNS 206"
-	],
-	"profs": [
+	"instructors": [
 		"Zajj Daugherty"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 206"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

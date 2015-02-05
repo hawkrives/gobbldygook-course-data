@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Stephen B. Dyson"
+	],
 	"level": 300,
-	"name": "Sem: Intl Relations",
-	"num": 321,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Stephen B. Dyson"
-	],
-	"sem": 3,
+	"name": "Sem: Intl Relations",
+	"num": 321,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

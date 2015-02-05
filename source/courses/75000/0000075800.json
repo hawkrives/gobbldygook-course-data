@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
-	"name": "Top: Intro to Literature",
-	"num": 271,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 312",
 		"TOH 312"
 	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 3,
+	"name": "Top: Intro to Literature",
+	"num": 271,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

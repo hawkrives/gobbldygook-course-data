@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 300,
 	"name": "IR/Microscale Friction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Research",
 	"type": "Research",

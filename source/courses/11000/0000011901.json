@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Intro to Poetry",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

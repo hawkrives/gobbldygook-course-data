@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 292"
-	],
-	"profs": [
-		"David Dahl"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"Th 0820-1050"

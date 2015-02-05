@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 300,
+	"locations": [
+		"OMH 300"
+	],
 	"name": "Bioinformatics",
 	"num": 315,
 	"pf": false,
-	"places": [
-		"OMH 300"
-	],
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "X",
 	"term": 20053,
 	"times": [
 		"Th 0215-0500PM"

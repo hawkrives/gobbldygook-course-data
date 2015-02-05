@@ -6,15 +6,16 @@
 		"PSCI"
 	],
 	"desc": "After completion of three courses in political science, students may approach a member of the department faculty and propose a course of study not currently offered to be conducted in tutorial fashion.",
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 200,
 	"name": "IS/Refugees in Lebanon",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Independent Study",
 	"type": "Research",

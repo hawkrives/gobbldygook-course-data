@@ -5,18 +5,19 @@
 	"depts": [
 		"ID"
 	],
-	"level": 200,
-	"name": "IS/MSCS Classification",
-	"num": 298,
-	"pf": false,
-	"profs": [
+	"instructors": [
 		"Julie M. Legler",
 		"Olaf A. Hall-Holt",
 		"Kathryn Ziegler",
 		"Steven McKelvey"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 200,
+	"name": "IS/MSCS Classification",
+	"num": 298,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Study",
 	"type": "Research",

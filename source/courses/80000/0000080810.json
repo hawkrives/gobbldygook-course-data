@@ -6,16 +6,17 @@
 		"MATH"
 	],
 	"desc": "Students are introduced to modeling and mathematical optimization techniques (e.g., linear programming, network flows, discrete optimization, constrained and unconstrained nonlinear programming, queuing theory). Students use computers to explore these topics, but prior computer experience is not assumed. Prerequisites: Mathematics 126 or 128 and 220. Recommended: Mathematics 226 and/or 262. Offered annually.",
-	"level": 200,
-	"num": 266,
-	"pf": false,
-	"places": [
-		"RNS 206"
-	],
-	"profs": [
+	"instructors": [
 		"Steven McKelvey"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 206"
+	],
+	"num": 266,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

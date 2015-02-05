@@ -5,13 +5,14 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"title": "Academic Internship",
 	"type": "Research",

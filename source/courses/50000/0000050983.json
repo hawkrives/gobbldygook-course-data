@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "In this course, students explore the fundamentals of music, including the elements of pitch and rhythm, music notation, intervals, triads and inversions, seventh chords, scales, harmonic progression and basic principles of voice leading. With 111, this course forms the introductions to the music major. Offered Fall Semester.",
+	"instructors": [
+		"Michele Gillman"
+	],
 	"level": 100,
-	"num": 113,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 224",
 		"CHM 224"
 	],
-	"profs": [
-		"Michele Gillman"
-	],
-	"sect": "B",
-	"sem": 1,
+	"num": 113,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"T 0935-1100",

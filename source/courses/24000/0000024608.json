@@ -5,18 +5,19 @@
 	"depts": [
 		"ID"
 	],
-	"level": 200,
-	"name": "Pathways to Progress",
-	"num": 235,
-	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
+	"instructors": [
 		"Bruce Dalgaard",
 		"Douglas Schuurman"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"M 11"
+	],
+	"name": "Pathways to Progress",
+	"num": 235,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

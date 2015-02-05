@@ -9,19 +9,20 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 300,
-	"name": "Sem: American Rev",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Sem: American Rev",
+	"num": 370,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

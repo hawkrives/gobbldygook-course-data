@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Lisa Lindley"
+	],
 	"level": 200,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Management",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Lisa Lindley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
 	"name": "Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "A",
-	"sem": 4,
+	"section": "A",
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Internship",
 	"type": "Research",

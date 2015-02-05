@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 200,
+	"locations": [
+		"SC 125"
+	],
 	"name": "Electronic Circ/Lab",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"SC 125"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 0130-0400PM"

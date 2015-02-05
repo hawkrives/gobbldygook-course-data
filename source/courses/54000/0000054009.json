@@ -5,14 +5,15 @@
 	"depts": [
 		"ARMS"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 300,
 	"name": "IR/Navajo Health",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20055,
 	"title": "IR/Navajo Health",
 	"type": "Research",

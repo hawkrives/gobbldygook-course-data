@@ -5,18 +5,19 @@
 	"depts": [
 		"AMST"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 300,
-	"name": "Sem: California Dreams",
-	"num": 301,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sem": 3,
+	"name": "Sem: California Dreams",
+	"num": 301,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

@@ -10,18 +10,19 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open only to Seniors and Juniors during web registration.",
 	"num": 278,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

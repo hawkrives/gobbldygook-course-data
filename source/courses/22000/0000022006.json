@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Bastion Berlin",
 	"num": 145,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0900-1100"

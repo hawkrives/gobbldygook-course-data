@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 300,
 	"name": "IR/Robotic Monitoring",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"title": "Independent Research",
 	"type": "Research",

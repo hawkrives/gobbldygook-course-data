@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Cassidy R. Terrell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Chemistry & the World Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Cassidy R. Terrell"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 1145-0245PM"

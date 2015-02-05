@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Gerald Hoekstra"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 232"
+	],
 	"name": "Music/Renaissance Era",
 	"num": 341,
 	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
-		"Gerald Hoekstra"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0905-1000"

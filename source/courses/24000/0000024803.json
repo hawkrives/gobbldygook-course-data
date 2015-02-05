@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Judith Stromayer"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Dynamics of Wellness",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Judith Stromayer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1045-1140"

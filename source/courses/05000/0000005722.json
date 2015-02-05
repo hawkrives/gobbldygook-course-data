@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 300,
-	"name": "Immunology",
-	"num": 382,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 210"
 	],
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Immunology",
+	"num": 382,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"MWF 1045-1140",

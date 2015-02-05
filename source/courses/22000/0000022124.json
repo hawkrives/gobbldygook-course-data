@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
-	"level": 100,
-	"name": "Workshop: ID Theater",
-	"num": 134,
-	"pf": true,
-	"places": [
-		"KELSEY",
-		"KELSEY"
-	],
-	"profs": [
+	"instructors": [
 		"Lavinia Moyer",
 		"Karen Wilson"
 	],
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"KELSEY",
+		"KELSEY"
+	],
+	"name": "Workshop: ID Theater",
+	"num": 134,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 19972,
 	"times": [
 		"M-F 1000-1200PM",

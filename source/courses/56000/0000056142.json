@@ -7,18 +7,19 @@
 	],
 	"groupid": 106,
 	"grouptype": "4",
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 100,
+	"locations": [
+		"SC 273"
+	],
 	"name": "Cell Bio & Genetics Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 273"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sect": "I",
-	"sem": 1,
+	"section": "I",
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"Th 1245-0315PM"

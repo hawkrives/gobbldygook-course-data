@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Economic Methods",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

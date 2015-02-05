@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Margaret H. O'Leary"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Intermed Norwegian II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Margaret H. O'Leary"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

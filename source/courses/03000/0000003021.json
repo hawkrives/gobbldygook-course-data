@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 100,
+	"locations": [
+		"DC  STUDIO 3"
+	],
 	"name": "The Body Movable",
 	"num": 101,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 3"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

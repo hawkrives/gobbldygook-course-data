@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Konrad Talbot"
+	],
 	"level": 300,
 	"name": "IR/Dementia No Levels",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Konrad Talbot"
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Dementia No Levels",
 	"type": "Research",

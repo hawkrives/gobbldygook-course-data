@@ -5,19 +5,20 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 200,
-	"name": "Microeconomic Theory",
-	"num": 262,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Microeconomic Theory",
+	"num": 262,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 1145-0110PM",

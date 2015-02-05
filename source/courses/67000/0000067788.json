@@ -11,19 +11,20 @@
 	],
 	"groupid": 192,
 	"grouptype": "2",
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Struct Chem & Equilib",
 	"notes": "Students registering for Chem 125C must also register for lab 125 CL or DL. This course has class year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 1045-1140"

@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Elem Real Analysis",
 	"type": "Research",

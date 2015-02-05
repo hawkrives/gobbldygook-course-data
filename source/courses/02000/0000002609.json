@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Patrick T. Kelley"
+	],
 	"level": 200,
-	"name": "Comp-Generatd Imagery",
-	"num": 228,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 100",
 		"DC 100"
 	],
-	"profs": [
-		"Patrick T. Kelley"
-	],
-	"sem": 2,
+	"name": "Comp-Generatd Imagery",
+	"num": 228,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1200PM",

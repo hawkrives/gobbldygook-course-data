@@ -10,17 +10,18 @@
 		"ALS-A",
 		"MCD"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 200,
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 2,
+	"num": 232,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"times": [
 		"M-Th 0900-1000",

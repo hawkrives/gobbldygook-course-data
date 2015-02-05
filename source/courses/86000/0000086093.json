@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Torin D. Alexander"
+	],
 	"level": 200,
+	"locations": [
+		"OM 210"
+	],
 	"name": "Pol/Liberation Theol",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"OM 210"
-	],
-	"profs": [
-		"Torin D. Alexander"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

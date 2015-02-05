@@ -5,14 +5,15 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Internship",
 	"type": "Research",

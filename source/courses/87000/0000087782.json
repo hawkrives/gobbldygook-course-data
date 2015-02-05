@@ -6,15 +6,16 @@
 		"PHYS"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
 	"name": "Analytical II Lab",
 	"num": 131,
 	"pf": false,
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0225-0455PM"

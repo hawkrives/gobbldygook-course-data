@@ -7,15 +7,16 @@
 	],
 	"groupid": 26714,
 	"grouptype": "2",
+	"instructors": [
+		"James Demas"
+	],
 	"level": 200,
 	"name": "Cell Biology Lab",
 	"num": 227,
 	"pf": false,
-	"profs": [
-		"James Demas"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"Th 0800-1100"

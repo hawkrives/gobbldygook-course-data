@@ -10,18 +10,19 @@
 		"ALS-A",
 		"WRI"
 	],
+	"instructors": [
+		"Amy E. Borden"
+	],
 	"level": 200,
-	"notes": "Film screenings will be Monday evenings from 7:00-10:00 p.m. Prerequisite: Film 101 or instructor's permission.",
-	"num": 210,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Amy E. Borden"
-	],
-	"sem": 3,
+	"notes": "Film screenings will be Monday evenings from 7:00-10:00 p.m. Prerequisite: Film 101 or instructor's permission.",
+	"num": 210,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

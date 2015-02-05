@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Reformation Europe",
 	"num": 218,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"MWF 0905-1000"

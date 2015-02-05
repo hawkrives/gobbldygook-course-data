@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 300,
-	"name": "Adv Statistical Model",
-	"num": 316,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sem": 3,
+	"name": "Adv Statistical Model",
+	"num": 316,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"T 0935-1100",

@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 300,
 	"name": "IR/RNA Thermodynamics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20062,
 	"title": "Independent Research",
 	"type": "Research",

@@ -9,16 +9,17 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"num": 228,
-	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
+	"instructors": [
 		"William Poehlmann"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
+	"num": 228,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0905-1000"

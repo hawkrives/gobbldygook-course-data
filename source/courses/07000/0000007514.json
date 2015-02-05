@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
-	"name": "Intermediate Genetics",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 211"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"name": "Intermediate Genetics",
+	"num": 233,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 1000-1130",

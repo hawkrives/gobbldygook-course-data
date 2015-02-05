@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"Angela Reisetter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 292"
-	],
-	"profs": [
-		"Angela Reisetter"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"F 1255-0325PM"

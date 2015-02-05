@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Matthew Haugen"
+	],
 	"level": 200,
 	"name": "IS/Dixieland/Big Band",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Matthew Haugen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Dixieland/Big Band",
 	"type": "Research",

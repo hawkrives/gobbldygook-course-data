@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 1"
+	],
 	"name": "X-Country Ski/Cycling",
 	"num": 134,
 	"pf": false,
-	"places": [
-		"SAC 1"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MW 0200-0255PM"

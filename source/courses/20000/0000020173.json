@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Economic Methods",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

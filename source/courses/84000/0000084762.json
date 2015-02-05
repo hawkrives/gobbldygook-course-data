@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Cecilia Cornejo"
+	],
 	"level": 100,
-	"name": "Intro to Film Studies",
-	"notes": "Film screenings Monday evenings.",
-	"num": 101,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 305",
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Cecilia Cornejo"
-	],
-	"sem": 3,
+	"name": "Intro to Film Studies",
+	"notes": "Film screenings Monday evenings.",
+	"num": 101,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"M 0700-0900PM",

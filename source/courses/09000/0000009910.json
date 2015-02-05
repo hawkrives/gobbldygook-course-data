@@ -5,19 +5,20 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 300,
-	"name": "Th Sem: Rel, Globalism",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Th Sem: Rel, Globalism",
+	"num": 399,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

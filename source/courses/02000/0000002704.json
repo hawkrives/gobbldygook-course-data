@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Richard A. Olson"
+	],
 	"level": 300,
 	"name": "IR/Greek Warfare",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard A. Olson"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IR/Greek Warfare",
 	"type": "Research",

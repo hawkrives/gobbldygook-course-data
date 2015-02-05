@@ -5,18 +5,19 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 142"
+	],
 	"name": "Biomechanics/Lab",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"SAC 142"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"Th 1145-0245PM"

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 100,
+	"instructors": [
+		"Diane M. Maher"
+	],
 	"level": 100,
+	"locations": [
+		"SC 229"
+	],
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 229"
-	],
-	"profs": [
-		"Diane M. Maher"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0120-0320PM"

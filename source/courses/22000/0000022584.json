@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "IR/Snmp Programming",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Snmp Programming",
 	"type": "Research",

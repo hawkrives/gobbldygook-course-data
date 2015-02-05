@@ -6,18 +6,19 @@
 		"JAPAN"
 	],
 	"groupid": 662,
+	"instructors": [
+		"Satoko Kurosaki"
+	],
 	"level": 200,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Intermed Japanese I Lab",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Satoko Kurosaki"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"times": [
 		"Th 0955-1050"

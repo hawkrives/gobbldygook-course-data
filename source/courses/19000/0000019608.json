@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 300,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Christian Ethics",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"times": [
 		"TTh 0120-0245PM"

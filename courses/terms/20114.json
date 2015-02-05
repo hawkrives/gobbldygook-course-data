@@ -13,17 +13,18 @@
 				"SED"
 			],
 			"groupid": 106,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 390"
+			],
 			"name": "Cell Bio & Genetics",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 390"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -40,17 +41,18 @@
 				"BIO"
 			],
 			"groupid": 106,
+			"instructors": [
+				"John Giannini"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 255"
+			],
 			"name": "Cell Bio & Genetics Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 255"
-			],
-			"profs": [
-				"John Giannini"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"W 0100-0500PM"
@@ -71,16 +73,17 @@
 				"MCD",
 				"ORC"
 			],
-			"level": 100,
-			"num": 160,
-			"pf": false,
-			"places": [
-				"TB 216"
-			],
-			"profs": [
+			"instructors": [
 				"William Sonnega"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"TB 216"
+			],
+			"num": 160,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -101,17 +104,18 @@
 				"EIN",
 				"WRI"
 			],
+			"instructors": [
+				"J. Patrick Dale"
+			],
 			"level": 200,
+			"locations": [
+				"DC 204"
+			],
 			"name": "Citizenship War Terror",
 			"num": 284,
 			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
-				"J. Patrick Dale"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0230-0400PM"
@@ -132,16 +136,17 @@
 				"HBS",
 				"MCD"
 			],
-			"level": 100,
-			"num": 111,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"Henriet Hendriks"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"DC 204"
+			],
+			"num": 111,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -162,16 +167,17 @@
 				"HBS",
 				"HWC"
 			],
-			"level": 200,
-			"num": 283,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"J. Patrick Dale"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 204"
+			],
+			"num": 283,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1230-0200PM"
@@ -192,16 +198,17 @@
 				"HBS"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 211,
-			"pf": false,
-			"places": [
-				"DC 204"
-			],
-			"profs": [
+			"instructors": [
 				"Henriet Hendriks"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 204"
+			],
+			"num": 211,
+			"pf": false,
+			"semester": 4,
+			"status": "C",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -222,17 +229,18 @@
 				"HBS",
 				"MCD"
 			],
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
 			"level": 100,
+			"locations": [
+				"HH 403"
+			],
 			"name": "Intro to Sociology",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 403"
-			],
-			"profs": [
-				"Ibtesam Al Atiyat"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -252,17 +260,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Judith Stromayer"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Judith Stromayer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0230-0400PM"
@@ -282,17 +291,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Robert K. McCarthy"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Robert K. McCarthy"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -313,17 +323,18 @@
 				"ALS-A",
 				"ORC"
 			],
+			"instructors": [
+				"Jeanne I. Willcoxon"
+			],
 			"level": 100,
+			"locations": [
+				"TB Haugen"
+			],
 			"name": "Acting for Non-Majors",
 			"num": 115,
 			"pf": false,
-			"places": [
-				"TB Haugen"
-			],
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -340,17 +351,18 @@
 				"THEAT"
 			],
 			"desc": "An in-depth investigation of a selected topic through readings, bibliography, reports and projects. Students may register for the course more than once, provided a different topic is studied. Prerequisite: Theatre 110 or 180. Some topics courses may require additional prerequisites. Please inquire in the Theatre Department office before registering. Offered annually.",
+			"instructors": [
+				"Todd F. Edwards"
+			],
 			"level": 300,
+			"locations": [
+				"TB Kelsey"
+			],
 			"name": "Top: Stage Combat",
 			"num": 379,
 			"pf": false,
-			"places": [
-				"TB Kelsey"
-			],
-			"profs": [
-				"Todd F. Edwards"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 1230-0200PM"
@@ -372,17 +384,18 @@
 				"MCD",
 				"ORC"
 			],
+			"instructors": [
+				"Jeanne I. Willcoxon"
+			],
 			"level": 100,
+			"locations": [
+				"TB 216"
+			],
 			"name": "Intro to Theater",
 			"num": 110,
 			"pf": false,
-			"places": [
-				"TB 216"
-			],
-			"profs": [
-				"Jeanne I. Willcoxon"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0230-0400PM"
@@ -402,16 +415,17 @@
 			"gereqs": [
 				"HBS"
 			],
-			"level": 200,
-			"num": 249,
-			"pf": false,
-			"places": [
-				"RNS 124"
-			],
-			"profs": [
+			"instructors": [
 				"M. Minda Ori\u00f1a"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 124"
+			],
+			"num": 249,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -431,16 +445,17 @@
 			"gereqs": [
 				"IST"
 			],
-			"level": 200,
-			"num": 238,
-			"pf": false,
-			"places": [
-				"RNS 124"
-			],
-			"profs": [
+			"instructors": [
 				"Jeremy Loebach"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 124"
+			],
+			"num": 238,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -457,16 +472,17 @@
 				"MUSIC"
 			],
 			"desc": "Students are introduced to a number of compositional techniques and apply them in creating original works of music and hearing them performed. Participants listen to important 20th- and 21st-century compositions, and discuss current trends in music, the changing role of the composer in society, and practical composition issues. Prerequisite: Music 114, or permission of instructor. Generally offered each semester.",
-			"level": 200,
-			"num": 223,
-			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
+			"instructors": [
 				"Timothy Mahr"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"CHM 239"
+			],
+			"num": 223,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1230-0200PM"
@@ -483,14 +499,15 @@
 				"MUSIC"
 			],
 			"desc": "To deepen awareness and understanding of performance music, and to gain tools to produce textural interest in composition, students study the contrapuntal techniques of composers from the Renaissance, Baroque, and Modern periods including Palestrina, Bach, and Barber. Prerequisite: Music 214. Offered fall semester 2011-12 and alternate years.",
+			"instructors": [
+				"David R. Castro"
+			],
 			"level": 200,
 			"notes": "This is a special offering.",
 			"num": 222,
 			"pf": false,
-			"profs": [
-				"David R. Castro"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20114,
 			"title": "Counterpoint",
 			"type": "Research",
@@ -507,16 +524,17 @@
 			"gereqs": [
 				"AQR"
 			],
-			"level": 100,
-			"num": 126,
-			"pf": false,
-			"places": [
-				"RNS 204"
-			],
-			"profs": [
+			"instructors": [
 				"Adam C. McDougall"
 			],
-			"sem": 4,
+			"level": 100,
+			"locations": [
+				"RNS 204"
+			],
+			"num": 126,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1230-0200PM"
@@ -537,17 +555,18 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -564,17 +583,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"MW 0100-0400PM"
@@ -591,16 +611,17 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 127, or permission of instructor. Offered annually in the fall semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -617,18 +638,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"instructors": [
+				"Peter J. Gittins"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Peter J. Gittins"
-			],
-			"sect": "A",
-			"sem": 4,
+			"section": "A",
+			"semester": 4,
+			"status": "C",
 			"term": 20114,
 			"times": [
 				"TTh 0100-0400PM"
@@ -646,17 +668,18 @@
 			],
 			"desc": "Students not only investigate the theory of modern analytical chemistry, but also examine the statistical treatment of errors, equilibrium, activities, acid/base chemistry, spectroscopy, electrochemistry, and separations. The accompanying lab course, Chemistry 256, illustrates the topics discussed in Chemistry 255. Students taking this course use computers for solving problems. Prerequisite: Chemistry 126 or Chemistry/Biology 127 or permission of the instructor. Concurrent registration in Chemistry 256 is required. Offered each semester. Counts toward environmental studies major (all tracks) and concentration.",
 			"groupid": 201,
+			"instructors": [
+				"Mary Walczak"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 435"
+			],
 			"name": "Analytical Chem",
 			"num": 255,
 			"pf": false,
-			"places": [
-				"RNS 435"
-			],
-			"profs": [
-				"Mary Walczak"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -674,17 +697,18 @@
 			],
 			"desc": "Students enrolled in this lab course practice techniques of modern analytical chemistry using state-of-the-art instrumentation, including pH meters, liquid chromatographs, and a variety of spectrophotometers. Data acquisition via computer-interfaced instrumentation and electronic record-keeping is emphasized. Students practice and develop group skills by working in \"companies\" throughout the semester. P/N only. Prerequisite: concurrent registration in Chemistry 255. Offered each semester. Counts toward environmental studies major (all tracks) and concentration.",
 			"groupid": 201,
+			"instructors": [
+				"Mary Walczak"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 446"
+			],
 			"name": "Analytical Lab",
 			"num": 256,
 			"pf": true,
-			"places": [
-				"RNS 446"
-			],
-			"profs": [
-				"Mary Walczak"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"MW 1230-0430PM"
@@ -702,17 +726,18 @@
 			],
 			"desc": "Students journey toward greater understanding of the human body through an integrated study of the structure of the body (anatomy) and how organs such as the brain, heart, and kidney perform their remarkable functions (physiology). The course is designed primarily for students intending careers in the health sciences. Students attend lectures plus one three-hour laboratory per week. Prerequisite: Biology 125, or Chemistry/Biology 125-127. Offered annually. Counts towards exercise science major and neuroscience concentration.",
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 410"
+			],
 			"name": "Human Anatomy & Physiol",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"RNS 410"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -729,17 +754,18 @@
 				"BIO"
 			],
 			"groupid": 126,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 254"
+			],
 			"name": "Human Anatomy & Physiol L",
 			"num": 243,
 			"pf": false,
-			"places": [
-				"RNS 254"
-			],
-			"profs": [
-				"Louis Henry Kermott"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"TTh 0100-0400PM"
@@ -756,17 +782,18 @@
 				"SPAN"
 			],
 			"desc": "Through exploring the geographic and human diversity of the Spanish-speaking world, students develop increasingly complex skills for analyzing and communicating in Spanish. They study such essential dimensions of that world as: (1) geography and development; (2) environmental challenges and solutions; (3) population and demographic changes and challenges; and (4) ethnic diversity. Prerequisite: Spanish 112 or placement. Offered each semester and during Interim.",
+			"instructors": [
+				"Kris A. Cropsey"
+			],
 			"level": 200,
+			"locations": [
+				"TOH 314"
+			],
 			"name": "Intermed Spanish I",
 			"num": 231,
 			"pf": false,
-			"places": [
-				"TOH 314"
-			],
-			"profs": [
-				"Kris A. Cropsey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -787,17 +814,18 @@
 				"FOL-S",
 				"MCD"
 			],
+			"instructors": [
+				"Kris A. Cropsey"
+			],
 			"level": 200,
+			"locations": [
+				"TOH 314"
+			],
 			"name": "Intermed Spanish II",
 			"num": 232,
 			"pf": false,
-			"places": [
-				"TOH 314"
-			],
-			"profs": [
-				"Kris A. Cropsey"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 0800-0930"
@@ -813,14 +841,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 300,
 			"name": "IR/Impact Ancient Slavery",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"title": "Independent Research",
 			"type": "Research",
@@ -837,16 +866,17 @@
 			"gereqs": [
 				"ALS-A"
 			],
-			"level": 200,
-			"num": 205,
-			"pf": false,
-			"places": [
-				"DC 102"
-			],
-			"profs": [
+			"instructors": [
 				"Peter B. Nelson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 102"
+			],
+			"num": 205,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-F 1000-1130"
@@ -867,16 +897,17 @@
 				"ALS-A"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 229,
-			"pf": false,
-			"places": [
-				"DC 100"
-			],
-			"profs": [
+			"instructors": [
 				"Guido Alvarez"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"DC 100"
+			],
+			"num": 229,
+			"pf": false,
+			"semester": 4,
+			"status": "X",
 			"term": 20114,
 			"times": [
 				"M-F 1230-0200PM"
@@ -893,18 +924,19 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
+			"instructors": [
+				"Peter J. Gittins"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Peter J. Gittins"
-			],
-			"sect": "B",
-			"sem": 4,
+			"section": "B",
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"MW 0100-0400PM"
@@ -925,17 +957,18 @@
 				"MCD",
 				"WRI"
 			],
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
 			"level": 100,
+			"locations": [
+				"HH 302"
+			],
 			"name": "Intro Womens Studies",
 			"num": 121,
 			"pf": false,
-			"places": [
-				"HH 302"
-			],
-			"profs": [
-				"Ibtesam Al Atiyat"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20114,
 			"times": [
 				"M-Th 1000-1130"
@@ -956,13 +989,14 @@
 				"HBS",
 				"MCG"
 			],
+			"instructors": [
+				"Kristina Thalhammer"
+			],
 			"level": 100,
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Kristina Thalhammer"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "C",
 			"term": 20114,
 			"title": "Comparative Politics",
 			"type": "Research",

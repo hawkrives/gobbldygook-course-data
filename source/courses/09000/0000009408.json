@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 200,
 	"name": "IS/Intro Film Theory",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Intro Film Theory",
 	"type": "Research",

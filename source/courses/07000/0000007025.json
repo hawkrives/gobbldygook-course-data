@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Joseph Dennis"
+	],
 	"level": 300,
-	"name": "East Asian Seminar",
-	"num": 360,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"Joseph Dennis"
-	],
-	"sem": 3,
+	"name": "East Asian Seminar",
+	"num": 360,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

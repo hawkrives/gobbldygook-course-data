@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Richard Goedde"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Corporate Finance",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Richard Goedde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0120-0245PM"

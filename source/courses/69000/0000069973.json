@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 126,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Human Anatomy & Physiol L",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"RNS 254"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20084,
 	"times": [
 		"TTh 0100-0400PM"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Ian Pierce"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Ian Pierce"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1045-1140"

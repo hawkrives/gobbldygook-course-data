@@ -5,18 +5,19 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 202"
+	],
 	"name": "Pwr Comptg Lab",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"RNS 202"
-	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0115-0200PM"

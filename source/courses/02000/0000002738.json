@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kenneth G. Graber"
+	],
 	"level": 300,
 	"name": "IR/Beethoven Sonatas",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kenneth G. Graber"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IR/Beethoven Sonatas",
 	"type": "Research",

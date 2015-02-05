@@ -5,19 +5,20 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 100,
-	"name": "Int/Cult Anthropology",
-	"num": 128,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Int/Cult Anthropology",
+	"num": 128,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"T 0935-1100",

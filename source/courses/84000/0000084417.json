@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "This course introduces basic techniques for performance on a student's choice of three of the following: trumpet, horn, trombone, euphonium, tuba. Additional topics include: pedagogical techniques, tools, and literature; teaching repertoire; and instrument care. Prerequisite: permission of instructor required for students not majoring in theory/composition or music education. Offered annually in the spring semester.",
-	"level": 100,
-	"num": 166,
-	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
+	"instructors": [
 		"Michael S. Petruconis",
 		"Larry J. Zimmerman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
+	"num": 166,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

@@ -5,19 +5,20 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Margaret Ojala"
+	],
 	"level": 100,
-	"name": "Found Photography",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 102",
 		"DC 102"
 	],
-	"profs": [
-		"Margaret Ojala"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Found Photography",
+	"num": 115,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

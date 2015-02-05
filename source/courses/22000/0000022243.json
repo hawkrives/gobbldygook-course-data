@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
 	"name": "IR/Cyto Genetics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Cyto Genetics",
 	"type": "Research",

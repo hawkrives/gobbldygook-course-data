@@ -5,18 +5,19 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 200,
-	"name": "Global Climate Change",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sem": 3,
+	"name": "Global Climate Change",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

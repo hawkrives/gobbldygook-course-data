@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "Goethes Faust",
 	"num": 380,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Karl Fink"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1100"

@@ -12,18 +12,19 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 200,
-	"name": "Politics in Asia",
-	"num": 255,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 302",
 		"HH 302"
 	],
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sem": 3,
+	"name": "Politics in Asia",
+	"num": 255,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

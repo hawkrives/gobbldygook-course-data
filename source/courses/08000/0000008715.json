@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
 	"name": "IS/Alt Firing Methods",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/Alt Firing Methods",
 	"type": "Research",

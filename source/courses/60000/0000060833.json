@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Stephen Longfellow"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Stephen Longfellow"
-	],
-	"sect": "P",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0245PM",

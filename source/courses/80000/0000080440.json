@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in Art History prerequisites: two upper-division courses in area of study.",
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 200,
 	"name": "IS/Ceramic Sculpture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

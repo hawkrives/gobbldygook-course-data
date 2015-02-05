@@ -5,19 +5,20 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 100,
-	"name": "Found Ceramics: Wheel",
-	"num": 119,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 115E",
 		"DC 115E"
 	],
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Found Ceramics: Wheel",
+	"num": 119,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

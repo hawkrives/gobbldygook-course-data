@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"DC _STUDIO_2"
+	],
 	"name": "Ballet I",
 	"num": 121,
 	"pf": true,
-	"places": [
-		"DC _STUDIO_2"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 1230-0200PM"

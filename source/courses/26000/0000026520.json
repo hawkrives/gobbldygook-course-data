@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM"

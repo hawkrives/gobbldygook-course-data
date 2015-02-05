@@ -6,15 +6,16 @@
 		"ESTH"
 	],
 	"desc": "Research",
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 300,
 	"name": "IR/Mouthguard Study",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

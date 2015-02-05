@@ -5,17 +5,18 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Steven McKelvey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Software Design & Impl",
 	"num": 272,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Steven McKelvey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

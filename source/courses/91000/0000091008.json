@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDIA"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"title": "Internship",
 	"type": "Research",

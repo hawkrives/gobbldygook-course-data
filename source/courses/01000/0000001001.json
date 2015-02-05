@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Patrick T. Kelley"
+	],
 	"level": 200,
+	"locations": [
+		"FH 21"
+	],
 	"name": "Motion Graphics",
 	"num": 240,
 	"pf": false,
-	"places": [
-		"FH 21"
-	],
-	"profs": [
-		"Patrick T. Kelley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0245PM"

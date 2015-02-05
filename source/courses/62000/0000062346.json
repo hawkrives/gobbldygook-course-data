@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 300,
 	"name": "IR/Short Film Production",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Research",
 	"type": "Research",

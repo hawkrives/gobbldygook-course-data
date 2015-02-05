@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
-	"name": "Plant Morphology",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 227"
 	],
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Plant Morphology",
+	"num": 252,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"times": [
 		"TTh 0800-0925",

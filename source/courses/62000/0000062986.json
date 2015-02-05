@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Kris A. Cropsey"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Kris A. Cropsey"
-	],
-	"sect": "G",
-	"sem": 3,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Juliet A. Lynd"
+	],
 	"level": 200,
+	"locations": [
+		"OM 021"
+	],
 	"name": "Intermed Spanish I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"OM 021"
-	],
-	"profs": [
-		"Juliet A. Lynd"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

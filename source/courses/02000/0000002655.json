@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 200,
 	"name": "IS/Discrete Math Econ",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IS/Discrete Math Econ",
 	"type": "Research",

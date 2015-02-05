@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 100,
-	"name": "Literary Studies",
-	"num": 185,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Literary Studies",
+	"num": 185,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 1145-0110PM",

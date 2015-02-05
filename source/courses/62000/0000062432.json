@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"groupid": 1086,
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 293"
+	],
 	"name": "Musical Acoustics Lab",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RNS 293"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-F 0100-0330PM"

@@ -10,18 +10,19 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 200,
-	"name": "Env History/Latin America",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 3,
+	"name": "Env History/Latin America",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

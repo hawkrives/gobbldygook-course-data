@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
 	"name": "IR/Tetrahymena",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Eric Cole"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Tetrahymena",
 	"type": "Research",

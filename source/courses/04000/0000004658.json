@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 100,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Modern Elixirs",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"MTThF 1040-1240PM"

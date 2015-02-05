@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Anne D. Schnauber"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Lyric Diction II",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Anne D. Schnauber"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MF 1150-1245PM"

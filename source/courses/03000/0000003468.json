@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Daniel Malotky"
+	],
 	"level": 200,
+	"locations": [
+		"L 177"
+	],
 	"name": "Chri Theol/Moral Life",
 	"num": 207,
 	"pf": false,
-	"places": [
-		"L 177"
-	],
-	"profs": [
-		"Daniel Malotky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

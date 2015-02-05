@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Gerald Ericksen"
+	],
 	"level": 100,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Prin of Statistics",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Gerald Ericksen"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1045-1140"

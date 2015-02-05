@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Mary Griep"
+	],
 	"level": 100,
-	"name": "Foundation 2-D Media",
-	"num": 102,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 216",
 		"DC 216",
 		"DC 216"
 	],
-	"profs": [
-		"Mary Griep"
-	],
-	"sem": 2,
+	"name": "Foundation 2-D Media",
+	"num": 102,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0900-1000",

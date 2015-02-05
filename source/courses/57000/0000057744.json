@@ -7,18 +7,19 @@
 	],
 	"groupid": 194,
 	"grouptype": "2",
+	"instructors": [
+		"Beth Abdella"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/363"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 374/363"
-	],
-	"profs": [
-		"Beth Abdella"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0800-1100"

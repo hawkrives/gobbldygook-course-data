@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Stephen O. Swanson"
+	],
 	"level": 200,
-	"name": "Wri for Young Readers",
-	"num": 266,
-	"pf": false,
-	"places": [
+	"locations": [
 		"L 420",
 		"L 420"
 	],
-	"profs": [
-		"Stephen O. Swanson"
-	],
-	"sem": 2,
+	"name": "Wri for Young Readers",
+	"num": 266,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"times": [
 		"M-Th 0800-1000",

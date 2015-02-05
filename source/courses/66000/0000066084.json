@@ -11,16 +11,17 @@
 		"SED"
 	],
 	"groupid": 100,
-	"level": 100,
-	"name": "Biological Science",
-	"num": 121,
-	"pf": false,
-	"profs": [
+	"instructors": [
 		"Eric McDonald",
 		"Michael Swift",
 		"Anne Walter"
 	],
-	"sem": 5,
+	"level": 100,
+	"name": "Biological Science",
+	"num": 121,
+	"pf": false,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Biological Science: Issues in Biology",
 	"type": "Research",

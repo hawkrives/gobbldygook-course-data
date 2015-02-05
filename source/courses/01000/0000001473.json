@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"H 516"
+	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FOL-G"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20074,
 	"times": [
 		"M-F 0800-0930"

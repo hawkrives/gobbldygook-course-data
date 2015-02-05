@@ -5,15 +5,16 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "IR/Human Factors/C.S.",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Human Factors/C.S.",
 	"type": "Research",

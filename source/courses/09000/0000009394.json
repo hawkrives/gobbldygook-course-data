@@ -5,19 +5,20 @@
 	"depts": [
 		"ENGL"
 	],
-	"level": 200,
-	"name": "Lit in Engl 1650-1850",
-	"num": 222,
-	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
+	"instructors": [
 		"Mark Allister",
 		"Mary Titus"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RML 525"
+	],
+	"name": "Lit in Engl 1650-1850",
+	"num": 222,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

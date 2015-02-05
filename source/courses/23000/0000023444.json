@@ -5,19 +5,20 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
-	"name": "Intro: Enviro Studies",
-	"num": 237,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280 PLEN",
 		"SC 188"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 1,
+	"name": "Intro: Enviro Studies",
+	"num": 237,
+	"pf": false,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 19981,
 	"times": [
 		"T 0935-1100",

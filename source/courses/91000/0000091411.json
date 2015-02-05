@@ -6,17 +6,18 @@
 		"BIO"
 	],
 	"groupid": 108,
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 455"
+	],
 	"name": "Evolution & Diversity Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 455"
-	],
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "X",
 	"term": 20125,
 	"times": [
 		"TTh 0100-0400PM"

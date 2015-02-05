@@ -5,14 +5,15 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"William L. Carlson"
+	],
 	"level": 300,
 	"name": "IR/Computer Networkng",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William L. Carlson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "IR/Computer Networkng",
 	"type": "Research",

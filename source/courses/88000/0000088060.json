@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kosmas Diveris"
+	],
 	"level": 300,
 	"name": "IR/Algebraic Topology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kosmas Diveris"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

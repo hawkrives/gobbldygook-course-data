@@ -10,16 +10,17 @@
 		"ALS-L",
 		"WRI"
 	],
-	"level": 100,
-	"num": 180,
-	"pf": false,
-	"places": [
-		"RNS 356A"
-	],
-	"profs": [
+	"instructors": [
 		"Gary C. Gisselman"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"RNS 356A"
+	],
+	"num": 180,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 1045-1140"

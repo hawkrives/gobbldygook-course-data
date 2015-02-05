@@ -10,19 +10,20 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Trina Smith"
+	],
 	"level": 200,
-	"name": "Marriage & the Family",
-	"num": 260,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 130",
 		"SC 130"
 	],
-	"profs": [
-		"Trina Smith"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Marriage & the Family",
+	"num": 260,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"T 0935-1100",

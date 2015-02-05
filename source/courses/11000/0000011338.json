@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 200,
 	"name": "Med Chem in Jamaica",
 	"num": 260,
 	"pf": false,
-	"profs": [
-		"Robert Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20052,
 	"title": "Med Chem in Jamaica",
 	"type": "Research",

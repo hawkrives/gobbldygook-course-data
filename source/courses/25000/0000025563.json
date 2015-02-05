@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Gyorgy Petruska"
+	],
 	"level": 300,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Complex Analysis",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Gyorgy Petruska"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19991,
 	"times": [
 		"TTh 0935-1100"

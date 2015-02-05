@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Allen"
+	],
 	"level": 100,
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Richard Allen"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"title": "Calculus I",
 	"type": "Research",

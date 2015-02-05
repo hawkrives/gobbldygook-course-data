@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Nathaniel J. Schaefle"
+	],
 	"level": 300,
 	"name": "IR/NMR Metabonomics Study",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Nathaniel J. Schaefle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

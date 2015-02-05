@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sect": "P",
-	"sem": 1,
+	"section": "P",
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"MWF 1150-1245PM"

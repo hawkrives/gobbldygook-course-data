@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
 	"name": "IR/Wren Ethology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Wren Ethology",
 	"type": "Research",

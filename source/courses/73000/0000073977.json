@@ -10,19 +10,20 @@
 		"SED"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Chemical Reactions",
 	"notes": "Students in Chem 126A, B, C, D, or E must also register for one lab Chem 126 AL, BL, CL, DL, EL, FL, GL, HL, or IL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

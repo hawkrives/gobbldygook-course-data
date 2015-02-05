@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"David Van Wylen"
+	],
 	"level": 100,
-	"name": "Biological Science",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 273"
 	],
-	"profs": [
-		"David Van Wylen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Biological Science",
+	"num": 121,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000",

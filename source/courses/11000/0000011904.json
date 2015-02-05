@@ -6,18 +6,19 @@
 		"ENGL"
 	],
 	"desc": "Students encounter a selection of literature from many different English-speaking countries. The course offers an introduction to the analysis and interpretation of a variety of literary genres. The writing can include both formal and creative assignments. The course is required of those beginning the English major. It is not recommended for general education students.",
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 100,
-	"num": 185,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"num": 185,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0800-0925",

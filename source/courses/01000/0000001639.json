@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Anantanand Rambachan"
+	],
 	"level": 200,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Hinduism",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Anantanand Rambachan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

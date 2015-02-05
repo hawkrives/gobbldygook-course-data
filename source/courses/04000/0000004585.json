@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
-	"level": 300,
-	"name": "Mathematics Practicum",
-	"num": 390,
-	"pf": false,
-	"places": [
-		"SC 182",
-		"SC 182"
-	],
-	"profs": [
+	"instructors": [
 		"Julie M. Legler",
 		"Theodore Vessey"
 	],
-	"sem": 2,
+	"level": 300,
+	"locations": [
+		"SC 182",
+		"SC 182"
+	],
+	"name": "Mathematics Practicum",
+	"num": 390,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0900-1000",

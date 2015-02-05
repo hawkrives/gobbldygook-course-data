@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
-	"name": "Investigative Math",
-	"num": 224,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 2,
+	"name": "Investigative Math",
+	"num": 224,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1200PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 200,
+	"locations": [
+		"M 1"
+	],
 	"name": "Global Env Politics",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20001,
 	"times": [
 		"MWF 1045-1140"

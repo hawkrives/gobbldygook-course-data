@@ -10,19 +10,20 @@
 		"EIN",
 		"ORC"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 203",
+		"RNS 203"
+	],
 	"name": "Ethical Iss: Software",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open only to seniors and juniors during web registration.",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"RNS 203",
-		"RNS 203"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 0935-1100",

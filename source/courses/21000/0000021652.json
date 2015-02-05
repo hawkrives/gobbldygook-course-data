@@ -5,14 +5,15 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Mtg of East/West",
 	"num": 261,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"title": "Mtg of East/West",
 	"type": "Research",

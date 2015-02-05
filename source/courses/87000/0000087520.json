@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one level III course in philosophy.",
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 300,
 	"name": "IR/Wittgenstein/Heidegger",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"title": "Independent Research",
 	"type": "Research",

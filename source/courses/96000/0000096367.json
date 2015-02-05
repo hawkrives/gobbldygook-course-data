@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 300,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Principles of Educ",
 	"notes": "Open to Juniors and Seniors only.",
 	"num": 330,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

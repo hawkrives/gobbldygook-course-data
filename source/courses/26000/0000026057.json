@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Jan Shoger"
+	],
 	"level": 200,
 	"name": "IS/Bks/Prints/Poetry",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jan Shoger"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19992,
 	"title": "IS/Bks/Prints/Poetry",
 	"type": "Research",

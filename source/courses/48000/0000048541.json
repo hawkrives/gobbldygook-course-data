@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul T. Jackson"
+	],
 	"level": 300,
 	"name": "IR/Biodiesel Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul T. Jackson"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"title": "Independent Research",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "This course introduces students to the mathematics of complex systems, as applied to problems from biology. Topics include discrete and continuous models of single species and multiple species populations, age structure of populations, disease spread, evolution and game theory, and competition. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Offered Spring Semester only.",
+	"instructors": [
+		"Urmila S. Malvadkar"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Math of Biology",
 	"notes": "This course has been canceled.",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Urmila S. Malvadkar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "X",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

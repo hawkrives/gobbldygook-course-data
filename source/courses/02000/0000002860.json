@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 300,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Sr Studies-Art Hist",
 	"num": 395,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Int/Cult Anthropology",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

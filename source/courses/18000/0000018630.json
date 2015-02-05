@@ -5,17 +5,18 @@
 	"depts": [
 		"RUSSN"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 300,
+	"locations": [
+		"M 2"
+	],
 	"name": "The Russian Press",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Irina Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

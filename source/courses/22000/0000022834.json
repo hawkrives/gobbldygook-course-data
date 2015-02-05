@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
 	"name": "IR/Histochemistry",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "J",
-	"sem": 3,
+	"section": "J",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Histochemistry",
 	"type": "Research",

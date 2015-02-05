@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Katherine D. Crowley"
+	],
 	"level": 200,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"Katherine D. Crowley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

@@ -6,14 +6,15 @@
 		"CSCI"
 	],
 	"desc": "Recent projects, usually executed by individuals and coordinated with ongoing undergraduate research projects, include cluster-assisted computer vision for robots, parallel computing in computer science education, neural networks, applications of genetic algorithms to scheduling, computational Bayesian image reconstruction, and design of software to assist choreographers.",
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
 	"name": "IR/HPC in Context",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20124,
 	"title": "Independent Research",
 	"type": "Research",

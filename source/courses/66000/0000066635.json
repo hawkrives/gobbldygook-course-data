@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Kristopher J. Keuseman"
+	],
 	"level": 300,
 	"name": "IR/Buddhism and Science",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Kristopher J. Keuseman"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Research",
 	"type": "Research",

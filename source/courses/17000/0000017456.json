@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark Edwards Jr"
+	],
 	"level": 300,
+	"locations": [
+		"ADM 251"
+	],
 	"name": "Hist Sem: Luther",
 	"num": 392,
 	"pf": false,
-	"places": [
-		"ADM 251"
-	],
-	"profs": [
-		"Mark Edwards Jr"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 19951,
 	"times": [
 		"TTh 0935-1100"

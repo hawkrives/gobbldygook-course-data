@@ -6,17 +6,18 @@
 		"ESTH"
 	],
 	"groupid": 1060,
+	"instructors": [
+		"Mark Blegen"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 103"
+	],
 	"name": "Motor Learning Lab",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"SAC 103"
-	],
-	"profs": [
-		"Mark Blegen"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"T 0700-0900PM"

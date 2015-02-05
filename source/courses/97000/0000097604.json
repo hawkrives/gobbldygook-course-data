@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
-		"HH 501"
-	],
-	"profs": [
+	"instructors": [
 		"Bjorn Nordfjord"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"HH 501"
+	],
+	"num": 130,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 1255-0150PM"

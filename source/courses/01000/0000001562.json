@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"J. Patrick Dale"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Pol Race/Class/Gender",
 	"num": 215,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"J. Patrick Dale"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925"

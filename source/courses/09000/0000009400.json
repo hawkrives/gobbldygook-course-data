@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Mary V. Winstead"
+	],
 	"level": 200,
-	"name": "Creative Wrtg: Non-Fic",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 420",
 		"RML 420"
 	],
-	"profs": [
-		"Mary V. Winstead"
-	],
-	"sem": 3,
+	"name": "Creative Wrtg: Non-Fic",
+	"num": 251,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

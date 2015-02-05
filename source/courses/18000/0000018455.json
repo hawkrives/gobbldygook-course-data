@@ -5,18 +5,19 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 2"
+	],
 	"name": "Biomechanics/Lab",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"SAC 2"
-	],
-	"profs": [
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"Th 1145-0245PM"

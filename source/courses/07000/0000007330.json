@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
 	"name": "IR/Influence On Moral",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Influence On Moral",
 	"type": "Research",

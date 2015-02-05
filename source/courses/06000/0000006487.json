@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard Buckstead"
+	],
 	"level": 200,
 	"name": "Hemingway in Cuba",
 	"num": 259,
 	"pf": false,
-	"profs": [
-		"Richard Buckstead"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"title": "Hemingway in Cuba",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Robert Hedin"
+	],
 	"level": 300,
 	"name": "IR/20th C Amer Voices",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Robert Hedin"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/20th C Amer Voices",
 	"type": "Research",

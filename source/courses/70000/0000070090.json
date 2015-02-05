@@ -9,17 +9,18 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20085,
 	"times": [
 		"M-F 1000-1130"

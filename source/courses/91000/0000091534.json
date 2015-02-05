@@ -5,15 +5,16 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Susan E. Smalling"
+	],
 	"level": 200,
 	"name": "IS/Family Therapy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Susan E. Smalling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

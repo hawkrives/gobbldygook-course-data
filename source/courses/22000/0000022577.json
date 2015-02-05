@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Arnold Ostebee"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Operations Research",
 	"num": 266,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Arnold Ostebee"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Anne G. Sabo"
+	],
 	"level": 100,
+	"locations": [
+		"VIKING_THTR"
+	],
 	"name": "Nordic Film Today",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"VIKING_THTR"
-	],
-	"profs": [
-		"Anne G. Sabo"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"times": [
 		"M-F 0100-0400PM"

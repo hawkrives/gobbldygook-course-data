@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Steven C. Hahn"
+	],
 	"level": 200,
+	"locations": [
+		"M 2"
+	],
 	"name": "Us Top: Native Amercn",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Steven C. Hahn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

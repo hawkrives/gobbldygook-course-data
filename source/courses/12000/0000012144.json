@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Dan Dressen"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 138"
+	],
 	"name": "Instr Chamber Music",
 	"num": 275,
 	"pf": false,
-	"places": [
-		"CHM 138"
-	],
-	"profs": [
-		"Dan Dressen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"TTh 0800-0855"

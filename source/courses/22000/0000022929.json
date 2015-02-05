@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Raymond DeVries"
+	],
 	"level": 300,
+	"locations": [
+		"H 413"
+	],
 	"name": "Data Collect & Analy",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Raymond DeVries"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

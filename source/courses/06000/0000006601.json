@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Christopher Thomforde placeholder"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "The Greats",
 	"num": 203,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Christopher Thomforde placeholder"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

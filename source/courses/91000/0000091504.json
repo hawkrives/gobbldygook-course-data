@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Susan E. Smalling"
+	],
 	"level": 100,
-	"notes": "This course has class-year limits.",
-	"num": 122,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Susan E. Smalling"
-	],
-	"sem": 2,
+	"notes": "This course has class-year limits.",
+	"num": 122,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"times": [
 		"T-F 0800-1000",

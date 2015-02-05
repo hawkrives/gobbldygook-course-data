@@ -6,17 +6,18 @@
 		"LATIN"
 	],
 	"desc": "In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the fall semester.",
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TOH 312"
-	],
-	"profs": [
+	"instructors": [
 		"Lisa Whitlatch"
 	],
-	"sect": "A",
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"TOH 312"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 0800-0855"

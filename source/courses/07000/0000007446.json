@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Hist/Theat-Since 1700",
 	"num": 271,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM"

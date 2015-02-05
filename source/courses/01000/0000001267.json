@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Per Stud: Belle Epoque",
 	"num": 273,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

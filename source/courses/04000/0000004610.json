@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 100,
+	"locations": [
+		"OM 001"
+	],
 	"name": "Nord Folklore/Myth-Tr",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"OM 001"
-	],
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0100-0300PM"

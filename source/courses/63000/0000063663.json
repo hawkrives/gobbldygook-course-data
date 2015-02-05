@@ -5,15 +5,16 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 300,
 	"name": "IR/Natrl Resource Policy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Research",
 	"type": "Research",

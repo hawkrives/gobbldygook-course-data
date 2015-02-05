@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 200,
-	"name": "Modern Computational Math",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sem": 3,
+	"name": "Modern Computational Math",
+	"num": 242,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1145-0110PM",

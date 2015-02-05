@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Christopher Galdieri"
+	],
 	"level": 100,
-	"notes": "This course has class year limits.",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 525",
 		"RML 525"
 	],
-	"profs": [
-		"Christopher Galdieri"
-	],
-	"sem": 3,
+	"notes": "This course has class year limits.",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0800-0925",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Seth Binder"
+	],
 	"level": 200,
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 030",
 		"OM 030"
 	],
-	"profs": [
-		"Seth Binder"
-	],
-	"sect": "A",
-	"sem": 1,
+	"num": 243,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 1145-0110PM",

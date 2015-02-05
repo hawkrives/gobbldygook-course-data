@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
 	"name": "IR/The Grail in America",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

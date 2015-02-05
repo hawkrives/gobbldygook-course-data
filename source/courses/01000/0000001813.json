@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 100,
 	"name": "Biological Science",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Biological Science",
 	"type": "Research",

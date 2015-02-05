@@ -5,17 +5,18 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 200,
+	"locations": [
+		"RML 250"
+	],
 	"name": "Intermed Japanese II Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"RML 250"
-	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0305-0400PM"

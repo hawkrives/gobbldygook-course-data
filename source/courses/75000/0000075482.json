@@ -10,18 +10,19 @@
 		"ALS-A",
 		"MCG"
 	],
+	"instructors": [
+		"Christopher Tradowsky"
+	],
 	"level": 200,
-	"notes": "This course has been canceled.",
-	"num": 269,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 305",
 		"DC 305"
 	],
-	"profs": [
-		"Christopher Tradowsky"
-	],
-	"sem": 3,
+	"notes": "This course has been canceled.",
+	"num": 269,
+	"pf": false,
+	"semester": 3,
+	"status": "X",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

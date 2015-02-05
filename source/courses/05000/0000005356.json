@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Leilani Endicott"
+	],
 	"level": 200,
 	"name": "IS/Psyc Pastoral Care",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Leilani Endicott"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Psyc Pastoral Care",
 	"type": "Research",

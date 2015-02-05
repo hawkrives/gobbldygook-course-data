@@ -11,17 +11,18 @@
 		"SED"
 	],
 	"groupid": 102,
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"notes": "Students in Bio 123 must also register for one lab Bio 123 AL, BL, or CL.",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1150-1245PM"

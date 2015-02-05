@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
+	"locations": [
+		"M 30"
+	],
 	"name": "Judaism,Christ,ISlam",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"times": [
 		"M-F 0800-0930"

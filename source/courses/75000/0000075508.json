@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 22782,
+	"instructors": [
+		"Kevin M. Crisp"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Cell/Molec Neuroscience",
 	"notes": "Students in Neuro 239 must also register for one lab Neuro 239 AL or BL. Prerequisite: Completion of Bio 125 or CH/BI 127.",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"Kevin M. Crisp"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

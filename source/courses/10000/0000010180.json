@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 200,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Dying,Death,Bereave",
 	"num": 248,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Michael Leming"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20044,
 	"times": [
 		"M-F 0800-0930"

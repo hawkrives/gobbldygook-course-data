@@ -10,18 +10,19 @@
 		"SED"
 	],
 	"groupid": 124,
+	"instructors": [
+		"Steven Freedberg"
+	],
 	"level": 200,
-	"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL. This course has class-year limits.",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 390",
 		"RNS 390"
 	],
-	"profs": [
-		"Steven Freedberg"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL. This course has class-year limits.",
+	"num": 242,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 0800-0925",

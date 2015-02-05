@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 141,
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Limnology Lab",
 	"num": 363,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"W 0200-0500PM"

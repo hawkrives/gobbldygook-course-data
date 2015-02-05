@@ -7,18 +7,19 @@
 	],
 	"groupid": 108,
 	"grouptype": "2",
+	"instructors": [
+		"Nicholas J. Deacon"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Evolution & Diversity Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Nicholas J. Deacon"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"W 1150-0220PM"

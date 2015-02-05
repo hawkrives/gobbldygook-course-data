@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Chemistry & the World Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 1145-0245PM"

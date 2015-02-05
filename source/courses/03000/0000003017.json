@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Myron L. Solid"
+	],
 	"level": 300,
+	"locations": [
+		"TBA"
+	],
 	"name": "Human Issues in Educ",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"TBA"
-	],
-	"profs": [
-		"Myron L. Solid"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"M-F 0800-0400PM"

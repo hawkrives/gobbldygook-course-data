@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"MFH WT RM"
+	],
 	"name": "Wt Training Co-Ed .50",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"MFH WT RM"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

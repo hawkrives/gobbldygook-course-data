@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Joseph Edelheit"
+	],
 	"level": 200,
-	"name": "Judaism",
-	"num": 248,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 102",
 		"BMC 102"
 	],
-	"profs": [
-		"Joseph Edelheit"
-	],
-	"sem": 3,
+	"name": "Judaism",
+	"num": 248,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 0935-1100",

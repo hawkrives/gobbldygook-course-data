@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey",
+		"Richard Single"
+	],
 	"level": 300,
 	"name": "Mathematics Practicum",
 	"num": 390,
 	"pf": false,
-	"profs": [
-		"Matthew Richey",
-		"Richard Single"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Mathematics Practicum",
 	"type": "Research",

@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"RNS 190"
-	],
-	"profs": [
+	"instructors": [
 		"Bruce Hanson"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RNS 190"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

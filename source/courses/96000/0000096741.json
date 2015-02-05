@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 114,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 290",
+		"RNS 290"
+	],
 	"name": "Thinking & Doing Bio",
 	"notes": "This course will meet only from June 2 - June 27.",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"RNS 290",
-		"RNS 290"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20134,
 	"times": [
 		"M-F 1000-1130",

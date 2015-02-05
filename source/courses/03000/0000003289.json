@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Anne G. Sabo"
+	],
 	"level": 300,
+	"locations": [
+		"M 15"
+	],
 	"name": "Ibsen-Tr",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Anne G. Sabo"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 100,
-	"name": "Hlth Care: Global Pers",
-	"num": 136,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 129",
 		"SC 129"
 	],
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sem": 2,
+	"name": "Hlth Care: Global Pers",
+	"num": 136,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM",

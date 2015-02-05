@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 100,
-	"name": "Theory I",
-	"num": 113,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 232",
 		"CHM 232"
 	],
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Theory I",
+	"num": 113,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"T 0800-0925",

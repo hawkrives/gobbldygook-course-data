@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Jessica Musselman"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Jessica Musselman"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 0800-0855"

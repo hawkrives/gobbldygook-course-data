@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Michael Chambers"
+	],
 	"level": 100,
+	"locations": [
+		"H 413"
+	],
 	"name": "Political Analysis",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Michael Chambers"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

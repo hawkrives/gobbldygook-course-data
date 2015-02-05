@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 114,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 455"
+	],
 	"name": "Thinking & Doing Bio",
 	"notes": "Students in Bio 135 must also register for lab Bio 135 L. This course has class-year limits.",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"RNS 455"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 0900-1000"

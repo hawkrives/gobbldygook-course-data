@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"John O. Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"L 177"
+	],
 	"name": "Entrepreneurship",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"L 177"
-	],
-	"profs": [
-		"John O. Hanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

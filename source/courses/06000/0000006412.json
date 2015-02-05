@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
 	"name": "IS/Pre-Sr Studies",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"title": "IS/Pre-Sr Studies",
 	"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Medieval Synthesis",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

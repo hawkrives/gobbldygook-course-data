@@ -7,18 +7,19 @@
 		"BIO"
 	],
 	"groupid": 18803,
+	"instructors": [
+		"Laura Listenberger"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Integrate Chem/Bio II Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Laura Listenberger"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-Th 1230-0300PM"

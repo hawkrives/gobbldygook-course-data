@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sect": "N",
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM",

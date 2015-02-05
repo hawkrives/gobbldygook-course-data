@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Marriage & the Family",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Michael Leming"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19985,
 	"times": [
 		"M-F 1000-1130"

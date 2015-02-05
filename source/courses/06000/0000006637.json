@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Writing-Performance",
 	"num": 275,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"MWF 1040-1240PM"

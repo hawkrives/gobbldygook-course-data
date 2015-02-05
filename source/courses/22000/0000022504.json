@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 100,
+	"locations": [
+		"M 2"
+	],
 	"name": "Europe/Great War",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"M 2"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

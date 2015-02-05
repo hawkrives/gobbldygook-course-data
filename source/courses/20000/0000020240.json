@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
+	"locations": [
+		"SAC S GYM"
+	],
 	"name": "Ballrm I Men",
 	"num": 106,
 	"pf": true,
-	"places": [
-		"SAC S GYM"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MW 1255-0150PM"

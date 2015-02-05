@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "Students learn conducting techniques for choral literature including rehearsal techniques, vocal preparation and auditioning and selecting voices. Course work includes observation of conductors on campus and in the community. Prerequisite: Music 251. Offered Fall Semester.",
+	"instructors": [
+		"Christopher P. Aspaas"
+	],
 	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 140",
 		"CHM 140"
 	],
-	"profs": [
-		"Christopher P. Aspaas"
-	],
-	"sem": 1,
+	"num": 252,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"times": [
 		"T 0120-0245PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
 	"name": "IS/Environmental Educ",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Environmental Educ",
 	"type": "Research",

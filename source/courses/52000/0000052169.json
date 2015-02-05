@@ -6,16 +6,17 @@
 		"CSCI"
 	],
 	"desc": "Students learn mathematical topics that form an essential background for the study of computer science, including functions, relations, basic logic, predicate calculus and formal reasoning, verification of programs, proof techniques, basics of counting, graphs and trees, discrete probability, and introduction to computability. Prerequisites: Computer Science 121 or 125 or permission of instructor. Students with especially weak or especially strong mathematics backgrounds should consult with the program director.",
-	"level": 200,
-	"num": 231,
-	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
+	"instructors": [
 		"Richard Brown"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 186"
+	],
+	"num": 231,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"MWF 1045-1140"

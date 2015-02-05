@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
-	"notes": "This course has been canceled.",
-	"num": 222,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 10",
 		"OM 10"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"notes": "This course has been canceled.",
+	"num": 222,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "X",
 	"term": 20123,
 	"times": [
 		"T 0800-0925",

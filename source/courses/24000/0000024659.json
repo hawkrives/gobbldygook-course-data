@@ -5,14 +5,15 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
 	"name": "IS/Business Ventures",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Business Ventures",
 	"type": "Research",

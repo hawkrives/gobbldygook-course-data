@@ -10,18 +10,19 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Backgrounds to Literature",
 	"notes": "New course",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

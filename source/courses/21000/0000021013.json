@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Jim Holden"
+	],
 	"level": 300,
 	"name": "IR/Teaching of Engl",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jim Holden"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "IR/Teaching of Engl",
 	"type": "Research",

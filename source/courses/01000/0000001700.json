@@ -5,17 +5,18 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 300,
+	"locations": [
+		"M 21"
+	],
 	"name": "Seminar in Literature",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"M 21"
-	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0935-1100"

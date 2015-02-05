@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 100,
+	"locations": [
+		"SAC_GYM_S"
+	],
 	"name": "Individual Fitness.50",
 	"num": 133,
 	"pf": false,
-	"places": [
-		"SAC_GYM_S"
-	],
-	"profs": [
-		"Cynthia Book"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

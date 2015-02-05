@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Heidi Chial"
+	],
 	"level": 200,
-	"name": "Intermediate Genetics",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 229"
 	],
-	"profs": [
-		"Heidi Chial"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Intermediate Genetics",
+	"num": 233,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM",

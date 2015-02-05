@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 300,
 	"name": "IR/Mary in Salvation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Mary in Salvation",
 	"type": "Research",

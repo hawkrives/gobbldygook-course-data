@@ -6,15 +6,16 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Judith Sateren"
+	],
 	"level": 200,
 	"name": "IS/Spiritual Care",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Judith Sateren"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"title": "Independent Study",
 	"type": "Research",

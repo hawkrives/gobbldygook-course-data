@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Philip E. Stoltzfus"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Philip E. Stoltzfus"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000"

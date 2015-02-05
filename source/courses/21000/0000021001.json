@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"David Schodt"
-	],
-	"sect": "F",
-	"sem": 5,
+	"section": "F",
+	"semester": 5,
+	"status": "O",
 	"term": 19965,
 	"title": "Academic Internship",
 	"type": "Research",

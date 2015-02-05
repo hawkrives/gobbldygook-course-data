@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Richard Thomas"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Prin Physics I/Lab",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"Richard Thomas"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20011,
 	"times": [
 		"Th 1145-0215PM"

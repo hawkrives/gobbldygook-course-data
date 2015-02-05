@@ -7,16 +7,17 @@
 	],
 	"desc": "Students study how an instrument functions, mechanically, mathematically, optically and electronically, and then how its parts are linked together. Students examine electrochemical devices: spectrophotometers for absorption, emission, scattering and resonance; devices that manipulate particles; and a host of chromatographic devices. Prerequisites: Physics 125L or 228, and Chemistry 255, 256. Concurrent registration in Chemistry 378 is required. Prior experience with computers is essential. Offered Fall Semester.",
 	"groupid": 217,
-	"level": 300,
-	"num": 382,
-	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
+	"instructors": [
 		"Douglas J. Beussman"
 	],
-	"sem": 1,
+	"level": 300,
+	"locations": [
+		"SC 310"
+	],
+	"num": 382,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"times": [
 		"MWF 1045-1140"

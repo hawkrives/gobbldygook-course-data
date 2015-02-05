@@ -10,19 +10,20 @@
 		"FOL-C"
 	],
 	"groupid": 243,
+	"instructors": [
+		"Steven P. Day"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Intermed Chinese II",
 	"notes": "Students in Chinese 232A must also register for one lab Chinese 232AL or BL.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Steven P. Day"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 1255-0150PM"

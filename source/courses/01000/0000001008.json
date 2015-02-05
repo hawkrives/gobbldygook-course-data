@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"A. Malcolm Gimse"
+	],
 	"level": 200,
+	"locations": [
+		"FH 01"
+	],
 	"name": "Art of China/Japan",
 	"num": 259,
 	"pf": false,
-	"places": [
-		"FH 01"
-	],
-	"profs": [
-		"A. Malcolm Gimse"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1255-0150PM"

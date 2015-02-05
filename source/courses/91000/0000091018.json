@@ -5,15 +5,16 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"title": "Internship",
 	"type": "Research",

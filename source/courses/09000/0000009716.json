@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 300,
 	"name": "IR/Faith & Knowledge",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Faith & Knowledge",
 	"type": "Research",

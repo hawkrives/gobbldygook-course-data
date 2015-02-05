@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 100,
+	"locations": [
+		"OM 305"
+	],
 	"name": "Bible/Culture/Commun",
 	"notes": "Subtitle: Women and/in the Bible",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 305"
-	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1045-1140"

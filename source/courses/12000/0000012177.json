@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Rita Glazebrook"
+	],
 	"level": 300,
 	"name": "IR/Hist Nursing St. Olaf",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Rita Glazebrook"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"Matthew C. Feig"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Principles Physics II",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"Matthew C. Feig"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"times": [
 		"WTh 0100-0330PM"

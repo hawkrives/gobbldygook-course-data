@@ -5,18 +5,19 @@
 	"depts": [
 		"CSCI"
 	],
+	"instructors": [
+		"Richard Brown"
+	],
 	"level": 300,
-	"name": "Sem: Comp Operating Sy",
-	"num": 378,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Richard Brown"
-	],
-	"sem": 2,
+	"name": "Sem: Comp Operating Sy",
+	"num": 378,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 0830-1000",

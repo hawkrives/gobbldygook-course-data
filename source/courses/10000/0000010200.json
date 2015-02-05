@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "The Art of Music",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"times": [
 		"M-F 0800-0930"

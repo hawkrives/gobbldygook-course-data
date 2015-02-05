@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 100,
-	"name": "Origin of Nuclear Weapons",
-	"num": 154,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 210",
 		"RNS 210"
 	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 3,
+	"name": "Origin of Nuclear Weapons",
+	"num": 154,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

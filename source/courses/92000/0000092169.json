@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sect": "E",
-	"sem": 5,
+	"section": "E",
+	"semester": 5,
+	"status": "O",
 	"term": 20125,
 	"title": "Academic Internship",
 	"type": "Research",

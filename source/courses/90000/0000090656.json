@@ -10,18 +10,19 @@
 		"IST"
 	],
 	"groupid": 207,
+	"instructors": [
+		"Keir Fogarty"
+	],
 	"level": 300,
-	"notes": "Students in Chem 371 must also register for Chem 357 AL or BL.",
-	"num": 371,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 390",
 		"RNS 390"
 	],
-	"profs": [
-		"Keir Fogarty"
-	],
-	"sem": 3,
+	"notes": "Students in Chem 371 must also register for Chem 357 AL or BL.",
+	"num": 371,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

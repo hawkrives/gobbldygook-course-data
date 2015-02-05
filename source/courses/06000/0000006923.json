@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 300,
 	"name": "IR/Biomedical Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Zorn"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Biomedical Writing",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
-	"level": 100,
-	"name": "Acting--Lyric Stage",
-	"num": 131,
-	"pf": false,
-	"places": [
-		"CHM URNESS",
-		"CHM URNESS"
-	],
-	"profs": [
+	"instructors": [
 		"James McKeel",
 		"Dona W. Freeman"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM URNESS",
+		"CHM URNESS"
+	],
+	"name": "Acting--Lyric Stage",
+	"num": 131,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "This course continues the study in creative composition begun in 223 and 324 and includes writing for large ensembles. This course may be repeated. Prerequisites: Music 221, 223, 324, and permission of instructor. Generally offered each semester.",
+	"instructors": [
+		"John E. Bower"
+	],
 	"level": 300,
-	"num": 325,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"John E. Bower"
-	],
-	"sem": 3,
+	"num": 325,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

@@ -5,15 +5,16 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Elizabeth A. Leer"
+	],
 	"level": 200,
 	"name": "IS/Multicultrl Child Lit",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Elizabeth A. Leer"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"title": "Independent Study",
 	"type": "Research",

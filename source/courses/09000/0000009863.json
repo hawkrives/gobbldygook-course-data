@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
 	"name": "IR/Psych of Time",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Psych of Time",
 	"type": "Research",

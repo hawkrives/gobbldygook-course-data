@@ -5,18 +5,19 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 200,
-	"name": "Golden Age of Rome-Tr",
-	"num": 244,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 501",
 		"HH 501"
 	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sem": 3,
+	"name": "Golden Age of Rome-Tr",
+	"num": 244,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

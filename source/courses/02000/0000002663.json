@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 100,
-	"name": "Diversity ISSues",
-	"num": 122,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DANCE  ST 3",
 		"DANCE  ST 3"
 	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 2,
+	"name": "Diversity ISSues",
+	"num": 122,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-Th 0900-1000",

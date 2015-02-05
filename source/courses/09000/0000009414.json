@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 300,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Advanced Fiction Wrtg",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"James Heynen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"M 0700-1000PM"

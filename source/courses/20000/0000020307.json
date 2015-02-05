@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Abby Werlock"
+	],
 	"level": 300,
 	"name": "IR/Black American Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Abby Werlock"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IR/Black American Lit",
 	"type": "Research",

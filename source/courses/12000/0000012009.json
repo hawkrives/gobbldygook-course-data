@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 200,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Restoration Engl",
 	"num": 210,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1150-1245PM"

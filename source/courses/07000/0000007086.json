@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Abstract Algebra I",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

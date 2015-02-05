@@ -5,14 +5,15 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 200,
 	"name": "Biosphere Ecology",
 	"num": 260,
 	"pf": false,
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"title": "Biosphere Ecology",
 	"type": "Research",

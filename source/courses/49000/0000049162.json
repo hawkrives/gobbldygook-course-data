@@ -5,14 +5,15 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "No Interim",
 	"num": 100,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"title": "No Interim",
 	"type": "Research",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Louis K. Epstein"
+	],
 	"level": 300,
-	"name": "Top: American",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Louis K. Epstein"
-	],
-	"sem": 3,
+	"name": "Top: American",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

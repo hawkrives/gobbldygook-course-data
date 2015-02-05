@@ -5,14 +5,15 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Valerie Thomas"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Valerie Thomas"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Internship",
 	"type": "Research",

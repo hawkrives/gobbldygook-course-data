@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one Level III course in philosophy.",
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 300,
 	"name": "IR/Self Knowledge",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Corliss Swain"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

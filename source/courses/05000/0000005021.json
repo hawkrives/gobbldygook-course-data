@@ -5,18 +5,19 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Beginning German II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

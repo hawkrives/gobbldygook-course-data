@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Ron Gallas"
+	],
 	"level": 300,
 	"name": "IR/Ceramics-Wheel",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Ron Gallas"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"title": "IR/Ceramics-Wheel",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 122,
+	"instructors": [
+		"Sara E. Fruehling"
+	],
 	"level": 200,
+	"locations": [
+		"SC 211"
+	],
 	"name": "Intermediate Genetics Lab",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 211"
-	],
-	"profs": [
-		"Sara E. Fruehling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0800-1100"

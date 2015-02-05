@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 200,
-	"name": "Lighting & Sound",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Green Rm",
 		"TB Green Rm"
 	],
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sem": 1,
+	"name": "Lighting & Sound",
+	"num": 250,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0935-1100",

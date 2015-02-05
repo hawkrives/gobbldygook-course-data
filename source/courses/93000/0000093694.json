@@ -10,17 +10,18 @@
 		"SPM"
 	],
 	"grouptype": "R",
-	"level": 100,
-	"num": 162,
-	"pf": false,
-	"places": [
-		"SAC Wr Rm"
-	],
-	"profs": [
+	"instructors": [
 		"Staff"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Wr Rm"
+	],
+	"num": 162,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"TTh 0800-0855"

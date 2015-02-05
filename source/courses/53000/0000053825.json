@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Todd W. Nichol"
+	],
 	"level": 300,
 	"name": "IR/Mapping the LFC",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Todd W. Nichol"
-	],
-	"sect": "M",
-	"sem": 3,
+	"section": "M",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

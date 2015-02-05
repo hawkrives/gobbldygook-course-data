@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Carolyn Anderson"
+	],
 	"level": 100,
+	"locations": [
+		"H 413"
+	],
 	"name": "Int/Cult Anthropology",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Carolyn Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1150-1245PM"

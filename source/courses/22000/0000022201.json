@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 300,
 	"name": "IR/Art & Environment",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Art & Environment",
 	"type": "Research",

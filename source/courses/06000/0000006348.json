@@ -5,19 +5,20 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Anthony Becker"
+	],
 	"level": 200,
-	"name": "Stat Problem Solving",
-	"num": 263,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Anthony Becker"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Stat Problem Solving",
+	"num": 263,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0935-1100",

@@ -6,17 +6,18 @@
 		"MATH"
 	],
 	"desc": "This course is a continuation of the study of the theory of groups, rings, and fields. Topics include group actions, Sylow theory, and Galois theory. Other topics may include representation theory, module theory, and others. Prerequisite: MATH 252. Offered in 2012-13 and alternate years.",
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 300,
-	"num": 352,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 3,
+	"num": 352,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

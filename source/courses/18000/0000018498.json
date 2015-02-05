@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 100,
+	"locations": [
+		"H 413"
+	],
 	"name": "Political Analysis",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Sport Ethic-Society",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

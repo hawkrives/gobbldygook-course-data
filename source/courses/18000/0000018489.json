@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 300,
+	"locations": [
+		"SC 151"
+	],
 	"name": "Adv Physics Lab (375)",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"SC 151"
-	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"F 1255-0355PM"

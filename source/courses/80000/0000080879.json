@@ -5,15 +5,16 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 200,
 	"name": "FLC - German",
 	"notes": "You may register for the FLAC component separately at any time after web reg.",
 	"num": 249,
 	"pf": true,
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "FLC - German",
 	"type": "FLAC",

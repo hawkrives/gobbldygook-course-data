@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Racquetball (Women)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0200-0255PM"

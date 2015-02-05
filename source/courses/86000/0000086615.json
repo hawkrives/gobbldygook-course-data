@@ -5,13 +5,14 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"title": "Academic Internship",
 	"type": "Research",

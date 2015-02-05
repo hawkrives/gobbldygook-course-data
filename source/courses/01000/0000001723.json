@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 200,
 	"name": "IS/Act in Shakespeare",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Act in Shakespeare",
 	"type": "Research",

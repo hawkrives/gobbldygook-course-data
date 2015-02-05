@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Chr Theol/Human Exist",
 	"num": 208,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"MWF 1150-1245PM"

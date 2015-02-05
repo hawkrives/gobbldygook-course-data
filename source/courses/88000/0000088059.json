@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Clifton Corzatt"
+	],
 	"level": 300,
 	"name": "IR/Adv Number Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Clifton Corzatt"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"title": "Independent Research",
 	"type": "Research",

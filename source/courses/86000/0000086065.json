@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Shakespeare & Contemp",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 0905-1000"

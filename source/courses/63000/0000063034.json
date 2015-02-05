@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Heather Campbell"
+	],
 	"level": 300,
 	"name": "IR/ELL Writing Assessment",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Heather Campbell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research",
 	"type": "Research",

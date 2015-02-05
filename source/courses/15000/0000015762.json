@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Asian Cultures",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1145-0110PM"

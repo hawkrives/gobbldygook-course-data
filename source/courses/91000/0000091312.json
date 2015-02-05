@@ -5,15 +5,16 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"James May"
+	],
 	"level": 300,
 	"name": "IR/Ancient Warships",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James May"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

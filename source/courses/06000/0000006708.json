@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Vis Cult/Modern China",
 	"num": 270,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

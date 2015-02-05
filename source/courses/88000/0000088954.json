@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 200,
+	"locations": [
+		"DC Studio 2"
+	],
 	"notes": "Permission of instructor required.",
 	"num": 210,
 	"pf": false,
-	"places": [
-		"DC Studio 2"
-	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20131,
 	"times": [
 		"MW 0200-0330PM"

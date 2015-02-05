@@ -6,17 +6,18 @@
 		"ESTH"
 	],
 	"groupid": 1064,
+	"instructors": [
+		"Christine Daymont"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 103"
+	],
 	"name": "Physiology/Exercise Lab",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"SAC 103"
-	],
-	"profs": [
-		"Christine Daymont"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0800-1100"

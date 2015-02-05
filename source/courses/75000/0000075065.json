@@ -6,15 +6,16 @@
 		"RUSSN"
 	],
 	"desc": "Independent Research is required for all students seeking credit for a senior project.",
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 300,
 	"name": "IR/Contemp Is Russian Soc",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Marc Robinson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Top: Animal Behavior",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-Th 0800-1000",

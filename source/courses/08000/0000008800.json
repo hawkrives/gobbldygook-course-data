@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Am Drama: Odets-Mamet",
 	"num": 182,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

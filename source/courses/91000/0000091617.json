@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Sharon Lane-Getaz"
+	],
 	"level": 300,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "MSCS Research Methods",
 	"notes": "Open only to students accepted into the CIR.",
 	"num": 389,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Sharon Lane-Getaz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

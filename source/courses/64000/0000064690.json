@@ -5,17 +5,18 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"Christopher L. Chiappari"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "FLC - Spanish",
 	"num": 333,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Christopher L. Chiappari"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"Th 0600-0700PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"John Walters"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Analytical Chem",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"John Walters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

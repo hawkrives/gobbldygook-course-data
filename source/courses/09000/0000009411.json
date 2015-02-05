@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Eliot K. Wilson"
+	],
 	"level": 200,
 	"name": "IS/Book Lgth N-Fict",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Eliot K. Wilson"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IS/Book Lgth N-Fict",
 	"type": "Research",

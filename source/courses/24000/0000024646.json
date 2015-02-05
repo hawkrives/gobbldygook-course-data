@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Michael Kahn"
+	],
 	"level": 300,
 	"name": "IR/Stochastic Process",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Michael Kahn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Stochastic Process",
 	"type": "Research",

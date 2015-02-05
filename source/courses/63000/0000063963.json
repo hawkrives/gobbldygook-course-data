@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Margaret Ojala"
+	],
 	"level": 200,
 	"name": "IS/Portraiture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Margaret Ojala"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

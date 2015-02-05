@@ -6,19 +6,20 @@
 		"CHIN"
 	],
 	"groupid": 241,
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
-	"name": "Intermed Chinese I Lab",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 316",
 		"TOH 316"
 	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sect": "A",
-	"sem": 1,
+	"name": "Intermed Chinese I Lab",
+	"num": 231,
+	"pf": false,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"T 1005-1100",

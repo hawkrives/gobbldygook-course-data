@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 300,
 	"name": "IR/Organomet Syn Mo Clust",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"title": "Independent Research",
 	"type": "Research",

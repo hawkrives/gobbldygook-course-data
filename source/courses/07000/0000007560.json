@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
-	"name": "Math--Elem Classroom",
-	"num": 317,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"name": "Math--Elem Classroom",
+	"num": 317,
+	"pf": false,
+	"semester": 5,
+	"status": "O",
 	"term": 20035,
 	"times": [
 		"M-F 0900-1200PM",

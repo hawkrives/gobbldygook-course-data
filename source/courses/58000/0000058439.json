@@ -6,17 +6,18 @@
 		"STAT"
 	],
 	"desc": "This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include two-sample comparisons, simple linear regression, multiple regression, model diagnostics, logistic regression for focus on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Prerequisite: Statistics 110 or 212 or 263, or permission of instructor. Offered Fall and Spring Semesters.",
-	"level": 200,
-	"num": 272,
-	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
+	"instructors": [
 		"James Scott"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 182"
+	],
+	"num": 272,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MWF 1255-0150PM"

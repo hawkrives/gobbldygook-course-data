@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1240PM"

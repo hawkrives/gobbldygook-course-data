@@ -6,13 +6,14 @@
 		"PHYS"
 	],
 	"desc": "This course is an analytical and computational study of Newtonian mechanics, including the harmonic oscillator, central force motion, non-linear oscillators, chaos, and an introduction to the Lagrangian formulation. Students use computers extensively. Prerequisites: Physics 232 and Mathematics 230. Offered annually in the fall semester.",
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 300,
 	"num": 374,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Classical Mechanics",
 	"type": "Research",

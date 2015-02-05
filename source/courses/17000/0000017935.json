@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 200,
+	"locations": [
+		"SC 278"
+	],
 	"name": "Intermediate Genetics",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"SC 278"
-	],
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0800-0855"

@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 100,
+	"locations": [
+		"OM 035"
+	],
 	"name": "Europe,1500-Present",
 	"num": 191,
 	"pf": false,
-	"places": [
-		"OM 035"
-	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

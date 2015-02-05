@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "Students work intensively in a special topic of an applied character. Topics vary from year to year and are usually selected from statistics, operations research or differential equations. May be repeated if topics are different.",
+	"instructors": [
+		"Amelia J. Taylor"
+	],
 	"level": 300,
-	"name": "Sem: Applied Algebra",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 186",
 		"SC 186"
 	],
-	"profs": [
-		"Amelia J. Taylor"
-	],
-	"sem": 3,
+	"name": "Sem: Applied Algebra",
+	"num": 384,
+	"pf": false,
+	"semester": 3,
+	"status": "X",
 	"term": 20053,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 200,
+	"locations": [
+		"M 20"
+	],
 	"name": "Latin Amer Politics",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"M 20"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0905-1000"

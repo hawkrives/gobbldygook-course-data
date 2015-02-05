@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Anton Armstrong"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Child-Adolescen Voice",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Anton Armstrong"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MW 1045-1140"

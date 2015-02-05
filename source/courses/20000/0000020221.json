@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Jim Holden"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Teaching of English",
 	"num": 345,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Jim Holden"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0120-0245PM"

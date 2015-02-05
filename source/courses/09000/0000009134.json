@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Jill Ewald"
+	],
 	"level": 100,
-	"name": "Found Perceptual Draw",
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 216",
 		"DC 216"
 	],
-	"profs": [
-		"Jill Ewald"
-	],
-	"sem": 3,
+	"name": "Found Perceptual Draw",
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

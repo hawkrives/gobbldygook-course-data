@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Gary Wicks"
+	],
 	"level": 300,
 	"name": "IR/Senior Seminar",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Wicks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Senior Seminar",
 	"type": "Research",

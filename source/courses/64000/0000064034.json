@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Kathryne Fisher"
+	],
 	"level": 100,
+	"locations": [
+		"DC 115",
+		"DC 115"
+	],
 	"name": "Found Ceramics: Hand",
 	"notes": "This course has class year limits.",
 	"num": 116,
 	"pf": false,
-	"places": [
-		"DC 115",
-		"DC 115"
-	],
-	"profs": [
-		"Kathryne Fisher"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

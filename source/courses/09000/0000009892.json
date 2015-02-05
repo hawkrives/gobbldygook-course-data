@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 102"
+	],
 	"name": "St.Paul/Letter/Gospel",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"BMC 102"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

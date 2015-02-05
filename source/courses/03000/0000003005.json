@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Tchg of Modern Lang",
 	"num": 353,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0800-0855"

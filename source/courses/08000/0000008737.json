@@ -5,20 +5,21 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole",
+		"John Giannini"
+	],
 	"level": 200,
-	"name": "Probing Life W/Light",
-	"num": 249,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 229/227",
 		"SC 229/227",
 		"SC 229/227"
 	],
-	"profs": [
-		"Eric Cole",
-		"John Giannini"
-	],
-	"sem": 2,
+	"name": "Probing Life W/Light",
+	"num": 249,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"times": [
 		"M-F 0800-1000",

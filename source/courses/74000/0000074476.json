@@ -10,17 +10,18 @@
 		"ALS-A",
 		"SPM"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": true,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
+	"instructors": [
 		"Sheryl Saterstrom"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC Studio 1"
+	],
+	"num": 111,
+	"pf": true,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MW 1045-1140"

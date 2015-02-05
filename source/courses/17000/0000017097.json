@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jolene Barjasteh"
+	],
 	"level": 200,
 	"name": "FLC - French",
 	"num": 226,
 	"pf": false,
-	"profs": [
-		"Jolene Barjasteh"
-	],
-	"sect": "L",
-	"sem": 1,
+	"section": "L",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"title": "FLC - French",
 	"type": "FLAC",

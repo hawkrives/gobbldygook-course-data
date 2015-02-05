@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
 	"name": "IR/Anc-Mod Education",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IR/Anc-Mod Education",
 	"type": "Research",

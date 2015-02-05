@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alison Feldt"
+	],
 	"level": 200,
 	"name": "IS/Repertoire Study",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Alison Feldt"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"title": "Independent Study",
 	"type": "Research",

@@ -10,18 +10,19 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Meetu Khosla"
+	],
 	"level": 300,
-	"name": "Sem: Psychology of India",
-	"num": 393,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 206",
 		"RNS 206"
 	],
-	"profs": [
-		"Meetu Khosla"
-	],
-	"sem": 3,
+	"name": "Sem: Psychology of India",
+	"num": 393,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

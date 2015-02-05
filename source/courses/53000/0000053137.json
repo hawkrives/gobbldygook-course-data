@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 300,
 	"name": "IR/Global English",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Rika Ito"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "IR/Global English",
 	"type": "Research",

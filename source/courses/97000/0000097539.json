@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
-	"name": "Top: Memoir Boom",
-	"num": 280,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Top: Memoir Boom",
+	"num": 280,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

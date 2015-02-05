@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 226",
+		"RNS 226"
+	],
 	"name": "Sem: Preceptors",
 	"notes": "Permission of instructor required. Not open during web registration.",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"RNS 226",
-		"RNS 226"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

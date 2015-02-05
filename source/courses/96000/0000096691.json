@@ -7,14 +7,15 @@
 	],
 	"desc": "Students work on special projects during one afternoon of laboratory per week. Each student must have the sponsorship of a faculty member. This course does not count toward the biology major. P/N only. Offered each semester. May be repeated if topic is different.",
 	"grouptype": "R",
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 300,
 	"name": "Supplemental Research",
 	"num": 375,
 	"pf": true,
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"title": "Advanced Supplemental Research",
 	"type": "Research",

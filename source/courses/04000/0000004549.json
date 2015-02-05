@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Rosemary Moore"
+	],
 	"level": 100,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Food in Ancient World",
 	"num": 104,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Rosemary Moore"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 0100-0300PM"

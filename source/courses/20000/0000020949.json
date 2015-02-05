@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 520"
+	],
 	"name": "Amer Lit Since 1945",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"times": [
 		"M-F 0800-0930"

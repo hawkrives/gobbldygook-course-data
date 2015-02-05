@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Gray"
+	],
 	"level": 300,
 	"name": "IR/Bartok & Schumann",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Charles Gray"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Bartok & Schumann",
 	"type": "Research",

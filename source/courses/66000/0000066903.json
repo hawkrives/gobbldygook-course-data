@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 131,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"Robert K. McCarthy"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 131,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MW 0800-0855"

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"level": 200,
-	"num": 264,
-	"pf": false,
-	"places": [
-		"HH 501",
-		"HH 501"
-	],
-	"profs": [
+	"instructors": [
 		"Mara H. Benjamin",
 		"David Booth"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 501",
+		"HH 501"
+	],
+	"num": 264,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0935-1100",

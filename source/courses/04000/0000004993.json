@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"M. Clare Mather"
+	],
 	"level": 100,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Beginning French II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"M. Clare Mather"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

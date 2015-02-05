@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"SC 248"
+	],
 	"name": "Ecolog Principles/Lab",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"SC 248"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"Th 0800-1030"

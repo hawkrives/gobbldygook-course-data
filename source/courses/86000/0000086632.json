@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
+	"instructors": [
+		"Sarah B. Stein"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 110",
 		"BMC 110"
 	],
-	"profs": [
-		"Sarah B. Stein"
-	],
-	"sect": "S",
-	"sem": 1,
+	"num": 111,
+	"pf": false,
+	"section": "S",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0120-0245PM",

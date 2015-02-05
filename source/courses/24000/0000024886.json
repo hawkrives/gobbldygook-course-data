@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
 	"name": "IR/Cognition/Reaction",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Cognition/Reaction",
 	"type": "Research",

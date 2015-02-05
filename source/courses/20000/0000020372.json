@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 100,
+	"locations": [
+		"H 317"
+	],
 	"name": "Court/Culture Englnd",
 	"num": 107,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

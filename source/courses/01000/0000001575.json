@@ -5,15 +5,16 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Irina Walter"
+	],
 	"level": 300,
 	"name": "FLC-Russian",
 	"num": 385,
 	"pf": false,
-	"profs": [
-		"Irina Walter"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "FLC-Russian",
 	"type": "Research",

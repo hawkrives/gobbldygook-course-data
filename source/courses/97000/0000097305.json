@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
-	"name": "Movement/Camera/Process",
-	"num": 150,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 100",
 		"DC 100"
 	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sem": 3,
+	"name": "Movement/Camera/Process",
+	"num": 150,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0800-1100",

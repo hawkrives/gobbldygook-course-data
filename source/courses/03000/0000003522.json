@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Samiha Peterson"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "Sociological Theory",
 	"num": 291,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Samiha Peterson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

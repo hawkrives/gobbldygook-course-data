@@ -5,15 +5,16 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Internship",
 	"type": "Research",

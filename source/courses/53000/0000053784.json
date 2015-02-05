@@ -5,15 +5,16 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 200,
 	"name": "IS/Core Self",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Study",
 	"type": "Research",

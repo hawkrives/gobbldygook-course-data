@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Adam H. Berliner"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 186",
+		"TOH 186"
+	],
 	"name": "Elem Linear Algebra",
 	"notes": "First-year students who have completed Math 120 may take Math 220",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"TOH 186",
-		"TOH 186"
-	],
-	"profs": [
-		"Adam H. Berliner"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 1040-1240PM",

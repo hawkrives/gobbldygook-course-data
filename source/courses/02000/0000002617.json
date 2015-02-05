@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
 	"name": "IS/Wood Sculpture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IS/Wood Sculpture",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Walter A. Stromseth"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Modern Philosophy",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Walter A. Stromseth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1150-1245PM"

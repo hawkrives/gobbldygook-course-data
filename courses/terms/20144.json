@@ -12,17 +12,18 @@
 				"SED"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Struct Chem & Equilib",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"
@@ -39,17 +40,18 @@
 				"CHEM"
 			],
 			"groupid": 192,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Struct Chem & Equilib Lab",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"MW 0100-0400PM"
@@ -66,16 +68,17 @@
 				"CHEM"
 			],
 			"desc": "Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of organic compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in CHEM 248. Prerequisite: CHEM 126, or CH/BI 227, or permission of instructor. Offered annually in the fall semester.",
-			"level": 200,
-			"num": 247,
-			"pf": false,
-			"places": [
-				"RNS 390"
-			],
-			"profs": [
+			"instructors": [
 				"Daniel A. Everson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"RNS 390"
+			],
+			"num": 247,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"
@@ -92,17 +95,18 @@
 				"CHEM"
 			],
 			"desc": "This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisite: previous or concurrent registration in CHEM 247. Offered annually in the fall semester.",
+			"instructors": [
+				"Daniel A. Everson"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab I",
 			"num": 253,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Daniel A. Everson"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"TTh 1230-0330PM"
@@ -123,16 +127,17 @@
 				"EIN"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 255,
-			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
+			"instructors": [
 				"Charles H. III. Watson"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"TBA"
+			],
+			"num": 255,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"
@@ -153,14 +158,15 @@
 				"SED"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Prabal Adhikari"
+			],
 			"level": 100,
 			"name": "Principles Physics I",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Prabal Adhikari"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"title": "Principles of Physics I",
 			"type": "Research",
@@ -174,14 +180,15 @@
 				"PHYS"
 			],
 			"groupid": 1072,
+			"instructors": [
+				"Prabal Adhikari"
+			],
 			"level": 100,
 			"name": "Principles Physics I Lab",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Prabal Adhikari"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"title": "Principles Physics I Lab",
 			"type": "Lab",
@@ -196,15 +203,16 @@
 			],
 			"desc": "This course provides a guided summer research opportunity in science for rising sophomores. The course focuses on a research topic(s) to be determined by the instructor. Students learn how to ask and evaluate scientific question(s) with emphasis on quantitative approaches; read from and research the scientific literature; collect and analyze data; and summarize and present their results in writing and orally. Prerequisite: completion of Summer Bridge program or permission of instructor.",
 			"grouptype": "R",
+			"instructors": [
+				"Paul J. Roback",
+				"Diane K. Angell"
+			],
 			"level": 200,
 			"name": "Res Opp Science for Sophs",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Paul J. Roback",
-				"Diane K. Angell"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"title": "Research Opportunity in Science for Sophomores",
 			"type": "Research",
@@ -223,16 +231,17 @@
 				"MCG"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 230,
-			"pf": false,
-			"places": [
-				"TOH 308"
-			],
-			"profs": [
+			"instructors": [
 				"William H. Bridges IV"
 			],
-			"sem": 4,
+			"level": 200,
+			"locations": [
+				"TOH 308"
+			],
+			"num": 230,
+			"pf": false,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"
@@ -253,17 +262,18 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Ying Zhou"
+			],
 			"level": 200,
+			"locations": [
+				"TOH 310"
+			],
 			"name": "Top:E Asian Lang/Teach/Le",
 			"num": 200,
 			"pf": false,
-			"places": [
-				"TOH 310"
-			],
-			"profs": [
-				"Ying Zhou"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"
@@ -284,14 +294,15 @@
 				"ALS-L"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Colin Wells"
+			],
 			"level": 200,
 			"name": "Beat Generation",
 			"num": 261,
 			"pf": false,
-			"profs": [
-				"Colin Wells"
-			],
-			"sem": 4,
+			"semester": 4,
+			"status": "O",
 			"term": 20144,
 			"times": [
 				"M-F 1000-1130"

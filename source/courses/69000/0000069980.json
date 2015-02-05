@@ -10,18 +10,19 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 100,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Intro to Sociology",
 	"notes": "This course has been canceled.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20084,
 	"times": [
 		"M-F 0800-0930"

@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Edmund Santurri"
+	],
 	"level": 300,
 	"name": "IR/Rel/Dostoevsky",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Edmund Santurri"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Rel/Dostoevsky",
 	"type": "Research",

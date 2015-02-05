@@ -5,15 +5,16 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Robert W. Jenson"
+	],
 	"level": 200,
 	"name": "FLC-German",
 	"num": 201,
 	"pf": false,
-	"profs": [
-		"Robert W. Jenson"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "FLC-German",
 	"type": "Research",

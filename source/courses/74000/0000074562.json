@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 134,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 455"
+	],
 	"name": "Plant Physiology Lab",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"RNS 455"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0420PM"

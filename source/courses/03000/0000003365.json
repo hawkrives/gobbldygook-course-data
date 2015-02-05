@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 200,
 	"name": "IS/Biomechanics Study",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Cynthia Book"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IS/Biomechanics Study",
 	"type": "Research",

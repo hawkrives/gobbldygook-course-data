@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"George L. Hardgrove"
+	],
 	"level": 300,
+	"locations": [
+		"SC 321"
+	],
 	"name": "Spectro-Crystallo Lab",
 	"num": 376,
 	"pf": true,
-	"places": [
-		"SC 321"
-	],
-	"profs": [
-		"George L. Hardgrove"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"M 0200-0500PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Odd S. Lovoll"
+	],
 	"level": 200,
 	"name": "FLC-Norwegian",
 	"num": 224,
 	"pf": false,
-	"profs": [
-		"Odd S. Lovoll"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "FLC-Norwegian",
 	"type": "Research",

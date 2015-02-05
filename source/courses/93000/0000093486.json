@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 200,
-	"name": "Top: Die Novelle",
-	"num": 271,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 3,
+	"name": "Top: Die Novelle",
+	"num": 271,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"T 0800-0925",

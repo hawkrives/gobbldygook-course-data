@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 200,
-	"name": "Latin Am Politics",
-	"num": 264,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 1,
+	"name": "Latin Am Politics",
+	"num": 264,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"T 0120-0245PM",

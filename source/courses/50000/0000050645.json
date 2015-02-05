@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "IS/",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"title": "Independent Study",
 	"type": "Research",

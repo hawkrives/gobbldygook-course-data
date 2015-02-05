@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
 	"name": "IS/Nat Hist Education",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Nat Hist Education",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Carl Isaacson"
+	],
 	"level": 200,
 	"name": "IS/Using Oral Interp",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Carl Isaacson"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Using Oral Interp",
 	"type": "Research",

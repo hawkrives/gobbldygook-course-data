@@ -9,16 +9,17 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 200,
-	"num": 273,
-	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
+	"instructors": [
 		"Margaret Odell"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
+	"num": 273,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

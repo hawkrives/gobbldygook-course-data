@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
 	"name": "IR/Molecular Dynamics DNA",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

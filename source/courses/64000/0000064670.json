@@ -13,19 +13,20 @@
 	],
 	"groupid": 32,
 	"grouptype": "2",
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art History II",
 	"notes": "This course has class year limits. Students in Art 151B must also register for discussion section Art 151BD.",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MW 0200-0255PM"

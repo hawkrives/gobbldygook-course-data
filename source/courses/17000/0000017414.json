@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 300,
 	"name": "IR/Mixed Race",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Mark Sundby"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"title": "IR/Mixed Race",
 	"type": "Research",

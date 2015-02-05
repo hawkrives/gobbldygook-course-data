@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Heather L. Mattson"
+	],
 	"level": 200,
-	"name": "Statistics for Science",
-	"num": 212,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 182",
 		"TOH 182"
 	],
-	"profs": [
-		"Heather L. Mattson"
-	],
-	"sem": 2,
+	"name": "Statistics for Science",
+	"num": 212,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20122,
 	"times": [
 		"M-Th 1040-1240PM",

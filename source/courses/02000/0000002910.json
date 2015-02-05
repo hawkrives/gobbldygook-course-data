@@ -5,18 +5,19 @@
 	"depts": [
 		"AMCON"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140"

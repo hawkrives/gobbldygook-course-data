@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Beth Chance"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Beth Chance"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MW 0200-0325PM"

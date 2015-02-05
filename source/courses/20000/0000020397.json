@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Richard A. Olson"
+	],
 	"level": 300,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Greek Civilization",
 	"num": 302,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Richard A. Olson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

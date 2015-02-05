@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 200,
 	"name": "IS/Industrial Design",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "B",
-	"sem": 5,
+	"section": "B",
+	"semester": 5,
+	"status": "O",
 	"term": 20015,
 	"title": "IS/Industrial Design",
 	"type": "Research",

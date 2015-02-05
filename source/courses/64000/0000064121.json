@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 200,
 	"name": "IS/Ancient Metaphysics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

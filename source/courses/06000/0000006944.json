@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Alexander Hertich"
+	],
 	"level": 100,
+	"locations": [
+		"OM 026"
+	],
 	"name": "Beginning French II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 026"
-	],
-	"profs": [
-		"Alexander Hertich"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

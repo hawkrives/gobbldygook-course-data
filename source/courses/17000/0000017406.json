@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mark Sundby"
+	],
 	"level": 300,
+	"locations": [
+		"H 301"
+	],
 	"name": "Psych of Counseling",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"H 301"
-	],
-	"profs": [
-		"Mark Sundby"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"MWF 1045-1140"

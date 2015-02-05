@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"David Molnar"
+	],
 	"level": 100,
+	"locations": [
+		"SC 182"
+	],
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SC 182"
-	],
-	"profs": [
-		"David Molnar"
-	],
-	"sect": "F",
-	"sem": 1,
+	"section": "F",
+	"semester": 1,
+	"status": "O",
 	"term": 20021,
 	"times": [
 		"MWF 1150-1245PM"

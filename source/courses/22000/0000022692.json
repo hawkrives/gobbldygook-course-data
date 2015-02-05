@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"John Dyste"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"John Dyste"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0200-0255PM"

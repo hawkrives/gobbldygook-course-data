@@ -5,14 +5,15 @@
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"title": "Internship",
 	"type": "Research",

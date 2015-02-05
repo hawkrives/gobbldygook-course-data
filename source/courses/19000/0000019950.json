@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Gerald Ericksen"
+	],
 	"level": 200,
+	"locations": [
+		"H 501"
+	],
 	"name": "Freudian/Buddhist Psy",
 	"num": 257,
 	"pf": false,
-	"places": [
-		"H 501"
-	],
-	"profs": [
-		"Gerald Ericksen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0900-1000",

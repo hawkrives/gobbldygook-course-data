@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Emil Herrera"
+	],
 	"level": 100,
-	"name": "Acting for Non-Majors",
-	"num": 115,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Emil Herrera"
-	],
-	"sem": 3,
+	"name": "Acting for Non-Majors",
+	"num": 115,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0800-0925",

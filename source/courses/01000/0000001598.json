@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
 	"name": "IS/Human-Computer Int",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IS/Human-Computer Int",
 	"type": "Research",

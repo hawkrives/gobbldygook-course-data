@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Charles Forsberg"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Ear/Keyboard I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Charles Forsberg"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19994,
 	"times": [
 		"M-F 0800-0930"

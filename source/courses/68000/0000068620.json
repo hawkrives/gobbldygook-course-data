@@ -11,19 +11,20 @@
 	],
 	"groupid": 194,
 	"grouptype": "1",
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Chemical Reactions",
 	"notes": "Students in Chem 126A and B must also register for one lab Chem 126 AL, BL, CL, or DL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Mary Walczak"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0800-0855"

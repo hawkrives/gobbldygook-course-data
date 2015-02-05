@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Kathy C. Thomforde"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Senior Project",
 	"num": 389,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Kathy C. Thomforde"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"M 0700-0900PM"

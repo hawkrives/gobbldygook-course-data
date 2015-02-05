@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"desc": "Students study the structure, bonding and reactions of compounds containing metal-carbon bonds. Special topics include applications of organometallic chemistry to the synthesis of organic compounds, homogeneous catalysis and biochemistry. Examples illustrate organometallic chemistry as a bridge between organic and inorganic chemistry. Students use bibliographic and electronic searching software to prepare research papers based on the current literature. Prerequisite: Chemistry 247. Offered during Interim.",
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 200,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Organometallic Chem",
 	"notes": "Open to first-year students who meet the prerequisites",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Gary Miessler"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20062,
 	"times": [
 		"M-F 1040-1240PM"

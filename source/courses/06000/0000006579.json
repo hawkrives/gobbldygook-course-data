@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 100,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Int'l Relations",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Anthony Lott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

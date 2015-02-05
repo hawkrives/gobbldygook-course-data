@@ -5,17 +5,18 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
+	"locations": [
+		"OM 015"
+	],
 	"name": "Advanced Chinese II",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"OM 015"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0905-1000"

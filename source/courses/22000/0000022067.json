@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Daniel Hagen"
+	],
 	"level": 300,
+	"locations": [
+		"SAC 140"
+	],
 	"name": "Adv Sport Medicine",
 	"num": 355,
 	"pf": false,
-	"places": [
-		"SAC 140"
-	],
-	"profs": [
-		"Daniel Hagen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 1040-1240PM",

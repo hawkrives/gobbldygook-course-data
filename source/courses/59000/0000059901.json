@@ -5,14 +5,15 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Shahram Ahrar"
+	],
 	"level": 200,
 	"name": "IS/POTS: Research/Rehab",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Shahram Ahrar"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20064,
 	"title": "Independent Study",
 	"type": "Research",

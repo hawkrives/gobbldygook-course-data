@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"David Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC POOL"
+	],
 	"name": "Water Safety Instruct",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SAC POOL"
-	],
-	"profs": [
-		"David Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0800-0925"

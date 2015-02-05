@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 100,
+	"locations": [
+		"H 302"
+	],
 	"name": "Harry & Bess",
 	"num": 106,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1255-0150PM"

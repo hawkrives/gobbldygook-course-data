@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bruce B. Roberts"
+	],
 	"level": 200,
+	"locations": [
+		"H 301"
+	],
 	"name": "Cross-Cultural Psych",
 	"num": 259,
 	"pf": false,
-	"places": [
-		"H 301"
-	],
-	"profs": [
-		"Bruce B. Roberts"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Susan Marino"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Biopsychology",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Susan Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 1145-0110PM"

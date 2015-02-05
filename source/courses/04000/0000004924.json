@@ -5,18 +5,19 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
-	"name": "Am Dn: Native/Immigrnt",
-	"num": 108,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC  STUDIO 1",
 		"DC  STUDIO 1"
 	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"name": "Am Dn: Native/Immigrnt",
+	"num": 108,
+	"pf": true,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1150-1245PM",

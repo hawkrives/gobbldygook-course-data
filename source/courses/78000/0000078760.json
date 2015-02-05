@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Timothy R. Howe"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversation students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Timothy R. Howe"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

@@ -9,14 +9,15 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 200,
 	"name": "Comm Science and Math",
 	"num": 230,
 	"pf": true,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Communicating Science and Mathematics",
 	"type": "Research",

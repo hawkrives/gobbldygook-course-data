@@ -5,19 +5,20 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Michael Leming"
+	],
 	"level": 100,
-	"name": "Intro to Sociology",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SH 01",
 		"SH 01"
 	],
-	"profs": [
-		"Michael Leming"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Intro to Sociology",
+	"num": 121,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"T 0935-1100",

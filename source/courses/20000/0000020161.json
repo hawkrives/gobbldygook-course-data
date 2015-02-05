@@ -5,18 +5,19 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Richard Bodman"
+	],
 	"level": 100,
+	"locations": [
+		"M 3"
+	],
 	"name": "Begin Chinese II/Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"Richard Bodman"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0800-0855"

@@ -10,17 +10,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Race/Class-Am Culture",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0200-0255PM"

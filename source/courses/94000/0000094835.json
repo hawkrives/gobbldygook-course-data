@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 192,
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0800-1100"

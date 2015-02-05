@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Math Statistics",
 	"num": 312,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19945,
 	"title": "Math Statistics",
 	"type": "Research",

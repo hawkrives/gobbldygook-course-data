@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"DC 204"
+	],
 	"name": "St.Paul/Letter/Gospel",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20075,
 	"times": [
 		"M-F 1000-1130"

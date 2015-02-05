@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Amy Jessen-Marshall"
+	],
 	"level": 100,
-	"name": "The Biology of Women",
-	"num": 124,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 278"
 	],
-	"profs": [
-		"Amy Jessen-Marshall"
-	],
-	"sem": 2,
+	"name": "The Biology of Women",
+	"num": 124,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 0900-1000",

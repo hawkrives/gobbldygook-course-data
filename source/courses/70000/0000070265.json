@@ -9,18 +9,19 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Matthew Rahaim"
+	],
 	"level": 100,
-	"name": "Asian Cultures",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Matthew Rahaim"
-	],
-	"sem": 1,
+	"name": "Asian Cultures",
+	"num": 121,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20091,
 	"times": [
 		"T 0120-0245PM",

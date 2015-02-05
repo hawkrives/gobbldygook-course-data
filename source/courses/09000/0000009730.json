@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
-	"name": "Water Safety Instruct",
-	"num": 123,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC_POOL",
 		"SAC_POOL"
 	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"name": "Water Safety Instruct",
+	"num": 123,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

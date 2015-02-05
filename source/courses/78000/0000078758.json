@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 100,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversation students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

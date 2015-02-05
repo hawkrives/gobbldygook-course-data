@@ -5,15 +5,16 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 300,
 	"name": "IR/Oil Painting",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"title": "IR/Oil Painting",
 	"type": "Research",

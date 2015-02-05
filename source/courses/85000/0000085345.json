@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "IS/Christianity in China",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"title": "Independent Study",
 	"type": "Research",

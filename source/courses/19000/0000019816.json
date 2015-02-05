@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
 	"name": "IS/Paleobotany",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"title": "IS/Paleobotany",
 	"type": "Research",

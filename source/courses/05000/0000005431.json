@@ -5,18 +5,19 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Carolyn Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Indigenous Cultures",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Carolyn Anderson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

@@ -10,19 +10,20 @@
 		"AQR"
 	],
 	"groupid": 1402,
+	"instructors": [
+		"Kathryn Ziegler"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150",
+		"RNS 150"
+	],
 	"name": "Prin of Statistics",
 	"notes": "Students in Stat 110 must also register for one lab 110 AL, BL, CL, or DL.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"RNS 150",
-		"RNS 150"
-	],
-	"profs": [
-		"Kathryn Ziegler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

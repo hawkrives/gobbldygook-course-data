@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Paul Cabe"
+	],
 	"level": 300,
 	"name": "IR/Tech of Molec Ecol",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Cabe"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Tech of Molec Ecol",
 	"type": "Research",

@@ -5,14 +5,15 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bruce B. Roberts"
+	],
 	"level": 200,
 	"name": "Psych of Leadership",
 	"num": 253,
 	"pf": false,
-	"profs": [
-		"Bruce B. Roberts"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Psych of Leadership",
 	"type": "Research",

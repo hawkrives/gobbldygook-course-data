@@ -6,16 +6,17 @@
 		"CHIN"
 	],
 	"desc": "This course provides continued practice in speaking, reading and writing at the third-year level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. These courses are recommended for students seeking a concentration in Chinese language. Prerequisite: Chinese 232 or equivalent.",
-	"level": 200,
-	"num": 252,
-	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
+	"instructors": [
 		"Pin Pin Wan"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"OM 020"
+	],
+	"num": 252,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MWF 0905-1000"

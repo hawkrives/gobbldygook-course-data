@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 300,
+	"locations": [
+		"SC 151"
+	],
 	"name": "Adv Physics Lab (375)",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"SC 151"
-	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"Th 1245-0345PM"

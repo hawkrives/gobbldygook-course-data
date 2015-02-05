@@ -10,18 +10,19 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
-	"name": "Kierkegaard",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 212",
 		"TOH 212"
 	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sem": 3,
+	"name": "Kierkegaard",
+	"num": 233,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

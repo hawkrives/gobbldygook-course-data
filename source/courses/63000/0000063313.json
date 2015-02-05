@@ -12,19 +12,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Martin Hodel"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Pur/Happiness: 1920-Pres.",
 	"notes": "Open to American Conversations students only.",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Martin Hodel"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1255-0150PM"

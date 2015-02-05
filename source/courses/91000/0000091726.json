@@ -7,18 +7,19 @@
 	],
 	"groupid": 1158,
 	"grouptype": "2",
+	"instructors": [
+		"John Kim"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Research Methods Lab",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"RNS 240"
-	],
-	"profs": [
-		"John Kim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0130-0330PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"John Barbour"
+	],
 	"level": 100,
+	"locations": [
+		"OM 310"
+	],
 	"name": "Bible/Culture/Commun",
 	"notes": "Subtitle: Journeys and the Bible: Travel and Transformation",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"OM 310"
-	],
-	"profs": [
-		"John Barbour"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1150-1245PM"

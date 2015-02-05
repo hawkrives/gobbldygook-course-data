@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Peter S. Hamlin"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Theory II",
 	"num": 114,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Peter S. Hamlin"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"TTh 0120-0245PM"

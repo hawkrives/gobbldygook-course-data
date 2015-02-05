@@ -11,16 +11,17 @@
 		"MCG",
 		"ORC"
 	],
-	"level": 200,
-	"num": 203,
-	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
+	"instructors": [
 		"Joseph L. Mbele"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"RML 525"
+	],
+	"num": 203,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0800-0855"

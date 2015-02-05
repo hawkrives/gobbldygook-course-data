@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
 	"name": "IS/Family Systems",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Family Systems",
 	"type": "Research",

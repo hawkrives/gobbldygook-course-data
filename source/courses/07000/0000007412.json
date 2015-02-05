@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Bruce Nordstrom-Loeb"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Soc/Anthro and Ethics",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Bruce Nordstrom-Loeb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

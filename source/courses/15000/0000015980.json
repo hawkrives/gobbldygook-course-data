@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"L 525"
+	],
 	"name": "Cr Writ II: Nonfiction",
 	"num": 373,
 	"pf": true,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19943,
 	"times": [
 		"MWF 1150-1245PM"

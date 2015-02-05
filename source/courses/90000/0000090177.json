@@ -10,19 +10,20 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
-	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and a limited number of juniors during web registration.",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sect": "B",
-	"sem": 3,
+	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and a limited number of juniors during web registration.",
+	"num": 257,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0120-0245PM",

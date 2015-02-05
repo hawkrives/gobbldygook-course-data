@@ -5,18 +5,19 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
-	"name": "Intermed French I",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 26 & 02",
 		"M 2"
 	],
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 2,
+	"name": "Intermed French I",
+	"num": 231,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0800-1000",

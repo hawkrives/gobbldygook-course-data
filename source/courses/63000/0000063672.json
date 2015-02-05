@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Prerequisites: three courses in area of study.",
+	"instructors": [
+		"Margaret Ojala"
+	],
 	"level": 300,
 	"name": "IR/Apprenticeship",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Margaret Ojala"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
+	"status": "O",
 	"term": 20072,
 	"title": "Independent Research: Art History",
 	"type": "Research",

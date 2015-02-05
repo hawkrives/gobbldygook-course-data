@@ -9,18 +9,19 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 300,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Dostoevsky-Tr",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open to Seniors all Passes. Open to Juniors starting at Pass 4.",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

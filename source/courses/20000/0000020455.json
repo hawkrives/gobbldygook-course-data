@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Humke"
+	],
 	"level": 300,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Real Analysis",
 	"num": 344,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Paul Humke"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

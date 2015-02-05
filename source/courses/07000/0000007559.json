@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10L"
+	],
 	"name": "Science Hlth Living",
 	"num": 316,
 	"pf": false,
-	"places": [
-		"FH 10L"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20035,
 	"times": [
 		"M-F 0900-1200PM"

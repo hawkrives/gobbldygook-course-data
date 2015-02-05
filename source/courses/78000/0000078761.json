@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Elizabeth C. Galbraith"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 101"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversation students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"BMC 101"
-	],
-	"profs": [
-		"Elizabeth C. Galbraith"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Rodney G. Grubb"
+	],
 	"level": 100,
+	"locations": [
+		"H 301"
+	],
 	"name": "Political Thought",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"H 301"
-	],
-	"profs": [
-		"Rodney G. Grubb"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0905-1000"

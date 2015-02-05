@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 100,
+	"locations": [
+		"H 322"
+	],
 	"name": "Prin: Exper Psy/Lab",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"H 322"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"T 1145-0245PM"

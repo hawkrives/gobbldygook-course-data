@@ -7,18 +7,19 @@
 	],
 	"groupid": 194,
 	"grouptype": "1",
+	"instructors": [
+		"William P. Roberts"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374/363"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 374/363"
-	],
-	"profs": [
-		"William P. Roberts"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"Th 1250-0350PM"

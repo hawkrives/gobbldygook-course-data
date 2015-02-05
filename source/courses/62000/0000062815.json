@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 204"
+	],
 	"name": "Elem Real Analysis",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Paul Zorn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 1255-0150PM"

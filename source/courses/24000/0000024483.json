@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 200,
+	"locations": [
+		"L 525"
+	],
 	"name": "Studies in Drama",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"L 525"
-	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"TTh 1145-0110PM"

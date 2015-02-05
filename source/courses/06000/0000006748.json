@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Charles Jr. Umbanhowar"
+	],
 	"level": 200,
 	"name": "IS/Plant Biomechanics",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Jr. Umbanhowar"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IS/Plant Biomechanics",
 	"type": "Research",

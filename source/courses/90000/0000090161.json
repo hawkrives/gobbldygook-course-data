@@ -10,17 +10,18 @@
 		"SED"
 	],
 	"groupid": 139,
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 290"
+	],
 	"notes": "Students in Bio 261 must also register for one lab Bio 261 AL or BL.",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"RNS 290"
-	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0800-0855"

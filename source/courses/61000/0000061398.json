@@ -10,19 +10,20 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 200,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Ethics/The Good Life",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open to Seniors all Passes. Open to Juniors starting at Pass 3.",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20081,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PARA"
 	],
-	"level": 100,
-	"name": "Land & Us Imagination",
-	"num": 134,
-	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
+	"instructors": [
 		"James Farrell",
 		"Matthew Rohn"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CH 102"
+	],
+	"name": "Land & Us Imagination",
+	"num": 134,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"MWF 0200-0255PM"

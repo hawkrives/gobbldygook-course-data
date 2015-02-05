@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 300,
 	"name": "IR/Styrene Synthesis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Styrene Synthesis",
 	"type": "Research",

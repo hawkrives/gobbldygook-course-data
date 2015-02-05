@@ -5,19 +5,20 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul A. Hisey"
+	],
 	"level": 100,
-	"name": "Piano Class II",
-	"num": 162,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 222",
 		"CHM 222"
 	],
-	"profs": [
-		"Paul A. Hisey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Piano Class II",
+	"num": 162,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 1005-1100",

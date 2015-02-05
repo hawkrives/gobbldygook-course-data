@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Kathryn A. Hoffmann"
+	],
 	"level": 300,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Principles of Educ",
 	"notes": "Open to rising Seniors and Juniors only.",
 	"num": 330,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Kathryn A. Hoffmann"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 0905-1000"

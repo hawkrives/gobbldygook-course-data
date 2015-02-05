@@ -5,20 +5,21 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Mary Johnson",
+		"Diana Neal"
+	],
 	"level": 300,
-	"name": "Altr Hlth: Adult & Child",
-	"num": 330,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 215",
 		"H 215",
 		"H 215"
 	],
-	"profs": [
-		"Mary Johnson",
-		"Diana Neal"
-	],
-	"sem": 3,
+	"name": "Altr Hlth: Adult & Child",
+	"num": 330,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 0800-0855",

@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sect": "C",
-	"sem": 1,
+	"section": "C",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"MWF 1255-0150PM"

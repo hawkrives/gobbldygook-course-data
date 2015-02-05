@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
-	"name": "Biological Science",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 278",
 		"SC 273"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"name": "Biological Science",
+	"num": 121,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 0800-0930",

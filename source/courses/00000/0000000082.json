@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
 	"name": "IR/House Wren Researc",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20001,
 	"title": "IR/House Wren Researc",
 	"type": "Research",

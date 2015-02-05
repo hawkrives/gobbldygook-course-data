@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Sandra Morisette",
+		"Nicole B. Beckmann"
+	],
 	"level": 300,
-	"notes": "Nursing 308 Adult Health I will also meet T-W 7:00 a.m.-12:30 p.m. in HH 215.",
-	"num": 308,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 301",
 		"HH 301",
 		"HH 301"
 	],
-	"profs": [
-		"Sandra Morisette",
-		"Nicole B. Beckmann"
-	],
-	"sem": 1,
+	"notes": "Nursing 308 Adult Health I will also meet T-W 7:00 a.m.-12:30 p.m. in HH 215.",
+	"num": 308,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"F 0800-0855",

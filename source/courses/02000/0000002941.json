@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Susan Green"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Molecular Structure",
 	"num": 372,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Susan Green"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Richard DuRocher"
+	],
 	"level": 300,
 	"name": "IR/Metaphysical Poet",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Richard DuRocher"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IR/Metaphysical Poet",
 	"type": "Research",

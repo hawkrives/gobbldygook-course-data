@@ -5,20 +5,21 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 100,
-	"name": "Intro: Enviro Studies",
-	"num": 137,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 248",
 		"SC 248",
 		"SC 248"
 	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Intro: Enviro Studies",
+	"num": 137,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-Th 0900-1000",

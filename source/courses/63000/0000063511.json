@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
 	"name": "Water Safety Instruct",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MW 1255-0150PM"

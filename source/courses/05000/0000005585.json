@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
 	"name": "Rome and Wittenberg",
 	"num": 262,
 	"pf": false,
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "C",
 	"term": 20024,
 	"title": "Rome and Wittenberg",
 	"type": "Research",

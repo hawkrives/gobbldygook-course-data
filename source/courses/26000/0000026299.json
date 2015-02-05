@@ -5,17 +5,18 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
+	"locations": [
+		"M 1"
+	],
 	"name": "Interm Chin II/Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 1005-1100"

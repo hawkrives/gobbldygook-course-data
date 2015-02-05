@@ -5,15 +5,16 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "IS/Three Gorges Dam",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"title": "IS/Three Gorges Dam",
 	"type": "Research",

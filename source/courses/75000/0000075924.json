@@ -5,14 +5,15 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sect": "C",
-	"sem": 5,
+	"section": "C",
+	"semester": 5,
+	"status": "O",
 	"term": 20095,
 	"title": "Academic Internship",
 	"type": "Research",

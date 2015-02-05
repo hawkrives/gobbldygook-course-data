@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Charles Taliaferro"
+	],
 	"level": 200,
 	"name": "IS/Informal Logic/Reason",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Charles Taliaferro"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20105,
 	"title": "Independent Study",
 	"type": "Research",

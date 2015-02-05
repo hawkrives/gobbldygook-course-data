@@ -10,18 +10,19 @@
 		"SED"
 	],
 	"groupid": 1159,
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Sensation/Perception",
 	"notes": "Students in Psych 235 must also register for lab Psych 235 L.",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"RNS 240"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 0905-1000"

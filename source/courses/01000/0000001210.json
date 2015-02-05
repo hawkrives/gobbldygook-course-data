@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "Literary Studies",
 	"num": 185,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

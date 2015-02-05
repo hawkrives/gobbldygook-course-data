@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Miriam Scholz-Carlson"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Intro Alexander Tech",
 	"num": 163,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Miriam Scholz-Carlson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MW 1150-1245PM"

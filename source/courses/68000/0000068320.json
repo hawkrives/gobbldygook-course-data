@@ -10,19 +10,20 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1240PM"

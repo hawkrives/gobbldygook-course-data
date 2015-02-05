@@ -5,14 +5,15 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 100,
 	"name": "Oral Interpretation",
 	"num": 100,
 	"pf": false,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "C",
 	"term": 20044,
 	"title": "Oral Interpretation",
 	"type": "Research",

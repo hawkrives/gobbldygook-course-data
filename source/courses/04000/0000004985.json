@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Kurt Burch"
+	],
 	"level": 200,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Global Env Politics",
 	"num": 201,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Kurt Burch"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

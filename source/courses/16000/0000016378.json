@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
+	"locations": [
+		"H 206"
+	],
 	"name": "Introductory Psych",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"H 206"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "Z",
-	"sem": 3,
+	"section": "Z",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"MWF 0905-1000"

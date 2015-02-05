@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Kathleen Edelmayer"
+	],
 	"level": 200,
+	"locations": [
+		"SPT 227"
+	],
 	"name": "Theories of Commun",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"SPT 227"
-	],
-	"profs": [
-		"Kathleen Edelmayer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 182,
+	"instructors": [
+		"Jennifer C. Klein"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210",
+		"RNS 210"
+	],
 	"name": "Chemistry & the World",
 	"notes": "Students in Chem 111 must also register for one lab Chem 111AL or BL.",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"RNS 210",
-		"RNS 210"
-	],
-	"profs": [
-		"Jennifer C. Klein"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

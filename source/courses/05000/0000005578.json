@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Christine Daymont"
+	],
 	"level": 100,
+	"locations": [
+		"MFH"
+	],
 	"name": "Wt Training Co-Ed .50",
 	"num": 140,
 	"pf": false,
-	"places": [
-		"MFH"
-	],
-	"profs": [
-		"Christine Daymont"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 0645-0745PM"

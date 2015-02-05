@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Ryota Matsuura"
+	],
 	"level": 300,
 	"name": "IR/Alg. Number Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Ryota Matsuura"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"title": "Independent Research",
 	"type": "Research",

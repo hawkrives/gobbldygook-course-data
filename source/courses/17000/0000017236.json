@@ -5,18 +5,19 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Margaret H. O'Leary"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Intermed Norwegian I",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Margaret H. O'Leary"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19951,
 	"times": [
 		"MWF 1045-1140"

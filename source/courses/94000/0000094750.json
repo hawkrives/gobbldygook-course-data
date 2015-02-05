@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"groupid": 1158,
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Research Methods Lab",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"RNS 240"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0900-1100"

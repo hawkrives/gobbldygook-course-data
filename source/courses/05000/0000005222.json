@@ -5,19 +5,20 @@
 	"depts": [
 		"NURS"
 	],
+	"instructors": [
+		"Diana Neal"
+	],
 	"level": 300,
-	"name": "Altr Hlth: Adult & Child",
-	"num": 330,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 215",
 		"H 215",
 		"H 215"
 	],
-	"profs": [
-		"Diana Neal"
-	],
-	"sem": 3,
+	"name": "Altr Hlth: Adult & Child",
+	"num": 330,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 0800-0855",

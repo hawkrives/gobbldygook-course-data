@@ -9,19 +9,20 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"RML 421",
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Katherine S. Tegtmeyer Pak",
 		"Richard Bodman"
 	],
-	"sect": "N",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 421",
+		"RML 421"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "N",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENVST"
 	],
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 300,
+	"locations": [
+		"SC 129"
+	],
 	"name": "Sem: Environ Studies",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"SC 129"
-	],
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MW 1255-0255PM"

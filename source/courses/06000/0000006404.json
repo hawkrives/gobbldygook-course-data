@@ -5,19 +5,20 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Kristen Lowe"
+	],
 	"level": 200,
-	"name": "Advanced Drawing",
-	"num": 233,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 216",
 		"DC 216",
 		"DC 216"
 	],
-	"profs": [
-		"Kristen Lowe"
-	],
-	"sem": 2,
+	"name": "Advanced Drawing",
+	"num": 233,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 0900-1000",

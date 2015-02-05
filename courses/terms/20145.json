@@ -8,15 +8,16 @@
 				"HIST"
 			],
 			"desc": "This course introduces students to Mediterranean archaeological field techniques and methods such as survey, site identification, artifact processing and analysis, and site excavation. During a five-week summer session, students: visit museums in order to recognize artifacts and contextualize them in regional chronologies; practice and refine excavation and survey techniques; and critically examine how archaeological knowledge about the ancient Mediterranean is constructed and expressed.",
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Archaeological Methods",
 			"num": 202,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "H",
-			"sem": 5,
+			"section": "H",
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"title": "Mediterranean Archaeology Field School",
 			"type": "Research",
@@ -34,17 +35,18 @@
 				"SED"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Chemical Reactions",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"M-F 1000-1130"
@@ -61,17 +63,18 @@
 				"CHEM"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Chemical Reactions Lab",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"MW 0100-0400PM"
@@ -88,16 +91,17 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, CHEM 247 and CHEM 248 provide a full treatment of introductory organic chemistry. Prerequisite: CHEM 247 or permission of instructor. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
-			"level": 200,
-			"num": 248,
-			"pf": false,
-			"places": [
-				"RNS 390"
-			],
-			"profs": [
+			"instructors": [
 				"Daniel A. Everson"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 390"
+			],
+			"num": 248,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"M-F 1000-1130"
@@ -114,17 +118,18 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"instructors": [
+				"Daniel A. Everson"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab II",
 			"num": 254,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Daniel A. Everson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"TTh 1230-0330PM"
@@ -145,16 +150,17 @@
 				"EIN"
 			],
 			"grouptype": "R",
-			"level": 200,
-			"num": 255,
-			"pf": false,
-			"places": [
-				"TBA"
-			],
-			"profs": [
+			"instructors": [
 				"Charles H. III. Watson"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"TBA"
+			],
+			"num": 255,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"M-F 1000-1130"
@@ -175,14 +181,15 @@
 				"SED"
 			],
 			"groupid": 1074,
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
 			"level": 100,
 			"name": "Principles Physics II",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Jason J. Engbrecht"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"title": "Principles of Physics II",
 			"type": "Research",
@@ -196,14 +203,15 @@
 				"PHYS"
 			],
 			"groupid": 1074,
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
 			"level": 100,
 			"name": "Principles Physics II Lab",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Jason J. Engbrecht"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"title": "Principles Physics II Lab",
 			"type": "Lab",
@@ -221,17 +229,18 @@
 				"HBS",
 				"MCG"
 			],
+			"instructors": [
+				"Robert W. McClure"
+			],
 			"level": 200,
+			"locations": [
+				"TOH 212"
+			],
 			"name": "Human Geography",
 			"num": 234,
 			"pf": false,
-			"places": [
-				"TOH 212"
-			],
-			"profs": [
-				"Robert W. McClure"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"M-F 1230-0200PM"
@@ -253,14 +262,15 @@
 				"MCG"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Joseph L. Mbele"
+			],
 			"level": 200,
 			"name": "Top: African Literature",
 			"num": 206,
 			"pf": false,
-			"profs": [
-				"Joseph L. Mbele"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20145,
 			"times": [
 				"M-F 1230-0200PM"

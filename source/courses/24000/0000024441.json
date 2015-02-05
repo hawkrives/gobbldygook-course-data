@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 200,
+	"locations": [
+		"CTR ST"
+	],
 	"name": "Internat'l Dance II",
 	"num": 209,
 	"pf": true,
-	"places": [
-		"CTR ST"
-	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0200-0255PM"

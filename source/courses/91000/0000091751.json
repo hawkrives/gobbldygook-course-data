@@ -10,16 +10,17 @@
 		"HBS",
 		"MCG"
 	],
-	"level": 100,
-	"num": 112,
-	"pf": false,
-	"places": [
-		"HH 319"
-	],
-	"profs": [
+	"instructors": [
 		"Kristina Thalhammer"
 	],
-	"sem": 5,
+	"level": 100,
+	"locations": [
+		"HH 319"
+	],
+	"num": 112,
+	"pf": false,
+	"semester": 5,
+	"status": "O",
 	"term": 20125,
 	"times": [
 		"M-F 0800-0930"

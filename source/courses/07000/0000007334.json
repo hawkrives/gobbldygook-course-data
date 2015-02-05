@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Uta Wolfe"
+	],
 	"level": 300,
 	"name": "IR/Psycholinguistics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Uta Wolfe"
-	],
-	"sect": "H",
-	"sem": 3,
+	"section": "H",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Psycholinguistics",
 	"type": "Research",

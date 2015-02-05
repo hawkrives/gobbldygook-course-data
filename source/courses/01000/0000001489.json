@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Corliss Swain"
+	],
 	"level": 300,
 	"name": "IR/Epistemology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Corliss Swain"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Epistemology",
 	"type": "Research",

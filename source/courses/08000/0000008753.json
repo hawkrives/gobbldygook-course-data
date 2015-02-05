@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 200,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Organometallic Chem",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

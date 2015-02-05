@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/GS-MS of Human Scent",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Independent Research",
 	"type": "Research",

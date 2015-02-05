@@ -10,18 +10,19 @@
 		"WRI"
 	],
 	"groupid": 207,
+	"instructors": [
+		"Peter J. Gittins"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 392"
+	],
 	"name": "Physical Lab",
 	"num": 357,
 	"pf": true,
-	"places": [
-		"RNS 392"
-	],
-	"profs": [
-		"Peter J. Gittins"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0345PM"

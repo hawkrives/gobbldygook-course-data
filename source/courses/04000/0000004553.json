@@ -5,19 +5,20 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 200,
-	"name": "Top: Russian Hist/Lit",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 307"
 	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Top: Russian Hist/Lit",
+	"num": 250,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0900-1000",

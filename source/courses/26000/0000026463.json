@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen R. Achberger"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "Sem: German Film",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Karen R. Achberger"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Individual Fitness",
 	"num": 132,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 4,
+	"section": "A",
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"title": "Individual Fitness",
 	"type": "Research",

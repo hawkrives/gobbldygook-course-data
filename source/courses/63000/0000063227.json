@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
-	"level": 300,
-	"notes": "Nursing 397 Nursing Leadership will also meet T-Th 7:00am-3:30pm in HH 301.",
-	"num": 397,
-	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
+	"instructors": [
 		"Rita Glazebrook",
 		"Mary Kuehn"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"HH 301"
+	],
+	"notes": "Nursing 397 Nursing Leadership will also meet T-Th 7:00am-3:30pm in HH 301.",
+	"num": 397,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0800-0855"

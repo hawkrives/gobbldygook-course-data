@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 300,
 	"name": "IR/Teaching Astronomy",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Amy Kolan"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Teaching Astronomy",
 	"type": "Research",

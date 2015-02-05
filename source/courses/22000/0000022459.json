@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Mary Cisar"
+	],
 	"level": 200,
+	"locations": [
+		"M 26"
+	],
 	"name": "Per Stud: 20th C Women",
 	"num": 273,
 	"pf": false,
-	"places": [
-		"M 26"
-	],
-	"profs": [
-		"Mary Cisar"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 300,
-	"name": "Molecular Biology",
-	"num": 364,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 229"
 	],
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Molecular Biology",
+	"num": 364,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100",

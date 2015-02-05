@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Independent Study in Studio Art prerequisites: four foundation courses and two upper-division courses in area of study.\nIndependent Study in Art History prerequisites: two upper-division courses in area of study.",
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 200,
 	"name": "IS/Advanced Printmaking",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

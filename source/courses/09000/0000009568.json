@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"OM 031"
+	],
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1150-1245PM"

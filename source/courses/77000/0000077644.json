@@ -6,14 +6,15 @@
 		"NURS"
 	],
 	"groupid": 946,
+	"instructors": [
+		"Carol H. Austin"
+	],
 	"level": 300,
 	"notes": "Nursing 306L Health Assessment Lab will meet TTh 700 a.m.-3:00 p.m. in HH 215.",
 	"num": 306,
 	"pf": false,
-	"profs": [
-		"Carol H. Austin"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"title": "Health Assessment Lab",
 	"type": "Lab",

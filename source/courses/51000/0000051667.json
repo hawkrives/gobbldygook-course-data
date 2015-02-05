@@ -6,17 +6,18 @@
 		"PEAC"
 	],
 	"desc": "This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing.",
-	"level": 100,
-	"num": 151,
-	"pf": false,
-	"places": [
-		"SAC_GYM_N"
-	],
-	"profs": [
+	"instructors": [
 		"William Thornton"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC_GYM_N"
+	],
+	"num": 151,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MW 1255-0150PM"

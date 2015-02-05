@@ -10,18 +10,19 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Jeanine Grenberg"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 109"
+	],
 	"name": "Kant's Moral Theory",
 	"notes": "Prerequisite: completion of BTS-T requirement. Open to Seniors and Juniors only. (This does not affect pre-registration.)",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
-		"Jeanine Grenberg"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20082,
 	"times": [
 		"M-F 1040-1240PM"

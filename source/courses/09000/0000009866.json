@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
 	"name": "IR/Psych of Hormones",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "I",
-	"sem": 3,
+	"section": "I",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Psych of Hormones",
 	"type": "Research",

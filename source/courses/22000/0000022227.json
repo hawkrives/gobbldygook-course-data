@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
-	"name": "Cell Physiology",
-	"num": 241,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 227"
 	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Cell Physiology",
+	"num": 241,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0800-0855",

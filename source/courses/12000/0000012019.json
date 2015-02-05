@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
+	"locations": [
+		"OM 020"
+	],
 	"name": "FLC - Spanish",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"W 0630-0730PM"

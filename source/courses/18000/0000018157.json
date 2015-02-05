@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen Cherewatuk"
+	],
 	"level": 300,
 	"name": "IR/Franklin's Tale",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karen Cherewatuk"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IR/Franklin's Tale",
 	"type": "Research",

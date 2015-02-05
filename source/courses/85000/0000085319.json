@@ -9,17 +9,18 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Bruce Dalgaard"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 212"
+	],
 	"name": "American Business",
 	"num": 114,
 	"pf": false,
-	"places": [
-		"TOH 212"
-	],
-	"profs": [
-		"Bruce Dalgaard"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

@@ -11,18 +11,19 @@
 	],
 	"groupid": 108,
 	"grouptype": "3",
+	"instructors": [
+		"Ryan C. Atwell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"notes": "Students in Bio 126C must also register for one lab Bio 126 GL, HL, or IL.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Ryan C. Atwell"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

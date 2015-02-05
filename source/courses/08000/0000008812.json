@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 300,
 	"name": "IR/Revolutionary Word",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IR/Revolutionary Word",
 	"type": "Research",

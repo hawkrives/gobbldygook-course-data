@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 300,
 	"name": "IR/Amer Musical Theatre",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

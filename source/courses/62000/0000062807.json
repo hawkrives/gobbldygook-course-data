@@ -10,20 +10,21 @@
 		"HBS",
 		"WRI"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
+	"locations": [
+		"Mod 1",
+		"Mod 1"
+	],
 	"name": "Educ Psychology",
 	"notes": "Closed to First-Year Students.",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"Mod 1",
-		"Mod 1"
-	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

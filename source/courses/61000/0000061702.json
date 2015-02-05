@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary Miessler"
+	],
 	"level": 300,
 	"name": "IR/Organometal Synth I",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gary Miessler"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"title": "Independent Research",
 	"type": "Research",

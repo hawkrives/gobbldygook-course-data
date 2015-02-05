@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Karen E. Marsalek"
+	],
 	"level": 200,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Studies in Drama",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Karen E. Marsalek"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

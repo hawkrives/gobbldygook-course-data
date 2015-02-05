@@ -6,17 +6,18 @@
 		"CHEM"
 	],
 	"groupid": 190,
+	"instructors": [
+		"Gregory W. Muth"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 454"
+	],
 	"name": "A Matter of Environ Lab",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RNS 454"
-	],
-	"profs": [
-		"Gregory W. Muth"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"TWTh 1230-0330PM"

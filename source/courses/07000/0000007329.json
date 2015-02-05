@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
 	"name": "IR/Pets Lower Stress",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Pets Lower Stress",
 	"type": "Research",

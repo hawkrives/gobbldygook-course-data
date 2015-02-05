@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gail Carlson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Elem Bio-Organic Chem",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"Gail Carlson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0800-0925"

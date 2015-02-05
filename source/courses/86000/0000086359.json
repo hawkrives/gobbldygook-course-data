@@ -11,18 +11,19 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 200,
-	"name": "Talking in Japan/US",
-	"num": 240,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 112",
 		"TOH 112"
 	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sem": 3,
+	"name": "Talking in Japan/US",
+	"num": 240,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

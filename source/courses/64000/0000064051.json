@@ -11,18 +11,19 @@
 		"MCG",
 		"WRI"
 	],
+	"instructors": [
+		"Marnie K. Jorenby"
+	],
 	"level": 200,
-	"name": "Mod Japanese Lit-Tr",
-	"num": 235,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 002",
 		"OM 002"
 	],
-	"profs": [
-		"Marnie K. Jorenby"
-	],
-	"sem": 3,
+	"name": "Mod Japanese Lit-Tr",
+	"num": 235,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0800-0925",

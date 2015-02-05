@@ -6,18 +6,19 @@
 		"GE"
 	],
 	"desc": "See http://www.stolaf.edu/offices/registrar/ge.html",
+	"instructors": [
+		"Brett A. Werner"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Brett A. Werner"
-	],
-	"sect": "P",
-	"sem": 1,
+	"num": 111,
+	"pf": false,
+	"section": "P",
+	"semester": 1,
+	"status": "C",
 	"term": 20071,
 	"times": [
 		"T 0120-0245PM",

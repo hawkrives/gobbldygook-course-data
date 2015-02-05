@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jason J. Ripley"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Classics and Moderns",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Jason J. Ripley"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

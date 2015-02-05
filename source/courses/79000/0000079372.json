@@ -10,18 +10,19 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 100,
-	"name": "Intro Women's Studies",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 3,
+	"name": "Intro Women's Studies",
+	"num": 121,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

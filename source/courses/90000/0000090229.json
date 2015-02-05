@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Jill Ewald"
+	],
 	"level": 100,
+	"locations": [
+		"DC 216"
+	],
 	"name": "Foundation 2-D Media",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"DC 216"
-	],
-	"profs": [
-		"Jill Ewald"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"times": [
 		"MWF 0800-1000"

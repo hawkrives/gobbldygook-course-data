@@ -7,19 +7,20 @@
 	],
 	"desc": "Students not only investigate the theory of modern analytical chemistry, but also examine the statistical treatment of errors, equilibrium, activities, acid/base chemistry, spectroscopy, electrochemistry, and separations. The accompanying lab course, Chemistry 256, illustrates the topics discussed in Chemistry 255. Students taking this course use computers for solving problems. Prerequisite: Chemistry 126 or Chemistry/Biology 127 or permission of the instructor. Concurrent registration in Chemistry 256 is required. Offered each semester.",
 	"groupid": 201,
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Analytical Chem",
 	"notes": "Students in Chem 255 must also register for Chem 256 AL or BL.",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"RNS 390",
-		"RNS 390"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

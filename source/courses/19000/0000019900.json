@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Kay E. Smith"
+	],
 	"level": 200,
-	"name": "Principles of Math",
-	"num": 210,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 188",
 		"SC 188"
 	],
-	"profs": [
-		"Kay E. Smith"
-	],
-	"sem": 2,
+	"name": "Principles of Math",
+	"num": 210,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"times": [
 		"M-F 1040-1210PM",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 200,
+	"locations": [
+		"L 515"
+	],
 	"name": "19th-C Am Lit",
 	"num": 238,
 	"pf": false,
-	"places": [
-		"L 515"
-	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

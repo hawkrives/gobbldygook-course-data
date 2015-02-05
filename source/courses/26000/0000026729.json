@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Andrew Seligsohn"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Hist Class Pol Thght",
 	"num": 259,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Andrew Seligsohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

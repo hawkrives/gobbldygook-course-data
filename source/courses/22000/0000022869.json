@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Susan Lindley"
+	],
 	"level": 200,
+	"locations": [
+		"CH 111"
+	],
 	"name": "Women Judaism/Christ",
 	"num": 264,
 	"pf": false,
-	"places": [
-		"CH 111"
-	],
-	"profs": [
-		"Susan Lindley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 0200-0255PM"

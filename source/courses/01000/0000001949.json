@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 300,
 	"name": "IR/Large Animal Resea",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "H",
-	"sem": 1,
+	"section": "H",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Large Animal Resea",
 	"type": "Research",

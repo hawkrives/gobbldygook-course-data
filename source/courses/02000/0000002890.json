@@ -5,19 +5,20 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Joel Olfelt"
+	],
 	"level": 200,
-	"name": "Plant Physiology",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 227"
 	],
-	"profs": [
-		"Joel Olfelt"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Plant Physiology",
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 1045-1140",

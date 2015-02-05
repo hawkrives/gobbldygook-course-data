@@ -10,17 +10,18 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Christopher Tradowsky"
+	],
 	"level": 300,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Methods of Art Hist",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Christopher Tradowsky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"Th 0700-1000PM"

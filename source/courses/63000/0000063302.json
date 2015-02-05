@@ -10,19 +10,20 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"M. Minda Ori\u00f1a"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Principles: Psych",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"M. Minda Ori\u00f1a"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

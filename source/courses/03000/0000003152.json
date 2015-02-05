@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Todd W. Nichol"
+	],
 	"level": 200,
+	"locations": [
+		"M 35"
+	],
 	"name": "Modern Scandinavia",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Todd W. Nichol"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0935-1100"

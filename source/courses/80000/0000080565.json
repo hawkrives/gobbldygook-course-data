@@ -6,18 +6,19 @@
 		"REL"
 	],
 	"desc": "May be repeated if topics are different. Prerequisite: BTS-B. Counts towards ancient studies major.",
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 300,
-	"name": "Sem: Parables of Jesus",
-	"num": 391,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 109",
 		"BMC 109"
 	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 1,
+	"name": "Sem: Parables of Jesus",
+	"num": 391,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"T 0120-0245PM",

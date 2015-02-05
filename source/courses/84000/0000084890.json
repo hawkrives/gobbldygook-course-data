@@ -10,17 +10,18 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1150-1245PM"

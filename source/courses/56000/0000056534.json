@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 300,
 	"name": "IR/Research Collaboration",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"title": "Independent Research",
 	"type": "Research",

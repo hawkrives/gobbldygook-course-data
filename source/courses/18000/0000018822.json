@@ -5,14 +5,15 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Peter S. Hamlin"
+	],
 	"level": 300,
 	"name": "Composition II",
 	"num": 324,
 	"pf": false,
-	"profs": [
-		"Peter S. Hamlin"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "Composition II",
 	"type": "Research",

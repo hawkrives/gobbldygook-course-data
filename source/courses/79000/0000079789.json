@@ -10,16 +10,17 @@
 		"FOL-R",
 		"ORC"
 	],
-	"level": 300,
-	"num": 372,
-	"pf": false,
-	"places": [
-		"TOH 102"
-	],
-	"profs": [
+	"instructors": [
 		"Irina Walter"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"TOH 102"
+	],
+	"num": 372,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

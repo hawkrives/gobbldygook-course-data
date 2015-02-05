@@ -9,19 +9,20 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Thomas Burns"
+	],
 	"level": 200,
-	"notes": "Not open to first-year students.",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 001",
 		"OM 001"
 	],
-	"profs": [
-		"Thomas Burns"
-	],
-	"sect": "B",
-	"sem": 3,
+	"notes": "Not open to first-year students.",
+	"num": 251,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

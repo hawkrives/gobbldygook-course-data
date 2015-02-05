@@ -11,21 +11,22 @@
 		"SED"
 	],
 	"groupid": 1076,
+	"instructors": [
+		"Matt Wiebold"
+	],
 	"level": 100,
-	"name": "Analytical I",
-	"notes": "Students in Physics 130 must also register for on lab Physics 130 AL, BL, or CL.",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 210",
 		"RNS 210",
 		"RNS 210"
 	],
-	"profs": [
-		"Matt Wiebold"
-	],
-	"sect": "B",
-	"sem": 1,
+	"name": "Analytical I",
+	"notes": "Students in Physics 130 must also register for on lab Physics 130 AL, BL, or CL.",
+	"num": 130,
+	"pf": false,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 1045-1140",

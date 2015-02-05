@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gail Carlson"
+	],
 	"level": 300,
 	"name": "Biochemistry Lab",
 	"num": 373,
 	"pf": true,
-	"profs": [
-		"Gail Carlson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 19961,
 	"title": "Biochemistry Lab",
 	"type": "Research",

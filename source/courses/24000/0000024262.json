@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 300,
+	"locations": [
+		"FH 40"
+	],
 	"name": "Figure Drawing II",
 	"num": 342,
 	"pf": false,
-	"places": [
-		"FH 40"
-	],
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 0800-1000"

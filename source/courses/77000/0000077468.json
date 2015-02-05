@@ -7,18 +7,19 @@
 	],
 	"groupid": 106,
 	"grouptype": "4",
+	"instructors": [
+		"Tamar Resnick"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 255"
+	],
 	"name": "Cell Bio & Genetics Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 255"
-	],
-	"profs": [
-		"Tamar Resnick"
-	],
-	"sect": "K",
-	"sem": 1,
+	"section": "K",
+	"semester": 1,
+	"status": "C",
 	"term": 20111,
 	"times": [
 		"W 0600-0830PM"

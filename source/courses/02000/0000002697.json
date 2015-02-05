@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 200,
-	"name": "Russian History/Lit",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"M 31",
 		"M 31"
 	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 2,
+	"name": "Russian History/Lit",
+	"num": 250,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 0900-1000",

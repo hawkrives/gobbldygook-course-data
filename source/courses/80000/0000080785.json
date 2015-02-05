@@ -10,18 +10,19 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 300,
-	"name": "Hist Chr Thought II",
-	"num": 303,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sem": 3,
+	"name": "Hist Chr Thought II",
+	"num": 303,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

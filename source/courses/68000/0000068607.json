@@ -9,17 +9,18 @@
 	"gereqs": [
 		"AQR"
 	],
-	"level": 100,
-	"num": 126,
-	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
+	"instructors": [
 		"Alexander Woo"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"RML 421"
+	],
+	"num": 126,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 0200-0255PM"

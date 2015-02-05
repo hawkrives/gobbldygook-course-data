@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 200,
+	"locations": [
+		"M 4"
+	],
 	"name": "Modrn Japanese Lit-Tr",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

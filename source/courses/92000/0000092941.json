@@ -10,17 +10,18 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Philosophy in Lit",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

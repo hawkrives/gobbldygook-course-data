@@ -11,20 +11,21 @@
 		"HBS",
 		"WRI"
 	],
+	"instructors": [
+		"Charles Huff",
+		"David Booth"
+	],
 	"level": 200,
+	"locations": [
+		"OM 340",
+		"OM 340"
+	],
 	"name": "Cultural Context",
 	"notes": "Open to Science Conversation students only.",
 	"num": 217,
 	"pf": false,
-	"places": [
-		"OM 340",
-		"OM 340"
-	],
-	"profs": [
-		"Charles Huff",
-		"David Booth"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

@@ -6,14 +6,15 @@
 		"PSCI"
 	],
 	"desc": "Students with ideas for internships are encouraged to approach instructors within the department in order to arrange supervision for credit. For Level III credit students must have successfully completed a Level II internship in the same area. Prerequisite: Political Science 294.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "Academic Internship",
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Internship",
 	"type": "Research",

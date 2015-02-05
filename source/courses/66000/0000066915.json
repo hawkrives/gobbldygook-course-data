@@ -11,20 +11,21 @@
 		"SED"
 	],
 	"groupid": 1076,
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 100,
-	"name": "Analytical I",
-	"notes": "Students in Physics 130 must also register for one lab Physics 130 AL, BL, or CL",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 210",
 		"RNS 210",
 		"RNS 210"
 	],
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 1,
+	"name": "Analytical I",
+	"notes": "Students in Physics 130 must also register for one lab Physics 130 AL, BL, or CL",
+	"num": 130,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20091,
 	"times": [
 		"MWF 1045-1140",

@@ -10,16 +10,17 @@
 		"HBS",
 		"MCD"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
+	"instructors": [
 		"Joshua Anderson"
 	],
-	"sem": 4,
+	"level": 100,
+	"locations": [
+		"HH 302"
+	],
+	"num": 111,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20124,
 	"times": [
 		"M-F 1000-1130"

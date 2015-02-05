@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Jonathan Hill"
+	],
 	"level": 200,
 	"name": "The Romantic Period",
 	"num": 235,
 	"pf": false,
-	"profs": [
-		"Jonathan Hill"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19954,
 	"title": "The Romantic Period",
 	"type": "Research",

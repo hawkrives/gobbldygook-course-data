@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1074,
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 100,
+	"locations": [
+		"SC 111"
+	],
 	"name": "Prin Physics II/Lab",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"SC 111"
-	],
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "E",
-	"sem": 3,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"F 1255-0325PM"

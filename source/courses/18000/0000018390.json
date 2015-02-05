@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
+	"locations": [
+		"SAC FH"
+	],
 	"name": "Softball",
 	"num": 114,
 	"pf": false,
-	"places": [
-		"SAC FH"
-	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MW 0800-0855"

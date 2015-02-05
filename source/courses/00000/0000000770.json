@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 100,
-	"name": "Foundation Drawing",
-	"num": 110,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 42",
 		"FH 42"
 	],
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 2,
+	"name": "Foundation Drawing",
+	"num": 110,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0900-1000",

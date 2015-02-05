@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Richard A. Olson"
+	],
 	"level": 300,
+	"locations": [
+		"H 317"
+	],
 	"name": "Roman Civilization",
 	"num": 303,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Richard A. Olson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1255-0150PM"

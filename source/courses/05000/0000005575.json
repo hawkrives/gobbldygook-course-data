@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"TOSTRUD_CTR"
+	],
 	"name": "Rock Climbing",
 	"num": 106,
 	"pf": false,
-	"places": [
-		"TOSTRUD_CTR"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 20024,
 	"times": [
 		"M-F 1230-0200PM"

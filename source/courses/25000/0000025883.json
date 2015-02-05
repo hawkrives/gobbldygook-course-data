@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Brenton Malin"
+	],
 	"level": 100,
+	"locations": [
+		"CT 216"
+	],
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"CT 216"
-	],
-	"profs": [
-		"Brenton Malin"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "O",
 	"term": 19991,
 	"times": [
 		"TTh 0120-0245PM"

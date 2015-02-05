@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Senior Sem:",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

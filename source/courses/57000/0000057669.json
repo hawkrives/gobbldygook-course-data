@@ -6,17 +6,18 @@
 		"ESAC"
 	],
 	"desc": "This course offers an introduction/review of fundamental skills, rules, and drills. Students focus on basic strategy in games playing.",
+	"instructors": [
+		"Daniel Kosmoski"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC Ctr Gym",
 		"SAC Ctr Gym"
 	],
-	"profs": [
-		"Daniel Kosmoski"
-	],
-	"sem": 3,
+	"num": 111,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1005-1100",

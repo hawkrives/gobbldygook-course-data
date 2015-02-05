@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Kristina Garrett"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 206",
 		"RNS 206"
 	],
-	"profs": [
-		"Kristina Garrett"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

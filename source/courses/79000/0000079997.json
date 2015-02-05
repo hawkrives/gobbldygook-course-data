@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Mary E. Anderson"
+	],
 	"level": 200,
-	"name": "Chr Theol in History",
-	"num": 212,
-	"pf": false,
-	"places": [
+	"locations": [
 		"BMC 111",
 		"BMC 111"
 	],
-	"profs": [
-		"Mary E. Anderson"
-	],
-	"sem": 3,
+	"name": "Chr Theol in History",
+	"num": 212,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0800-0925",

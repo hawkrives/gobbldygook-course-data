@@ -10,20 +10,21 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 100,
+	"locations": [
+		"HH 302",
+		"HH 302"
+	],
 	"name": "Intro to Sociology",
 	"notes": "Open to first-year students only.",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 302",
-		"HH 302"
-	],
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"T. William Altermatt"
+	],
 	"level": 300,
 	"name": "IR/Rem Sleep Deprivat",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"T. William Altermatt"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "IR/Rem Sleep Deprivat",
 	"type": "Research",

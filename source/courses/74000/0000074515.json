@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
-	"name": "Nutrition & Wellness",
-	"num": 110,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC 112",
 		"SAC 112"
 	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"name": "Nutrition & Wellness",
+	"num": 110,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

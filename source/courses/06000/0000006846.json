@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
+	"locations": [
+		"FH 101"
+	],
 	"name": "Teaching Reading K-6",
 	"num": 322,
 	"pf": false,
-	"places": [
-		"FH 101"
-	],
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0700-1000PM"

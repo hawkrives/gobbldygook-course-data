@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
 	"name": "IS/Directing Antigone",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Study",
 	"type": "Research",

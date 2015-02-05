@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Christopher Schwartz"
+	],
 	"level": 300,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Abstract Algebra II",
 	"num": 352,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Christopher Schwartz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

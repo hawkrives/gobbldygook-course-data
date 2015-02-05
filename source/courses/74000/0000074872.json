@@ -9,17 +9,18 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Hauck"
 	],
-	"sect": "B",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
+	"num": 130,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MW 1255-0150PM"

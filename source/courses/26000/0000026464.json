@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 300,
+	"locations": [
+		"M 35"
+	],
 	"name": "German Novelle",
 	"num": 360,
 	"pf": false,
-	"places": [
-		"M 35"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0800-0925"

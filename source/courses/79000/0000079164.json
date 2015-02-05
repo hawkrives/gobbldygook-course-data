@@ -10,19 +10,20 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Michael Fuerstein"
+	],
 	"level": 200,
-	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors during web registration.",
-	"num": 257,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 297",
 		"RNS 297"
 	],
-	"profs": [
-		"Michael Fuerstein"
-	],
-	"sect": "A",
-	"sem": 3,
+	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors during web registration.",
+	"num": 257,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 1145-0110PM",

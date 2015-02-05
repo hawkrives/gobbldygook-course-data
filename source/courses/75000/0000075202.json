@@ -11,18 +11,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 200,
-	"name": "Asian Citizenships",
-	"num": 250,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 001",
 		"OM 001"
 	],
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sem": 1,
+	"name": "Asian Citizenships",
+	"num": 250,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20101,
 	"times": [
 		"T 0120-0245PM",

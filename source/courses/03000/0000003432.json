@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Pamela Bacon"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Sem: Soc Psych of Self",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Pamela Bacon"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 1150-1245PM"

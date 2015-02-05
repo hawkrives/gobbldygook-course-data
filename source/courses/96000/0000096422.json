@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"Abdulai Iddrisu"
+	],
 	"level": 200,
-	"name": "Sem: Africa/Americas",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 403",
 		"HH 403"
 	],
-	"profs": [
-		"Abdulai Iddrisu"
-	],
-	"sem": 3,
+	"name": "Sem: Africa/Americas",
+	"num": 231,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

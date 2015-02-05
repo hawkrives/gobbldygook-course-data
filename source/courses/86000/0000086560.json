@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Paul J. Roback"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
-		"Paul J. Roback"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Principles of Acct",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1150-1245PM"

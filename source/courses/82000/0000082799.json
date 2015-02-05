@@ -9,19 +9,20 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 100,
-	"name": "Bible/Culture/Commun",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 20",
 		"OM 20"
 	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sect": "J",
-	"sem": 1,
+	"name": "Bible/Culture/Commun",
+	"num": 121,
+	"pf": false,
+	"section": "J",
+	"semester": 1,
+	"status": "C",
 	"term": 20121,
 	"times": [
 		"T 0800-0925",

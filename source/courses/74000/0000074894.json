@@ -9,18 +9,19 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Marc Robinson"
+	],
 	"level": 300,
+	"locations": [
+		"HH 307"
+	],
 	"name": "Dostoevsky-Tr",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open only to Seniors and Juniors during web registration.",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Marc Robinson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1045-1140"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Vicki L. Harper"
+	],
 	"level": 300,
 	"name": "IR/Advanced Logic",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Vicki L. Harper"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Advanced Logic",
 	"type": "Research",

@@ -10,18 +10,19 @@
 		"ALS-A",
 		"MCG"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 100,
-	"name": "World Dance Tradition",
-	"num": 124,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 305",
 		"DC 305"
 	],
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 3,
+	"name": "World Dance Tradition",
+	"num": 124,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

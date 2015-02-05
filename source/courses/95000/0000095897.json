@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Joseph Benson"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 204",
 		"RNS 204"
 	],
-	"profs": [
-		"Joseph Benson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

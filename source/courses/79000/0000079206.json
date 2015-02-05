@@ -9,18 +9,19 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"TOH 182"
-	],
-	"profs": [
+	"instructors": [
 		"Michael S. Pursell",
 		"Molly Westerman"
 	],
-	"sect": "E",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"TOH 182"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 1150-1245PM"

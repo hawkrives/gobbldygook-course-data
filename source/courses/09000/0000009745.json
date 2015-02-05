@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Robert K. McCarthy"
+	],
 	"level": 100,
+	"locations": [
+		"TC"
+	],
 	"name": "Wt Training-Women",
 	"num": 142,
 	"pf": false,
-	"places": [
-		"TC"
-	],
-	"profs": [
-		"Robert K. McCarthy"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MW 0905-1000"

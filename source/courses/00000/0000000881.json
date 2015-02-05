@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Bruce Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"CH 110"
+	],
 	"name": "Technol & Entr Spirit",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"CH 110"
-	],
-	"profs": [
-		"Bruce Hanson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

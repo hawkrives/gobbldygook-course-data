@@ -5,14 +5,15 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Todd R. Carroll"
+	],
 	"level": 100,
 	"name": "Beginning Tennis",
 	"num": 157,
 	"pf": false,
-	"profs": [
-		"Todd R. Carroll"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19955,
 	"title": "Beginning Tennis",
 	"type": "Research",

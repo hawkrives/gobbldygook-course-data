@@ -5,17 +5,18 @@
 	"depts": [
 		"FREN"
 	],
+	"instructors": [
+		"Debra Latimer"
+	],
 	"level": 100,
+	"locations": [
+		"M 30"
+	],
 	"name": "Beginning French I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 30"
-	],
-	"profs": [
-		"Debra Latimer"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20021,
 	"times": [
 		"MWF 1045-1140"

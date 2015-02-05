@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 100,
+	"locations": [
+		"M 4"
+	],
 	"name": "Us Consumr Culture",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"M 4"
-	],
-	"profs": [
-		"James Farrell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 0200-0255PM"

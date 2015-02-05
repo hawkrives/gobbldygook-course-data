@@ -10,18 +10,19 @@
 		"ALS-A",
 		"ORC"
 	],
+	"instructors": [
+		"Jeanne I. Willcoxon"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Theater",
 	"notes": "This course fulfills the ORC requirement.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Jeanne I. Willcoxon"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0905-1000"

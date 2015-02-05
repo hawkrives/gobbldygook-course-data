@@ -5,18 +5,19 @@
 	"depts": [
 		"WMNST"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 300,
-	"name": "Sem: Women and Language",
-	"num": 399,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 011",
 		"OM 011"
 	],
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 3,
+	"name": "Sem: Women and Language",
+	"num": 399,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"T 0120-0245PM",

@@ -10,19 +10,20 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Barbara Olson"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 310",
 		"TOH 310"
 	],
-	"profs": [
-		"Barbara Olson"
-	],
-	"sect": "I",
-	"sem": 3,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "I",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 1145-0110PM",

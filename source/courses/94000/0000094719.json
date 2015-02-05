@@ -10,18 +10,19 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Lindsay Matteson"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Principles: Psych",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"Lindsay Matteson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"MWF 1045-1140"

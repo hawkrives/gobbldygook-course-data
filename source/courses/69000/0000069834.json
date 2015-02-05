@@ -9,18 +9,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Gary De Krey"
+	],
 	"level": 300,
-	"name": "Sem:Reform/Rev/England",
-	"num": 315,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 514",
 		"HH 514"
 	],
-	"profs": [
-		"Gary De Krey"
-	],
-	"sem": 3,
+	"name": "Sem:Reform/Rev/England",
+	"num": 315,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

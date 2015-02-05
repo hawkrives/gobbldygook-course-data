@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Donald A. Tarr"
+	],
 	"level": 300,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Chemical Dynamics",
 	"num": 371,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Donald A. Tarr"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1140"

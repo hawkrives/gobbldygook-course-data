@@ -6,14 +6,15 @@
 		"FILM"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Amy E. Borden"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Amy E. Borden"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20105,
 	"title": "Academic Internship",
 	"type": "Research",

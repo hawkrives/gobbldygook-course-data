@@ -10,20 +10,21 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Clark Ohnesorge"
+	],
 	"level": 100,
+	"locations": [
+		"HH 501",
+		"HH 501"
+	],
 	"name": "Principles: Psych",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"HH 501",
-		"HH 501"
-	],
-	"profs": [
-		"Clark Ohnesorge"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

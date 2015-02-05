@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Larry Schnoor"
+	],
 	"level": 100,
+	"locations": [
+		"TB 227"
+	],
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
-		"Larry Schnoor"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 1040-1240PM"

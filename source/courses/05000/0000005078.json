@@ -5,19 +5,20 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 100,
-	"name": "Beginning Japanese II",
-	"num": 112,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 002",
 		"OM 002"
 	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Beginning Japanese II",
+	"num": 112,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140",

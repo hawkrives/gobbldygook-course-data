@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Murray Wolf"
+	],
 	"level": 200,
+	"locations": [
+		"H 403"
+	],
 	"name": "Marketing",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Murray Wolf"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"Th 0700-1000PM"

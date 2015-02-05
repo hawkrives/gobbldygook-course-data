@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 300,
 	"name": "IR/AL Demographics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

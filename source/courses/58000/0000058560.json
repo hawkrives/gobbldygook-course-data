@@ -6,17 +6,18 @@
 		"ESAC"
 	],
 	"desc": "Current first aid/CPR certification is necessary to qualify for Red Cross certification in W.S.I.. Prerequisite: Exercise Science 121 or 130.",
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
 	"name": "Water Safety Instruct",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "X",
 	"term": 20073,
 	"times": [
 		"MW 1255-0150PM"

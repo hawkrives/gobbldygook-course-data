@@ -10,18 +10,19 @@
 		"ALS-L",
 		"MCG"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 200,
-	"name": "Sem: Africa/Americas",
-	"num": 231,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sem": 3,
+	"name": "Sem: Africa/Americas",
+	"num": 231,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"times": [
 		"T 0935-1100",

@@ -10,18 +10,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Anthony Pahnke"
+	],
 	"level": 200,
-	"name": "Global Env Politics",
-	"num": 201,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Anthony Pahnke"
-	],
-	"sem": 1,
+	"name": "Global Env Politics",
+	"num": 201,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20141,
 	"times": [
 		"T 0120-0245PM",

@@ -6,15 +6,16 @@
 		"ART"
 	],
 	"desc": "Independent Research in Studio Art prerequisites: four foundation courses and three courses in area of study.\nIndependent Research in Art History prerequisites: three courses in area of study.",
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 300,
 	"name": "IR/Nottoway Plantation",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Independent Research: Art History",
 	"type": "Research",

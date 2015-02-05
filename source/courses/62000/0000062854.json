@@ -9,17 +9,18 @@
 	"gereqs": [
 		"FYW"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"BMC 109"
-	],
-	"profs": [
+	"instructors": [
 		"Jennifer Kwon Dobbs"
 	],
-	"sect": "D",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"BMC 109"
+	],
+	"num": 111,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1150-1245PM"

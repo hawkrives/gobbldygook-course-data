@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Elizabeth A. Leer"
+	],
 	"level": 300,
-	"name": "Tchg of Comm Arts/Lit",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Elizabeth A. Leer"
-	],
-	"sem": 3,
+	"name": "Tchg of Comm Arts/Lit",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

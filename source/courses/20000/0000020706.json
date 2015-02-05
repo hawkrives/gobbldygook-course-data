@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Mary Ellen Ross"
+	],
 	"level": 300,
+	"locations": [
+		"H 301/H320"
+	],
 	"name": "Psych of Counseling",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"H 301/H320"
-	],
-	"profs": [
-		"Mary Ellen Ross"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 0900-1100"

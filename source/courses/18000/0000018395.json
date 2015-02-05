@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"William Thornton"
+	],
 	"level": 100,
+	"locations": [
+		"SAC POOL"
+	],
 	"name": "Lifeguard Training",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"SAC POOL"
-	],
-	"profs": [
-		"William Thornton"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1110-1240PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Odd S. Lovoll"
+	],
 	"level": 300,
 	"name": "IR/Family History",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Odd S. Lovoll"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IR/Family History",
 	"type": "Research",

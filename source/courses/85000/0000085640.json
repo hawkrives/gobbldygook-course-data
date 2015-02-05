@@ -5,15 +5,16 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"James Demas"
+	],
 	"level": 300,
 	"name": "IR/Biomed Hardware Design",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Demas"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

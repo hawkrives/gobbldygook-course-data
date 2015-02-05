@@ -12,19 +12,20 @@
 		"ORC"
 	],
 	"groupid": 32,
+	"instructors": [
+		"Christopher Tradowsky",
+		"Matthew Rohn"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro/Art History II",
 	"notes": "This course has class year limits. Students in Art 151 must also register for one discussion section Art 151AD or BD.",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Christopher Tradowsky",
-		"Matthew Rohn"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MW 1045-1140"

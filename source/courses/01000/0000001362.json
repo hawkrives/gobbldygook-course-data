@@ -5,19 +5,20 @@
 	"depts": [
 		"IS"
 	],
-	"level": 200,
-	"name": "Topic: Intro/Neurosci",
-	"num": 205,
-	"pf": false,
-	"places": [
-		"SC 210",
-		"SC 248"
-	],
-	"profs": [
+	"instructors": [
 		"James Dickson Jr.",
 		"Anne Walter"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"SC 210",
+		"SC 248"
+	],
+	"name": "Topic: Intro/Neurosci",
+	"num": 205,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"TTh 0800-0925",

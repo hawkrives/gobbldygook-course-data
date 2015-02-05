@@ -6,18 +6,19 @@
 		"PEAC"
 	],
 	"desc": "Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard.",
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
-	"num": 122,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC_POOL",
 		"SAC_POOL"
 	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sect": "A",
-	"sem": 3,
+	"num": 122,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 100,
+	"locations": [
+		"L 277"
+	],
 	"name": "Principles: Psych",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"L 277"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "C",
 	"term": 19971,
 	"times": [
 		"MWF 0905-1000"

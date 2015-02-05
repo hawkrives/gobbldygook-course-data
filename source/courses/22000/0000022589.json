@@ -5,15 +5,16 @@
 	"depts": [
 		"MEDVL"
 	],
+	"instructors": [
+		"Herve Pensec"
+	],
 	"level": 300,
 	"name": "IR/Medieval Fren Lit",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Herve Pensec"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/Medieval Fren Lit",
 	"type": "Research",

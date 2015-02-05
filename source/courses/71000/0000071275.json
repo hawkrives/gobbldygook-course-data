@@ -5,14 +5,15 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Mary Walczak"
+	],
 	"level": 200,
 	"name": "IS/Lake Water Quality",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Walczak"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20085,
 	"title": "Independent Study",
 	"type": "Research",

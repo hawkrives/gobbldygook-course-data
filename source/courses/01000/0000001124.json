@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 100,
+	"locations": [
+		"M 1"
+	],
 	"name": "Analytical Principles",
 	"num": 122,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0200-0255PM"

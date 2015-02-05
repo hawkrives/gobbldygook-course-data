@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Gary O. Spessard"
+	],
 	"level": 300,
-	"name": "Organic Analys/Theory",
-	"num": 380,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 310",
 		"SC 310"
 	],
-	"profs": [
-		"Gary O. Spessard"
-	],
-	"sem": 2,
+	"name": "Organic Analys/Theory",
+	"num": 380,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19972,
 	"times": [
 		"M-F 0800-1000",

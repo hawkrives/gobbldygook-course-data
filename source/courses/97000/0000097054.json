@@ -10,16 +10,17 @@
 		"ALS-A",
 		"MCD"
 	],
-	"level": 200,
-	"num": 232,
-	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
+	"instructors": [
 		"Robin Gehl"
 	],
-	"sem": 4,
+	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
+	"num": 232,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20134,
 	"times": [
 		"M-F 1000-1130"

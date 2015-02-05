@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Elodie Marlier"
+	],
 	"level": 300,
 	"name": "IR/Low-Valent Inorg Synth",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Elodie Marlier"
-	],
-	"sect": "R",
-	"sem": 3,
+	"section": "R",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

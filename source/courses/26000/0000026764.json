@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Bonnie Sherman"
+	],
 	"level": 300,
+	"locations": [
+		"H 204"
+	],
 	"name": "Human Neur/Lab",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"H 204"
-	],
-	"profs": [
-		"Bonnie Sherman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"T 0935-1100"

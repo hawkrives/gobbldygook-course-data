@@ -10,19 +10,20 @@
 		"ALS-L",
 		"HWC"
 	],
+	"instructors": [
+		"Valerio Caldesi-Valeri"
+	],
 	"level": 200,
-	"name": "Golden Age Greece-Tr",
-	"num": 243,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 308",
 		"TOH 308"
 	],
-	"profs": [
-		"Valerio Caldesi-Valeri"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Golden Age Greece-Tr",
+	"num": 243,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0120-0245PM",

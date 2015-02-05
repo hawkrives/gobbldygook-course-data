@@ -10,18 +10,19 @@
 		"HWC",
 		"MCD"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 200,
-	"name": "African-American Hist",
-	"num": 277,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 577",
 		"RML 577"
 	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 3,
+	"name": "African-American Hist",
+	"num": 277,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"T 1145-0110PM",

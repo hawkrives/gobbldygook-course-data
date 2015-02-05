@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 100,
+	"locations": [
+		"L 577"
+	],
 	"name": "American Politics",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

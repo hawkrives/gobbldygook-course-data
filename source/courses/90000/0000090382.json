@@ -11,17 +11,18 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 100,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"MWF 0905-1000"

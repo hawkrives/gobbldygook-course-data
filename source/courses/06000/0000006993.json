@@ -5,18 +5,19 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Steve T. Reece"
+	],
 	"level": 300,
-	"name": "Greek Historians",
-	"num": 373,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 036",
 		"OM 036"
 	],
-	"profs": [
-		"Steve T. Reece"
-	],
-	"sem": 3,
+	"name": "Greek Historians",
+	"num": 373,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0935-1100",

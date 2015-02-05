@@ -9,20 +9,21 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 136",
+		"RNS 136"
+	],
 	"name": "Sem: Preceptors",
 	"notes": "Permission of instructor required. Closed during web registration.",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"RNS 136",
-		"RNS 136"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0800-0925",

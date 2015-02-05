@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "French Revol/Napoleon",
 	"num": 235,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

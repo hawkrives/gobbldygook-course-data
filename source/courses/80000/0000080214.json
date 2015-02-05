@@ -6,15 +6,16 @@
 		"NURS"
 	],
 	"desc": "Does not count toward the major.",
+	"instructors": [
+		"Neil MacNaughton"
+	],
 	"level": 300,
 	"name": "IR/Hawaii/Micronesia",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Neil MacNaughton"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Research",
 	"type": "Research",

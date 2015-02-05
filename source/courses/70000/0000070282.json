@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 121,
-	"pf": false,
-	"places": [
-		"SAC Pool"
-	],
-	"profs": [
+	"instructors": [
 		"Robert Hauck"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"SAC Pool"
+	],
+	"num": 121,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20091,
 	"times": [
 		"MW 1045-1140"

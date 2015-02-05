@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Fall Soviet Communism",
 	"num": 227,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-Th 0800-1000",

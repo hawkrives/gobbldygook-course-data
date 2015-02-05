@@ -9,19 +9,20 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Robert Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC 112",
+		"SAC 112"
+	],
 	"name": "Nutrition & Wellness",
 	"notes": "This course is open to all students in all classes.",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"SAC 112",
-		"SAC 112"
-	],
-	"profs": [
-		"Robert Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20133,
 	"times": [
 		"T 0935-1100",

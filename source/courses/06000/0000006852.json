@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Martha Harris"
+	],
 	"level": 300,
-	"name": "Teaching of Comm/Lit",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Martha Harris"
-	],
-	"sem": 3,
+	"name": "Teaching of Comm/Lit",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"T 0120-0245PM",

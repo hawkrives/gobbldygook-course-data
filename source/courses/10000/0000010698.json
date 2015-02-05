@@ -6,18 +6,19 @@
 		"MATH"
 	],
 	"desc": "This course introduces differential equations and analytical, numerical and graphical techniques for their analysis. First and second order differential equations and linear systems will be studied. Applications will be selected from areas such as biology, chemistry, economics, ecology and physics. Students will use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered both semesters.",
+	"instructors": [
+		"Kristina Garrett"
+	],
 	"level": 200,
-	"name": "Int Differ Equations",
-	"num": 230,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Kristina Garrett"
-	],
-	"sem": 1,
+	"name": "Int Differ Equations",
+	"num": 230,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20051,
 	"times": [
 		"T 1145-0110PM",

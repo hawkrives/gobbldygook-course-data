@@ -9,18 +9,19 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Charles Huff"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 124"
+	],
 	"name": "Top: Psych of Good & Evil",
 	"notes": "Prerequisite: Completion of BTS-T requirement.",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"RNS 124"
-	],
-	"profs": [
-		"Charles Huff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

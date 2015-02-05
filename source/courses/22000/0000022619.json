@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Timothy Mahr"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Instru Conducting",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Timothy Mahr"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

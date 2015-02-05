@@ -6,18 +6,19 @@
 		"ENVST"
 	],
 	"desc": "Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Recent topics offered include Ecosystem Research, Landscape Art, Imaging Environmentalism, and Landscape and Regional Change in the Arctic.",
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 300,
+	"locations": [
+		"RML 520"
+	],
 	"name": "Top:Ecocrit/Am Nat Poetry",
 	"num": 381,
 	"pf": false,
-	"places": [
-		"RML 520"
-	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"times": [
 		"M-F 0100-0300PM"

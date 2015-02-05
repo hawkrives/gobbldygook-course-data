@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 200,
-	"name": "Top: Mod Comp'l Math",
-	"num": 282,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Top: Mod Comp'l Math",
+	"num": 282,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

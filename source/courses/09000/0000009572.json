@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 300,
-	"name": "Latin Drama",
-	"num": 375,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 004",
 		"OM 004"
 	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sem": 3,
+	"name": "Latin Drama",
+	"num": 375,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0120-0245PM",

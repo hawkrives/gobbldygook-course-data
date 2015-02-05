@@ -5,17 +5,18 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
+	"locations": [
+		"FHSEM"
+	],
 	"name": "Sr Studies-Art Hist",
 	"num": 395,
 	"pf": false,
-	"places": [
-		"FHSEM"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0120-0245PM"

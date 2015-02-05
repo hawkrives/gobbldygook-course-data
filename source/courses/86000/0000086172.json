@@ -10,16 +10,17 @@
 		"HBS",
 		"MCD"
 	],
-	"level": 100,
-	"num": 111,
-	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
+	"instructors": [
 		"Henriet Hendriks"
 	],
-	"sem": 4,
+	"level": 100,
+	"locations": [
+		"DC 204"
+	],
+	"num": 111,
+	"pf": false,
+	"semester": 4,
+	"status": "X",
 	"term": 20114,
 	"times": [
 		"M-F 0800-0930"

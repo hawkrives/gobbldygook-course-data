@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Rhonda H. Rekstad"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Entrepreneurship",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Rhonda H. Rekstad"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM"

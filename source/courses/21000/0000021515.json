@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Harriet McCleary"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 224"
+	],
 	"name": "German Lyric Diction",
 	"num": 265,
 	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
-		"Harriet McCleary"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"MW 0905-1000"

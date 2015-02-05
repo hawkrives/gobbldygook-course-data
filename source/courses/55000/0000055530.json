@@ -6,18 +6,19 @@
 		"ART"
 	],
 	"groupid": 32,
+	"instructors": [
+		"Matthew Rohn"
+	],
 	"level": 100,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Intro/Art Hist II Discuss",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Matthew Rohn"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"Th 0800-0855"

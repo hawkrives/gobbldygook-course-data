@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"H 515"
+	],
 	"name": "Biomedical Ethics",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19974,
 	"times": [
 		"M-F 1000-1130"

@@ -5,14 +5,15 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Philip Gloor"
+	],
 	"level": 100,
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
-	"profs": [
-		"Philip Gloor"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"title": "Calculus I",
 	"type": "Research",

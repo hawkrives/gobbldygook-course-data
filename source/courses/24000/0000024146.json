@@ -5,17 +5,18 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 200,
+	"locations": [
+		"H 307"
+	],
 	"name": "Sleep and Dreaming",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"H 307"
-	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19982,
 	"times": [
 		"T-F 1040-0100PM"

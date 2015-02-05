@@ -10,18 +10,19 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 200,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Top: Sci & Lit Pre-1800",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0905-1000"

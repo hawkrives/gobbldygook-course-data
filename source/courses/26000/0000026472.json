@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Norman M. Watt"
+	],
 	"level": 200,
-	"name": "Dissenters/Defenders",
-	"num": 218,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Norman M. Watt"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Dissenters/Defenders",
+	"num": 218,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM",

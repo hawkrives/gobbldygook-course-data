@@ -5,15 +5,16 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 300,
 	"name": "IR/Ancient Women's Health",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Anne Groton"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Research",
 	"type": "Research",

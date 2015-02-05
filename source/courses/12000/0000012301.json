@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 300,
+	"locations": [
+		"HH 514"
+	],
 	"name": "Sem: Social Movements",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"HH 514"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1255-0150PM"

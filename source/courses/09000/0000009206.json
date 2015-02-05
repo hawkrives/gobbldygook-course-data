@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 200,
 	"name": "Top: Peruvian Medicine",
 	"num": 291,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"title": "Top: Peruvian Medicine",
 	"type": "Topic",

@@ -5,15 +5,16 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Susan E. Smalling"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Susan E. Smalling"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Internship",
 	"type": "Research",

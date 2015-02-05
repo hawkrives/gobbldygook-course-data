@@ -5,14 +5,15 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 200,
 	"name": "IS/Scientific Writing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"title": "IS/Scientific Writing",
 	"type": "Research",

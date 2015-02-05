@@ -9,18 +9,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Olaf A. Hall-Holt"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Comp Sci for Science/Math",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 203"
-	],
-	"profs": [
-		"Olaf A. Hall-Holt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1045-1140"

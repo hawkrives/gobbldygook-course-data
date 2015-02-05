@@ -10,20 +10,21 @@
 		"EIN",
 		"WRI"
 	],
+	"instructors": [
+		"Douglas Schuurman"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 101",
+		"BMC 101"
+	],
 	"name": "Love, Justice, Soc Rel",
 	"notes": "Prerequisite: completion of BTS-T requirement. Open only to Seniors and Juniors during web registration. This course fulfills a WRI requirement.",
 	"num": 296,
 	"pf": false,
-	"places": [
-		"BMC 101",
-		"BMC 101"
-	],
-	"profs": [
-		"Douglas Schuurman"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0120-0245PM",

@@ -14,19 +14,20 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Phyllis Hyland Larson"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 316",
+		"TOH 316"
+	],
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"TOH 316",
-		"TOH 316"
-	],
-	"profs": [
-		"Phyllis Hyland Larson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 1145-0110PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Joseph L. Mbele"
+	],
 	"level": 200,
 	"name": "IS/Tanzan/Child/Research",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Joseph L. Mbele"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20082,
 	"title": "Independent Study",
 	"type": "Research",

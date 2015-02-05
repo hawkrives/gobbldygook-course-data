@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 124,
+	"instructors": [
+		"Eugene Bakko"
+	],
 	"level": 200,
+	"locations": [
+		"SC 269"
+	],
 	"name": "Vertebrate Biology Lab",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"SC 269"
-	],
-	"profs": [
-		"Eugene Bakko"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"T 0120-0420PM"

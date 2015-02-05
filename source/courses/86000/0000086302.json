@@ -10,18 +10,19 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 200,
-	"name": "Chr Theol/Human Exist",
-	"num": 208,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 305",
 		"OM 305"
 	],
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sem": 3,
+	"name": "Chr Theol/Human Exist",
+	"num": 208,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

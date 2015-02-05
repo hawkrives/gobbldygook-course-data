@@ -5,18 +5,19 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Tarik Wareh"
+	],
 	"level": 300,
-	"name": "Top: Famous Speeches",
-	"num": 370,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 003",
 		"OM 003"
 	],
-	"profs": [
-		"Tarik Wareh"
-	],
-	"sem": 3,
+	"name": "Top: Famous Speeches",
+	"num": 370,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

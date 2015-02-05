@@ -5,13 +5,14 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20132,
 	"title": "Academic Internship",
 	"type": "Research",

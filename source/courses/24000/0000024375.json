@@ -5,15 +5,16 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mary Ann Emery"
+	],
 	"level": 200,
 	"name": "IS/Business Ventures",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Mary Ann Emery"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Business Ventures",
 	"type": "Research",

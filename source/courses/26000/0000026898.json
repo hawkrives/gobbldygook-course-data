@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Dona W. Freeman"
+	],
 	"level": 300,
+	"locations": [
+		"HAUGEN"
+	],
 	"name": "Stage Direction",
 	"num": 338,
 	"pf": false,
-	"places": [
-		"HAUGEN"
-	],
-	"profs": [
-		"Dona W. Freeman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1045-1140"

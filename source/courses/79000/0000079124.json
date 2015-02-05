@@ -10,20 +10,21 @@
 		"FYW",
 		"HWC"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum",
+		"Megan J. Feeney"
+	],
 	"level": 100,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"notes": "Open to American Conversations students only.",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Eric J. Fure-Slocum",
-		"Megan J. Feeney"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

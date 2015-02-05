@@ -5,18 +5,19 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 200,
+	"locations": [
+		"SC 151"
+	],
 	"name": "Modern Phys Lab (244)",
 	"num": 245,
 	"pf": false,
-	"places": [
-		"SC 151"
-	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0120-0420PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
 	"name": "IS/Self Early Child",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"title": "IS/Self Early Child",
 	"type": "Research",

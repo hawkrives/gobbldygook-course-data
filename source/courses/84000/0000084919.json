@@ -10,18 +10,19 @@
 		"MCD",
 		"ORC"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 100,
-	"notes": "This course has class year limits.",
-	"num": 160,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TB 216",
 		"TB 216"
 	],
-	"profs": [
-		"William Sonnega"
-	],
-	"sem": 3,
+	"notes": "This course has class year limits.",
+	"num": 160,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"T 0935-1100",

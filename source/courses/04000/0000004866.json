@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 200,
+	"locations": [
+		"HH 317"
+	],
 	"name": "Urban Economics",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Richard A. Olson"
+	],
 	"level": 200,
 	"name": "IS/Education Dev't",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Richard A. Olson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20012,
 	"title": "IS/Education Dev't",
 	"type": "Research",

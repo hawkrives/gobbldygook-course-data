@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Hist & Lit Music II",
 	"num": 242,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0200-0255PM"

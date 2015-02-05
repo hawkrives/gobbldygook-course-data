@@ -6,19 +6,20 @@
 		"BIO"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Sara E. Fruehling"
+	],
 	"level": 100,
-	"name": "Cell Bio & Genetics Lab",
-	"num": 125,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 273",
 		"SC 273"
 	],
-	"profs": [
-		"Sara E. Fruehling"
-	],
-	"sect": "A",
-	"sem": 2,
+	"name": "Cell Bio & Genetics Lab",
+	"num": 125,
+	"pf": false,
+	"section": "A",
+	"semester": 2,
+	"status": "C",
 	"term": 20072,
 	"times": [
 		"M-F 0800-1000",

@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Anthony T. Watson"
+	],
 	"level": 200,
+	"locations": [
+		"SC 311"
+	],
 	"name": "Synthesis Lab",
 	"num": 254,
 	"pf": true,
-	"places": [
-		"SC 311"
-	],
-	"profs": [
-		"Anthony T. Watson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20045,
 	"times": [
 		"MW 0100-0400PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Kurt Burch"
+	],
 	"level": 200,
+	"locations": [
+		"M 31"
+	],
 	"name": "World Politics",
 	"num": 258,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Kurt Burch"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"TTh 0120-0245PM"

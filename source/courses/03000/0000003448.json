@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"James Dickson Jr."
+	],
 	"level": 300,
 	"name": "IR/Psych Content & Meth",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"James Dickson Jr."
-	],
-	"sect": "K",
-	"sem": 3,
+	"section": "K",
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"title": "IR/Psych Content & Meth",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 171,
-	"level": 300,
-	"name": "Animal Behavior Lab",
-	"num": 386,
-	"pf": false,
-	"places": [
-		"SC 253"
-	],
-	"profs": [
+	"instructors": [
 		"James Dickson Jr.",
 		"Louis Henry Kermott"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"SC 253"
+	],
+	"name": "Animal Behavior Lab",
+	"num": 386,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0120-0420PM"

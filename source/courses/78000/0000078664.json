@@ -5,14 +5,15 @@
 	"depts": [
 		"ESTH"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 200,
 	"name": "IS/ACL Injury Prevention",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Cynthia Book"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Independent Study",
 	"type": "Research",

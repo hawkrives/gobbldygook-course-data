@@ -9,16 +9,17 @@
 	"gereqs": [
 		"IST"
 	],
-	"level": 200,
-	"num": 244,
-	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
+	"instructors": [
 		"Arthur Cunningham"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"RNS 150"
+	],
+	"num": 244,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"times": [
 		"MWF 1150-1245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Margaret Odell"
+	],
 	"level": 200,
+	"locations": [
+		"YH 130"
+	],
 	"name": "Biblical Hebrew II",
 	"num": 291,
 	"pf": false,
-	"places": [
-		"YH 130"
-	],
-	"profs": [
-		"Margaret Odell"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 0800-1000"

@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 300,
 	"name": "Senior Project I",
 	"num": 391,
 	"pf": true,
-	"profs": [
-		"Mark Schelske"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "Senior Project I",
 	"type": "Research",

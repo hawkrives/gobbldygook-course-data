@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"David Carter"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 138"
+	],
 	"name": "String Class",
 	"num": 168,
 	"pf": false,
-	"places": [
-		"CHM 138"
-	],
-	"profs": [
-		"David Carter"
-	],
-	"sem": 1,
+	"semester": 1,
+	"status": "C",
 	"term": 20001,
 	"times": [
 		"MWF 1255-0150PM"

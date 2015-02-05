@@ -6,16 +6,17 @@
 		"PHYS"
 	],
 	"desc": "Seniors study topics of current interest, based upon presentation by staff, participants by staff, participants and visitors, library research and assigned readings. Prerequisites: Physics 374, 375, and 376. P\\\\N Only. Available on request.",
-	"level": 300,
-	"num": 399,
-	"pf": true,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
+	"instructors": [
 		"Staff"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"SC 110"
+	],
+	"num": 399,
+	"pf": true,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"W 0200-0300PM"

@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Paul Niemisto"
+	],
 	"level": 200,
 	"name": "IS/Nordic Music",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Paul Niemisto"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IS/Nordic Music",
 	"type": "Research",

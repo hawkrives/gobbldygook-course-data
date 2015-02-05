@@ -5,18 +5,19 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Robert Nichols"
+	],
 	"level": 200,
-	"name": "Hist/Orthodox Christ",
-	"num": 228,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 307",
 		"HH 515"
 	],
-	"profs": [
-		"Robert Nichols"
-	],
-	"sem": 2,
+	"name": "Hist/Orthodox Christ",
+	"num": 228,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20032,
 	"times": [
 		"M-F 0900-1000",

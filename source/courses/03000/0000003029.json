@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Susan Bauer"
+	],
 	"level": 100,
+	"locations": [
+		"DC  STUDIO 1"
+	],
 	"name": "Movement/Perf Artist",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"DC  STUDIO 1"
-	],
-	"profs": [
-		"Susan Bauer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

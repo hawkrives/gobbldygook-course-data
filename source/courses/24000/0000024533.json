@@ -5,18 +5,19 @@
 	"depts": [
 		"GE"
 	],
+	"instructors": [
+		"James Heynen"
+	],
 	"level": 100,
+	"locations": [
+		"L 421"
+	],
 	"name": "First Year Seminar",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"James Heynen"
-	],
-	"sect": "O",
-	"sem": 3,
+	"section": "O",
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"TTh 0120-0245PM"

@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 200,
+	"locations": [
+		"HH 319",
+		"HH 319"
+	],
 	"name": "Psychophysiology",
 	"notes": "Open to first-year students who have met the prerequisites",
 	"num": 225,
 	"pf": false,
-	"places": [
-		"HH 319",
-		"HH 319"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20062,
 	"times": [
 		"M-F 1040-1200PM",

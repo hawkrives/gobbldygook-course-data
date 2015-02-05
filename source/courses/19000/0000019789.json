@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Katherine Smith-Abbott"
+	],
 	"level": 200,
 	"name": "Italian Renaissance",
 	"num": 255,
 	"pf": false,
-	"profs": [
-		"Katherine Smith-Abbott"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19962,
 	"title": "Italian Renaissance",
 	"type": "Research",

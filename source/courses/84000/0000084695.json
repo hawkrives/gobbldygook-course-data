@@ -7,18 +7,19 @@
 		"BIO"
 	],
 	"groupid": 18802,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 394"
+	],
 	"name": "Integr Chem/Bio III Lab",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"RNS 394"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"Th 1245-0345PM"

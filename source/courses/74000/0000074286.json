@@ -10,19 +10,20 @@
 		"HWC",
 		"ORC"
 	],
+	"instructors": [
+		"Douglas J. Casson"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Intro: Pol Theory",
 	"notes": "This course has class year limits.",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
-		"Douglas J. Casson"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0800-0855"

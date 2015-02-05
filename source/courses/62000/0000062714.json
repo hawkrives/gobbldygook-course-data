@@ -9,19 +9,20 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Barbara Reed"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Buddhism,Peace,Justice",
 	"notes": "Prerequisite: Completion of BTS-T requirement. Open to Seniors all Passes. Open to Juniors starting at Pass 4.",
 	"num": 289,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Barbara Reed"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0255PM"

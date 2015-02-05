@@ -6,18 +6,19 @@
 		"CHIN"
 	],
 	"groupid": 237,
+	"instructors": [
+		"Ying Zhou"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 175"
+	],
 	"name": "Beginning Chinese I Lab",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"TOH 175"
-	],
-	"profs": [
-		"Ying Zhou"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0935-1100"

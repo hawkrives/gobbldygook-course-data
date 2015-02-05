@@ -5,17 +5,18 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Carol Holly"
+	],
 	"level": 300,
+	"locations": [
+		"RML 420"
+	],
 	"name": "Advanced Amer Lit",
 	"num": 340,
 	"pf": false,
-	"places": [
-		"RML 420"
-	],
-	"profs": [
-		"Carol Holly"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

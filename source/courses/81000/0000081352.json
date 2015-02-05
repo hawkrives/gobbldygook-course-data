@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"James Farrell"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"James Farrell"
-	],
-	"sect": "B",
-	"sem": 5,
+	"section": "B",
+	"semester": 5,
+	"status": "O",
 	"term": 20105,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -5,15 +5,16 @@
 	"depts": [
 		"INTD"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 100,
 	"name": "Planned Credit",
 	"num": 150,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"title": "Planned Credit",
 	"type": "Research",

@@ -10,19 +10,20 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 100,
-	"name": "Modern Dance I (.25)",
-	"num": 111,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC Studio 1",
 		"DC Studio 1"
 	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Modern Dance I (.25)",
+	"num": 111,
+	"pf": true,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0905-1000",

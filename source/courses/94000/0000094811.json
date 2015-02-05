@@ -6,16 +6,17 @@
 		"CHIN"
 	],
 	"desc": "In this fourth-year-level Chinese course, students explore a specified topic or theme in language, in various text/media (literature, newspaper, television, and film), in culture/civilization, or in a combination of these, through close examination of texts (written or visual), discussion, analysis, and interpretation of selected materials. Specific topics vary by instructor and semester. May be repeated if topics are different. Taught in Chinese. Prerequisite: CHIN 302 or equivalent.",
-	"level": 300,
-	"num": 320,
-	"pf": false,
-	"places": [
-		"TOH 212"
-	],
-	"profs": [
+	"instructors": [
 		"Ka F. Wong"
 	],
-	"sem": 1,
+	"level": 300,
+	"locations": [
+		"TOH 212"
+	],
+	"num": 320,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"MWF 0200-0255PM"

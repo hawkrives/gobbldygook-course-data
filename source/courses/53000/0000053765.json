@@ -6,16 +6,17 @@
 		"PETH"
 	],
 	"desc": "Research",
+	"instructors": [
+		"Daniel Hagen",
+		"Cynthia Book"
+	],
 	"level": 300,
 	"name": "IR/Athletic Restraint",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Daniel Hagen",
-		"Cynthia Book"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"title": "Independent Research",
 	"type": "Research",

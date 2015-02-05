@@ -5,18 +5,19 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"John Walters"
+	],
 	"level": 200,
+	"locations": [
+		"SC 321"
+	],
 	"name": "Analytical Lab",
 	"num": 256,
 	"pf": true,
-	"places": [
-		"SC 321"
-	],
-	"profs": [
-		"John Walters"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"W 1255-0500PM"

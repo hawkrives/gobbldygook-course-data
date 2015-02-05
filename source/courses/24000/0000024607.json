@@ -5,14 +5,15 @@
 	"depts": [
 		"IC"
 	],
+	"instructors": [
+		"Samiha Peterson"
+	],
 	"level": 200,
 	"name": "Islamic Civilization",
 	"num": 269,
 	"pf": false,
-	"profs": [
-		"Samiha Peterson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"title": "Islamic Civilization",
 	"type": "Research",

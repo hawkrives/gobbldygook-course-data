@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"William Poehlmann"
+	],
 	"level": 200,
+	"locations": [
+		"CH 102"
+	],
 	"name": "St.Paul/Letter/Gospel",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"William Poehlmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"MWF 0905-1000"

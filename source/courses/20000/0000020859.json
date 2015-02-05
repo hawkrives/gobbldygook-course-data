@@ -5,17 +5,18 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Lavinia Moyer"
+	],
 	"level": 100,
+	"locations": [
+		"SPT 14"
+	],
 	"name": "Intro to Acting",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"SPT 14"
-	],
-	"profs": [
-		"Lavinia Moyer"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

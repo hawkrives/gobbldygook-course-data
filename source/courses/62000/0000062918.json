@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Robert W. McClure"
+	],
 	"level": 200,
-	"name": "Human Geography",
-	"num": 234,
-	"pf": false,
-	"places": [
+	"locations": [
 		"Mod 4",
 		"Mod 4"
 	],
-	"profs": [
-		"Robert W. McClure"
-	],
-	"sem": 3,
+	"name": "Human Geography",
+	"num": 234,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"T 0120-0245PM",

@@ -5,14 +5,15 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 100,
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20015,
 	"title": "Beginning Latin II",
 	"type": "Research",

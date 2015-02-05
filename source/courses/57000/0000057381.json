@@ -6,17 +6,18 @@
 		"PHYS"
 	],
 	"groupid": 1086,
+	"instructors": [
+		"Todd Coleman"
+	],
 	"level": 200,
+	"locations": [
+		"SC 159"
+	],
 	"name": "Musical Acoustics Lab",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"SC 159"
-	],
-	"profs": [
-		"Todd Coleman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20072,
 	"times": [
 		"M-F 0100-0330PM"

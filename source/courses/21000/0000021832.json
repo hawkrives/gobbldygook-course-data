@@ -5,18 +5,19 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Kathleen Edelmayer"
+	],
 	"level": 100,
+	"locations": [
+		"SPT GREEN RM"
+	],
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
-	"places": [
-		"SPT GREEN RM"
-	],
-	"profs": [
-		"Kathleen Edelmayer"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 19971,
 	"times": [
 		"TTh 0800-0925"

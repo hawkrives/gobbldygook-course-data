@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Paul Miller"
+	],
 	"level": 100,
+	"locations": [
+		"MFH WT RM"
+	],
 	"name": "Wt Training-Men",
 	"num": 141,
 	"pf": false,
-	"places": [
-		"MFH WT RM"
-	],
-	"profs": [
-		"Paul Miller"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 19983,
 	"times": [
 		"MW 1045-1140"

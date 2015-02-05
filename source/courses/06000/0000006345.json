@@ -5,18 +5,19 @@
 	"depts": [
 		"STAT"
 	],
+	"instructors": [
+		"Craig A. Solid"
+	],
 	"level": 100,
+	"locations": [
+		"TB 216"
+	],
 	"name": "Prin of Statistics",
 	"num": 110,
 	"pf": false,
-	"places": [
-		"TB 216"
-	],
-	"profs": [
-		"Craig A. Solid"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"times": [
 		"MWF 0905-1000"

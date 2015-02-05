@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 300,
+	"locations": [
+		"L 520"
+	],
 	"name": "Major Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"L 520"
-	],
-	"profs": [
-		"Colin Wells"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19973,
 	"times": [
 		"TTh 0935-1100"

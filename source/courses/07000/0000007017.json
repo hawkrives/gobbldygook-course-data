@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Jeane DeLaney"
+	],
 	"level": 200,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Modern Latin America",
 	"num": 281,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Jeane DeLaney"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"MWF 0200-0255PM"

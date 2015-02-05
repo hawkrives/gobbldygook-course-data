@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 126,
+	"instructors": [
+		"Louis Henry Kermott"
+	],
 	"level": 200,
+	"locations": [
+		"SC 253"
+	],
 	"name": "Human Anatomy & Physiol L",
 	"num": 243,
 	"pf": false,
-	"places": [
-		"SC 253"
-	],
-	"profs": [
-		"Louis Henry Kermott"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20051,
 	"times": [
 		"T 0800-1100"

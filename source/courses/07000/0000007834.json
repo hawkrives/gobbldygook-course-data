@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
-	"level": 300,
-	"name": "Issues in Education",
-	"num": 385,
-	"pf": false,
-	"places": [
-		"TBA"
-	],
-	"profs": [
+	"instructors": [
 		"Robert W. McClure",
 		"John Welckle"
 	],
-	"sem": 1,
+	"level": 300,
+	"locations": [
+		"TBA"
+	],
+	"name": "Issues in Education",
+	"num": 385,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20041,
 	"times": [
 		"M-F 0800-0400PM"

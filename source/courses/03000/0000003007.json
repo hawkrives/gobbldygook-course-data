@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Char Anne Bezanson"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Tchg of Science",
 	"num": 364,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Char Anne Bezanson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"T 0700-1000PM"

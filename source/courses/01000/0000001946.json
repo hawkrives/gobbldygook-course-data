@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Joel Olfelt"
+	],
 	"level": 300,
 	"name": "IR/Pop Con Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Joel Olfelt"
-	],
-	"sect": "E",
-	"sem": 1,
+	"section": "E",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "IR/Pop Con Research",
 	"type": "Research",

@@ -6,18 +6,19 @@
 		"CHEM"
 	],
 	"groupid": 187,
+	"instructors": [
+		"Janice Pellino"
+	],
 	"level": 100,
+	"locations": [
+		"SC 371"
+	],
 	"name": "Gen Chemistry/Lab",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"SC 371"
-	],
-	"profs": [
-		"Janice Pellino"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20071,
 	"times": [
 		"M 0200-0500PM"

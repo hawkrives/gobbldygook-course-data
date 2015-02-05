@@ -5,17 +5,18 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"David Hauck"
+	],
 	"level": 100,
+	"locations": [
+		"SAC RACQ CT"
+	],
 	"name": "Handball/Racquetball",
 	"num": 155,
 	"pf": false,
-	"places": [
-		"SAC RACQ CT"
-	],
-	"profs": [
-		"David Hauck"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MW 1255-0150PM"

@@ -10,19 +10,20 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Joan Hepburn"
+	],
 	"level": 100,
-	"notes": "Open to first-year students and sophomores only.",
-	"num": 185,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 421",
 		"RML 421"
 	],
-	"profs": [
-		"Joan Hepburn"
-	],
-	"sect": "B",
-	"sem": 3,
+	"notes": "Open to first-year students and sophomores only.",
+	"num": 185,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",

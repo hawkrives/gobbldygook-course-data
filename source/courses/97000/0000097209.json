@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Robert C. Smith"
+	],
 	"level": 200,
 	"name": "IS/Choral-Orch Lit & Hist",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert C. Smith"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20133,
 	"title": "Independent Study",
 	"type": "Research",

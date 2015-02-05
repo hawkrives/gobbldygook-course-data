@@ -5,19 +5,20 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Lori Cooling"
+	],
 	"level": 100,
-	"name": "Racquetball (Wmn)",
-	"num": 153,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SAC RACQ CT",
 		"SAC RACQ CT"
 	],
-	"profs": [
-		"Lori Cooling"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Racquetball (Wmn)",
+	"num": 153,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"T 1005-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Cora Scholz"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 140"
+	],
 	"name": "Child & Adolesc Voice",
 	"num": 365,
 	"pf": false,
-	"places": [
-		"CHM 140"
-	],
-	"profs": [
-		"Cora Scholz"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MW 0905-1000"

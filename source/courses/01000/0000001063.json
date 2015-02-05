@@ -5,17 +5,18 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
+	"locations": [
+		"SC 278"
+	],
 	"name": "Neuroscience Seminar",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"SC 278"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MW 0100-0300PM"

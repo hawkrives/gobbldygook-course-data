@@ -9,19 +9,20 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Michael Fuerstein"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Law, Politics, Morality",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Michael Fuerstein"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

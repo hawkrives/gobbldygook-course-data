@@ -5,19 +5,20 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Konrad Talbot"
+	],
 	"level": 100,
-	"name": "Principles of Psych",
-	"num": 121,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"SC 280"
 	],
-	"profs": [
-		"Konrad Talbot"
-	],
-	"sect": "D",
-	"sem": 3,
+	"name": "Principles of Psych",
+	"num": 121,
+	"pf": false,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 0935-1030",

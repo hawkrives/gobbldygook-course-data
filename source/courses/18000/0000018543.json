@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"J Wesley Brown"
+	],
 	"level": 200,
 	"name": "IS/Adolescent Devianc",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"J Wesley Brown"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Adolescent Devianc",
 	"type": "Research",

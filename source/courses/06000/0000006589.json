@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Shelly D. Dickinson"
+	],
 	"level": 200,
-	"name": "Drugs, Brain,Behavior",
-	"num": 239,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 280",
 		"HH 307"
 	],
-	"profs": [
-		"Shelly D. Dickinson"
-	],
-	"sem": 2,
+	"name": "Drugs, Brain,Behavior",
+	"num": 239,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"MTThF 1040-1200PM",

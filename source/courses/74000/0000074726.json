@@ -8,18 +8,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Jeff Solomon"
+	],
 	"level": 200,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Top: 20th C Amer Lit",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Jeff Solomon"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

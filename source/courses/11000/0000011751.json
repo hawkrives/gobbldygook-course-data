@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 100,
+	"locations": [
+		"SC 282"
+	],
 	"name": "Forensic Science",
 	"num": 106,
 	"pf": false,
-	"places": [
-		"SC 282"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

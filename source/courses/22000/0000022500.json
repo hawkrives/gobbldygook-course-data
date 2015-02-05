@@ -5,17 +5,18 @@
 	"depts": [
 		"GREEK"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Greek Historians",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"TTh 1145-0110PM"

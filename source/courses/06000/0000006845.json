@@ -5,17 +5,18 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Daniel R. Forstner"
+	],
 	"level": 300,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Teaching Reading 5-12",
 	"num": 321,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Daniel R. Forstner"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"times": [
 		"T 0700-1000PM"

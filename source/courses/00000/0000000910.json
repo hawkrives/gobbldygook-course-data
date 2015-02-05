@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Susan Bloom"
+	],
 	"level": 200,
+	"locations": [
+		"M 11"
+	],
 	"name": "Pol Econ of Eur Union",
 	"num": 253,
 	"pf": false,
-	"places": [
-		"M 11"
-	],
-	"profs": [
-		"Susan Bloom"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-Th 1040-1240PM"

@@ -10,18 +10,19 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Charles Wilson"
+	],
 	"level": 200,
-	"num": 202,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 140",
 		"OM 140"
 	],
-	"profs": [
-		"Charles Wilson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 202,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Mark Schelske"
+	],
 	"level": 200,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Educ Psychology",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"Mark Schelske"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"MWF 0905-1000"

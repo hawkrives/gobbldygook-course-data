@@ -5,18 +5,19 @@
 	"depts": [
 		"AMCON"
 	],
+	"instructors": [
+		"Eric J. Fure-Slocum"
+	],
 	"level": 100,
+	"locations": [
+		"STEENSLAND"
+	],
 	"name": "Dem Vistas: 1800-1900",
 	"num": 102,
 	"pf": false,
-	"places": [
-		"STEENSLAND"
-	],
-	"profs": [
-		"Eric J. Fure-Slocum"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1255-0150PM"

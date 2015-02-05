@@ -5,17 +5,18 @@
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Dolores Peters"
+	],
 	"level": 200,
+	"locations": [
+		"HH 301"
+	],
 	"name": "Women/Gender/Europe",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"HH 301"
-	],
-	"profs": [
-		"Dolores Peters"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1045-1140"

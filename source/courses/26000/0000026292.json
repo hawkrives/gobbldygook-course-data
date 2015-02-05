@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"John Walters"
+	],
 	"level": 300,
 	"name": "IR/Lab Robotics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"John Walters"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"title": "IR/Lab Robotics",
 	"type": "Research",

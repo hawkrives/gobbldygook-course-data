@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"D Christopher Brooks"
+	],
 	"level": 200,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Russian Politics",
 	"num": 282,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"D Christopher Brooks"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

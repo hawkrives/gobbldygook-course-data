@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 300,
+	"locations": [
+		"H 516"
+	],
 	"name": "Seminar",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"H 516"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"W 0700-1000PM"

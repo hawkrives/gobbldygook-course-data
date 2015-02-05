@@ -5,15 +5,16 @@
 	"depts": [
 		"IS"
 	],
+	"instructors": [
+		"David Nitz"
+	],
 	"level": 300,
 	"name": "Senior Project I",
 	"num": 391,
 	"pf": true,
-	"profs": [
-		"David Nitz"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20031,
 	"title": "Senior Project I",
 	"type": "Research",

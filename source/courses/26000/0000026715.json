@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Amy Larsen"
+	],
 	"level": 300,
+	"locations": [
+		"SC 110"
+	],
 	"name": "Selected Topics",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"SC 110"
-	],
-	"profs": [
-		"Amy Larsen"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MF 1230-0200PM"

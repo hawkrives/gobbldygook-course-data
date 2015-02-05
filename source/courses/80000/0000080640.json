@@ -5,15 +5,16 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kent M. McWilliams"
+	],
 	"level": 200,
 	"name": "IS/Collaborative Piano",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kent M. McWilliams"
-	],
-	"sect": "D",
-	"sem": 3,
+	"section": "D",
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"title": "Independent Study",
 	"type": "Research",

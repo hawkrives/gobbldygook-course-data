@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Lauri Sammartano"
+	],
 	"level": 200,
 	"name": "IS/Biology of Women",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Lauri Sammartano"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Biology of Women",
 	"type": "Research",

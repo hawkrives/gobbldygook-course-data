@@ -9,18 +9,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Jan C. Hill"
+	],
 	"level": 200,
-	"name": "Children's Literature",
-	"num": 242,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Jan C. Hill"
-	],
-	"sem": 3,
+	"name": "Children's Literature",
+	"num": 242,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0120-0245PM",

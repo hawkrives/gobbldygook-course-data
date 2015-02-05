@@ -5,17 +5,18 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karen Pauly"
+	],
 	"level": 200,
+	"locations": [
+		"OM 011"
+	],
 	"name": "Writing German",
 	"num": 251,
 	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
-		"Karen Pauly"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

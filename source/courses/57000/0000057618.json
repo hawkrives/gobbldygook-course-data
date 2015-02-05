@@ -6,18 +6,19 @@
 		"STAT"
 	],
 	"desc": "This course extends and generalized methods introduced in Statistics 272. Topics include generalized lindear models, including logistic and poisson regression. Correlated data methods including longitudinal data analysis and multilevel models are covered. Applications are drawn from across the disciplines. Prerequisite: Statistics 272. Offered Spring Semester.",
+	"instructors": [
+		"Julie M. Legler"
+	],
 	"level": 300,
-	"name": "Adv Statistical Model",
-	"num": 316,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 182",
 		"SC 182"
 	],
-	"profs": [
-		"Julie M. Legler"
-	],
-	"sem": 3,
+	"name": "Adv Statistical Model",
+	"num": 316,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 0935-1100",

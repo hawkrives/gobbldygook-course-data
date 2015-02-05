@@ -5,14 +5,15 @@
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Solveig Zempel"
+	],
 	"level": 200,
 	"name": "IS/Polish Lang & Culture",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Solveig Zempel"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

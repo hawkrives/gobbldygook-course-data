@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Theodore Vessey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 184"
+	],
 	"name": "Multivariable Calc",
 	"num": 226,
 	"pf": false,
-	"places": [
-		"SC 184"
-	],
-	"profs": [
-		"Theodore Vessey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"times": [
 		"MWF 1150-1240PM"

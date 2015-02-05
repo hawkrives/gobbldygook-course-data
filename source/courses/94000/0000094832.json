@@ -10,20 +10,21 @@
 		"SED"
 	],
 	"groupid": 192,
+	"instructors": [
+		"William Samuels"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Struct Chem & Equilib",
 	"notes": "Students registering for Chem 125 must also register for one Chem 125 lab. This course has class year limits.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390",
-		"RNS 390"
-	],
-	"profs": [
-		"William Samuels"
-	],
-	"sect": "D",
-	"sem": 1,
+	"section": "D",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"T 0935-1100",

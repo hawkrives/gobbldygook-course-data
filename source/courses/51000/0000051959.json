@@ -6,18 +6,19 @@
 		"PSYCH"
 	],
 	"desc": "Students apply psychological facts and principles to the problems that permeate business and industry. Topics include organizational structure, personnel management, employee-supervisor relationships, job satisfaction and motivation, communication and leadership. Prerequisite: Psychology 125, Statistics 110, 212 or 263.",
-	"level": 200,
-	"name": "Indust/Organizations",
-	"num": 250,
-	"pf": false,
-	"places": [
-		"HH 317"
-	],
-	"profs": [
+	"instructors": [
 		"William Scott Gregory",
 		"Harold Brull"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"HH 317"
+	],
+	"name": "Indust/Organizations",
+	"num": 250,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20063,
 	"times": [
 		"Th 0700-1000PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Colin Wells"
+	],
 	"level": 100,
 	"name": "The Comic Novel",
 	"num": 131,
 	"pf": false,
-	"profs": [
-		"Colin Wells"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19952,
 	"title": "The Comic Novel",
 	"type": "Research",

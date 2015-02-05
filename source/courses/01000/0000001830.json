@@ -5,14 +5,15 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Frederike Von Schwerin-High"
+	],
 	"level": 100,
 	"name": "Beginning German II",
 	"num": 112,
 	"pf": false,
-	"profs": [
-		"Frederike Von Schwerin-High"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20005,
 	"title": "Beginning German II",
 	"type": "Research",

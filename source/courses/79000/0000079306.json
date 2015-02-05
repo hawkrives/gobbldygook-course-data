@@ -12,18 +12,19 @@
 		"SED"
 	],
 	"groupid": 18802,
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Integrated Chem/Bio III",
 	"notes": "Students in CH/BI 127 must also register for lab CH/BI 127 AL or BL. Open only to those students who have completed CH/BI 126.",
 	"num": 127,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"MWF 1150-1245PM"

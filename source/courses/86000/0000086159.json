@@ -10,18 +10,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 300,
-	"name": "Sem: East Asia",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 515",
 		"HH 515"
 	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"name": "Sem: East Asia",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20123,
 	"times": [
 		"T 0120-0245PM",

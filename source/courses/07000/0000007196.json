@@ -5,14 +5,15 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Rick A. Fairbanks"
+	],
 	"level": 300,
 	"name": "IR/Meta-Ecology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Rick A. Fairbanks"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Meta-Ecology",
 	"type": "Research",

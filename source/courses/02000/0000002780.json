@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Anantanand Rambachan"
+	],
 	"level": 200,
+	"locations": [
+		"CH 102"
+	],
 	"name": "Rel Pluralsm/Communit",
 	"num": 295,
 	"pf": false,
-	"places": [
-		"CH 102"
-	],
-	"profs": [
-		"Anantanand Rambachan"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20012,
 	"times": [
 		"M-F 1040-1240PM"

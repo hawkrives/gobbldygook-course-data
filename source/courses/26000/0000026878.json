@@ -5,17 +5,18 @@
 	"depts": [
 		"SWRK"
 	],
+	"instructors": [
+		"Matthew Ringenberg"
+	],
 	"level": 200,
+	"locations": [
+		"H 302"
+	],
 	"name": "Social Work Methds II",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Matthew Ringenberg"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

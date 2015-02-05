@@ -10,18 +10,19 @@
 		"WRI"
 	],
 	"groupid": 164,
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
-	"notes": "Students in Bio 372 must also register for lab Bio 372 AL or BL. Open to Juniors and Seniors only.",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 290",
 		"RNS 290"
 	],
-	"profs": [
-		"Eric Cole"
-	],
-	"sem": 3,
+	"notes": "Students in Bio 372 must also register for lab Bio 372 AL or BL. Open to Juniors and Seniors only.",
+	"num": 372,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"T 0935-1100",

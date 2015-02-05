@@ -8,15 +8,16 @@
 				"HIST"
 			],
 			"desc": "This course introduces students to Mediterranean archaeological field techniques and methods such as survey, site identification, artifact processing and analysis, and site excavation. During a five-week summer session, students: visit museums in order to recognize artifacts and contextualize them in regional chronologies; practice and refine excavation and survey techniques; and critically examine how archaeological knowledge about the ancient Mediterranean is constructed and expressed.",
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 200,
 			"name": "Archaeological Methods",
 			"num": 202,
 			"pf": false,
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sect": "H",
-			"sem": 5,
+			"section": "H",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Mediterranean Archaeology Field School",
 			"type": "Research",
@@ -35,17 +36,18 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Gregory A. Walter"
+			],
 			"level": 200,
+			"locations": [
+				"OM 110"
+			],
 			"name": "Quest of Ring/Grail/Cross",
 			"num": 238,
 			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
-				"Gregory A. Walter"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 0800-0930"
@@ -66,17 +68,18 @@
 				"EIN",
 				"WRI"
 			],
+			"instructors": [
+				"Gregory A. Walter"
+			],
 			"level": 200,
+			"locations": [
+				"OM 110"
+			],
 			"name": "Rel Pluralsm/Communit",
 			"num": 293,
 			"pf": false,
-			"places": [
-				"OM 110"
-			],
-			"profs": [
-				"Gregory A. Walter"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1130"
@@ -96,17 +99,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Andrea J. Gelle"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Individual Fitness.50",
 			"num": 133,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Andrea J. Gelle"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20135,
 			"times": [
 				"M-F 0800-0930"
@@ -126,17 +130,18 @@
 			"gereqs": [
 				"SPM"
 			],
+			"instructors": [
+				"Michael M. Ludwig"
+			],
 			"level": 100,
+			"locations": [
+				"SAC 112"
+			],
 			"name": "Wt Training Co-Ed .50",
 			"num": 140,
 			"pf": false,
-			"places": [
-				"SAC 112"
-			],
-			"profs": [
-				"Michael M. Ludwig"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 0230-0400PM"
@@ -157,17 +162,18 @@
 				"HBS",
 				"MCG"
 			],
+			"instructors": [
+				"Robert W. McClure"
+			],
 			"level": 200,
+			"locations": [
+				"TOH 212"
+			],
 			"name": "Human Geography",
 			"num": 234,
 			"pf": false,
-			"places": [
-				"TOH 212"
-			],
-			"profs": [
-				"Robert W. McClure"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1230-0200PM"
@@ -184,14 +190,15 @@
 				"ENVST"
 			],
 			"desc": "EnvSt 281 Soil to Plate (ARTHUM) \u0096 Mark Allister In this course students study food and the local foods movement from soil to plate. Study takes place in and out of the classroom: students read the agricultural bill and Michael Pollan; watch documentaries about our national food issues and visit local farms; work with and on local farms to see how they do their business; and, as often as possible, cook and eat. Fine chefs welcome. Those who aren't will get some cooking lessons.",
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 200,
 			"name": "Top: Food: Soil to Plate",
 			"num": 281,
 			"pf": false,
-			"profs": [
-				"Mark Allister"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "X",
 			"term": 20135,
 			"times": [
 				"M-F 1230-0200PM"
@@ -208,16 +215,17 @@
 				"SPAN"
 			],
 			"desc": "Students expand their skills by continuing to listen, speak, read, and write on such topics as the concept of time, leisure activities, and culinary traditions in North American and Hispanic cultures. Additional work is done in the World Languages Center. Prerequisite: Spanish 111 or placement. Offered each semester.",
-			"level": 100,
-			"num": 112,
-			"pf": false,
-			"places": [
-				"TOH 310"
-			],
-			"profs": [
+			"instructors": [
 				"Kris A. Cropsey"
 			],
-			"sem": 5,
+			"level": 100,
+			"locations": [
+				"TOH 310"
+			],
+			"num": 112,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1130"
@@ -238,17 +246,18 @@
 				"SED"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 310"
+			],
 			"name": "Chemical Reactions",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1130"
@@ -265,17 +274,18 @@
 				"CHEM"
 			],
 			"groupid": 194,
+			"instructors": [
+				"Patrick N. Riley"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 355"
+			],
 			"name": "Chemical Reactions Lab",
 			"num": 126,
 			"pf": false,
-			"places": [
-				"RNS 355"
-			],
-			"profs": [
-				"Patrick N. Riley"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"MW 0100-0400PM"
@@ -296,17 +306,18 @@
 				"ALS-L"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 200,
+			"locations": [
+				"RML 420"
+			],
 			"name": "Romanticism & Rock Music",
 			"num": 266,
 			"pf": false,
-			"places": [
-				"RML 420"
-			],
-			"profs": [
-				"Mark Allister"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1130"
@@ -323,16 +334,17 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 247 topics. Chemistry 248 delves into the chemistry of functional groups, especially those that play a role in the reactivity of biomolecules such as carbohydrates, lipids, proteins ,and nucleic acids. Together, Chemistry 247 and 248 provide a full treatment of introductory organic chemistry. Prerequisite: Chemistry 247 or permission of instructor. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
-			"level": 200,
-			"num": 248,
-			"pf": false,
-			"places": [
-				"RNS 310"
-			],
-			"profs": [
+			"instructors": [
 				"Wesley Pearson"
 			],
-			"sem": 5,
+			"level": 200,
+			"locations": [
+				"RNS 310"
+			],
+			"num": 248,
+			"pf": false,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 0800-0930"
@@ -349,18 +361,19 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"instructors": [
+				"Marc D. Scholten"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab II",
 			"num": 254,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Marc D. Scholten"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "C",
 			"term": 20135,
 			"times": [
 				"MW 0100-0400PM"
@@ -377,18 +390,19 @@
 				"CHEM"
 			],
 			"desc": "This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
+			"instructors": [
+				"Marc D. Scholten"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 340"
+			],
 			"name": "Synthesis Lab II",
 			"num": 254,
 			"pf": true,
-			"places": [
-				"RNS 340"
-			],
-			"profs": [
-				"Marc D. Scholten"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"TTh 0100-0400PM"
@@ -409,18 +423,19 @@
 				"SED"
 			],
 			"groupid": 1074,
+			"instructors": [
+				"Stanley Trout"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 210"
+			],
 			"name": "Principles Physics II",
 			"notes": "Physics 124 and 125 will be taught consecutively outside of standard term dates: Physics 124 term dates: Monday, June 2 - Friday, June 27, 2014 Physics 125 term dates: Monday, June 30 - Monday, July 28, 2014",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 210"
-			],
-			"profs": [
-				"Stanley Trout"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1200PM"
@@ -437,18 +452,19 @@
 				"PHYS"
 			],
 			"groupid": 1074,
+			"instructors": [
+				"Stanley Trout"
+			],
 			"level": 100,
+			"locations": [
+				"RNS 292"
+			],
 			"name": "Principles Physics II Lab",
 			"notes": "Physics 124 and 125 will be taught consecutively outside of standard term dates: Physics 124 term dates: Monday, June 2 - Friday, June 27, 2014 Physics 125 term dates: Monday, June 30 - Monday, July 28, 2014",
 			"num": 125,
 			"pf": false,
-			"places": [
-				"RNS 292"
-			],
-			"profs": [
-				"Stanley Trout"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"MW 0100-0330PM"
@@ -469,16 +485,17 @@
 				"ALS-A",
 				"ORC"
 			],
-			"level": 100,
-			"num": 132,
-			"pf": false,
-			"places": [
-				"CHM 232"
-			],
-			"profs": [
+			"instructors": [
 				"David Carter"
 			],
-			"sem": 5,
+			"level": 100,
+			"locations": [
+				"CHM 232"
+			],
+			"num": 132,
+			"pf": false,
+			"semester": 5,
+			"status": "X",
 			"term": 20135,
 			"times": [
 				"M-F 0800-0930"
@@ -500,17 +517,18 @@
 				"MCD"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Joshua Anderson"
+			],
 			"level": 200,
+			"locations": [
+				"RNS 284"
+			],
 			"name": "Race and Politics",
 			"num": 244,
 			"pf": false,
-			"places": [
-				"RNS 284"
-			],
-			"profs": [
-				"Joshua Anderson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1000-1130"
@@ -531,17 +549,18 @@
 				"ALS-A"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"David R. Castro"
+			],
 			"level": 100,
+			"locations": [
+				"CHM 239"
+			],
 			"name": "Rock Music: Style/Context",
 			"num": 134,
 			"pf": false,
-			"places": [
-				"CHM 239"
-			],
-			"profs": [
-				"David R. Castro"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"times": [
 				"M-F 1230-0200PM"
@@ -557,13 +576,14 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Paul Wojick"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Paul Wojick"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -576,13 +596,14 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Ashley Hodgson"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Ashley Hodgson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -595,14 +616,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Timothy R. Howe"
+			],
 			"level": 300,
 			"name": "IR/History of Coinage",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Timothy R. Howe"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Independent Research",
 			"type": "Research",
@@ -615,13 +637,14 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Ka F. Wong"
+			],
 			"level": 300,
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Ka F. Wong"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -634,14 +657,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Ibtesam Al Atiyat"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -655,14 +679,15 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"instructors": [
+				"Kyle A. Whittinghill"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kyle A. Whittinghill"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -675,13 +700,14 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Ka F. Wong"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Ka F. Wong"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -694,13 +720,14 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Margaret Ojala"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Margaret Ojala"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -718,14 +745,15 @@
 				"WRI"
 			],
 			"grouptype": "R",
+			"instructors": [
+				"Heather Campbell"
+			],
 			"level": 200,
 			"name": "McNair Research Writing",
 			"num": 237,
 			"pf": false,
-			"profs": [
-				"Heather Campbell"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20135,
 			"title": "McNair Research Writing Across the Disciplines",
 			"type": "Research",
@@ -738,14 +766,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Xun Pomponio"
+			],
 			"level": 300,
 			"name": "IR/Olympic\\Effect\\Cities",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Xun Pomponio"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Independent Research",
 			"type": "Research",
@@ -758,14 +787,15 @@
 			"depts": [
 				"MEDIA"
 			],
+			"instructors": [
+				"William Sonnega"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"William Sonnega"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -779,13 +809,14 @@
 				"ECON"
 			],
 			"desc": "Academic Internship.",
+			"instructors": [
+				"Ashley Hodgson"
+			],
 			"level": 300,
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Ashley Hodgson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -798,14 +829,15 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -818,14 +850,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Ashley Hodgson"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Ashley Hodgson"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -838,14 +871,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -859,14 +893,15 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+			"instructors": [
+				"Diana Neal"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Diana Neal"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -879,13 +914,14 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -898,14 +934,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Mary Carlsen"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Mary Carlsen"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -918,15 +955,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -940,15 +978,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -961,14 +1000,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Kathleen L. Shea"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kathleen L. Shea"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -981,15 +1021,16 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Michael Swift"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Michael Swift"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1002,14 +1043,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Thomas A. Williamson"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Thomas A. Williamson"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1022,14 +1064,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1042,15 +1085,16 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1064,14 +1108,15 @@
 				"PSCI"
 			],
 			"desc": "Internships are available in a wide variety of public and private institutions including the state legislature, lobbying agencies, law firms, media organizations, corporate public affairs, and executive agencies.",
+			"instructors": [
+				"Kristina Thalhammer"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Kristina Thalhammer"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1084,14 +1129,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Katherine S. Tegtmeyer Pak"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Katherine S. Tegtmeyer Pak"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1104,14 +1150,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Douglas J. Beussman"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Douglas J. Beussman"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1124,15 +1171,16 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Shahram Ahrar"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Shahram Ahrar"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1145,15 +1193,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gregory W. Muth"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Gregory W. Muth"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1166,14 +1215,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Karil J. Kucera"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Karil J. Kucera"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1187,15 +1237,16 @@
 				"BIO"
 			],
 			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"instructors": [
+				"Eric Cole"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Eric Cole"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1209,14 +1260,15 @@
 				"BIO"
 			],
 			"desc": "Independent study allows students to study in an area not covered in the regular biology course offerings. The student undertakes substantial independent study in a defined biological field, meets regularly with faculty supervisor, and prepares some form of presentation of the material learned. The student must obtain permission of supervisor and complete an independent study form available from the Office of the Registrar and Academic Advising or its Web site.",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
 			"level": 200,
 			"name": "IS/Compar Reproduction",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Jean C. Porterfield"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1235,14 +1287,15 @@
 				"SED"
 			],
 			"grouptype": "R",
-			"level": 100,
-			"num": 150,
-			"pf": false,
-			"profs": [
+			"instructors": [
 				"Michael Swift",
 				"Anne Walter"
 			],
-			"sem": 5,
+			"level": 100,
+			"num": 150,
+			"pf": false,
+			"semester": 5,
+			"status": "C",
 			"term": 20135,
 			"title": "Explorations in Science",
 			"type": "Research",
@@ -1257,14 +1310,15 @@
 			],
 			"desc": "This course provides supplemental instruction in reading, writing, and critical thinking in conjunction with a designated course. Students practice reading course-specific texts, focusing writing topics, writing essay and short answer exams, developing research habits, indentifying and using discipline-specific sources, and writing for general and specific audiences. Supplemental assignments complement writing in the designated course. Prerequisite: concurrent enrollment in a designated full-credit course. May be repeated once with a different designated course.",
 			"grouptype": "R",
+			"instructors": [
+				"Wendy D. Gonzalez"
+			],
 			"level": 100,
 			"name": "Top: Supplemental Writing",
 			"num": 109,
 			"pf": true,
-			"profs": [
-				"Wendy D. Gonzalez"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20135,
 			"title": "Topics: Supplemental Writing",
 			"type": "Topic",
@@ -1277,15 +1331,16 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Richard Goedde"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Richard Goedde"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1298,14 +1353,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"M. Minda Ori\u00f1a"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"M. Minda Ori\u00f1a"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1318,15 +1374,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Gregory W. Muth"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Gregory W. Muth"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1344,13 +1401,14 @@
 				"HBS",
 				"MCG"
 			],
+			"instructors": [
+				"Anthony Pahnke"
+			],
 			"level": 100,
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Anthony Pahnke"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "C",
 			"term": 20135,
 			"title": "Comparative Politics",
 			"type": "Research",
@@ -1363,14 +1421,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Gordon D. Marino"
+			],
 			"level": 200,
 			"name": "IS/Kierkegaard: Frag Post",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Gordon D. Marino"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1383,14 +1442,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Jeremy Loebach"
+			],
 			"level": 200,
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Jeremy Loebach"
-			],
-			"sect": "B",
-			"sem": 5,
+			"section": "B",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Academic Internship",
 			"type": "Research",
@@ -1403,14 +1463,15 @@
 			"depts": [
 				"ESTH"
 			],
+			"instructors": [
+				"Cynthia Book"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Cynthia Book"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1423,14 +1484,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Timothy Mahr"
+			],
 			"level": 200,
 			"name": "Academic Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Timothy Mahr"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",
@@ -1443,14 +1505,15 @@
 			"depts": [
 				"MGMT"
 			],
+			"instructors": [
+				"Sian E. Muir"
+			],
 			"level": 200,
 			"name": "IS/Aspects of Corp Law",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Sian E. Muir"
-			],
-			"sem": 5,
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Independent Study",
 			"type": "Research",
@@ -1464,15 +1527,16 @@
 				"NURS"
 			],
 			"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+			"instructors": [
+				"Mary Kuehn"
+			],
 			"level": 300,
 			"name": "Academic Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Mary Kuehn"
-			],
-			"sect": "A",
-			"sem": 5,
+			"section": "A",
+			"semester": 5,
+			"status": "O",
 			"term": 20135,
 			"title": "Internship",
 			"type": "Research",

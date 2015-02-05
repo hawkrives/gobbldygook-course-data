@@ -5,19 +5,20 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Martha Wallace"
+	],
 	"level": 300,
-	"name": "Geometry",
-	"num": 356,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 184",
 		"SC 184",
 		"SC 184"
 	],
-	"profs": [
-		"Martha Wallace"
-	],
-	"sem": 2,
+	"name": "Geometry",
+	"num": 356,
+	"pf": false,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 0800-1000",

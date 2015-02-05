@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"John Welckle"
+	],
 	"level": 200,
+	"locations": [
+		"FH 10"
+	],
 	"name": "Educ Psychology",
 	"num": 290,
 	"pf": false,
-	"places": [
-		"FH 10"
-	],
-	"profs": [
-		"John Welckle"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

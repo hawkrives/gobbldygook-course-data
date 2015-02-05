@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Jennifer C. Manion"
+	],
 	"level": 100,
+	"locations": [
+		"HH 516"
+	],
 	"name": "Making of Modern Mind",
 	"num": 118,
 	"pf": false,
-	"places": [
-		"HH 516"
-	],
-	"profs": [
-		"Jennifer C. Manion"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 0100-0300PM"

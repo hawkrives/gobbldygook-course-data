@@ -10,17 +10,18 @@
 		"HWC",
 		"WRI"
 	],
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"MWF 1150-1245PM"

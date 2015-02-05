@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul Fischer",
+		"Gary Miessler"
+	],
 	"level": 300,
 	"name": "Advanced Lab",
 	"num": 375,
 	"pf": true,
-	"profs": [
-		"Paul Fischer",
-		"Gary Miessler"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"title": "Advanced Lab",
 	"type": "Lab",

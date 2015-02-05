@@ -9,19 +9,20 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Mark Allister"
+	],
 	"level": 200,
-	"name": "Topics/South Asian Lit",
-	"num": 200,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RML 515",
 		"RML 515"
 	],
-	"profs": [
-		"Mark Allister"
-	],
-	"sect": "C",
-	"sem": 3,
+	"name": "Topics/South Asian Lit",
+	"num": 200,
+	"pf": false,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Alice Hanson"
+	],
 	"level": 300,
-	"name": "Top: Folk/Pop Art Musi",
-	"num": 345,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Alice Hanson"
-	],
-	"sem": 3,
+	"name": "Top: Folk/Pop Art Musi",
+	"num": 345,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0800-0925",

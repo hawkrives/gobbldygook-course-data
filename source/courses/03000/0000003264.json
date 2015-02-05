@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Linda Berger"
+	],
 	"level": 200,
+	"locations": [
+		"CHM 222"
+	],
 	"name": "Piano Class III",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"CHM 222"
-	],
-	"profs": [
-		"Linda Berger"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 1005-1100"

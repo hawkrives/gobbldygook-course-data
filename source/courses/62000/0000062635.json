@@ -6,17 +6,18 @@
 		"MUSIC"
 	],
 	"desc": "Building on principles learned in 111, students encounter more advanced rhythmic patterns, tonal melodies and chord progressions. Prerequisites: Music 111 and 113. Offered Spring Semester.",
-	"level": 100,
-	"num": 112,
-	"pf": false,
-	"places": [
-		"CHM 224"
-	],
-	"profs": [
+	"instructors": [
 		"Michele Gillman"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 224"
+	],
+	"num": 112,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0800-0855"

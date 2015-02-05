@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Prerequisite: Music 114 or permission of instructor. Offered annually in the spring semester.",
+	"instructors": [
+		"Anton Armstrong"
+	],
 	"level": 200,
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 233",
 		"CHM 233"
 	],
-	"profs": [
-		"Anton Armstrong"
-	],
-	"sect": "B",
-	"sem": 3,
+	"num": 251,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 0935-1100",

@@ -5,17 +5,18 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Richard Thomas"
+	],
 	"level": 100,
+	"locations": [
+		"SC 170"
+	],
 	"name": "Intro Astronomy",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"SC 170"
-	],
-	"profs": [
-		"Richard Thomas"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20003,
 	"times": [
 		"MWF 1150-1245PM"

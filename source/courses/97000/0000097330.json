@@ -6,19 +6,20 @@
 		"PSYCH"
 	],
 	"desc": "Seminars allow in-depth study of particular themes or topics in psychology. Prerequisite: PSYCH 230. See department Web site for descriptions and additional prerequisites. Offered most years. May be repeated if topics are different.",
+	"instructors": [
+		"Anna E. Johnson"
+	],
 	"level": 300,
-	"name": "Sem:Stress and Developmnt",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Anna E. Johnson"
-	],
-	"sect": "B",
-	"sem": 3,
+	"name": "Sem:Stress and Developmnt",
+	"num": 390,
+	"pf": false,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",

@@ -5,18 +5,19 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
-	"name": "Reading Comm Literacy",
-	"num": 315,
-	"pf": false,
-	"places": [
+	"locations": [
 		"FH 10L",
 		"FH 10L"
 	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 4,
+	"name": "Reading Comm Literacy",
+	"num": 315,
+	"pf": false,
+	"semester": 4,
+	"status": "O",
 	"term": 20034,
 	"times": [
 		"M-F 0900-1200PM",

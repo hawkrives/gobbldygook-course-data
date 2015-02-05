@@ -7,18 +7,19 @@
 	],
 	"groupid": 239,
 	"grouptype": "2",
+	"instructors": [
+		"Yuedong Merritt"
+	],
 	"level": 100,
+	"locations": [
+		"OM 004"
+	],
 	"name": "Beginning Chinese II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 004"
-	],
-	"profs": [
-		"Yuedong Merritt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"T 1145-0110PM"

@@ -10,17 +10,18 @@
 		"BTS-T",
 		"WRI"
 	],
+	"instructors": [
+		"Gregory A. Walter"
+	],
 	"level": 300,
+	"locations": [
+		"OM 110"
+	],
 	"name": "Hist Chr Thought II",
 	"num": 303,
 	"pf": false,
-	"places": [
-		"OM 110"
-	],
-	"profs": [
-		"Gregory A. Walter"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"MWF 0905-1000"

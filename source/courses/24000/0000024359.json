@@ -5,17 +5,18 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
+	"locations": [
+		"M 36"
+	],
 	"name": "Chinese Drama & Film",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1150-1245PM"

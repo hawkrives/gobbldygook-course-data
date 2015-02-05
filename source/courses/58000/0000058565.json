@@ -6,18 +6,19 @@
 		"ESAC"
 	],
 	"desc": "Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course.",
+	"instructors": [
+		"Shahram Ahrar"
+	],
 	"level": 100,
+	"locations": [
+		"MFH_WT_RM"
+	],
 	"name": "Wt Training-Men",
 	"num": 141,
 	"pf": false,
-	"places": [
-		"MFH_WT_RM"
-	],
-	"profs": [
-		"Shahram Ahrar"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"TTh 0800-0855"

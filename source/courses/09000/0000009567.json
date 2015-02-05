@@ -5,18 +5,19 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Paul P. Moran"
+	],
 	"level": 100,
+	"locations": [
+		"OM 031"
+	],
 	"name": "Beginning Latin II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 031"
-	],
-	"profs": [
-		"Paul P. Moran"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0800-0855"

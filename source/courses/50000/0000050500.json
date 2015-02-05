@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Paul Zorn"
+	],
 	"level": 300,
 	"name": "IR/Complex Analysis",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Zorn"
-	],
-	"sect": "A",
-	"sem": 1,
+	"section": "A",
+	"semester": 1,
+	"status": "O",
 	"term": 20061,
 	"title": "Independent Research",
 	"type": "Research",

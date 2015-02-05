@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Peter J. Gittins"
+	],
 	"level": 300,
 	"name": "IR/Dendrimer Synthesis II",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Peter J. Gittins"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

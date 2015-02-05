@@ -7,14 +7,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Durham Connection",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Durham Connection",
 			"type": "Research",
@@ -27,14 +28,15 @@
 			"depts": [
 				"AMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Urban Culture Comp",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Urban Culture Comp",
 			"type": "Research",
@@ -47,14 +49,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Found Perc/Conc Draw",
 			"num": 110,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Found Perc/Conc Draw",
 			"type": "Research",
@@ -67,14 +70,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Comp-Generatd Imagery",
 			"num": 238,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Comp-Generatd Imagery",
 			"type": "Research",
@@ -87,14 +91,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Advanced Drawing",
 			"num": 243,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Advanced Drawing",
 			"type": "Research",
@@ -107,14 +112,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Italian Renaissance",
 			"num": 255,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Italian Renaissance",
 			"type": "Research",
@@ -127,14 +133,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Pratt-Manhattan",
 			"num": 262,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Pratt-Manhattan",
 			"type": "Research",
@@ -147,14 +154,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Medieval",
 			"num": 263,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Medieval",
 			"type": "Research",
@@ -167,14 +175,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -187,14 +196,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Adv Oil Painting",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Adv Oil Painting",
 			"type": "Research",
@@ -207,15 +217,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Interim Architect",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Interim Architect",
 			"type": "Research",
@@ -228,15 +239,16 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Adv Archit Drawing",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Adv Archit Drawing",
 			"type": "Research",
@@ -249,14 +261,15 @@
 			"depts": [
 				"ART"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Paper Vessels",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Paper Vessels",
 			"type": "Research",
@@ -269,14 +282,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Contem China-Lit-Tr",
 			"num": 123,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Contem China-Lit-Tr",
 			"type": "Research",
@@ -289,14 +303,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "The Art of the Brush",
 			"num": 125,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Art of the Brush",
 			"type": "Research",
@@ -309,14 +324,15 @@
 			"depts": [
 				"ASIAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Chinese Amer Renaiss",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Chinese Amer Renaiss",
 			"type": "Research",
@@ -329,14 +345,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "The Biology of Women",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Biology of Women",
 			"type": "Research",
@@ -349,14 +366,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Genetics/Evolut/Soc",
 			"num": 127,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Genetics/Evolut/Soc",
 			"type": "Research",
@@ -369,14 +387,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Cancer Biology",
 			"num": 131,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Cancer Biology",
 			"type": "Research",
@@ -389,14 +408,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Issues Biotechnology",
 			"num": 132,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Issues Biotechnology",
 			"type": "Research",
@@ -409,14 +429,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Aids in Perspective",
 			"num": 133,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Aids in Perspective",
 			"type": "Research",
@@ -429,14 +450,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Winter Ecology",
 			"num": 281,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Winter Ecology",
 			"type": "Research",
@@ -449,14 +471,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Tropical Ecology",
 			"num": 284,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Tropical Ecology",
 			"type": "Research",
@@ -469,14 +492,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Water Resource Mgmt",
 			"num": 285,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Water Resource Mgmt",
 			"type": "Research",
@@ -489,14 +513,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Island Bio in Bahamas",
 			"num": 287,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Island Bio in Bahamas",
 			"type": "Research",
@@ -509,14 +534,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -529,15 +555,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -550,15 +577,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -571,15 +599,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -592,15 +621,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "D",
-			"sem": 2,
+			"section": "D",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -613,14 +643,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Macrophages",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Macrophages",
 			"type": "Research",
@@ -633,15 +664,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/DNA Sequencing",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/DNA Sequencing",
 			"type": "Research",
@@ -654,15 +686,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Baja California",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Baja California",
 			"type": "Research",
@@ -675,14 +708,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -695,15 +729,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -716,14 +751,15 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Molecular Immunolo",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Molecular Immunolo",
 			"type": "Research",
@@ -736,15 +772,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Hypertension",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Hypertension",
 			"type": "Research",
@@ -757,15 +794,16 @@
 			"depts": [
 				"BIO"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Novel Genetics Int",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Novel Genetics Int",
 			"type": "Research",
@@ -778,14 +816,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Chem-Life's Beginning",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Chem-Life's Beginning",
 			"type": "Research",
@@ -798,14 +837,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Chemical Structure",
 			"num": 123,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Chemical Structure",
 			"type": "Research",
@@ -818,14 +858,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Environmental Chem",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Environmental Chem",
 			"type": "Research",
@@ -838,14 +879,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Organometallic Chem",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Organometallic Chem",
 			"type": "Research",
@@ -858,14 +900,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -878,15 +921,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -899,14 +943,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/IDeas Abt Science",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/IDeas Abt Science",
 			"type": "Research",
@@ -919,14 +964,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Surface Science",
 			"num": 333,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Surface Science",
 			"type": "Research",
@@ -939,14 +985,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Organic Analys/Theory",
 			"num": 380,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Organic Analys/Theory",
 			"type": "Research",
@@ -959,14 +1006,15 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -979,15 +1027,16 @@
 			"depts": [
 				"CHEM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1000,14 +1049,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Ancient Comedy-Tr",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Ancient Comedy-Tr",
 			"type": "Research",
@@ -1020,14 +1070,15 @@
 			"depts": [
 				"CLASS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Class Studies Greece",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Class Studies Greece",
 			"type": "Research",
@@ -1040,14 +1091,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Econ Progress China",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Econ Progress China",
 			"type": "Research",
@@ -1060,14 +1112,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Econ Progress China",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Econ Progress China",
 			"type": "Research",
@@ -1080,14 +1133,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Capitalism: Strugles",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Capitalism: Strugles",
 			"type": "Research",
@@ -1100,14 +1154,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Capitalism: Strugles",
 			"num": 111,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Capitalism: Strugles",
 			"type": "Research",
@@ -1120,14 +1175,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Survey Practice",
 			"num": 228,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Survey Practice",
 			"type": "Research",
@@ -1140,14 +1196,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Arts Management",
 			"num": 229,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Arts Management",
 			"type": "Research",
@@ -1160,14 +1217,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Computer Applications",
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Computer Applications",
 			"type": "Research",
@@ -1180,14 +1238,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Personal Finance",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Personal Finance",
 			"type": "Research",
@@ -1200,14 +1259,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Hosp Health Care Mgnt",
 			"num": 254,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Hosp Health Care Mgnt",
 			"type": "Research",
@@ -1220,14 +1280,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Japan: Economy/People",
 			"num": 260,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Japan: Economy/People",
 			"type": "Research",
@@ -1240,14 +1301,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1260,15 +1322,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1281,15 +1344,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1302,15 +1366,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1323,14 +1388,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/German-MN Business",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/German-MN Business",
 			"type": "Research",
@@ -1343,15 +1409,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Business Start Up",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Business Start Up",
 			"type": "Research",
@@ -1364,15 +1431,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Marketing Intern",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Marketing Intern",
 			"type": "Research",
@@ -1385,14 +1453,15 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1405,15 +1474,16 @@
 			"depts": [
 				"ECON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1426,14 +1496,15 @@
 			"depts": [
 				"CSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1446,14 +1517,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Perspectives On Tchg",
 			"num": 260,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Perspectives On Tchg",
 			"type": "Research",
@@ -1466,14 +1538,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Edu Cross-Cult Hawaii",
 			"num": 378,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Edu Cross-Cult Hawaii",
 			"type": "Research",
@@ -1486,14 +1559,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Urban Alternative Ed",
 			"num": 379,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Urban Alternative Ed",
 			"type": "Research",
@@ -1506,14 +1580,15 @@
 			"depts": [
 				"EDUC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1526,14 +1601,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Creative Dance/Child",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Creative Dance/Child",
 			"type": "Research",
@@ -1546,14 +1622,15 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "World Dance Tradit'ns",
 			"num": 124,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "World Dance Tradit'ns",
 			"type": "Research",
@@ -1566,15 +1643,16 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Dance/Big Band (M)",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Dance/Big Band (M)",
 			"type": "Research",
@@ -1587,15 +1665,16 @@
 			"depts": [
 				"DNCTH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Dance/Big Band (W)",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Dance/Big Band (W)",
 			"type": "Research",
@@ -1608,14 +1687,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Hero/Trickstr 3rd Wld",
 			"num": 108,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Hero/Trickstr 3rd Wld",
 			"type": "Research",
@@ -1628,14 +1708,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Amer Short Stories",
 			"num": 114,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Amer Short Stories",
 			"type": "Research",
@@ -1648,14 +1729,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Mysteries",
 			"num": 169,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Mysteries",
 			"type": "Research",
@@ -1668,14 +1750,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Drama",
 			"num": 182,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Drama",
 			"type": "Research",
@@ -1688,14 +1771,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Novels of Terror",
 			"num": 239,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Novels of Terror",
 			"type": "Research",
@@ -1708,14 +1792,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "The Moral Vision",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Moral Vision",
 			"type": "Research",
@@ -1728,14 +1813,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Writing in Many Genre",
 			"num": 264,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Writing in Many Genre",
 			"type": "Research",
@@ -1748,14 +1834,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "The Emerging Poet",
 			"num": 265,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Emerging Poet",
 			"type": "Research",
@@ -1768,14 +1855,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Lit Eastern Caribbean",
 			"num": 270,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Lit Eastern Caribbean",
 			"type": "Research",
@@ -1788,14 +1876,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Jan C. Hill"
+			],
 			"level": 200,
 			"name": "Studies/Prose: Fic & Reg",
 			"num": 283,
 			"pf": false,
-			"profs": [
-				"Jan C. Hill"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Studies/Prose: Fic & Reg",
 			"type": "Research",
@@ -1808,14 +1897,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1828,14 +1918,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Shakespeare/Chicago",
 			"num": 370,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Shakespeare/Chicago",
 			"type": "Research",
@@ -1848,14 +1939,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1868,15 +1960,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1889,14 +1982,15 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Shaw and Nietzsche",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Shaw and Nietzsche",
 			"type": "Research",
@@ -1909,15 +2003,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/A Wilson-Plays & P",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/A Wilson-Plays & P",
 			"type": "Research",
@@ -1930,15 +2025,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Mark Allister"
+			],
 			"level": 300,
 			"name": "Sem: Poplr Lit/Am Cult",
 			"num": 399,
 			"pf": false,
-			"profs": [
-				"Mark Allister"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Sem: Poplr Lit/Am Cult",
 			"type": "Seminar",
@@ -1951,15 +2047,16 @@
 			"depts": [
 				"ENGL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Sem: Renaissance Lit",
 			"num": 399,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Sem: Renaissance Lit",
 			"type": "Seminar",
@@ -1972,14 +2069,15 @@
 			"depts": [
 				"ENVST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -1992,14 +2090,15 @@
 			"depts": [
 				"IDFA"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -2012,14 +2111,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intermed French I",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Intermed French I",
 			"type": "Research",
@@ -2032,14 +2132,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Lang & Culture Quebec",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Lang & Culture Quebec",
 			"type": "Research",
@@ -2052,14 +2153,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Oral/Written Express",
 			"num": 379,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Oral/Written Express",
 			"type": "Research",
@@ -2072,14 +2174,15 @@
 			"depts": [
 				"FREN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Lang,Cult,Thtr/Paris",
 			"num": 380,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Lang,Cult,Thtr/Paris",
 			"type": "Research",
@@ -2092,14 +2195,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Folk/Fairy/Fables-Tr",
 			"num": 147,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Folk/Fairy/Fables-Tr",
 			"type": "Research",
@@ -2112,14 +2216,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intensive Germ Abroad",
 			"num": 233,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Intensive Germ Abroad",
 			"type": "Research",
@@ -2132,14 +2237,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Conversation & Comp I",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Conversation & Comp I",
 			"type": "Research",
@@ -2152,14 +2258,15 @@
 			"depts": [
 				"GERM"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/German Romantic Pt",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/German Romantic Pt",
 			"type": "Research",
@@ -2172,15 +2279,16 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Romans & Christians",
 			"type": "Research",
@@ -2193,15 +2301,16 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Romans & Christians",
 			"type": "Research",
@@ -2214,15 +2323,16 @@
 			"depts": [
 				"GCON"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Romans & Christians",
 			"num": 115,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "C",
-			"sem": 2,
+			"section": "C",
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Romans & Christians",
 			"type": "Research",
@@ -2235,14 +2345,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Myth/Hist Ancnt World",
 			"num": 102,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Myth/Hist Ancnt World",
 			"type": "Research",
@@ -2255,14 +2366,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Myth/Real 20 C M-East",
 			"num": 126,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Myth/Real 20 C M-East",
 			"type": "Research",
@@ -2275,14 +2387,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Age of Renaissance",
 			"num": 213,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Age of Renaissance",
 			"type": "Research",
@@ -2295,14 +2408,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Amer & World War II",
 			"num": 251,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Amer & World War II",
 			"type": "Research",
@@ -2315,14 +2429,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Food Politcs Amer Soc",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Food Politcs Amer Soc",
 			"type": "Research",
@@ -2335,14 +2450,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "France in WW II",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "France in WW II",
 			"type": "Research",
@@ -2355,14 +2471,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "British India",
 			"num": 255,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "British India",
 			"type": "Research",
@@ -2375,14 +2492,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Women & Work in Africa",
 			"num": 256,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Women & Work in Africa",
 			"type": "Research",
@@ -2395,14 +2513,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Late Imperial China",
 			"num": 260,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Late Imperial China",
 			"type": "Research",
@@ -2415,14 +2534,15 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Quant Study/French",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Quant Study/French",
 			"type": "Research",
@@ -2435,15 +2555,16 @@
 			"depts": [
 				"HIST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Minnesota Grange",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Minnesota Grange",
 			"type": "Research",
@@ -2456,14 +2577,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Adol Dev & Family Rel",
 			"num": 248,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Adol Dev & Family Rel",
 			"type": "Research",
@@ -2476,14 +2598,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Aboriginal Cult/Austr",
 			"num": 263,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Aboriginal Cult/Austr",
 			"type": "Research",
@@ -2496,14 +2619,15 @@
 			"depts": [
 				"FAMST"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -2516,14 +2640,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Interface Bio & Stat",
 			"num": 211,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Interface Bio & Stat",
 			"type": "Research",
@@ -2536,14 +2661,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "East Orthodox Christ",
 			"num": 250,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "East Orthodox Christ",
 			"type": "Research",
@@ -2556,14 +2682,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Hospital Health Care",
 			"num": 255,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Hospital Health Care",
 			"type": "Research",
@@ -2576,14 +2703,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Theater in London",
 			"num": 258,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Theater in London",
 			"type": "Research",
@@ -2596,14 +2724,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Fles/ACM",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Fles/ACM",
 			"type": "Research",
@@ -2616,14 +2745,15 @@
 			"depts": [
 				"ID"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Dimens Multicult/ACM",
 			"num": 260,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Dimens Multicult/ACM",
 			"type": "Research",
@@ -2636,14 +2766,15 @@
 			"depts": [
 				"LATIN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Medieval Latin",
 			"num": 235,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Medieval Latin",
 			"type": "Research",
@@ -2656,14 +2787,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Principles of Math",
 			"num": 110,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Principles of Math",
 			"type": "Research",
@@ -2676,14 +2808,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Mathology",
 			"num": 113,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Mathology",
 			"type": "Research",
@@ -2696,14 +2829,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Number Theory",
 			"num": 238,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Number Theory",
 			"type": "Research",
@@ -2716,14 +2850,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Geometry",
 			"num": 356,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Geometry",
 			"type": "Research",
@@ -2736,14 +2871,15 @@
 			"depts": [
 				"MATH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Mathematics Practicum",
 			"num": 390,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Mathematics Practicum",
 			"type": "Research",
@@ -2756,14 +2892,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "The Music Spectrum",
 			"num": 130,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Music Spectrum",
 			"type": "Research",
@@ -2776,14 +2913,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Music & Poetry",
 			"num": 131,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Music & Poetry",
 			"type": "Research",
@@ -2796,14 +2934,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Music/Electronic Med",
 			"num": 225,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Music/Electronic Med",
 			"type": "Research",
@@ -2816,14 +2955,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "History of Jazz",
 			"num": 231,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "History of Jazz",
 			"type": "Research",
@@ -2836,14 +2976,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "The Singer's Art",
 			"num": 268,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "The Singer's Art",
 			"type": "Research",
@@ -2856,14 +2997,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -2876,14 +3018,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Mozart Soprano Rol",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Mozart Soprano Rol",
 			"type": "Research",
@@ -2896,14 +3039,15 @@
 			"depts": [
 				"MUSIC"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Adv Singer's Art",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Adv Singer's Art",
 			"type": "Research",
@@ -2916,14 +3060,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Norw Folklore/Myth-Tr",
 			"num": 127,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Norw Folklore/Myth-Tr",
 			"type": "Research",
@@ -2936,14 +3081,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Scandinavian Drama-Tr",
 			"num": 248,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Scandinavian Drama-Tr",
 			"type": "Research",
@@ -2956,14 +3102,15 @@
 			"depts": [
 				"NORW"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/My Norwegian Famly",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/My Norwegian Famly",
 			"type": "Research",
@@ -2976,14 +3123,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Images of Wellness",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Images of Wellness",
 			"type": "Research",
@@ -2996,14 +3144,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Health Care in India",
 			"num": 370,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Health Care in India",
 			"type": "Research",
@@ -3016,14 +3165,15 @@
 			"depts": [
 				"NURS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3036,14 +3186,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Philosophy and Lit",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Philosophy and Lit",
 			"type": "Research",
@@ -3056,14 +3207,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Rel Phil/C.S. Lewis",
 			"num": 127,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Rel Phil/C.S. Lewis",
 			"type": "Research",
@@ -3076,14 +3228,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Philosophy of Poetry",
 			"num": 134,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Philosophy of Poetry",
 			"type": "Research",
@@ -3096,14 +3249,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Ethics East and West",
 			"num": 152,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Ethics East and West",
 			"type": "Research",
@@ -3116,14 +3270,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Art Georgia O'keeffe",
 			"num": 155,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Art Georgia O'keeffe",
 			"type": "Research",
@@ -3136,14 +3291,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Revolutionary Thinkng",
 			"num": 213,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Revolutionary Thinkng",
 			"type": "Research",
@@ -3156,14 +3312,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Philosophy & Feminism",
 			"num": 245,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Philosophy & Feminism",
 			"type": "Research",
@@ -3176,14 +3333,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Existentialism",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Existentialism",
 			"type": "Research",
@@ -3196,14 +3354,15 @@
 			"depts": [
 				"PHIL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Personal Turn/Ethics",
 			"num": 373,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Personal Turn/Ethics",
 			"type": "Seminar",
@@ -3216,14 +3375,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3236,14 +3396,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Erg Aids in Sports",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Erg Aids in Sports",
 			"type": "Research",
@@ -3256,15 +3417,16 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Training Room Mgmt",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Training Room Mgmt",
 			"type": "Research",
@@ -3277,15 +3439,16 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Fitness for Kids P",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Fitness for Kids P",
 			"type": "Research",
@@ -3298,14 +3461,15 @@
 			"depts": [
 				"PETH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Adv Sport Medicine",
 			"num": 355,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Adv Sport Medicine",
 			"type": "Research",
@@ -3318,14 +3482,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Light",
 			"num": 110,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Light",
 			"type": "Research",
@@ -3338,14 +3503,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Physics of Photogrphy",
 			"num": 120,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Physics of Photogrphy",
 			"type": "Research",
@@ -3358,14 +3524,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Musical Acoustics",
 			"num": 252,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Musical Acoustics",
 			"type": "Research",
@@ -3378,14 +3545,15 @@
 			"depts": [
 				"PHYS"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Origin Nuclear Weapon",
 			"num": 254,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Origin Nuclear Weapon",
 			"type": "Research",
@@ -3398,14 +3566,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Politics Human Rights",
 			"num": 117,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Politics Human Rights",
 			"type": "Research",
@@ -3418,14 +3587,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Conservatism in Amer",
 			"num": 119,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Conservatism in Amer",
 			"type": "Research",
@@ -3438,14 +3608,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Agrarianism & Agripol",
 			"num": 234,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Agrarianism & Agripol",
 			"type": "Research",
@@ -3458,14 +3629,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Public Policy/Family",
 			"num": 237,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Public Policy/Family",
 			"type": "Research",
@@ -3478,14 +3650,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3498,15 +3671,16 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3519,15 +3693,16 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3540,14 +3715,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "The New Europe",
 			"num": 385,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "The New Europe",
 			"type": "Research",
@@ -3560,14 +3736,15 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3580,15 +3757,16 @@
 			"depts": [
 				"PSCI"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3601,14 +3779,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Poverty Effect Child",
 			"num": 223,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Poverty Effect Child",
 			"type": "Research",
@@ -3621,14 +3800,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Sleep and Dreaming",
 			"num": 224,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Sleep and Dreaming",
 			"type": "Research",
@@ -3641,14 +3821,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Listening Mind-Body",
 			"num": 225,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Listening Mind-Body",
 			"type": "Research",
@@ -3661,14 +3842,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Psych of Leadership",
 			"num": 253,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Psych of Leadership",
 			"type": "Research",
@@ -3681,14 +3863,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Freudian/Buddhist Psy",
 			"num": 257,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Freudian/Buddhist Psy",
 			"type": "Research",
@@ -3701,14 +3884,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -3721,14 +3905,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Psychopharmacology",
 			"num": 380,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Psychopharmacology",
 			"type": "Research",
@@ -3741,14 +3926,15 @@
 			"depts": [
 				"PSYCH"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Placement Help Instit",
 			"num": 393,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Placement Help Instit",
 			"type": "Research",
@@ -3761,14 +3947,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Jews and Christians",
 			"num": 247,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Jews and Christians",
 			"type": "Research",
@@ -3781,14 +3968,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Prayer and Praying",
 			"num": 257,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Prayer and Praying",
 			"type": "Research",
@@ -3801,14 +3989,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "The Holocaust",
 			"num": 258,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "The Holocaust",
 			"type": "Research",
@@ -3821,14 +4010,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Rel Autobiographies",
 			"num": 259,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Rel Autobiographies",
 			"type": "Research",
@@ -3841,14 +4031,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Adam, Eve & Serpent",
 			"num": 260,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Adam, Eve & Serpent",
 			"type": "Research",
@@ -3861,14 +4052,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Religion/Culture/Rome",
 			"num": 261,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Religion/Culture/Rome",
 			"type": "Research",
@@ -3881,14 +4073,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Hindu-Christian Dialg",
 			"num": 268,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Hindu-Christian Dialg",
 			"type": "Research",
@@ -3901,14 +4094,15 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Existence of God",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Existence of God",
 			"type": "Research",
@@ -3921,15 +4115,16 @@
 			"depts": [
 				"REL"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Christianity-China",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Christianity-China",
 			"type": "Research",
@@ -3942,14 +4137,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Drugs/Alcohol Amer",
 			"num": 232,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Drugs/Alcohol Amer",
 			"type": "Research",
@@ -3962,14 +4158,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Primitive Societies",
 			"num": 249,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Primitive Societies",
 			"type": "Research",
@@ -3982,14 +4179,15 @@
 			"depts": [
 				"SOAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Chinese Matriline",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Chinese Matriline",
 			"type": "Research",
@@ -4002,14 +4200,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Beginning Spanish II",
 			"num": 112,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Beginning Spanish II",
 			"type": "Research",
@@ -4022,14 +4221,15 @@
 			"depts": [
 				"SPAN"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Inter Span/Costa Rica",
 			"num": 230,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Inter Span/Costa Rica",
 			"type": "Research",
@@ -4042,14 +4242,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Hiv/Aids in Our Lives",
 			"num": 122,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Hiv/Aids in Our Lives",
 			"type": "Research",
@@ -4062,14 +4263,15 @@
 			"depts": [
 				"SWRK"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -4082,14 +4284,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Prod Theater: Intro",
 			"num": 133,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Prod Theater: Intro",
 			"type": "Research",
@@ -4102,14 +4305,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 100,
 			"name": "Stage Combat",
 			"num": 136,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Stage Combat",
 			"type": "Research",
@@ -4122,14 +4326,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Prod Theater: Advanced",
 			"num": 234,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "C",
 			"term": 19942,
 			"title": "Prod Theater: Advanced",
 			"type": "Research",
@@ -4142,14 +4347,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intercultural Communi",
 			"num": 246,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Intercultural Communi",
 			"type": "Research",
@@ -4162,14 +4368,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Intro to Playwriting",
 			"num": 275,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Intro to Playwriting",
 			"type": "Research",
@@ -4182,14 +4389,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "Internship",
 			"num": 294,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -4202,14 +4410,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Non-Verbal Communi",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Non-Verbal Communi",
 			"type": "Research",
@@ -4222,15 +4431,16 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Adv Stage Combat",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Adv Stage Combat",
 			"type": "Research",
@@ -4243,15 +4453,16 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 200,
 			"name": "IS/Comm-Grp Relations",
 			"num": 298,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "B",
-			"sem": 2,
+			"section": "B",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IS/Comm-Grp Relations",
 			"type": "Research",
@@ -4264,14 +4475,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Freedom of Expression",
 			"num": 386,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Freedom of Expression",
 			"type": "Research",
@@ -4284,14 +4496,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -4304,15 +4517,16 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "Internship",
 			"num": 394,
 			"pf": true,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "Internship",
 			"type": "Research",
@@ -4325,14 +4539,15 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Women-Broadcasting",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sem": 2,
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Women-Broadcasting",
 			"type": "Research",
@@ -4345,15 +4560,16 @@
 			"depts": [
 				"THEAT"
 			],
+			"instructors": [
+				"Staff"
+			],
 			"level": 300,
 			"name": "IR/Role of Org in Imp",
 			"num": 398,
 			"pf": false,
-			"profs": [
-				"Staff"
-			],
-			"sect": "A",
-			"sem": 2,
+			"section": "A",
+			"semester": 2,
+			"status": "O",
 			"term": 19942,
 			"title": "IR/Role of Org in Imp",
 			"type": "Research",

@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
-	"level": 100,
-	"name": "The Problem of War",
-	"num": 119,
-	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
+	"instructors": [
 		"Anthony Lott",
 		"Douglas J. Casson"
 	],
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"RML 525"
+	],
+	"name": "The Problem of War",
+	"num": 119,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"times": [
 		"M-F 0100-0300PM"

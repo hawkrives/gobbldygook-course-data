@@ -5,19 +5,20 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Sylvia Carullo"
+	],
 	"level": 200,
-	"name": "Intermed Spanish II",
-	"num": 232,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 020",
 		"OM 020"
 	],
-	"profs": [
-		"Sylvia Carullo"
-	],
-	"sect": "E",
-	"sem": 3,
+	"name": "Intermed Spanish II",
+	"num": 232,
+	"pf": false,
+	"section": "E",
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

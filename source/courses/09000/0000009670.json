@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Gerald Hoekstra"
+	],
 	"level": 300,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Music of Baroque Era",
 	"num": 342,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Gerald Hoekstra"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1045-1140"

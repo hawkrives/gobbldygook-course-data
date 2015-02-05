@@ -11,19 +11,20 @@
 		"SED"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Roberto Zayas",
+		"Lisa Y. Lenertz"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Cell Bio & Genetics",
 	"notes": "Students in Bio 125 must also register for lab Bio 125 AL or BL.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Roberto Zayas",
-		"Lisa Y. Lenertz"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20122,
 	"times": [
 		"M-F 0100-0300PM"

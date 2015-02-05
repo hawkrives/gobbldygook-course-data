@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Paul Fischer"
+	],
 	"level": 100,
+	"locations": [
+		"SC 378"
+	],
 	"name": "Chemical Structure",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"SC 378"
-	],
-	"profs": [
-		"Paul Fischer"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20002,
 	"times": [
 		"M-F 1040-1240PM"

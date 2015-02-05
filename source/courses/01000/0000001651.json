@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Susan Lindley"
+	],
 	"level": 300,
+	"locations": [
+		"CH 109"
+	],
 	"name": "Them Sem: Wom Ldrship",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"CH 109"
-	],
-	"profs": [
-		"Susan Lindley"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0905-1000"

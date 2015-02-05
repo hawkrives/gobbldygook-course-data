@@ -6,15 +6,16 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least five previous courses in the department.",
+	"instructors": [
+		"Brian Bjorklund"
+	],
 	"level": 300,
 	"name": "IR/Sound Technology",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Brian Bjorklund"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

@@ -11,18 +11,19 @@
 		"SED"
 	],
 	"groupid": 106,
+	"instructors": [
+		"Sara E. Fruehling"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Cell Bio & Genetics",
 	"notes": "Students in Bio 125 must also register for lab Bio 125 L.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 390"
-	],
-	"profs": [
-		"Sara E. Fruehling"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 0100-0300PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Jo M. Beld"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Congress/Presidency",
 	"num": 374,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Jo M. Beld"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"TTh 1145-0110PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Elaine G. Siemsen"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Classics and Moderns",
 	"num": 202,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Elaine G. Siemsen"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20032,
 	"times": [
 		"M-F 0100-0300PM"

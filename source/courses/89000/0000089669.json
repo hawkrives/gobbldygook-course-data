@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Kaethe Schwehn"
+	],
 	"level": 200,
 	"name": "IS/Essays-Family Table",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Kaethe Schwehn"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20132,
 	"title": "Independent Study",
 	"type": "Research",

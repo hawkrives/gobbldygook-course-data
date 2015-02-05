@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 300,
+	"locations": [
+		"M 36"
+	],
 	"name": "Roman Drama",
 	"num": 375,
 	"pf": false,
-	"places": [
-		"M 36"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"TTh 0935-1100"

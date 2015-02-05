@@ -10,16 +10,17 @@
 		"ALS-A",
 		"SPM"
 	],
-	"level": 300,
-	"num": 310,
-	"pf": false,
-	"places": [
-		"DC _STUDIO_1"
-	],
-	"profs": [
+	"instructors": [
 		"Heather J. Klopchin"
 	],
-	"sem": 3,
+	"level": 300,
+	"locations": [
+		"DC _STUDIO_1"
+	],
+	"num": 310,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 0200-0330PM"

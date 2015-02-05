@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric McDonald",
+		"Nicholas J. Deacon"
+	],
 	"level": 100,
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
-	"profs": [
-		"Eric McDonald",
-		"Nicholas J. Deacon"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20115,
 	"title": "Biological Science Lab",
 	"type": "Lab",

@@ -5,18 +5,19 @@
 	"depts": [
 		"FAMST"
 	],
+	"instructors": [
+		"Sharon Powell"
+	],
 	"level": 100,
-	"name": "Famlies in Film and Lit",
-	"num": 130,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Sharon Powell"
-	],
-	"sem": 2,
+	"name": "Famlies in Film and Lit",
+	"num": 130,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20052,
 	"times": [
 		"MWF 1040-1240PM",

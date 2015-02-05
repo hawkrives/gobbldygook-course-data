@@ -9,18 +9,19 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Developmental Psych",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
-		"Dana Gross"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"MWF 0200-0255PM"

@@ -5,18 +5,19 @@
 	"depts": [
 		"PEAC"
 	],
+	"instructors": [
+		"Kenneth Pratt"
+	],
 	"level": 100,
+	"locations": [
+		"NFLD BOWL"
+	],
 	"name": "Bowling",
 	"num": 104,
 	"pf": false,
-	"places": [
-		"NFLD BOWL"
-	],
-	"profs": [
-		"Kenneth Pratt"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"W 1255-0255PM"

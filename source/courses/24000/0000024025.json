@@ -5,17 +5,18 @@
 	"depts": [
 		"CLASS"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 100,
+	"locations": [
+		"M 31"
+	],
 	"name": "Ancient Comedy-Tr",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19982,
 	"times": [
 		"M-F 1040-1240PM"

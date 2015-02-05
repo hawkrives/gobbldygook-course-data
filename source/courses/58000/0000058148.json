@@ -6,14 +6,15 @@
 		"THEAT"
 	],
 	"desc": "Prerequisite: at least three previous courses in department.",
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 200,
 	"name": "IS/Integr Acting/Singing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"title": "Independent Study",
 	"type": "Research",

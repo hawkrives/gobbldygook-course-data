@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Jim Ford"
+	],
 	"level": 200,
+	"locations": [
+		"M 15"
+	],
 	"name": "Mgmt Information Sys",
 	"num": 236,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Jim Ford"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20013,
 	"times": [
 		"TTh 1145-0110PM"

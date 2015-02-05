@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"William Sonnega"
+	],
 	"level": 200,
 	"name": "IS/Theatre Hist-1700",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"William Sonnega"
-	],
-	"sect": "F",
-	"sem": 3,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"title": "IS/Theatre Hist-1700",
 	"type": "Research",

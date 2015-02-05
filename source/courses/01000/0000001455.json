@@ -5,17 +5,18 @@
 	"depts": [
 		"NORW"
 	],
+	"instructors": [
+		"Nancy Aarsvold"
+	],
 	"level": 100,
+	"locations": [
+		"M 15"
+	],
 	"name": "Beginning Norwegian I",
 	"num": 111,
 	"pf": false,
-	"places": [
-		"M 15"
-	],
-	"profs": [
-		"Nancy Aarsvold"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20003,
 	"times": [
 		"MWF 0800-0855"

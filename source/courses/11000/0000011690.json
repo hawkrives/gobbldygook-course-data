@@ -6,18 +6,19 @@
 		"ART"
 	],
 	"desc": "This introduction to art history surveys a European and American artistic tradition from the Renaissance to today. A chronological study of painting, sculpture, architecture, photography and other media teaches students about visual analysis, artistic excellence and the cultural and artistic heritages that have produced some of the finer art created from the Renaissance to the present.",
-	"level": 100,
-	"name": "Intro/Art History II",
-	"num": 151,
-	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
+	"instructors": [
 		"Nancy M. Thompson",
 		"Matthew Rohn"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC 305"
+	],
+	"name": "Intro/Art History II",
+	"num": 151,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20053,
 	"times": [
 		"MWF 1045-1140"

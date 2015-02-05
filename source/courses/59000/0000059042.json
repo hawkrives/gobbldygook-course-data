@@ -6,16 +6,17 @@
 		"THEAT"
 	],
 	"desc": "Students learn and apply principles of speech composition and analyze speeches to understand effective methods. They demonstrate their knowledge in classroom speeches.",
-	"level": 100,
-	"num": 120,
-	"pf": false,
-	"places": [
-		"TB 227"
-	],
-	"profs": [
+	"instructors": [
 		"Barbara J. Evans"
 	],
-	"sem": 5,
+	"level": 100,
+	"locations": [
+		"TB 227"
+	],
+	"num": 120,
+	"pf": false,
+	"semester": 5,
+	"status": "O",
 	"term": 20065,
 	"times": [
 		"M-F 1000-1130"

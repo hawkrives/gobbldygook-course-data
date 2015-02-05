@@ -5,18 +5,19 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"L 421"
+	],
 	"name": "Lit Eng 1650-1850/Dis",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"L 421"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"F 1150-1245PM"

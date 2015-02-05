@@ -5,17 +5,18 @@
 	"depts": [
 		"IC"
 	],
+	"instructors": [
+		"David Schodt"
+	],
 	"level": 300,
+	"locations": [
+		"SC 310"
+	],
 	"name": "Us & Peoples Lat Amer",
 	"num": 333,
 	"pf": false,
-	"places": [
-		"SC 310"
-	],
-	"profs": [
-		"David Schodt"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19963,
 	"times": [
 		"TTh 0935-1100"

@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTH"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Dance in America",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

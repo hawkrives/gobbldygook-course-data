@@ -6,14 +6,15 @@
 		"IS"
 	],
 	"desc": "Students with individual majors register for their senior integrative projects in each semester of the senior year. The first semester, generally used for research and other preparation in consultation with the student's adviser, receives a P/N evaluation; the second semester, and final presentation of the project to the faculty certification committee, receives a grade. A brief description of the student's major and senior project appear on the transcript.",
+	"instructors": [
+		"Carolyn Anderson"
+	],
 	"level": 300,
 	"num": 392,
 	"pf": false,
-	"profs": [
-		"Carolyn Anderson"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "O",
 	"term": 20083,
 	"title": "Senior Project II",
 	"type": "Research",

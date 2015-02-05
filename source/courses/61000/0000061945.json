@@ -10,19 +10,20 @@
 		"HBS",
 		"IST"
 	],
+	"instructors": [
+		"Clark Ohnesorge"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Principles: Psych",
 	"notes": "Not open to Juniors or Seniors.",
 	"num": 125,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"Clark Ohnesorge"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20081,
 	"times": [
 		"MWF 1255-0150PM"

@@ -5,14 +5,15 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Alice Burton"
+	],
 	"level": 100,
 	"name": "Genetics/Evolut/Soc",
 	"num": 127,
 	"pf": false,
-	"profs": [
-		"Alice Burton"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 19952,
 	"title": "Genetics/Evolut/Soc",
 	"type": "Research",

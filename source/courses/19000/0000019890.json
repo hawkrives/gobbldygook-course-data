@@ -5,18 +5,19 @@
 	"depts": [
 		"ID"
 	],
-	"level": 200,
-	"name": "Medical/Prof Ethics",
-	"num": 232,
-	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
+	"instructors": [
 		"Karen Gervais",
 		"Mary Carlsen"
 	],
-	"sem": 2,
+	"level": 200,
+	"locations": [
+		"H 413"
+	],
+	"name": "Medical/Prof Ethics",
+	"num": 232,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"times": [
 		"M-F 0800-1000"

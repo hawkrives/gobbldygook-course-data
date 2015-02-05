@@ -5,15 +5,16 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
 	"name": "Thtr Prac: Act/Produc",
 	"num": 233,
 	"pf": true,
-	"profs": [
-		"Karen Wilson"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20011,
 	"title": "Thtr Prac: Act/Produc",
 	"type": "Research",

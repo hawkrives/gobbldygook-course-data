@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"William P. Roberts"
+	],
 	"level": 300,
 	"name": "IR/Organic Synthesis 2",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"William P. Roberts"
-	],
-	"sect": "G",
-	"sem": 3,
+	"section": "G",
+	"semester": 3,
+	"status": "O",
 	"term": 20093,
 	"title": "Independent Research",
 	"type": "Research",

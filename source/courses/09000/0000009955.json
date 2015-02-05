@@ -5,19 +5,20 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
-	"name": "Cult & Civ of Spain",
-	"num": 251,
-	"pf": false,
-	"places": [
+	"locations": [
 		"OM 021",
 		"OM 021"
 	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sect": "A",
-	"sem": 3,
+	"name": "Cult & Civ of Spain",
+	"num": 251,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"T 0935-1100",

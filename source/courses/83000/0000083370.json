@@ -9,16 +9,17 @@
 	"gereqs": [
 		"SPM"
 	],
-	"level": 100,
-	"num": 135,
-	"pf": false,
-	"places": [
-		"Tostrud Ctr"
-	],
-	"profs": [
+	"instructors": [
 		"Craig D. Stern"
 	],
-	"sem": 1,
+	"level": 100,
+	"locations": [
+		"Tostrud Ctr"
+	],
+	"num": 135,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"times": [
 		"TTh 0935-1030"

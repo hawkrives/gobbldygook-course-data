@@ -5,14 +5,15 @@
 	"depts": [
 		"EDUC"
 	],
+	"instructors": [
+		"Debra E. Anderson"
+	],
 	"level": 300,
 	"name": "Student Teaching",
 	"num": 389,
 	"pf": false,
-	"profs": [
-		"Debra E. Anderson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "Student Teaching",
 	"type": "Research",

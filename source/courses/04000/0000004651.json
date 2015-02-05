@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Susan Lindley"
+	],
 	"level": 300,
+	"locations": [
+		"BMC 110"
+	],
 	"name": "Feminist/Christ Ethic",
 	"num": 344,
 	"pf": false,
-	"places": [
-		"BMC 110"
-	],
-	"profs": [
-		"Susan Lindley"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 1040-1240PM"

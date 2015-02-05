@@ -6,16 +6,17 @@
 		"GERM"
 	],
 	"desc": "Students move from intermediate to advanced oral proficiency through practice in daily life communicative skills such as in interviews, party games, telling stories, giving reports, and organizing social events. The course focuses on higher-order functions such as paragraph-length narration, presenting opinions, group discussions, and individual presentations, as well as interviews, debates, and regular group conversations with classroom guests and speakers. Taught in German. Prerequisite: German 232 or equivalent.",
-	"level": 200,
-	"num": 250,
-	"pf": false,
-	"places": [
-		"OM 011"
-	],
-	"profs": [
+	"instructors": [
 		"Nicole Grewling"
 	],
-	"sem": 3,
+	"level": 200,
+	"locations": [
+		"OM 011"
+	],
+	"num": 250,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20073,
 	"times": [
 		"MWF 1150-1245PM"

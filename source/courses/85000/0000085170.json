@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 100,
-	"num": 131,
-	"pf": false,
-	"places": [
-		"CHM 232"
-	],
-	"profs": [
+	"instructors": [
 		"David Carter"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"CHM 232"
+	],
+	"num": 131,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"MWF 1255-0150PM"

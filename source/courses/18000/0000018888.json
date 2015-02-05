@@ -5,14 +5,15 @@
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"David Dahl"
+	],
 	"level": 100,
 	"name": "Principles Physics II",
 	"num": 125,
 	"pf": false,
-	"profs": [
-		"David Dahl"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19955,
 	"title": "Principles Physics II",
 	"type": "Research",

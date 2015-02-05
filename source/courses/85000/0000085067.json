@@ -9,18 +9,19 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Vincent Varpness"
+	],
 	"level": 100,
+	"locations": [
+		"SAC Racq Ct"
+	],
 	"name": "Racquetball (Wmn)",
 	"num": 153,
 	"pf": false,
-	"places": [
-		"SAC Racq Ct"
-	],
-	"profs": [
-		"Vincent Varpness"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"times": [
 		"TTh 0800-0855"

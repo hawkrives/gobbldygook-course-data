@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the class and lab schedule when it is offered.",
+	"instructors": [
+		"Edward W. Gimbel"
+	],
 	"level": 200,
-	"name": "Top: Am Foreign Policy",
-	"num": 299,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Edward W. Gimbel"
-	],
-	"sem": 3,
+	"name": "Top: Am Foreign Policy",
+	"num": 299,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"T 0120-0245PM",

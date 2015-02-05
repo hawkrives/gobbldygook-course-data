@@ -5,17 +5,18 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 200,
+	"locations": [
+		"SC 186"
+	],
 	"name": "Int Differ Equations",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"SC 186"
-	],
-	"profs": [
-		"Matthew Richey"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"MWF 1255-0150PM"

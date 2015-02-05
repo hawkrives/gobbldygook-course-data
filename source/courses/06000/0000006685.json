@@ -5,18 +5,19 @@
 	"depts": [
 		"ART"
 	],
-	"level": 100,
-	"name": "Renaissance--Present",
-	"num": 151,
-	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
+	"instructors": [
 		"Nancy M. Thompson",
 		"Matthew Rohn"
 	],
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"DC 305"
+	],
+	"name": "Renaissance--Present",
+	"num": 151,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1045-1140"

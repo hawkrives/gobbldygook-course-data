@@ -5,17 +5,18 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Wesley Pearson"
+	],
 	"level": 100,
+	"locations": [
+		"SC 374"
+	],
 	"name": "Chem Reactions/Lab",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"SC 374"
-	],
-	"profs": [
-		"Wesley Pearson"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19975,
 	"times": [
 		"WTh 1000-1130"

@@ -5,17 +5,18 @@
 	"depts": [
 		"LATIN"
 	],
+	"instructors": [
+		"Gwendolyn Compton-Engle"
+	],
 	"level": 300,
+	"locations": [
+		"M 3"
+	],
 	"name": "Latin Satire",
 	"num": 377,
 	"pf": false,
-	"places": [
-		"M 3"
-	],
-	"profs": [
-		"Gwendolyn Compton-Engle"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

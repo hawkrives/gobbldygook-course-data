@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Jennifer Bader"
+	],
 	"level": 100,
+	"locations": [
+		"DC _STUDIO_2"
+	],
 	"name": "Ballet I",
 	"num": 121,
 	"pf": true,
-	"places": [
-		"DC _STUDIO_2"
-	],
-	"profs": [
-		"Jennifer Bader"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "X",
 	"term": 20044,
 	"times": [
 		"M-F 1000-1130"

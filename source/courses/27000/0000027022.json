@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Mark A. Granquist"
+	],
 	"level": 200,
+	"locations": [
+		"L 577"
+	],
 	"name": "Chr Theol in History",
 	"num": 212,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"Mark A. Granquist"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 19995,
 	"times": [
 		"M-F 0800-0930"

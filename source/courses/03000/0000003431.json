@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
+	"locations": [
+		"H 515"
+	],
 	"name": "Sem: Personality",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 515"
-	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20013,
 	"times": [
 		"MWF 0905-1000"

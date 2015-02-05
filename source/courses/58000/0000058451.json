@@ -6,17 +6,18 @@
 		"ESAC"
 	],
 	"desc": "This is an aerobic-based course utilizing swimming and water excersises. Prerequisite: Be able to swim 300 yards.",
-	"level": 100,
-	"num": 130,
-	"pf": false,
-	"places": [
-		"SAC_POOL"
-	],
-	"profs": [
+	"instructors": [
 		"Kurt Anderson"
 	],
-	"sect": "A",
-	"sem": 3,
+	"level": 100,
+	"locations": [
+		"SAC_POOL"
+	],
+	"num": 130,
+	"pf": false,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20073,
 	"times": [
 		"MW 0800-0855"

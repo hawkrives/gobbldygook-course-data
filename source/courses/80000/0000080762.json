@@ -6,18 +6,19 @@
 		"MUSIC"
 	],
 	"desc": "This course is a study of the larger forms of choral music from the Baroque to the present. Students study scores and recordings and discuss representative style features and characteristics, interpretation, and conducting problems. Prerequisite: Music 214, 241, and 242 and junior standing. Offered spring semester 2011-12 and alternate years.",
+	"instructors": [
+		"Michael Hanawalt"
+	],
 	"level": 200,
-	"name": "Choral Lit II",
-	"num": 288,
-	"pf": false,
-	"places": [
+	"locations": [
 		"CHM 239",
 		"CHM 239"
 	],
-	"profs": [
-		"Michael Hanawalt"
-	],
-	"sem": 3,
+	"name": "Choral Lit II",
+	"num": 288,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"times": [
 		"T 0935-1100",

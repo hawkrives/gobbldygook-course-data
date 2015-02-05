@@ -5,18 +5,19 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Richard Single"
+	],
 	"level": 300,
+	"locations": [
+		"SC 188"
+	],
 	"name": "Math Statistics",
 	"num": 312,
 	"pf": false,
-	"places": [
-		"SC 188"
-	],
-	"profs": [
-		"Richard Single"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"times": [
 		"MWF 1255-0150PM"

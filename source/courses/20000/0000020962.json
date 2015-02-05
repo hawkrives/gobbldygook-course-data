@@ -5,17 +5,18 @@
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Kenneth G. Graber"
+	],
 	"level": 100,
+	"locations": [
+		"CHM 239"
+	],
 	"name": "The Music Spectrum",
 	"num": 130,
 	"pf": false,
-	"places": [
-		"CHM 239"
-	],
-	"profs": [
-		"Kenneth G. Graber"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19964,
 	"times": [
 		"M-F 1230-0200PM"

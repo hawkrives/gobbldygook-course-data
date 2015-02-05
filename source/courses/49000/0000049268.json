@@ -6,18 +6,19 @@
 		"PSCI"
 	],
 	"desc": "Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Donald I. Ostrom"
+	],
 	"level": 300,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Sem: American Issues",
 	"num": 399,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Donald I. Ostrom"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"M 0700-1000PM"

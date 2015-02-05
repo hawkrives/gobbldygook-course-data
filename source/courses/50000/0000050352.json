@@ -6,18 +6,19 @@
 		"BIO"
 	],
 	"groupid": 166,
+	"instructors": [
+		"Sara E. Fruehling"
+	],
 	"level": 300,
+	"locations": [
+		"SC 210"
+	],
 	"name": "Immunology Disc",
 	"num": 382,
 	"pf": false,
-	"places": [
-		"SC 210"
-	],
-	"profs": [
-		"Sara E. Fruehling"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20061,
 	"times": [
 		"W 0200-0400PM"

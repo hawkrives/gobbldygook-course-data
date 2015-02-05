@@ -5,17 +5,18 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"Daniel Hofrenning"
+	],
 	"level": 200,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Environmentl Politics",
 	"num": 276,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Daniel Hofrenning"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20023,
 	"times": [
 		"MWF 1255-0150PM"

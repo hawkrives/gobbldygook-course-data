@@ -5,18 +5,19 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 300,
-	"name": "Developmental Biology",
-	"num": 372,
-	"pf": false,
-	"places": [
+	"locations": [
 		"SC 274",
 		"SC 229"
 	],
-	"profs": [
-		"Eric Cole"
-	],
-	"sem": 3,
+	"name": "Developmental Biology",
+	"num": 372,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 0905-1000",

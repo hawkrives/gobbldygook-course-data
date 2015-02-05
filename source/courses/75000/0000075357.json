@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"name": "Politics & Developmnt",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MWF 1255-0150PM"

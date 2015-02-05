@@ -5,18 +5,19 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Konrad Talbot"
+	],
 	"level": 300,
+	"locations": [
+		"H 302"
+	],
 	"name": "Sem: Biopsychology",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"H 302"
-	],
-	"profs": [
-		"Konrad Talbot"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 19953,
 	"times": [
 		"MWF 1045-1145"

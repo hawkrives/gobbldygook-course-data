@@ -5,18 +5,19 @@
 	"depts": [
 		"PSCI"
 	],
+	"instructors": [
+		"William A. Gorton"
+	],
 	"level": 300,
-	"name": "Studies-Pol Thought",
-	"num": 384,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 204",
 		"DC 204"
 	],
-	"profs": [
-		"William A. Gorton"
-	],
-	"sem": 3,
+	"name": "Studies-Pol Thought",
+	"num": 384,
+	"pf": false,
+	"semester": 3,
+	"status": "O",
 	"term": 20023,
 	"times": [
 		"T 1145-0110PM",

@@ -5,15 +5,16 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"John Poling"
+	],
 	"level": 200,
 	"name": "IS/Heidegger",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"John Poling"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"title": "IS/Heidegger",
 	"type": "Research",

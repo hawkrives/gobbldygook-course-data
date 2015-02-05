@@ -5,17 +5,18 @@
 	"depts": [
 		"DNCTE"
 	],
+	"instructors": [
+		"Sheryl Saterstrom"
+	],
 	"level": 300,
+	"locations": [
+		"DC _STUDIO_3"
+	],
 	"name": "Advance Body Movable",
 	"num": 301,
 	"pf": false,
-	"places": [
-		"DC _STUDIO_3"
-	],
-	"profs": [
-		"Sheryl Saterstrom"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"times": [
 		"MWF 1255-0150PM"

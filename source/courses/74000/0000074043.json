@@ -10,17 +10,18 @@
 		"SED"
 	],
 	"groupid": 139,
+	"instructors": [
+		"Kathleen L. Shea"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 410"
+	],
 	"notes": "Students in Bio 261 must also register for one lab Bio 261 AL, BL, or CL.",
 	"num": 261,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Kathleen L. Shea"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20103,
 	"times": [
 		"MWF 0905-1000"

@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Patricia Beckman"
+	],
 	"level": 200,
+	"locations": [
+		"CH 101"
+	],
 	"name": "Reformation Theology",
 	"num": 214,
 	"pf": false,
-	"places": [
-		"CH 101"
-	],
-	"profs": [
-		"Patricia Beckman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 19992,
 	"times": [
 		"M-F 0100-0300PM"

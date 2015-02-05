@@ -5,15 +5,16 @@
 	"depts": [
 		"ENGL"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 300,
 	"name": "IR/Novel Writing",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20033,
 	"title": "IR/Novel Writing",
 	"type": "Research",

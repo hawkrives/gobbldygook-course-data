@@ -6,18 +6,19 @@
 		"PHYS"
 	],
 	"groupid": 1078,
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 293"
+	],
 	"name": "Analytical III Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"RNS 293"
-	],
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20141,
 	"times": [
 		"F 0200-0430PM"

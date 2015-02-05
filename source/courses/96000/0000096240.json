@@ -10,17 +10,18 @@
 		"ORC",
 		"WRI"
 	],
+	"instructors": [
+		"Karil J. Kucera"
+	],
 	"level": 300,
+	"locations": [
+		"DC 204"
+	],
 	"name": "Methods of Art Hist",
 	"num": 350,
 	"pf": false,
-	"places": [
-		"DC 204"
-	],
-	"profs": [
-		"Karil J. Kucera"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 20143,
 	"times": [
 		"M 0700-1000PM"

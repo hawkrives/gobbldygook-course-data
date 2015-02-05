@@ -10,17 +10,18 @@
 		"SED"
 	],
 	"groupid": 194,
+	"instructors": [
+		"Patrick N. Riley"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Chemical Reactions",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 310"
-	],
-	"profs": [
-		"Patrick N. Riley"
-	],
-	"sem": 5,
+	"semester": 5,
+	"status": "O",
 	"term": 20105,
 	"times": [
 		"M-F 1000-1130"

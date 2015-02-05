@@ -9,18 +9,19 @@
 	"gereqs": [
 		"BTS-B"
 	],
+	"instructors": [
+		"Peder J. Jothen"
+	],
 	"level": 100,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Peder J. Jothen"
-	],
-	"sect": "S",
-	"sem": 1,
+	"section": "S",
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 0800-0855"

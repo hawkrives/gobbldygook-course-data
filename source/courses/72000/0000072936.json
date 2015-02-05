@@ -9,16 +9,17 @@
 	"gereqs": [
 		"HBS"
 	],
-	"level": 200,
-	"num": 250,
-	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
+	"instructors": [
 		"Sian E. Muir"
 	],
-	"sem": 1,
+	"level": 200,
+	"locations": [
+		"RNS 410"
+	],
+	"num": 250,
+	"pf": false,
+	"semester": 1,
+	"status": "C",
 	"term": 20101,
 	"times": [
 		"MWF 1255-0150PM"

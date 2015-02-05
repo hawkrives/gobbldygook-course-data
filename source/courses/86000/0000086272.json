@@ -6,15 +6,16 @@
 		"PHIL"
 	],
 	"desc": "Prerequisite: one level III course in philosophy.",
+	"instructors": [
+		"Gordon D. Marino"
+	],
 	"level": 300,
 	"name": "IR/Beckett: God & Philos.",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Gordon D. Marino"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "O",
 	"term": 20113,
 	"title": "Independent Research",
 	"type": "Research",

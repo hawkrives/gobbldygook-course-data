@@ -6,20 +6,21 @@
 		"PSYCH"
 	],
 	"desc": "This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Prerequisite: determined by individual instructor. Offered based on department decision. Depending on course topic, may count toward the neuroscience concentration. May be offered as a 1.00 credit course or .50 credit course.",
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 124",
+		"RNS 124"
+	],
 	"name": "Res: Psych Well-Being",
 	"notes": "Prerequisite: permission of instructor required. Closed during web registration",
 	"num": 396,
 	"pf": false,
-	"places": [
-		"RNS 124",
-		"RNS 124"
-	],
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0800-0925",

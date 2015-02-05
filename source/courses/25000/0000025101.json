@@ -5,17 +5,18 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"James Hanson"
+	],
 	"level": 200,
+	"locations": [
+		"L 577"
+	],
 	"name": "Jesus in Script/Trad",
 	"num": 221,
 	"pf": false,
-	"places": [
-		"L 577"
-	],
-	"profs": [
-		"James Hanson"
-	],
-	"sem": 4,
+	"semester": 4,
+	"status": "O",
 	"term": 19984,
 	"times": [
 		"M-F 1230-0200PM"

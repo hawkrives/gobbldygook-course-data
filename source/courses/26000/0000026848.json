@@ -5,17 +5,18 @@
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Samiha Peterson"
+	],
 	"level": 200,
+	"locations": [
+		"H 317"
+	],
 	"name": "Global Interdepend",
 	"num": 241,
 	"pf": false,
-	"places": [
-		"H 317"
-	],
-	"profs": [
-		"Samiha Peterson"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"TTh 0935-1100"

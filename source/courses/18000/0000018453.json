@@ -5,17 +5,18 @@
 	"depts": [
 		"PETH"
 	],
+	"instructors": [
+		"Cynthia Book"
+	],
 	"level": 200,
+	"locations": [
+		"SAC 1"
+	],
 	"name": "Biomechanics",
 	"num": 274,
 	"pf": false,
-	"places": [
-		"SAC 1"
-	],
-	"profs": [
-		"Cynthia Book"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"MWF 0905-1000"

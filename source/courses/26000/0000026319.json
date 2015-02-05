@@ -5,17 +5,18 @@
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Mark Pernecky"
+	],
 	"level": 300,
+	"locations": [
+		"SC 130"
+	],
 	"name": "Labor Econ/Employ Rel",
 	"num": 376,
 	"pf": false,
-	"places": [
-		"SC 130"
-	],
-	"profs": [
-		"Mark Pernecky"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19993,
 	"times": [
 		"TTh 0120-0245PM"

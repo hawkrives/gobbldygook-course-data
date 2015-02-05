@@ -5,18 +5,19 @@
 	"depts": [
 		"CHIN"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"M 31"
+	],
 	"name": "Interm Chinese II/Lab",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"M 31"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "O",
 	"term": 19943,
 	"times": [
 		"TTh 1150-1245PM"

@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Edward Langerak"
+	],
 	"level": 300,
+	"locations": [
+		"H 514"
+	],
 	"name": "Ethics/Value",
 	"num": 373,
 	"pf": false,
-	"places": [
-		"H 514"
-	],
-	"profs": [
-		"Edward Langerak"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-1245PM"

@@ -9,19 +9,20 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Mike Weimerskirch"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 356A"
+	],
 	"name": "Gateways/Mathematics",
 	"notes": "Topic: Games, Strategies, and Probabilities",
 	"num": 117,
 	"pf": false,
-	"places": [
-		"RNS 356A"
-	],
-	"profs": [
-		"Mike Weimerskirch"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1045-1140"

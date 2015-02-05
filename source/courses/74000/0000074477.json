@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
+	"locations": [
+		"DC Studio 1"
+	],
 	"name": "Modern Dance I (.25)",
 	"num": 111,
 	"pf": true,
-	"places": [
-		"DC Studio 1"
-	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20103,
 	"times": [
 		"MW 1150-1245PM"

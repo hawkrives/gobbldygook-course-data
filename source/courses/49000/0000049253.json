@@ -5,18 +5,19 @@
 	"depts": [
 		"JAPAN"
 	],
+	"instructors": [
+		"Holly Ogren"
+	],
 	"level": 100,
+	"locations": [
+		"OM 002"
+	],
 	"name": "Beginning Japanese II Lab",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 002"
-	],
-	"profs": [
-		"Holly Ogren"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20053,
 	"times": [
 		"T 0200-0255PM"

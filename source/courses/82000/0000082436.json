@@ -10,17 +10,18 @@
 		"ALS-L",
 		"ORC"
 	],
+	"instructors": [
+		"Mary Titus"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Intro to Poetry",
 	"num": 123,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Mary Titus"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20112,
 	"times": [
 		"M-F 1040-1240PM"

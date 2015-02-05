@@ -5,15 +5,16 @@
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Theodore Johnson"
+	],
 	"level": 200,
 	"name": "IS/Viruses & Immunology",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Theodore Johnson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
+	"status": "O",
 	"term": 19962,
 	"title": "IS/Viruses & Immunology",
 	"type": "Research",

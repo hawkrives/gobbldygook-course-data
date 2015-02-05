@@ -5,15 +5,16 @@
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Laura Listenberger"
+	],
 	"level": 300,
 	"name": "IR/Membrane Biophysics",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Laura Listenberger"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "C",
 	"term": 20123,
 	"title": "Independent Research",
 	"type": "Research",

@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 100,
+	"locations": [
+		"H 403"
+	],
 	"name": "The West & East Asia",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"H 403"
-	],
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 19993,
 	"times": [
 		"MWF 0200-0255PM"

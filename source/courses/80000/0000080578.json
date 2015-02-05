@@ -9,16 +9,17 @@
 	"gereqs": [
 		"ALS-A"
 	],
-	"level": 200,
-	"num": 239,
-	"pf": false,
-	"places": [
-		"DC 100"
-	],
-	"profs": [
+	"instructors": [
 		"Guido Alvarez"
 	],
-	"sem": 2,
+	"level": 200,
+	"locations": [
+		"DC 100"
+	],
+	"num": 239,
+	"pf": false,
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"times": [
 		"M-F 0900-0300PM"

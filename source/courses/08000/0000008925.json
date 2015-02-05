@@ -5,17 +5,18 @@
 	"depts": [
 		"PHIL"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 200,
+	"locations": [
+		"HH 515"
+	],
 	"name": "Law,Politics,Morality",
 	"num": 254,
 	"pf": false,
-	"places": [
-		"HH 515"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20042,
 	"times": [
 		"M-F 1040-1240PM"

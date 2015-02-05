@@ -9,18 +9,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Robert Jacobel"
+	],
 	"level": 200,
-	"notes": "First-Year Students may register only with permission of instructor.",
-	"num": 245,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 208",
 		"RNS 208"
 	],
-	"profs": [
-		"Robert Jacobel"
-	],
-	"sem": 3,
+	"notes": "First-Year Students may register only with permission of instructor.",
+	"num": 245,
+	"pf": false,
+	"semester": 3,
+	"status": "C",
 	"term": 20113,
 	"times": [
 		"T 0935-1100",

@@ -5,18 +5,19 @@
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
+	"locations": [
+		"BMC 111"
+	],
 	"name": "Chri Theol/Moral Life",
 	"num": 207,
 	"pf": false,
-	"places": [
-		"BMC 111"
-	],
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "C",
 	"term": 20033,
 	"times": [
 		"MWF 1150-1245PM"

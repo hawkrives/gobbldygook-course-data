@@ -9,17 +9,18 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Howard Thorsheim"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 226"
+	],
 	"name": "Sem: Preceptors",
 	"num": 390,
 	"pf": false,
-	"places": [
-		"RNS 226"
-	],
-	"profs": [
-		"Howard Thorsheim"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MW 1255-0150PM"

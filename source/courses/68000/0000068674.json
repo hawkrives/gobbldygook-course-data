@@ -11,18 +11,19 @@
 		"MCD",
 		"WRI"
 	],
+	"instructors": [
+		"Heather J. Klopchin"
+	],
 	"level": 200,
+	"locations": [
+		"DC 305"
+	],
 	"name": "Dance in America",
 	"notes": "Prerequisite: Completion of Dance 100.",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"DC 305"
-	],
-	"profs": [
-		"Heather J. Klopchin"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20093,
 	"times": [
 		"MWF 1255-0150PM"

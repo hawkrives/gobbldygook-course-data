@@ -5,15 +5,16 @@
 	"depts": [
 		"HSPST"
 	],
+	"instructors": [
+		"Ariel Strichartz"
+	],
 	"level": 300,
 	"name": "FLC-Spanish",
 	"num": 333,
 	"pf": false,
-	"profs": [
-		"Ariel Strichartz"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "FLC-Spanish",
 	"type": "Research",

@@ -5,19 +5,20 @@
 	"depts": [
 		"GCON"
 	],
+	"instructors": [
+		"Gary Stansell"
+	],
 	"level": 100,
-	"name": "Medieval Synthesis",
-	"num": 116,
-	"pf": false,
-	"places": [
+	"locations": [
 		"H 516",
 		"H 501 PLENARY"
 	],
-	"profs": [
-		"Gary Stansell"
-	],
-	"sect": "F",
-	"sem": 3,
+	"name": "Medieval Synthesis",
+	"num": 116,
+	"pf": false,
+	"section": "F",
+	"semester": 3,
+	"status": "O",
 	"term": 19983,
 	"times": [
 		"MWF 1255-0150PM",

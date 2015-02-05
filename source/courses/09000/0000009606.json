@@ -5,15 +5,16 @@
 	"depts": [
 		"MATH"
 	],
+	"instructors": [
+		"Matthew Richey"
+	],
 	"level": 300,
 	"name": "IR/Adv Number Theory",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Matthew Richey"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 20043,
 	"title": "IR/Adv Number Theory",
 	"type": "Research",

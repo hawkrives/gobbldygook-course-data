@@ -6,17 +6,18 @@
 		"PSCI"
 	],
 	"desc": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"instructors": [
+		"Christopher B. Chapp"
+	],
 	"level": 200,
+	"locations": [
+		"RML 577"
+	],
 	"name": "Top: Race Am. Politics",
 	"num": 299,
 	"pf": false,
-	"places": [
-		"RML 577"
-	],
-	"profs": [
-		"Christopher B. Chapp"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20092,
 	"times": [
 		"M-F 1040-1240PM"

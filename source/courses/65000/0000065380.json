@@ -11,17 +11,18 @@
 		"SED"
 	],
 	"groupid": 1080,
+	"instructors": [
+		"Amy Kolan"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Analytical II",
 	"num": 131,
 	"pf": false,
-	"places": [
-		"RNS 210"
-	],
-	"profs": [
-		"Amy Kolan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "C",
 	"term": 20083,
 	"times": [
 		"MWF 1045-1140"

@@ -5,19 +5,20 @@
 	"depts": [
 		"THEAT"
 	],
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
-	"name": "Prod Theater: Advanced",
-	"num": 234,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Advanced",
+	"num": 234,
+	"pf": true,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"times": [
 		"M-F 0900-1000",

@@ -6,20 +6,21 @@
 		"THEAT"
 	],
 	"desc": "Designed for the student with previous course work and production work in theater, this course studies theater performance through the full-scale mounting of a production during the month of January, followed by public performances at the beginning of Spring Semester. Students enroll in the course through either an acting audition or a production position interview held in late October or early November. Selected participants are notified prior to Interim registration. Details about the audition/interview and scripts are available by calling the Theatre Department Office, x 3240. Offered during Interim.",
+	"instructors": [
+		"Karen Wilson"
+	],
 	"level": 200,
-	"name": "Prod Theater: Advanced",
-	"notes": "Admission by audition/interview.",
-	"num": 234,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Karen Wilson"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Advanced",
+	"notes": "Admission by audition/interview.",
+	"num": 234,
+	"pf": true,
+	"semester": 2,
+	"status": "C",
 	"term": 20092,
 	"times": [
 		"M-F 0900-1000",

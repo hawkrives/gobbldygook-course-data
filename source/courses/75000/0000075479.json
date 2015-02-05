@@ -7,20 +7,21 @@
 	],
 	"desc": "Discussion section.",
 	"groupid": 32,
+	"instructors": [
+		"Christopher Tradowsky",
+		"Matthew Rohn"
+	],
 	"level": 100,
+	"locations": [
+		"DC 210"
+	],
 	"name": "Intro/Art Hist II Discuss",
 	"notes": "This discussion section has been canceled.",
 	"num": 151,
 	"pf": false,
-	"places": [
-		"DC 210"
-	],
-	"profs": [
-		"Christopher Tradowsky",
-		"Matthew Rohn"
-	],
-	"sect": "C",
-	"sem": 3,
+	"section": "C",
+	"semester": 3,
+	"status": "X",
 	"term": 20103,
 	"times": [
 		"F 1045-1140"

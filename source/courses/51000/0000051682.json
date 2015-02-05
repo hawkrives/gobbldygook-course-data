@@ -6,18 +6,19 @@
 		"NORW"
 	],
 	"desc": "Students continue developing proficiency in spoken and written Norwegian, increasing their vocabulary, improving grammatical accuracy, and gaining experience reading and listening to authentic materials. Prerequisite: Norwegian 111, or equivalent.",
+	"instructors": [
+		"Nancy Aarsvold"
+	],
 	"level": 100,
+	"locations": [
+		"OM 015"
+	],
 	"name": "Begin Norwegian II",
 	"num": 112,
 	"pf": false,
-	"places": [
-		"OM 015"
-	],
-	"profs": [
-		"Nancy Aarsvold"
-	],
-	"sect": "A",
-	"sem": 3,
+	"section": "A",
+	"semester": 3,
+	"status": "C",
 	"term": 20063,
 	"times": [
 		"MWF 0905-1000"

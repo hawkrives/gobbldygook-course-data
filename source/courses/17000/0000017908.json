@@ -5,17 +5,18 @@
 	"depts": [
 		"ASIAN"
 	],
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 100,
+	"locations": [
+		"M 1"
+	],
 	"name": "Asian Cultures",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"M 1"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sem": 3,
+	"semester": 3,
+	"status": "O",
 	"term": 19953,
 	"times": [
 		"TTh 1145-0110PM"

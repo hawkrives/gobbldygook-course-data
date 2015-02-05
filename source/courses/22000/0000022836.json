@@ -5,15 +5,16 @@
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Deborah Anderson"
+	],
 	"level": 300,
 	"name": "IR/College Depression",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Deborah Anderson"
-	],
-	"sect": "L",
-	"sem": 3,
+	"section": "L",
+	"semester": 3,
+	"status": "O",
 	"term": 19973,
 	"title": "IR/College Depression",
 	"type": "Research",

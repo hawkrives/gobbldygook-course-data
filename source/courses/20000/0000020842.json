@@ -5,15 +5,16 @@
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Thomas Waldemer"
+	],
 	"level": 200,
 	"name": "IS/Brazilian Portugue",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Thomas Waldemer"
-	],
-	"sect": "B",
-	"sem": 3,
+	"section": "B",
+	"semester": 3,
+	"status": "O",
 	"term": 19963,
 	"title": "IS/Brazilian Portugue",
 	"type": "Research",

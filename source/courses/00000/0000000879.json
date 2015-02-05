@@ -5,17 +5,18 @@
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 200,
+	"locations": [
+		"H 413"
+	],
 	"name": "Arts Management",
 	"num": 229,
 	"pf": false,
-	"places": [
-		"H 413"
-	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "C",
 	"term": 20002,
 	"times": [
 		"M-F 1030-1230PM"

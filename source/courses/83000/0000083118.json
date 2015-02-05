@@ -10,19 +10,20 @@
 		"FOL-C"
 	],
 	"groupid": 241,
+	"instructors": [
+		"Pin Pin Wan"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Intermed Chinese I",
 	"notes": "Students in Chinese 231B must also register for one lab Chinese 231AL or BL.",
 	"num": 231,
 	"pf": false,
-	"places": [
-		"TOH 316"
-	],
-	"profs": [
-		"Pin Pin Wan"
-	],
-	"sect": "B",
-	"sem": 1,
+	"section": "B",
+	"semester": 1,
+	"status": "O",
 	"term": 20121,
 	"times": [
 		"MWF 1255-0150PM"

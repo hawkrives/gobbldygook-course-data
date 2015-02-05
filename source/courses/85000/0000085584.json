@@ -5,15 +5,16 @@
 	"depts": [
 		"GERM"
 	],
+	"instructors": [
+		"Karl Fink"
+	],
 	"level": 300,
 	"name": "IR/Swiss Multi Lang Ed",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Karl Fink"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
+	"status": "O",
 	"term": 20112,
 	"title": "Independent Research",
 	"type": "Research",

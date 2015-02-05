@@ -10,18 +10,19 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Kristina Thalhammer"
+	],
 	"level": 200,
-	"name": "Politics & Developmnt",
-	"num": 252,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 413",
 		"HH 413"
 	],
-	"profs": [
-		"Kristina Thalhammer"
-	],
-	"sem": 1,
+	"name": "Politics & Developmnt",
+	"num": 252,
+	"pf": false,
+	"semester": 1,
+	"status": "O",
 	"term": 20111,
 	"times": [
 		"T 0800-0925",

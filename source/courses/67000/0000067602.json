@@ -10,18 +10,19 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"Anthony Roberts"
+	],
 	"level": 100,
-	"num": 111,
-	"pf": true,
-	"places": [
+	"locations": [
 		"DC Studio 2",
 		"DC Studio 2"
 	],
-	"profs": [
-		"Anthony Roberts"
-	],
-	"sect": "B",
-	"sem": 1,
+	"num": 111,
+	"pf": true,
+	"section": "B",
+	"semester": 1,
+	"status": "C",
 	"term": 20091,
 	"times": [
 		"T 1150-1245PM",

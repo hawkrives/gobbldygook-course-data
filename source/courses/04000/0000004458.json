@@ -5,14 +5,15 @@
 	"depts": [
 		"ART"
 	],
+	"instructors": [
+		"Wendell Arneson"
+	],
 	"level": 300,
 	"name": "IR/Advanced Painting",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Wendell Arneson"
-	],
-	"sem": 2,
+	"semester": 2,
+	"status": "O",
 	"term": 20022,
 	"title": "IR/Advanced Painting",
 	"type": "Research",
