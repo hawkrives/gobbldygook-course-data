@@ -1,25 +1,26 @@
 {
 	"clbid": 95400,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1387,
 	"depts": [
 		"THEAT"
 	],
 	"desc": "Designed for the student with previous course work and production work in theater, this course studies theater performance through the full-scale mounting of a production during the month of January, followed by public performances at the beginning of spring semester. Students enroll in the course through either an acting audition or a production position interview held in late October or early November. Selected participants are notified prior to Interim registration. Details about the audition/interview are available by calling the Theater Department Office, x3240 or online at the Theater Department website in \"Current Students > Auditions.\" Scripts are available by calling the Theater Department office, x3240. P/N only. Prerequisite: THEAT 133 or permission of instructor. Offered during Interim.",
+	"instructors": [
+		"Gary C. Gisselman"
+	],
 	"level": 200,
-	"name": "Prod Theater: Advanced",
-	"notes": "Admission by audition/interview.",
-	"num": 234,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Haugen",
 		"TB Haugen",
 		"TB Haugen"
 	],
-	"profs": [
-		"Gary C. Gisselman"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Advanced",
+	"notes": "Admission by audition/interview.",
+	"num": 234,
+	"pf": true,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0900-1000",

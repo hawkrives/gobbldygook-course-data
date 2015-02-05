@@ -1,5 +1,6 @@
 {
 	"clbid": 97271,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 27947,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Dean Krouk"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Munch and Nordic Lit",
 	"notes": "This course is open to a limited number of first-year students.",
 	"num": 246,
 	"pf": false,
-	"places": [
-		"TOH 308"
-	],
-	"profs": [
-		"Dean Krouk"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

@@ -1,5 +1,6 @@
 {
 	"clbid": 95402,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 24283,
 	"depts": [
@@ -10,18 +11,18 @@
 		"HBS",
 		"MCD"
 	],
+	"instructors": [
+		"Joshua Anderson"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 312"
+	],
 	"name": "Race and Politics",
 	"notes": "Open to first-year students. This course has class year limits.",
 	"num": 244,
 	"pf": false,
-	"places": [
-		"TOH 312"
-	],
-	"profs": [
-		"Joshua Anderson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

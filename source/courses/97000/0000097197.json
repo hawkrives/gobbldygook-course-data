@@ -1,5 +1,6 @@
 {
 	"clbid": 97197,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1199,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"L. DeAne Lagerquist"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"notes": "BTS-B required. Closed to first-year students.",
 	"num": 213,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"L. DeAne Lagerquist"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

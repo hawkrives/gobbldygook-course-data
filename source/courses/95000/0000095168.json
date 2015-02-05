@@ -1,5 +1,6 @@
 {
 	"clbid": 95168,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 513,
 	"depts": [
@@ -10,17 +11,17 @@
 		"ALS-A",
 		"HWC"
 	],
+	"instructors": [
+		"Kirk Martinson"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"notes": "Taught in English. Open to all students.",
 	"num": 249,
 	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
-		"Kirk Martinson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0100-0300PM"

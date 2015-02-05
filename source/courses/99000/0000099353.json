@@ -1,5 +1,6 @@
 {
 	"clbid": 99353,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 506,
 	"depts": [
@@ -10,17 +11,17 @@
 		"ALS-L",
 		"HWC"
 	],
+	"instructors": [
+		"Lavern Rippley"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Grimm Fairy Tales/Folklor",
 	"num": 147,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Lavern Rippley"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

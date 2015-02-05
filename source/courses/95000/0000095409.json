@@ -1,5 +1,6 @@
 {
 	"clbid": 95409,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 532,
 	"depts": [
@@ -10,19 +11,19 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Anthony J. Rudd"
+	],
 	"level": 100,
+	"locations": [
+		"RML 515"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"RML 515"
-	],
-	"profs": [
-		"Anthony J. Rudd"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

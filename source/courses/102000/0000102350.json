@@ -1,19 +1,20 @@
 {
 	"clbid": 102350,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 784,
 	"depts": [
 		"MGMT"
 	],
+	"instructors": [
+		"Kenneth Creech"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Kenneth Creech"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
 	"term": 20142,
 	"title": "Internship",
 	"type": "Research",

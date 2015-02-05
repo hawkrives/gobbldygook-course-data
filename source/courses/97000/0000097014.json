@@ -1,5 +1,6 @@
 {
 	"clbid": 97014,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 19830,
 	"depts": [
@@ -10,15 +11,15 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Ryan R. Sheppard"
+	],
 	"level": 200,
 	"name": "Thailand: Culture, Inst",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 232,
 	"pf": false,
-	"profs": [
-		"Ryan R. Sheppard"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Thailand: Culture, Institutions, and Interactions",
 	"type": "Research",

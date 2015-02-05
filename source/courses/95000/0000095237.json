@@ -1,19 +1,20 @@
 {
 	"clbid": 95237,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1280,
 	"depts": [
 		"RUSSN"
 	],
 	"desc": "Independent Research is required for all students seeking credit for a senior project.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

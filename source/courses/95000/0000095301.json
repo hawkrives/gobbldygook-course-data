@@ -1,18 +1,19 @@
 {
 	"clbid": 95301,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 625,
 	"depts": [
 		"HIST"
 	],
+	"instructors": [
+		"Abdulai Iddrisu"
+	],
 	"level": 200,
 	"name": "IS/Ancient Tatu Mediterr",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Abdulai Iddrisu"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

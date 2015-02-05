@@ -1,5 +1,6 @@
 {
 	"clbid": 95403,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 27679,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"EIN"
 	],
+	"instructors": [
+		"Kathryn R. Swanson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"notes": "Prerequisite: Completion of BTS-T or permission of the instructor. Open to seniors and juniors during web registration.",
 	"num": 255,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Kathryn R. Swanson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0800-1000"

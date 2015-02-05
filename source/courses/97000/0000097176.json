@@ -1,5 +1,6 @@
 {
 	"clbid": 97176,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 308,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Maurella Cunningham"
+	],
 	"level": 100,
 	"name": "Urban Schools/Communities",
 	"notes": "Open to First-Year Students and Sophomores only. Admission by interview.",
 	"num": 170,
 	"pf": true,
-	"profs": [
-		"Maurella Cunningham"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Urban Schools and Communities",
 	"type": "Research",

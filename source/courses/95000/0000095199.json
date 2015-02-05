@@ -1,5 +1,6 @@
 {
 	"clbid": 95199,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 455,
 	"depts": [
@@ -9,19 +10,19 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Diane K. Angell"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Intro: Env Studies",
 	"notes": "Open to Environmental Conversations students only.",
 	"num": 137,
 	"pf": false,
-	"places": [
-		"RNS 190",
-		"RNS 190"
-	],
-	"profs": [
-		"Diane K. Angell"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0800-1000",

@@ -1,5 +1,6 @@
 {
 	"clbid": 94989,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 190,
 	"depts": [
@@ -11,18 +12,18 @@
 		"SED"
 	],
 	"groupid": 190,
+	"instructors": [
+		"George K. Anquandah"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 410"
+	],
 	"name": "A Matter of Environ",
 	"notes": "Students in Chemistry 124 must also register for lab Chemistry 124 L.",
 	"num": 124,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"George K. Anquandah"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0800-1000"

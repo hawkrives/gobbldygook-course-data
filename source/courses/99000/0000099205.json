@@ -1,23 +1,24 @@
 {
 	"clbid": 99205,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 28963,
 	"depts": [
 		"BIO"
 	],
+	"instructors": [
+		"Nicole Son"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 186",
+		"TOH 186"
+	],
 	"name": "Top: Wiring the Brain",
 	"notes": "Closed to first-year students. This course has class-year limits. This course has some field trips.",
 	"num": 292,
 	"pf": false,
-	"places": [
-		"TOH 186",
-		"TOH 186"
-	],
-	"profs": [
-		"Nicole Son"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-Th 1040-1240PM",

@@ -1,5 +1,6 @@
 {
 	"clbid": 97203,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1334,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Maggie Broner"
+	],
 	"level": 200,
 	"name": "Spain's Cult/Ling",
 	"notes": "Not open to first-year students. This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 270,
 	"pf": false,
-	"profs": [
-		"Maggie Broner"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Spain's Cultural and Linguistic Legacy",
 	"type": "Research",

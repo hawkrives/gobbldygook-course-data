@@ -1,18 +1,19 @@
 {
 	"clbid": 95235,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1101,
 	"depts": [
 		"PHYS"
 	],
+	"instructors": [
+		"Jason J. Engbrecht"
+	],
 	"level": 300,
 	"name": "IR/Robotics Research",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Jason J. Engbrecht"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

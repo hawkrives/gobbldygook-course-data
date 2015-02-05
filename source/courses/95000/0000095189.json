@@ -1,5 +1,6 @@
 {
 	"clbid": 95189,
+	"coursestatus": "O",
 	"credits": 0.0,
 	"crsid": 18804,
 	"depts": [
@@ -7,19 +8,19 @@
 		"BIO"
 	],
 	"groupid": 18803,
+	"instructors": [
+		"Keir Fogarty"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": "Open only to those students who have completed CH/BI 125.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 350"
-	],
-	"profs": [
-		"Keir Fogarty"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-Th 1230-0300PM"

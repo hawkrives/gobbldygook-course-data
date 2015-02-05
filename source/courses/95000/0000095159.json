@@ -1,5 +1,6 @@
 {
 	"clbid": 95159,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 20055,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Peter B. Nelson"
+	],
 	"level": 100,
-	"num": 104,
-	"pf": false,
-	"places": [
+	"locations": [
 		"DC 100",
 		"DC 100",
 		"DC 100"
 	],
-	"profs": [
-		"Peter B. Nelson"
-	],
-	"sem": 2,
+	"num": 104,
+	"pf": false,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0900-1000",

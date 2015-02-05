@@ -1,5 +1,6 @@
 {
 	"clbid": 95191,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1329,
 	"depts": [
@@ -10,15 +11,15 @@
 		"FOL-S",
 		"MCG"
 	],
+	"instructors": [
+		"Kristina Medina-Vilarino"
+	],
 	"level": 200,
 	"name": "Inter Span II-C Rica",
 	"notes": "Open to all students who meet the prerequisites. This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 234,
 	"pf": false,
-	"profs": [
-		"Kristina Medina-Vilarino"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Intermediate Spanish II in Costa Rica",
 	"type": "Research",

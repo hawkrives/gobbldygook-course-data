@@ -1,5 +1,6 @@
 {
 	"clbid": 99206,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 28964,
 	"depts": [
@@ -9,16 +10,16 @@
 	"gereqs": [
 		"HWC"
 	],
-	"level": 100,
-	"num": 123,
-	"pf": false,
-	"places": [
-		"TOH 210"
-	],
-	"profs": [
+	"instructors": [
 		"Lisa Whitlatch"
 	],
-	"sem": 2,
+	"level": 100,
+	"locations": [
+		"TOH 210"
+	],
+	"num": 123,
+	"pf": false,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

@@ -1,5 +1,6 @@
 {
 	"clbid": 97164,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 19833,
 	"depts": [
@@ -10,15 +11,15 @@
 		"ALS-A",
 		"SPM"
 	],
+	"instructors": [
+		"John Saurer"
+	],
 	"level": 100,
 	"name": "Draw from Nature/Bahamas",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 106,
 	"pf": false,
-	"profs": [
-		"John Saurer"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Drawing from Nature in the Bahamas",
 	"type": "Research",

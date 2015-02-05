@@ -1,19 +1,20 @@
 {
 	"clbid": 102308,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 223,
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Daniel A. Everson"
+	],
 	"level": 300,
 	"name": "IR/Conducting Polymer Syn",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Daniel A. Everson"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

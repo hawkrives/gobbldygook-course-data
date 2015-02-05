@@ -1,5 +1,6 @@
 {
 	"clbid": 97675,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 80,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Rika Ito"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Japanese Lang/Society",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"TOH 316"
-	],
-	"profs": [
-		"Rika Ito"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

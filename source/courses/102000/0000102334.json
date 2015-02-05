@@ -1,18 +1,19 @@
 {
 	"clbid": 102334,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1341,
 	"depts": [
 		"SPAN"
 	],
+	"instructors": [
+		"Gwendolyn Barnes-Karol"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Gwendolyn Barnes-Karol"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

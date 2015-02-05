@@ -1,5 +1,6 @@
 {
 	"clbid": 95161,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 21394,
 	"depts": [
@@ -10,15 +11,15 @@
 		"FOL-F",
 		"MCG"
 	],
+	"instructors": [
+		"Wendy Allen"
+	],
 	"level": 200,
 	"name": "Fr Lang/Moroccan Culture",
 	"notes": "Open to all students who meet the prerequiistes. This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 235,
 	"pf": false,
-	"profs": [
-		"Wendy Allen"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "French Language and Moroccan Culture in Fes",
 	"type": "Research",

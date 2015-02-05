@@ -1,18 +1,19 @@
 {
 	"clbid": 95099,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1178,
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"M. Minda Ori\u00f1a"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"M. Minda Ori\u00f1a"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -1,5 +1,6 @@
 {
 	"clbid": 97046,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1303,
 	"depts": [
@@ -11,17 +12,17 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 200,
+	"locations": [
+		"HH 302"
+	],
 	"notes": "This course is open to a limited number of first-year students.",
 	"num": 239,
 	"pf": false,
-	"places": [
-		"HH 302"
-	],
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-0100PM"

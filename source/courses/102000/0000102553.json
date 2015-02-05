@@ -1,5 +1,6 @@
 {
 	"clbid": 102553,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 29128,
 	"depts": [
@@ -7,15 +8,15 @@
 		"HIST"
 	],
 	"grouptype": "R",
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "IS/China Imagined Commun",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "IS/China Imagined Commun",
 	"type": "Research",

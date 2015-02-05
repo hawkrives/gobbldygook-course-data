@@ -1,19 +1,20 @@
 {
 	"clbid": 95210,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 789,
 	"depts": [
 		"MGMT"
 	],
 	"desc": "Independent Study",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

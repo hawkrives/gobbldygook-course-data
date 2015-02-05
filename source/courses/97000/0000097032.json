@@ -1,5 +1,6 @@
 {
 	"clbid": 97032,
+	"coursestatus": "X",
 	"credits": 1.0,
 	"crsid": 26720,
 	"depts": [
@@ -10,15 +11,15 @@
 		"MCG",
 		"ORC"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
 	"name": "Slavery in W Africa:Ghana",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title. This course has been canceled.",
 	"num": 256,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Slavery in West Africa: Ghana",
 	"type": "Research",

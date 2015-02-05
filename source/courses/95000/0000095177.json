@@ -1,5 +1,6 @@
 {
 	"clbid": 95177,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 26657,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Susan E. Smalling"
+	],
 	"level": 100,
-	"notes": "This course has class-year limits.",
-	"num": 122,
-	"pf": false,
-	"places": [
+	"locations": [
 		"HH 317",
 		"HH 317"
 	],
-	"profs": [
-		"Susan E. Smalling"
-	],
-	"sem": 2,
+	"notes": "This course has class-year limits.",
+	"num": 122,
+	"pf": false,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-Th 1040-1240PM",

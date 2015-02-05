@@ -1,22 +1,23 @@
 {
 	"clbid": 95370,
+	"coursestatus": "C",
 	"credits": 0.0,
 	"crsid": 1087,
 	"depts": [
 		"PHYS"
 	],
 	"groupid": 1086,
+	"instructors": [
+		"Brian Borovsky"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Musical Acoustics Lab",
 	"num": 252,
 	"pf": false,
-	"places": [
-		"RNS 292"
-	],
-	"profs": [
-		"Brian Borovsky"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0100-0330PM"

@@ -1,5 +1,6 @@
 {
 	"clbid": 95363,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 765,
 	"depts": [
@@ -9,20 +10,20 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Rebecca M. Vandiver",
+		"Steven McKelvey"
+	],
 	"level": 300,
-	"notes": "Registration by permission of instructor only.",
-	"num": 390,
-	"pf": false,
-	"places": [
+	"locations": [
 		"RNS 316",
 		"RNS 316",
 		"RNS 316"
 	],
-	"profs": [
-		"Rebecca M. Vandiver",
-		"Steven McKelvey"
-	],
-	"sem": 2,
+	"notes": "Registration by permission of instructor only.",
+	"num": 390,
+	"pf": false,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0900-1000",

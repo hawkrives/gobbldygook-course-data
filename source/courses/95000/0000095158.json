@@ -1,19 +1,20 @@
 {
 	"clbid": 95158,
+	"coursestatus": "C",
 	"credits": 0.0,
 	"crsid": 23011,
 	"depts": [
 		"REL"
+	],
+	"instructors": [
+		"Eric Lund"
 	],
 	"level": 200,
 	"name": "FLC - German",
 	"notes": "This FLC has been canceled.",
 	"num": 262,
 	"pf": true,
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "FLC - German",
 	"type": "FLAC",

@@ -1,5 +1,6 @@
 {
 	"clbid": 97196,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 23946,
 	"depts": [
@@ -9,19 +10,19 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 131",
+		"RNS 131"
+	],
 	"name": "Community Applications",
 	"notes": "Not open to first-year students.",
 	"num": 224,
 	"pf": false,
-	"places": [
-		"RNS 131",
-		"RNS 131"
-	],
-	"profs": [
-		"Dana Gross"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM",

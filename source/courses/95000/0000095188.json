@@ -1,5 +1,6 @@
 {
 	"clbid": 95188,
+	"coursestatus": "C",
 	"credits": 0.0,
 	"crsid": 18804,
 	"depts": [
@@ -7,19 +8,19 @@
 		"BIO"
 	],
 	"groupid": 18803,
+	"instructors": [
+		"Jeffrey J. Schwinefus"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": "Open only to those students who have completed CH/BI 125.",
 	"num": 126,
 	"pf": false,
-	"places": [
-		"RNS 355"
-	],
-	"profs": [
-		"Jeffrey J. Schwinefus"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-Th 1230-0300PM"

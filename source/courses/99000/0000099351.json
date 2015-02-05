@@ -1,19 +1,20 @@
 {
 	"clbid": 99351,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 223,
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Robert Hanson"
+	],
 	"level": 300,
 	"name": "IR/Software Development",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Robert Hanson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

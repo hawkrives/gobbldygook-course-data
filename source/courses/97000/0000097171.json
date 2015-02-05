@@ -1,5 +1,6 @@
 {
 	"clbid": 97171,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 20059,
 	"depts": [
@@ -10,18 +11,18 @@
 		"IST",
 		"SED"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Bioanalytic Chemistry",
 	"notes": "Lab hours arranged.",
 	"num": 384,
 	"pf": false,
-	"places": [
-		"RNS 435"
-	],
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

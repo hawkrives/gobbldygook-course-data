@@ -1,5 +1,6 @@
 {
 	"clbid": 99207,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1294,
 	"depts": [
@@ -10,18 +11,18 @@
 		"HBS",
 		"MCG"
 	],
+	"instructors": [
+		"Marc David"
+	],
 	"level": 100,
+	"locations": [
+		"HH 319"
+	],
 	"name": "Int/Cult Anthropology",
 	"notes": "Open only to first-year students.",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"HH 319"
-	],
-	"profs": [
-		"Marc David"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

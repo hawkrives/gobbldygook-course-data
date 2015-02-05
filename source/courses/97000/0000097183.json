@@ -1,5 +1,6 @@
 {
 	"clbid": 97183,
+	"coursestatus": "X",
 	"credits": 1.0,
 	"crsid": 27054,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Top: Architecture/Bauhaus",
 	"notes": "This course has been canceled.",
 	"num": 263,
 	"pf": false,
-	"places": [
-		"TOH 314"
-	],
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

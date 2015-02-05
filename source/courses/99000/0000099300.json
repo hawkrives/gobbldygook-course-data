@@ -1,5 +1,6 @@
 {
 	"clbid": 99300,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 27324,
 	"depts": [
@@ -10,17 +11,17 @@
 		"ALS-L",
 		"MCD"
 	],
+	"instructors": [
+		"Janna Knittel"
+	],
 	"level": 100,
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Intro to Race & Ethnic St",
 	"num": 121,
 	"pf": false,
-	"places": [
-		"TOH 214"
-	],
-	"profs": [
-		"Janna Knittel"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0100-0300PM"

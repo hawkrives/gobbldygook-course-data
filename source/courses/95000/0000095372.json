@@ -1,5 +1,6 @@
 {
 	"clbid": 95372,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 781,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ORC"
 	],
+	"instructors": [
+		"Sian E. Muir"
+	],
 	"level": 200,
+	"locations": [
+		"HH 307"
+	],
 	"name": "New Venture Formulat",
 	"notes": "Not open to first-year students.",
 	"num": 257,
 	"pf": false,
-	"places": [
-		"HH 307"
-	],
-	"profs": [
-		"Sian E. Muir"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

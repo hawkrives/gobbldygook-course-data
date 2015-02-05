@@ -1,17 +1,18 @@
 {
 	"clbid": 95004,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 276,
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Xun Pomponio"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Xun Pomponio"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

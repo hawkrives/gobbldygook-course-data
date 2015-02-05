@@ -1,5 +1,6 @@
 {
 	"clbid": 95340,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 847,
 	"depts": [
@@ -8,15 +9,15 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"James McKeel"
+	],
 	"level": 200,
 	"name": "IS/Music Arranging",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"James McKeel"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

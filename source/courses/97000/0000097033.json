@@ -1,5 +1,6 @@
 {
 	"clbid": 97033,
+	"coursestatus": "X",
 	"credits": 1.0,
 	"crsid": 27931,
 	"depts": [
@@ -10,15 +11,15 @@
 		"HWC",
 		"MCD"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 200,
 	"name": "Civil War to Civil Rights",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title. This course has been canceled.",
 	"num": 278,
 	"pf": false,
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Civil War and Civil Rights in History and Memory",
 	"type": "Research",

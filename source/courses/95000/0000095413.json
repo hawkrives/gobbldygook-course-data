@@ -1,5 +1,6 @@
 {
 	"clbid": 95413,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1225,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Eric Lund"
+	],
 	"level": 200,
 	"name": "Rome and Wittenberg",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 262,
 	"pf": false,
-	"profs": [
-		"Eric Lund"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Catholic Rome, Lutheran Wittenberg",
 	"type": "Research",

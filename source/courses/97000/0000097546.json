@@ -1,25 +1,26 @@
 {
 	"clbid": 97546,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 172,
 	"depts": [
 		"BIO"
 	],
 	"desc": "Specific topics announced prior to each term are based on student interests and available staff. Class work includes comprehensive review of literature on the specific topic. Class meetings present topics in discussion format. Prerequisites: vary. May be repeated if topics are different. Counts toward environmental studies major (all tracks) and concentration when taught with environmental science focus and approved by chair.",
+	"instructors": [
+		"Michael Swift"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 206",
+		"RNS 206"
+	],
 	"name": "Top: Zooplankton Ecology",
 	"notes": "Not open to first-year students.",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"RNS 206",
-		"RNS 206"
-	],
-	"profs": [
-		"Michael Swift"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0800-1000",

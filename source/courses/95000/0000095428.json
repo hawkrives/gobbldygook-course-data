@@ -1,5 +1,6 @@
 {
 	"clbid": 95428,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 482,
 	"depts": [
@@ -10,18 +11,18 @@
 		"FOL-F",
 		"ORC"
 	],
+	"instructors": [
+		"Amine R. Bekhechi"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Speaking of French",
 	"notes": "Open to all students who meet the prerequiistes.",
 	"num": 250,
 	"pf": false,
-	"places": [
-		"TOH 110"
-	],
-	"profs": [
-		"Amine R. Bekhechi"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-0330PM"

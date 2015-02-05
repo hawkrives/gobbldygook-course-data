@@ -1,17 +1,18 @@
 {
 	"clbid": 95053,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1178,
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Dana Gross"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Dana Gross"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

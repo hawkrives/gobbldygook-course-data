@@ -1,5 +1,6 @@
 {
 	"clbid": 97195,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1174,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 200,
 	"name": "Envtal Psych/Rocky Mtns",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 227,
 	"pf": false,
-	"profs": [
-		"Donna McMillan"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Environmental Psychology at Rocky Mountain National Park",
 	"type": "Research",

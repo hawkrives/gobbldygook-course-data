@@ -1,22 +1,23 @@
 {
 	"clbid": 95444,
+	"coursestatus": "C",
 	"credits": 0.0,
 	"crsid": 115,
 	"depts": [
 		"BIO"
 	],
 	"groupid": 114,
+	"instructors": [
+		"John Giannini"
+	],
 	"level": 100,
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Thinking & Doing Bio Lab",
 	"num": 135,
 	"pf": false,
-	"places": [
-		"RNS 150"
-	],
-	"profs": [
-		"John Giannini"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-0100PM"

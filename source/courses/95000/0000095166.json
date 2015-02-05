@@ -1,5 +1,6 @@
 {
 	"clbid": 95166,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 728,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Joseph Benson"
+	],
 	"level": 100,
-	"name": "Gateways/Mathematics",
-	"num": 117,
-	"pf": false,
-	"places": [
+	"locations": [
 		"TOH 184",
 		"TOH 184"
 	],
-	"profs": [
-		"Joseph Benson"
-	],
-	"sem": 2,
+	"name": "Gateways/Mathematics",
+	"num": 117,
+	"pf": false,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM",

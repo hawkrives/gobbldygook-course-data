@@ -1,19 +1,20 @@
 {
 	"clbid": 102331,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1315,
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Thomas A. Williamson"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Thomas A. Williamson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"title": "Internship",
 	"type": "Research",

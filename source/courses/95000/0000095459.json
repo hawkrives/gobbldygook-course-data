@@ -1,5 +1,6 @@
 {
 	"clbid": 95459,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 339,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"MCD"
 	],
+	"instructors": [
+		"Rosemary A. Pfarr-Baker"
+	],
 	"level": 300,
 	"name": "Urban Sem & Practicum",
 	"notes": "Admission by application.",
 	"num": 379,
 	"pf": true,
-	"profs": [
-		"Rosemary A. Pfarr-Baker"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Urban Education Practicum and Seminar",
 	"type": "Research",

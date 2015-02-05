@@ -1,5 +1,6 @@
 {
 	"clbid": 95140,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 232,
 	"depts": [
@@ -10,15 +11,15 @@
 		"ALS-A",
 		"HWC"
 	],
+	"instructors": [
+		"Anne Groton"
+	],
 	"level": 200,
 	"name": "Class Studies Greece",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 251,
 	"pf": false,
-	"profs": [
-		"Anne Groton"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Classical Studies in Greece",
 	"type": "Research",

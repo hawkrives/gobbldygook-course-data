@@ -1,5 +1,6 @@
 {
 	"clbid": 97671,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1213,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"Jacob J. Erickson"
+	],
 	"level": 200,
+	"locations": [
+		"OM 010"
+	],
 	"notes": "BTS-B required. Closed to first-year students.",
 	"num": 230,
 	"pf": false,
-	"places": [
-		"OM 010"
-	],
-	"profs": [
-		"Jacob J. Erickson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

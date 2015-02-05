@@ -1,5 +1,6 @@
 {
 	"clbid": 99338,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 434,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Juliet Patterson"
+	],
 	"level": 200,
 	"name": "IS/On Empathy and Writing",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Juliet Patterson"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

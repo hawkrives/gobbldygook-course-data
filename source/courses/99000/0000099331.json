@@ -1,19 +1,20 @@
 {
 	"clbid": 99331,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 866,
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Justin W. Merritt"
+	],
 	"level": 300,
 	"name": "IR/Code-Based Comp Music",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Justin W. Merritt"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

@@ -1,5 +1,6 @@
 {
 	"clbid": 97261,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 27929,
 	"depts": [
@@ -10,15 +11,15 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Katherine S. Tegtmeyer Pak"
+	],
 	"level": 200,
 	"name": "Env Sustainability Japan",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 277,
 	"pf": false,
-	"profs": [
-		"Katherine S. Tegtmeyer Pak"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Environmental Sustainability in Asia",
 	"type": "Research",

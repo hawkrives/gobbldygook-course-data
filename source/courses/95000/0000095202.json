@@ -1,18 +1,19 @@
 {
 	"clbid": 95202,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 285,
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Paul Wojick"
+	],
 	"level": 300,
 	"name": "IR/Econ of Hedge Funds",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Paul Wojick"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

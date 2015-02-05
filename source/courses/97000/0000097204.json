@@ -1,5 +1,6 @@
 {
 	"clbid": 97204,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 25614,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Mary Carlsen"
+	],
 	"level": 200,
 	"name": "Social Realities S Africa",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 280,
 	"pf": false,
-	"profs": [
-		"Mary Carlsen"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Social Realities in South Africa",
 	"type": "Research",

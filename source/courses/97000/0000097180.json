@@ -1,5 +1,6 @@
 {
 	"clbid": 97180,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 393,
 	"depts": [
@@ -10,18 +11,18 @@
 		"ALS-L",
 		"WRI"
 	],
+	"instructors": [
+		"Diana Postlethwaite"
+	],
 	"level": 200,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Personal Essay",
 	"notes": "Not open to first-year students.",
 	"num": 288,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Diana Postlethwaite"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

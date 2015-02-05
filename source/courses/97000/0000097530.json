@@ -1,5 +1,6 @@
 {
 	"clbid": 97530,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 27930,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Mary Kuehn"
+	],
 	"level": 100,
 	"name": "Health/Social Inequality",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 140,
 	"pf": false,
-	"profs": [
-		"Mary Kuehn"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Health and Social Inequality: Rural and Urban Perspectives",
 	"type": "Research",

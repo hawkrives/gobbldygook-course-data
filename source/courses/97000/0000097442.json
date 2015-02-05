@@ -1,5 +1,6 @@
 {
 	"clbid": 97442,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 21510,
 	"depts": [
@@ -9,19 +10,19 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Bjorn Nordfjord"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 214",
+		"HH 501"
+	],
 	"name": "Top: Hardboil Fic & Film",
 	"notes": "Open to first-year students.",
 	"num": 260,
 	"pf": false,
-	"places": [
-		"TOH 214",
-		"HH 501"
-	],
-	"profs": [
-		"Bjorn Nordfjord"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"MWF 1040-1240PM",

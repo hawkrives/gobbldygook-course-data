@@ -1,19 +1,20 @@
 {
 	"clbid": 102316,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 847,
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Catherine Ramirez"
+	],
 	"level": 200,
 	"name": "IS/Flute Pedagogy",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Catherine Ramirez"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

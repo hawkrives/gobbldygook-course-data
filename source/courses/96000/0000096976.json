@@ -1,5 +1,6 @@
 {
 	"clbid": 96976,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 22791,
 	"depts": [
@@ -10,15 +11,15 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Robert Entenmann"
+	],
 	"level": 200,
 	"name": "Nat'l ID/Ethnicity/China",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 262,
 	"pf": false,
-	"profs": [
-		"Robert Entenmann"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "National Identity and Ethnicity in China",
 	"type": "Research",

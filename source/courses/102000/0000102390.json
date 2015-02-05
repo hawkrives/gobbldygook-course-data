@@ -1,19 +1,20 @@
 {
 	"clbid": 102390,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1239,
 	"depts": [
 		"REL"
 	],
+	"instructors": [
+		"Jamie A. Schillinger"
+	],
 	"level": 200,
 	"name": "IS/Lib Theo & Israel Pale",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Jamie A. Schillinger"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

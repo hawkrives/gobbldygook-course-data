@@ -1,5 +1,6 @@
 {
 	"clbid": 95195,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1327,
 	"depts": [
@@ -10,19 +11,19 @@
 		"FOL-S",
 		"MCD"
 	],
+	"instructors": [
+		"Leon Narvaez"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 108",
+		"TOH 108"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Open to all students who meet the prerequisites. Prerequisite: completion of Spanish placement test or preceding course. This course has class-year limits.",
 	"num": 232,
 	"pf": false,
-	"places": [
-		"TOH 108",
-		"TOH 108"
-	],
-	"profs": [
-		"Leon Narvaez"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0900-1000",

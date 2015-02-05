@@ -1,18 +1,19 @@
 {
 	"clbid": 95010,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 374,
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Anne von Bibra"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Anne von Bibra"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Internship",
 	"type": "Research",

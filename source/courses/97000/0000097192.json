@@ -1,5 +1,6 @@
 {
 	"clbid": 97192,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 25198,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"HBS"
 	],
+	"instructors": [
+		"Christopher B. Chapp"
+	],
 	"level": 200,
+	"locations": [
+		"HH 403"
+	],
 	"notes": "Open to first-year students. This course has class year limits.",
 	"num": 211,
 	"pf": false,
-	"places": [
-		"HH 403"
-	],
-	"profs": [
-		"Christopher B. Chapp"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

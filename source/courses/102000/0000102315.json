@@ -1,19 +1,20 @@
 {
 	"clbid": 102315,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1316,
 	"depts": [
 		"SOAN"
 	],
+	"instructors": [
+		"Susi K. Keefe"
+	],
 	"level": 200,
 	"name": "IS/Medical Missions",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Susi K. Keefe"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

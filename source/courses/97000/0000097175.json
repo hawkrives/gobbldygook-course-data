@@ -1,5 +1,6 @@
 {
 	"clbid": 97175,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 256,
 	"depts": [
@@ -10,18 +11,18 @@
 		"HBS",
 		"HWC"
 	],
+	"instructors": [
+		"Steve Soderlind"
+	],
 	"level": 100,
+	"locations": [
+		"HH 413"
+	],
 	"name": "Capitalism",
 	"notes": "Open only to first-year students during web registration.",
 	"num": 113,
 	"pf": false,
-	"places": [
-		"HH 413"
-	],
-	"profs": [
-		"Steve Soderlind"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

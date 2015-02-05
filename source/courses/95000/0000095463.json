@@ -1,5 +1,6 @@
 {
 	"clbid": 95463,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 21601,
 	"depts": [
@@ -11,19 +12,19 @@
 		"IST",
 		"SED"
 	],
+	"instructors": [
+		"Eric Cole"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 240",
+		"RNS 240"
+	],
 	"name": "Well-Ordered Universe",
 	"notes": "Open to Science Conversation students only.",
 	"num": 215,
 	"pf": false,
-	"places": [
-		"RNS 240",
-		"RNS 240"
-	],
-	"profs": [
-		"Eric Cole"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1210PM",

@@ -1,5 +1,6 @@
 {
 	"clbid": 97165,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 54,
 	"depts": [
@@ -9,14 +10,14 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Nancy M. Thompson"
+	],
 	"level": 200,
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 255,
 	"pf": false,
-	"profs": [
-		"Nancy M. Thompson"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Italian Art in Context",
 	"type": "Research",

@@ -1,19 +1,20 @@
 {
 	"clbid": 99304,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 223,
 	"depts": [
 		"CHEM"
 	],
+	"instructors": [
+		"Douglas J. Beussman"
+	],
 	"level": 300,
 	"name": "IR/Intracell Metal Quant.",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Douglas J. Beussman"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

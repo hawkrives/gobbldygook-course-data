@@ -1,5 +1,6 @@
 {
 	"clbid": 99283,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 21545,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"MCG"
 	],
+	"instructors": [
+		"Abdulai Iddrisu"
+	],
 	"level": 200,
+	"locations": [
+		"TOH 212"
+	],
 	"name": "Topics: Gender in Africa",
 	"num": 289,
 	"pf": false,
-	"places": [
-		"TOH 212"
-	],
-	"profs": [
-		"Abdulai Iddrisu"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

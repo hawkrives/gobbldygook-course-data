@@ -1,18 +1,19 @@
 {
 	"clbid": 95100,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 709,
 	"depts": [
 		"ID"
 	],
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

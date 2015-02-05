@@ -1,5 +1,6 @@
 {
 	"clbid": 97170,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 150,
 	"depts": [
@@ -9,15 +10,15 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Jean C. Porterfield"
+	],
 	"level": 200,
 	"name": "Island Biology in Bahamas",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 287,
 	"pf": false,
-	"profs": [
-		"Jean C. Porterfield"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Island Biology in the Bahamas",
 	"type": "Research",

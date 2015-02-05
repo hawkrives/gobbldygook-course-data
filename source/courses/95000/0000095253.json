@@ -1,20 +1,21 @@
 {
 	"clbid": 95253,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1068,
 	"depts": [
 		"ESTH"
 	],
 	"desc": "Research",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

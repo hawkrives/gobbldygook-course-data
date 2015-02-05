@@ -1,24 +1,25 @@
 {
 	"clbid": 95445,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 172,
 	"depts": [
 		"BIO"
 	],
 	"desc": "Specific topics announced prior to each term are based on student interests and available staff. Class work includes comprehensive review of literature on the specific topic. Class meetings present topics in discussion format. Prerequisites: vary. May be repeated if topics are different. Counts toward environmental studies major (all tracks) and concentration when taught with environmental science focus and approved by chair.",
+	"instructors": [
+		"Laura Listenberger"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 124"
+	],
 	"name": "Top: Lipid Biochem",
 	"notes": "Open only to juniors and seniors.",
 	"num": 391,
 	"pf": false,
-	"places": [
-		"RNS 124"
-	],
-	"profs": [
-		"Laura Listenberger"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

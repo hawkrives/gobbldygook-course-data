@@ -1,5 +1,6 @@
 {
 	"clbid": 95156,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 151,
 	"depts": [
@@ -9,14 +10,14 @@
 	"gereqs": [
 		"SPM"
 	],
+	"instructors": [
+		"Alyson Center"
+	],
 	"level": 200,
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 288,
 	"pf": false,
-	"profs": [
-		"Alyson Center"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Equatorial Biology",
 	"type": "Research",

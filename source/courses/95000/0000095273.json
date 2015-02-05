@@ -1,18 +1,19 @@
 {
 	"clbid": 95273,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 277,
 	"depts": [
 		"ECON"
 	],
+	"instructors": [
+		"Rebecca Judge"
+	],
 	"level": 200,
 	"name": "IS/Modern Economic Lit",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Rebecca Judge"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

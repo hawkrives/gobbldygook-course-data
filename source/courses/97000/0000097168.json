@@ -1,5 +1,6 @@
 {
 	"clbid": 97168,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 25184,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Kyle A. Whittinghill"
+	],
 	"level": 100,
+	"locations": [
+		"OM 020"
+	],
 	"name": "Water:Prec, Precar, &Prob",
 	"notes": "This course has some field trips.",
 	"num": 128,
 	"pf": false,
-	"places": [
-		"OM 020"
-	],
-	"profs": [
-		"Kyle A. Whittinghill"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"MWTh 1040-1240PM",

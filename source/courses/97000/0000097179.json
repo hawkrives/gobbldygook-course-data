@@ -1,5 +1,6 @@
 {
 	"clbid": 97179,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 26717,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"ALS-L"
 	],
+	"instructors": [
+		"Carlos Gallego"
+	],
 	"level": 200,
+	"locations": [
+		"RML 421"
+	],
 	"name": "Lit and Modern Philosophy",
 	"notes": "Not open to first-year students.",
 	"num": 268,
 	"pf": false,
-	"places": [
-		"RML 421"
-	],
-	"profs": [
-		"Carlos Gallego"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0100-0300PM"

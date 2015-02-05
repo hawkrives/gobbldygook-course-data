@@ -1,19 +1,20 @@
 {
 	"clbid": 102305,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 847,
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Linda Berger"
+	],
 	"level": 200,
 	"name": "IS/Tchg Strings-Beg/Group",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Linda Berger"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

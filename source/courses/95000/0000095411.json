@@ -1,5 +1,6 @@
 {
 	"clbid": 95411,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 532,
 	"depts": [
@@ -10,19 +11,19 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Mary E. Trull"
+	],
 	"level": 100,
+	"locations": [
+		"OM 110"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"OM 110"
-	],
-	"profs": [
-		"Mary E. Trull"
-	],
-	"sect": "E",
-	"sem": 2,
+	"section": "E",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

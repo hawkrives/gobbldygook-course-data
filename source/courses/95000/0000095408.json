@@ -1,5 +1,6 @@
 {
 	"clbid": 95408,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 532,
 	"depts": [
@@ -10,19 +11,19 @@
 		"BTS-B",
 		"WRI"
 	],
+	"instructors": [
+		"Christopher M. Brunelle"
+	],
 	"level": 100,
+	"locations": [
+		"RML 525"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
-	"places": [
-		"RML 525"
-	],
-	"profs": [
-		"Christopher M. Brunelle"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

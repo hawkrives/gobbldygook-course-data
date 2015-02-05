@@ -1,19 +1,20 @@
 {
 	"clbid": 95332,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 375,
 	"depts": [
 		"DANCE"
 	],
+	"instructors": [
+		"Janice Roberts"
+	],
 	"level": 200,
 	"name": "IS/Modern in the Studio",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Janice Roberts"
-	],
-	"sect": "A",
-	"sem": 2,
+	"section": "A",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

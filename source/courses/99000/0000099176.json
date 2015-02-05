@@ -1,5 +1,6 @@
 {
 	"clbid": 99176,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 19404,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"WRI"
 	],
+	"instructors": [
+		"Michael Fitzgerald"
+	],
 	"level": 300,
+	"locations": [
+		"TOH 300"
+	],
 	"name": "Res: Creating So. History",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 396,
 	"pf": false,
-	"places": [
-		"TOH 300"
-	],
-	"profs": [
-		"Michael Fitzgerald"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

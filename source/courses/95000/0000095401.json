@@ -1,5 +1,6 @@
 {
 	"clbid": 95401,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1380,
 	"depts": [
@@ -9,20 +10,20 @@
 	"gereqs": [
 		"ALS-A"
 	],
+	"instructors": [
+		"Todd F. Edwards"
+	],
 	"level": 100,
-	"name": "Prod Theater: Intro",
-	"notes": "Admission by audition/interview.",
-	"num": 133,
-	"pf": true,
-	"places": [
+	"locations": [
 		"TB Kelsey",
 		"TB Kelsey",
 		"TB Kelsey"
 	],
-	"profs": [
-		"Todd F. Edwards"
-	],
-	"sem": 2,
+	"name": "Prod Theater: Intro",
+	"notes": "Admission by audition/interview.",
+	"num": 133,
+	"pf": true,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0900-1000",

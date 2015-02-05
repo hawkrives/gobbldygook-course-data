@@ -1,5 +1,6 @@
 {
 	"clbid": 97194,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 22443,
 	"depts": [
@@ -10,17 +11,17 @@
 		"IST",
 		"MCD"
 	],
+	"instructors": [
+		"Jeremy Loebach"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 410"
+	],
 	"notes": "Open to first-year students.",
 	"num": 222,
 	"pf": false,
-	"places": [
-		"RNS 410"
-	],
-	"profs": [
-		"Jeremy Loebach"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

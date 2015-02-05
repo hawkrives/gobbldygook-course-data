@@ -1,19 +1,20 @@
 {
 	"clbid": 102338,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1188,
 	"depts": [
 		"PSYCH"
 	],
 	"desc": "Internship",
+	"instructors": [
+		"Carlo O. Veltri"
+	],
 	"level": 300,
 	"num": 394,
 	"pf": true,
-	"profs": [
-		"Carlo O. Veltri"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

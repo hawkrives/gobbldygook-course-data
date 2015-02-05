@@ -1,20 +1,21 @@
 {
 	"clbid": 99370,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 153,
 	"depts": [
 		"BIO"
 	],
 	"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Anne Walter"
-	],
-	"sect": "C",
-	"sem": 2,
+	"section": "C",
+	"semester": 2,
 	"term": 20142,
 	"title": "Internship",
 	"type": "Research",

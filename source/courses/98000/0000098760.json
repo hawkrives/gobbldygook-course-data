@@ -1,5 +1,6 @@
 {
 	"clbid": 98760,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 26500,
 	"depts": [
@@ -9,17 +10,17 @@
 	"gereqs": [
 		"IST"
 	],
+	"instructors": [
+		"Sarah M. Sevcik"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 204"
+	],
 	"notes": "This course has class-year lilmits. Not open to first-year students.",
 	"num": 256,
 	"pf": false,
-	"places": [
-		"RNS 204"
-	],
-	"profs": [
-		"Sarah M. Sevcik"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0800-1000"

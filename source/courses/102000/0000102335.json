@@ -1,18 +1,19 @@
 {
 	"clbid": 102335,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 1178,
 	"depts": [
 		"PSYCH"
 	],
+	"instructors": [
+		"Donna McMillan"
+	],
 	"level": 200,
 	"num": 294,
 	"pf": true,
-	"profs": [
-		"Donna McMillan"
-	],
-	"sect": "B",
-	"sem": 2,
+	"section": "B",
+	"semester": 2,
 	"term": 20142,
 	"title": "Academic Internship",
 	"type": "Research",

@@ -1,19 +1,20 @@
 {
 	"clbid": 95231,
+	"coursestatus": "O",
 	"credits": 1.0,
 	"crsid": 530,
 	"depts": [
 		"GERM"
 	],
 	"desc": "Independent Research. May be counted toward German major or German studies concentration.",
+	"instructors": [
+		"Staff"
+	],
 	"level": 300,
 	"name": "IR/",
 	"num": 398,
 	"pf": false,
-	"profs": [
-		"Staff"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Research",
 	"type": "Research",

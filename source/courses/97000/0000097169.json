@@ -1,5 +1,6 @@
 {
 	"clbid": 97169,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 170,
 	"depts": [
@@ -10,17 +11,17 @@
 		"IST",
 		"ORC"
 	],
+	"instructors": [
+		"Anne Walter"
+	],
 	"level": 300,
+	"locations": [
+		"RNS 206"
+	],
 	"notes": "Open only to juniors and seniors. There are some afternoon field trips.",
 	"num": 385,
 	"pf": false,
-	"places": [
-		"RNS 206"
-	],
-	"profs": [
-		"Anne Walter"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM"

@@ -1,5 +1,6 @@
 {
 	"clbid": 95152,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 736,
 	"depts": [
@@ -9,19 +10,19 @@
 	"gereqs": [
 		"AQR"
 	],
+	"instructors": [
+		"Jill Dietz"
+	],
 	"level": 200,
+	"locations": [
+		"RNS 204",
+		"RNS 204"
+	],
 	"name": "Elem Linear Algebra",
 	"notes": "Open to first-year students.",
 	"num": 220,
 	"pf": false,
-	"places": [
-		"RNS 204",
-		"RNS 204"
-	],
-	"profs": [
-		"Jill Dietz"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 1040-1240PM",

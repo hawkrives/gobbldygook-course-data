@@ -1,5 +1,6 @@
 {
 	"clbid": 97443,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 1207,
 	"depts": [
@@ -9,18 +10,18 @@
 	"gereqs": [
 		"BTS-T"
 	],
+	"instructors": [
+		"David Kaden"
+	],
 	"level": 200,
+	"locations": [
+		"OM 030"
+	],
 	"name": "St. Paul/Letter/Gospel",
 	"notes": "BTS-B required. Closed to first-year students.",
 	"num": 223,
 	"pf": false,
-	"places": [
-		"OM 030"
-	],
-	"profs": [
-		"David Kaden"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"times": [
 		"M-F 0100-0300PM"

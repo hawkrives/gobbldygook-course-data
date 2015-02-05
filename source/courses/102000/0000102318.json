@@ -1,19 +1,20 @@
 {
 	"clbid": 102318,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 847,
 	"depts": [
 		"MUSIC"
 	],
+	"instructors": [
+		"Christopher P. Aspaas"
+	],
 	"level": 200,
 	"name": "IS/Sing Act Stagecraft",
 	"num": 298,
 	"pf": false,
-	"profs": [
-		"Christopher P. Aspaas"
-	],
-	"sect": "D",
-	"sem": 2,
+	"section": "D",
+	"semester": 2,
 	"term": 20142,
 	"title": "Independent Study",
 	"type": "Research",

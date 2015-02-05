@@ -1,19 +1,20 @@
 {
 	"clbid": 97193,
+	"coursestatus": "C",
 	"credits": 1.0,
 	"crsid": 22793,
 	"depts": [
 		"PSCI"
 	],
 	"desc": "This course introduces students to the complexities of international adjudication. Students meet with leading figures in international law at some of the most important venues for deciding matters of public international adjudication in the world. Students gain a general understanding of the complex institutional mechanisms that have been created to ensure security among states and prosecute international criminals.",
+	"instructors": [
+		"Anthony Lott"
+	],
 	"level": 200,
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 234,
 	"pf": false,
-	"profs": [
-		"Anthony Lott"
-	],
-	"sem": 2,
+	"semester": 2,
 	"term": 20142,
 	"title": "World Courts in Europe",
 	"type": "Research",
