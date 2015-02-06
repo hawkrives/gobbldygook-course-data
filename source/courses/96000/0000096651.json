@@ -21,7 +21,7 @@
 	"pf": false,
 	"section": "B",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0120-0245PM",
@@ -29,5 +29,10 @@
 	],
 	"title": "World Politics",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"status": "O"
+		}
+	]
 }

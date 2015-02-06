@@ -11,15 +11,22 @@
 	],
 	"level": 300,
 	"name": "Adv Synthesis Lab",
+	"notes": "This course has been canceled.",
 	"num": 374,
 	"pf": true,
 	"semester": 3,
-	"status": "O",
+	"status": "X",
 	"term": 20143,
 	"times": [
 		"T 0120-0520PM"
 	],
 	"title": "Advanced Synthesis Laboratory",
 	"type": "Lab",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"notes": null,
+			"status": "O"
+		}
+	]
 }

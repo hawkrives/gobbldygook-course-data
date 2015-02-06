@@ -14,7 +14,7 @@
 	],
 	"level": 100,
 	"locations": [
-		"TPH Wt Rm"
+		"Tostrud Ctr"
 	],
 	"name": "Wt Training-Women",
 	"num": 142,
@@ -28,5 +28,12 @@
 	],
 	"title": "Weight Training Women",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": [
+				"TPH Wt Rm"
+			]
+		}
+	]
 }

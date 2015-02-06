@@ -10,6 +10,9 @@
 		"Jessica R. Simon"
 	],
 	"level": 200,
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Research Methods Lab",
 	"num": 230,
 	"pf": false,
@@ -22,5 +25,10 @@
 	],
 	"title": "Research Methods Lab",
 	"type": "Lab",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": null
+		}
+	]
 }

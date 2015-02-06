@@ -11,6 +11,9 @@
 		"Richard Brown"
 	],
 	"level": 200,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Software Design",
 	"notes": "This course has class-year limits. Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL.",
 	"num": 251,
@@ -24,5 +27,10 @@
 	],
 	"title": "Software Design and Implementation",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": null
+		}
+	]
 }

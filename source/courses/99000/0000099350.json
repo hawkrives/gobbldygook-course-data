@@ -14,6 +14,9 @@
 		"Anthony Pahnke"
 	],
 	"level": 100,
+	"locations": [
+		"OM 010"
+	],
 	"num": 112,
 	"pf": false,
 	"semester": 3,
@@ -24,5 +27,10 @@
 	],
 	"title": "Comparative Politics",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": null
+		}
+	]
 }

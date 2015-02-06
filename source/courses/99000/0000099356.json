@@ -10,6 +10,9 @@
 		"Xun Pomponio"
 	],
 	"level": 200,
+	"locations": [
+		"OM 020"
+	],
 	"num": 263,
 	"pf": false,
 	"section": "B",
@@ -21,5 +24,10 @@
 	],
 	"title": "Statistics for Economics",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": null
+		}
+	]
 }

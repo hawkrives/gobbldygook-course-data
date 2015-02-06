@@ -13,6 +13,9 @@
 		"Olaf A. Hall-Holt"
 	],
 	"level": 100,
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Comp Sci for Science/Math",
 	"num": 125,
 	"pf": false,
@@ -24,5 +27,10 @@
 	],
 	"title": "Computer Science for Scientists and Mathematicians",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"locations": null
+		}
+	]
 }

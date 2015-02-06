@@ -22,7 +22,7 @@
 	"num": 237,
 	"pf": false,
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 1145-0110PM",
@@ -30,5 +30,10 @@
 	],
 	"title": "Forging a Latin American Culture",
 	"type": "Research",
-	"year": 2014
+	"year": 2014,
+	"revisions": [
+		{
+			"status": "O"
+		}
+	]
 }
