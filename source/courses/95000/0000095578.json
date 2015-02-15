@@ -14,6 +14,12 @@
 	"notes": "This course has been canceled.",
 	"num": 374,
 	"pf": true,
+	"revisions": [
+		{
+			"notes": null,
+			"status": "O"
+		}
+	],
 	"semester": 3,
 	"status": "X",
 	"term": 20143,
@@ -22,11 +28,5 @@
 	],
 	"title": "Advanced Synthesis Laboratory",
 	"type": "Lab",
-	"year": 2014,
-	"revisions": [
-		{
-			"notes": null,
-			"status": "O"
-		}
-	]
+	"year": 2014
 }

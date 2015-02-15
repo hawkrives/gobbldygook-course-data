@@ -18,6 +18,11 @@
 	"notes": "This course has class-year limits. Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL.",
 	"num": 251,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": null
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "C",
@@ -27,10 +32,5 @@
 	],
 	"title": "Software Design and Implementation",
 	"type": "Research",
-	"year": 2014,
-	"revisions": [
-		{
-			"locations": null
-		}
-	]
+	"year": 2014
 }
