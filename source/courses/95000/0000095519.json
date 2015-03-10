@@ -1,17 +1,26 @@
 {
 	"clbid": 95519,
-	"credits": 1.0,
+	"credits": 0.25,
 	"crsid": 795,
 	"depts": [
 		"MEDIA"
 	],
 	"instructors": [
-		"Staff"
+		"William Sonnega"
 	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
+	"revisions": [
+		{
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			],
+			"_updated": "2015-03-10T16:59:57.028445-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,

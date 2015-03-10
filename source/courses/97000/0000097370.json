@@ -11,14 +11,23 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 316"
+		"RNS 124"
 	],
 	"name": "Top: Basis of Disease",
 	"num": 291,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"RNS 316"
+			],
+			"status": "O",
+			"_updated": "2015-03-10T16:59:58.157890-05:00"
+		}
+	],
 	"section": "C",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"M 0200-0400PM"

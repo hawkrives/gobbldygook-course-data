@@ -15,11 +15,19 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 210"
+		"RNS 290"
 	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"TOH 210"
+			],
+			"_updated": "2015-03-10T16:59:57.662368-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,

@@ -14,16 +14,26 @@
 	],
 	"level": 200,
 	"locations": [
-		"HH 302",
-		"HH 302"
+		"TOH 112",
+		"TOH 112"
 	],
 	"name": "Sociological Theory",
 	"notes": "Open to Sociology/Anthropology majors only.",
 	"num": 291,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"HH 302",
+				"HH 302"
+			],
+			"status": "O",
+			"_updated": "2015-03-10T16:59:57.929961-05:00"
+		}
+	],
 	"section": "B",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20143,
 	"times": [
 		"T 0935-1100",

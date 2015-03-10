@@ -11,12 +11,21 @@
 	],
 	"level": 300,
 	"locations": [
-		"RNS 316",
-		"RNS 316"
+		"RNS 400",
+		"RNS 400"
 	],
 	"name": "Top: Hydrology",
 	"num": 381,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"RNS 316",
+				"RNS 316"
+			],
+			"_updated": "2015-03-10T16:59:58.072239-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

@@ -9,7 +9,6 @@
 	"gereqs": [
 		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
 		"David A. Stromme"
 	],
@@ -18,9 +17,15 @@
 		"Tostrud Ctr"
 	],
 	"name": "Golf",
-	"notes": "Second half of semester course.",
 	"num": 103,
 	"pf": false,
+	"revisions": [
+		{
+			"halfcredit": "2",
+			"notes": "Second half of semester course.",
+			"_updated": "2015-03-10T16:59:57.419573-05:00"
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "C",

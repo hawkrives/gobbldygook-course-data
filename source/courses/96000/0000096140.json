@@ -5,13 +5,26 @@
 	"depts": [
 		"STAT"
 	],
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
-		"Staff"
+		"Laura F. Boehm"
 	],
 	"level": 200,
-	"name": "IS/",
+	"name": "IS/Fine Particulate Matt",
 	"num": 298,
 	"pf": false,
+	"revisions": [
+		{
+			"gereqs": null,
+			"instructors": [
+				"Staff"
+			],
+			"name": "IS/",
+			"_updated": "2015-03-10T16:59:57.624446-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

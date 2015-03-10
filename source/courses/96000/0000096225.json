@@ -15,13 +15,22 @@
 	],
 	"level": 100,
 	"locations": [
-		"TB 216",
-		"TB 216"
+		"RNS 290",
+		"RNS 290"
 	],
 	"name": "Mass Media",
 	"notes": "This course has class-year limits.",
 	"num": 160,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"TB 216",
+				"TB 216"
+			],
+			"_updated": "2015-03-10T16:59:57.719266-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,

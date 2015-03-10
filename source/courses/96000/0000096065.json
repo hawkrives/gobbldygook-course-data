@@ -7,14 +7,24 @@
 	],
 	"desc": "Independent Research. May be counted toward German major or German studies concentration.",
 	"instructors": [
-		"Staff"
+		"Sylvia Fischer"
 	],
 	"level": 300,
-	"name": "IR/",
+	"name": "IR/Youth in Germany",
 	"num": 398,
 	"pf": false,
+	"revisions": [
+		{
+			"instructors": [
+				"Staff"
+			],
+			"name": "IR/",
+			"status": "O",
+			"_updated": "2015-03-10T16:59:57.570295-05:00"
+		}
+	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20143,
 	"title": "Independent Research",
 	"type": "Research",

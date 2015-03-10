@@ -1,18 +1,27 @@
 {
 	"clbid": 95481,
-	"credits": 1.0,
+	"credits": 0.5,
 	"crsid": 153,
 	"depts": [
 		"BIO"
 	],
 	"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
 	"instructors": [
-		"Staff"
+		"Theodore Johnson"
 	],
 	"level": 200,
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
+	"revisions": [
+		{
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			],
+			"_updated": "2015-03-10T16:59:56.988676-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
