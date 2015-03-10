@@ -12,19 +12,30 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 206",
-		"TOH 184"
+		"RNS 206"
 	],
 	"name": "Math of Biology",
 	"notes": "Students in Math 236 must also register for lab Math 236 L.",
 	"num": 236,
 	"pf": false,
+	"revisions": [
+		{
+			"locations": [
+				"RNS 206",
+				"TOH 184"
+			],
+			"times": [
+				"W 1255-0150PM",
+				"F 1255-0150PM"
+			],
+			"_updated": "2015-03-10T17:02:49.565579-05:00"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"W 1255-0150PM",
-		"F 1255-0150PM"
+		"WF 1255-0150PM"
 	],
 	"title": "Mathematics of Biology",
 	"type": "Research",
