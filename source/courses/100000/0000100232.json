@@ -14,13 +14,22 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 314",
-		"TOH 314"
+		"TOH 114",
+		"TOH 114"
 	],
 	"name": "Lit/Soc/LA:",
-	"notes": "Full course title:",
 	"num": 314,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.363158-05:00",
+			"locations": [
+				"TOH 314",
+				"TOH 314"
+			],
+			"notes": "Full course title:"
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

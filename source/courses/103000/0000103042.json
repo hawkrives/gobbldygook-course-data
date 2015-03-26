@@ -9,13 +9,22 @@
 	"gereqs": [
 		"SED"
 	],
+	"groupid": 1163,
 	"instructors": [
 		"Jessica R. Simon"
 	],
 	"level": 200,
 	"name": "Cognitive Psychology",
+	"notes": "Students in Psych 237 must also register for Psych 237 AL or BL.",
 	"num": 237,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.447571-05:00",
+			"groupid": null,
+			"notes": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

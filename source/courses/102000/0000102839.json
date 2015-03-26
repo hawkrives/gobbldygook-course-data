@@ -6,16 +6,23 @@
 		"PSYCH"
 	],
 	"desc": "What is the mind-body connection? This course explores the major issues, theories, and interventions in health psychology. Students review evidence for the impact of psychological and behavioral factors on the immune system and health. Psychosocial approaches to the major diseases, their rationale, and the evidence supporting these interventions are examined. Offered periodically. Prerequisite: PSYCH 230, plus PSYCH 244 or PSYCH 247.",
-	"gereqs": [
-		"ORC"
-	],
 	"instructors": [
 		"Mark Sundby"
 	],
 	"level": 300,
 	"name": "Health Psychology",
+	"notes": "This course does NOT fulfill the ORC requirement.",
 	"num": 378,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.815317-05:00",
+			"gereqs": [
+				"ORC"
+			],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

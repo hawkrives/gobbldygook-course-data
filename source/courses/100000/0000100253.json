@@ -15,13 +15,22 @@
 	],
 	"level": 200,
 	"locations": [
-		"HH 301",
-		"HH 301"
+		"TOH 108",
+		"TOH 108"
 	],
 	"name": "Medical Anthropology",
 	"notes": "Prerequisite: One sociology/anthropology course.",
 	"num": 267,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.390068-05:00",
+			"locations": [
+				"HH 301",
+				"HH 301"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

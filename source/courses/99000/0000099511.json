@@ -15,13 +15,22 @@
 	],
 	"level": 100,
 	"locations": [
-		"OM 030",
-		"OM 030"
+		"HH 403",
+		"HH 403"
 	],
 	"name": "American Politics",
-	"notes": "This course has class year limits.",
 	"num": 111,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:10.697608-05:00",
+			"locations": [
+				"OM 030",
+				"OM 030"
+			],
+			"notes": "This course has class year limits."
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

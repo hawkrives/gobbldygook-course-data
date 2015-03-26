@@ -13,17 +13,23 @@
 	"locations": [
 		"TOH 214"
 	],
-	"name": "Tchg of Science",
+	"name": "Teaching of Science, 5-12",
 	"notes": "Open to Juniors and Seniors only.",
 	"num": 364,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.270321-05:00",
+			"name": "Tchg of Science",
+			"title": "Teaching of Science, 5-12"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
 		"MWF 0800-0855"
 	],
-	"title": "Teaching of Science, 5-12",
 	"type": "Research",
 	"year": 2015
 }

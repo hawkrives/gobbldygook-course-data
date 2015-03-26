@@ -15,12 +15,21 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 110"
+		"TOH 310"
 	],
 	"name": "Speaking of French",
-	"notes": "Open to all students who meet the prerequiistes.",
+	"notes": "Open to all students who meet the prerequisites.",
 	"num": 250,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.827343-05:00",
+			"locations": [
+				"TOH 110"
+			],
+			"notes": "Open to all students who meet the prerequiistes."
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

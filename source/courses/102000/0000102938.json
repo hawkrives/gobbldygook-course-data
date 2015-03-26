@@ -6,7 +6,6 @@
 		"CHIN"
 	],
 	"desc": "In this fourth-year-level Chinese course, students explore a specified topic or theme in language, in various text/media (literature, newspaper, television, and film), in culture/civilization, or in a combination of these, through close examination of texts (written or visual), discussion, analysis, and interpretation of selected materials. Specific topics vary by instructor and semester. May be repeated if topics are different. Taught in Chinese. Prerequisite: CHIN 302 or equivalent.",
-	"grouptype": "R",
 	"instructors": [
 		"Ka F. Wong"
 	],
@@ -17,6 +16,12 @@
 	"name": "Special Topics in Chinese",
 	"num": 320,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.372465-05:00",
+			"grouptype": "R"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

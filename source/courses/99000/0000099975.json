@@ -13,12 +13,21 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 190"
+		"RNS 435"
 	],
 	"name": "Intermediate Genetics",
-	"notes": "Students in Bio 233A must also register for one lab Bio 233 AL or BL. Not open to first-year students.",
+	"notes": "Students in Bio 233A must also register for Bio 233 A lab. Not open to first-year students.",
 	"num": 233,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.214850-05:00",
+			"locations": [
+				"RNS 190"
+			],
+			"notes": "Students in Bio 233A must also register for one lab Bio 233 AL or BL. Not open to first-year students."
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

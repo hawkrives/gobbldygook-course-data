@@ -14,13 +14,28 @@
 		"Michael Swift"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 410",
+		"RNS 410"
+	],
 	"name": "Limnology",
 	"notes": "Students in BIO 363 must also register for one lab BIO 363 AL or BL.",
 	"num": 363,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.837776-05:00",
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
+	"times": [
+		"T 0800-0925",
+		"Th 0800-0920"
+	],
 	"type": "Research",
 	"year": 2015
 }

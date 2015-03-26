@@ -16,17 +16,23 @@
 	"locations": [
 		"TOH 214"
 	],
-	"name": "Principles of Educ",
+	"name": "Principles of Education, K-12",
 	"notes": "Open to Juniors and Seniors only. Prerequisite: EDUC 290",
 	"num": 330,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.134822-05:00",
+			"name": "Principles of Educ",
+			"title": "Principles of Education, K-12"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
 		"MWF 0905-1000"
 	],
-	"title": "Principles of Education, K-12",
 	"type": "Research",
 	"year": 2015
 }

@@ -11,17 +11,30 @@
 	],
 	"level": 200,
 	"locations": [
+		"OM 030",
 		"OM 030"
 	],
 	"name": "Macroeconomic Theory",
 	"num": 261,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.985865-05:00",
+			"locations": [
+				"OM 030"
+			],
+			"times": [
+				"MWF 1255-0150PM"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1255-0150PM"
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
 	],
 	"title": "Intermediate Macroeconomic Theory",
 	"type": "Research",

@@ -5,14 +5,23 @@
 	"depts": [
 		"PSYCH"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Anna E. Johnson"
 	],
 	"level": 0,
+	"locations": [
+		"RNS 190"
+	],
 	"name": "Placeholder Course",
 	"num": 0,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.902088-05:00",
+			"grouptype": "R",
+			"locations": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

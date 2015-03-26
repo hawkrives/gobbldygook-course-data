@@ -17,16 +17,28 @@
 		"RNS 190",
 		"RNS 190"
 	],
-	"name": "Sem:",
+	"name": "Sem: Behavioral Finance",
+	"notes": "Open only to Seniors during web registration.",
 	"num": 399,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.387483-05:00",
+			"name": "Sem:",
+			"notes": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"title": "Seminar",
 	"type": "Seminar",

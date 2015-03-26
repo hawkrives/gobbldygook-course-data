@@ -9,15 +9,24 @@
 	"gereqs": [
 		"BTS-T"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Patricia Beckman",
 		"Mara H. Benjamin"
 	],
 	"level": 200,
+	"locations": [
+		"TOH 210"
+	],
 	"name": "Theology of Food",
 	"num": 210,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.905940-05:00",
+			"grouptype": "R",
+			"locations": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

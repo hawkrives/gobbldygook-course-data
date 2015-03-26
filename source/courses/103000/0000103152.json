@@ -13,15 +13,29 @@
 		"Jacob J. Erickson"
 	],
 	"level": 200,
+	"locations": [
+		"OM 030",
+		"OM 030"
+	],
 	"name": "Theology of Creation",
 	"num": 230,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.853954-05:00",
+			"locations": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"type": "Research",
 	"year": 2015

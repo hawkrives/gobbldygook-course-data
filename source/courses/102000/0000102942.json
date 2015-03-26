@@ -9,17 +9,25 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Carlos Gallego"
 	],
 	"level": 200,
 	"locations": [
-		"TOH 214"
+		"RML 421"
 	],
 	"name": "Top: Psychopath",
 	"num": 280,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.875029-05:00",
+			"grouptype": "R",
+			"locations": [
+				"TOH 214"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

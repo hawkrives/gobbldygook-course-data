@@ -10,20 +10,36 @@
 		"WRI"
 	],
 	"instructors": [
-		"Benjamin Percy"
+		"Staff"
 	],
 	"level": 200,
 	"locations": [
-		"RML 525"
+		"RML 420",
+		"RML 420"
 	],
 	"name": "Intermed Fiction Writing",
 	"num": 293,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.163953-05:00",
+			"instructors": [
+				"Benjamin Percy"
+			],
+			"locations": [
+				"RML 525"
+			],
+			"times": [
+				"M 0700-1000PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"M 0700-1000PM"
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
 	],
 	"title": "Intermediate Fiction Writing",
 	"type": "Research",

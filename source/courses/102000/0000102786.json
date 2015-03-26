@@ -11,18 +11,31 @@
 	],
 	"level": 300,
 	"locations": [
-		"RNS 206",
-		"RNS 206"
+		"RNS 204",
+		"RNS 204"
 	],
 	"name": "Real Analysis II",
 	"num": 344,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.749654-05:00",
+			"locations": [
+				"RNS 206",
+				"RNS 206"
+			],
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"type": "Research",
 	"year": 2015

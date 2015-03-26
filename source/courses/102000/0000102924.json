@@ -5,7 +5,6 @@
 	"depts": [
 		"BIO"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Staff"
 	],
@@ -13,6 +12,12 @@
 	"name": "Placeholder Course",
 	"num": 1,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.864194-05:00",
+			"grouptype": "R"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

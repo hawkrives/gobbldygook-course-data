@@ -11,12 +11,22 @@
 	],
 	"level": 100,
 	"locations": [
-		"HH 501"
+		"TOH 110"
 	],
 	"name": "Exploration in Healthcare",
+	"notes": "Open to all students.",
 	"num": 110,
 	"pf": false,
-	"section": "A",
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.639226-05:00",
+			"locations": [
+				"HH 501"
+			],
+			"notes": null,
+			"section": "A"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

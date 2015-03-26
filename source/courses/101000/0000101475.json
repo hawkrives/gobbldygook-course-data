@@ -17,10 +17,17 @@
 		"TOH 210",
 		"TOH 210"
 	],
-	"name": "Educ Psychology",
+	"name": "Educational Psychology",
 	"notes": "Closed to First-Year Students.",
 	"num": 290,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.697117-05:00",
+			"name": "Educ Psychology",
+			"title": "Educational Psychology"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
@@ -28,7 +35,6 @@
 		"T 0800-0925",
 		"Th 0800-0920"
 	],
-	"title": "Educational Psychology",
 	"type": "Research",
 	"year": 2015
 }

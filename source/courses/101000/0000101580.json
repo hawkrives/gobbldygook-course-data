@@ -12,19 +12,30 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 410",
 		"RNS 410"
 	],
 	"name": "Human Anatomy & Physiol",
 	"notes": "Students in Bio 243 must also register for one lab Bio 243 AL, BL, or CL. This course has class-year limits.",
 	"num": 243,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.777870-05:00",
+			"locations": [
+				"RNS 410",
+				"RNS 410"
+			],
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
+		"MWF 0800-0855"
 	],
 	"title": "Human Anatomy and Physiology: Organs and Organ Systems",
 	"type": "Research",

@@ -14,9 +14,19 @@
 		"Marc David"
 	],
 	"level": 100,
-	"name": "Int/Cult Anthropology",
+	"locations": [
+		"TOH 316"
+	],
+	"name": "Intro to Cultural Anthropology",
 	"num": 128,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.923329-05:00",
+			"locations": null,
+			"name": "Int/Cult Anthropology"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

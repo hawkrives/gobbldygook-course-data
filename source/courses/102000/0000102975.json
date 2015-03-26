@@ -11,14 +11,23 @@
 		"MCG",
 		"ORC"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Dorer Kari L."
 	],
 	"level": 200,
+	"locations": [
+		"TOH 212"
+	],
 	"name": "Sami:Tradition/Transition",
 	"num": 244,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.892771-05:00",
+			"grouptype": "R",
+			"locations": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

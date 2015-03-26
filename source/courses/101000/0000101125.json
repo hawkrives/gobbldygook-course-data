@@ -5,7 +5,7 @@
 	"depts": [
 		"BIO"
 	],
-	"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+	"desc": "Internships are designed to provide career-testing opportunities. Students interested in aninternship should consult with the Piper Center for Vocation and Career, enlist a facultysupervisor, and complete an internship application. Internships do not count toward the biologymajor requirements.",
 	"instructors": [
 		"Staff"
 	],
@@ -13,10 +13,16 @@
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.363455-05:00",
+			"desc": "Internships are designed to provide career-testing opportunities. Students interested in an internship should consult with the Piper Center for Vocation and Career, enlist a faculty supervisor, and complete an internship application. Internships do not count toward the biology major requirements.",
+			"title": "Internship"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"title": "Internship",
 	"type": "Research",
 	"year": 2015
 }

@@ -10,23 +10,37 @@
 		"HBS"
 	],
 	"instructors": [
-		"Xun Pomponio"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
-		"HH 413",
-		"HH 413"
+		"RNS 190"
 	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.486975-05:00",
+			"instructors": [
+				"Xun Pomponio"
+			],
+			"locations": [
+				"HH 413",
+				"HH 413"
+			],
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
+		"MWF 1255-0150PM"
 	],
 	"title": "Principles of Economics",
 	"type": "Research",

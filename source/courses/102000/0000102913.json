@@ -5,7 +5,6 @@
 	"depts": [
 		"ASIAN"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"William H. Bridges IV"
 	],
@@ -13,6 +12,12 @@
 	"name": "FLC - Japanese",
 	"num": 235,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.358856-05:00",
+			"grouptype": "R"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

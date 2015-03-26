@@ -9,7 +9,6 @@
 	"gereqs": [
 		"AQR"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Paul J. Roback"
 	],
@@ -21,6 +20,12 @@
 	"notes": "This course has class-year limits.",
 	"num": 214,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.484807-05:00",
+			"grouptype": "R"
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

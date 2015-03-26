@@ -15,13 +15,23 @@
 	],
 	"level": 200,
 	"locations": [
-		"TBA",
-		"TBA"
+		"RNS 210",
+		"RNS 210"
 	],
 	"name": "Research Methods",
-	"notes": "Students in Psych 230B must also register for Psych 230 BL.",
+	"notes": "Students in Psych 230B must also register for Psych 230 AL or BL.",
 	"num": 230,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.804513-05:00",
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"notes": "Students in Psych 230B must also register for Psych 230 BL."
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

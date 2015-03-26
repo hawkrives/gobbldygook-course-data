@@ -15,12 +15,22 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 340"
+		"OM 140"
 	],
-	"name": "Ethics/The Good Life",
+	"name": "Ethics and the Good Life",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to rising Seniors and Juniors during web registration.",
 	"num": 252,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.000594-05:00",
+			"locations": [
+				"OM 340"
+			],
+			"name": "Ethics/The Good Life",
+			"title": "Ethics and the Good Life"
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
@@ -28,7 +38,6 @@
 	"times": [
 		"MWF 0905-1000"
 	],
-	"title": "Ethics and the Good Life",
 	"type": "Research",
 	"year": 2015
 }

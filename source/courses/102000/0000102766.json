@@ -12,17 +12,28 @@
 	],
 	"level": 300,
 	"locations": [
-		"TBA"
+		"RNS 454"
 	],
 	"name": "Biogeochemistry Lab",
 	"num": 350,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.721427-05:00",
+			"locations": [
+				"TBA"
+			],
+			"times": [
+				"T 0800-1100"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0800-1100"
+		"Th 0800-1100"
 	],
 	"type": "Lab",
 	"year": 2015

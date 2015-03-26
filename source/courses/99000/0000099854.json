@@ -15,13 +15,23 @@
 	],
 	"level": 100,
 	"locations": [
-		"HH 501",
-		"HH 501"
+		"RNS 390",
+		"RNS 390"
 	],
-	"name": "Grimm Fairy Tales/Folklor",
+	"name": "Grimm Fairy Tales and Folklore",
 	"notes": "Taught in English.",
 	"num": 147,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.082875-05:00",
+			"locations": [
+				"HH 501",
+				"HH 501"
+			],
+			"name": "Grimm Fairy Tales/Folklor"
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

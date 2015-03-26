@@ -9,17 +9,25 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Mark Allister"
 	],
 	"level": 200,
 	"locations": [
-		"TOH 214"
+		"RML 525"
 	],
 	"name": "Narratives of Soc Protest",
 	"num": 263,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.872373-05:00",
+			"grouptype": "R",
+			"locations": [
+				"TOH 214"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

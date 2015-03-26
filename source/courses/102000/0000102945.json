@@ -9,24 +9,33 @@
 	"gereqs": [
 		"WRI"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Rebecca S. Richards"
 	],
 	"level": 200,
 	"locations": [
-		"TOH 214"
+		"RML 520"
 	],
-	"name": "Profess/Business Writing",
+	"name": "Professional and Business Writing",
 	"num": 287,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.877520-05:00",
+			"grouptype": "R",
+			"locations": [
+				"TOH 214"
+			],
+			"name": "Profess/Business Writing",
+			"title": "Professional and Business Writing"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
 	"times": [
 		"M-F 0100-0300PM"
 	],
-	"title": "Professional and Business Writing",
 	"type": "Research",
 	"year": 2015
 }

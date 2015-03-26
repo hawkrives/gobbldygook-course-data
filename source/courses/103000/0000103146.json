@@ -5,18 +5,39 @@
 	"depts": [
 		"PACON"
 	],
-	"grouptype": "R",
+	"desc": "This contemporary public affairs course examines normative commitments and empirical evidence relevant to the workings of government, markets, and society as applied to contemporary issues. Possible topics include immigration, abortion, education, sexuality, medical care, foreign policy, income inequality and poverty, affirmative action, and responses to climate change. Juniors and seniors only. Offered annually each spring.",
 	"instructors": [
-		"Staff"
+		"Daniel Hofrenning"
 	],
 	"level": 200,
+	"locations": [
+		"HH 319"
+	],
 	"name": "Contemporary Controversies",
-	"notes": "Public Affairs Conversation program and courses pending committee and faculty approval.",
+	"notes": "Public Affairs Conversation program and courses pending faculty approval.",
 	"num": 281,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:14.500676-05:00",
+			"desc": null,
+			"grouptype": "R",
+			"instructors": [
+				"Staff"
+			],
+			"locations": null,
+			"notes": "Public Affairs Conversation program and courses pending committee and faculty approval.",
+			"times": null,
+			"title": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"MWF 0905-1000"
+	],
+	"title": "Public Affairs II: Contemporary Controversies",
 	"type": "Research",
 	"year": 2015
 }

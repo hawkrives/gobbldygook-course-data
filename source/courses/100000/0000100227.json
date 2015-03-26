@@ -15,13 +15,24 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 212",
-		"TOH 212"
+		"HH 403",
+		"HH 403"
 	],
-	"name": "Law/Politics/Morality",
+	"name": "Law, Politics, and Morality",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to rising Seniors and Juniors during web registration.",
 	"num": 254,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.354966-05:00",
+			"locations": [
+				"TOH 212",
+				"TOH 212"
+			],
+			"name": "Law/Politics/Morality",
+			"title": "Law, Politics, and Morality"
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
@@ -30,7 +41,6 @@
 		"T 0935-1100",
 		"Th 0930-1050"
 	],
-	"title": "Law, Politics, and Morality",
 	"type": "Research",
 	"year": 2015
 }

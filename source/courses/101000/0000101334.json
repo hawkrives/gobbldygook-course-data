@@ -6,7 +6,7 @@
 		"BIO"
 	],
 	"groupid": 26649,
-	"grouptype": "2",
+	"grouptype": "1",
 	"instructors": [
 		"Diane K. Angell"
 	],
@@ -17,6 +17,12 @@
 	"name": "Biodiversity Found Lab",
 	"num": 150,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.555349-05:00",
+			"grouptype": "2"
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",

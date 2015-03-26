@@ -9,18 +9,27 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 200,
 	"locations": [
-		"TOH 212",
-		"TOH 212"
+		"TOH 308",
+		"TOH 308"
 	],
 	"name": "Top: German Literature",
 	"num": 271,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.723062-05:00",
+			"grouptype": "R",
+			"locations": [
+				"TOH 212",
+				"TOH 212"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

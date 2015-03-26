@@ -10,15 +10,23 @@
 		"IST",
 		"SED"
 	],
-	"grouptype": "R",
 	"instructors": [
-		"Staff"
+		"Steven Freedberg"
 	],
 	"level": 100,
 	"name": "Field Paleontology",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 131,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.917032-05:00",
+			"grouptype": "R",
+			"instructors": [
+				"Staff"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

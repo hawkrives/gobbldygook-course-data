@@ -6,7 +6,7 @@
 		"BIO"
 	],
 	"groupid": 26649,
-	"grouptype": "3",
+	"grouptype": "2",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
@@ -17,6 +17,12 @@
 	"name": "Biodiversity Found Lab",
 	"num": 150,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:13.559672-05:00",
+			"grouptype": "3"
+		}
+	],
 	"section": "F",
 	"semester": 3,
 	"status": "O",

@@ -5,7 +5,6 @@
 	"depts": [
 		"PSYCH"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Donna McMillan"
 	],
@@ -21,6 +20,10 @@
 		{
 			"_updated": "2015-03-10T17:02:50.101638-05:00",
 			"name": "Culture and Place in Psychology"
+		},
+		{
+			"_updated": "2015-03-25T23:19:14.502530-05:00",
+			"grouptype": "R"
 		}
 	],
 	"semester": 3,

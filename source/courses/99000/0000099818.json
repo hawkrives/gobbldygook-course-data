@@ -15,13 +15,23 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 310",
-		"TOH 310"
+		"TOH 114",
+		"TOH 114"
 	],
-	"name": "Gateway Sp-Spkng Wrld",
+	"name": "Gateway Spanish-Speaking World",
 	"notes": "Prerequisite: Completion of Spanish placement test or preceding course.",
 	"num": 250,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:19:11.055284-05:00",
+			"locations": [
+				"TOH 310",
+				"TOH 310"
+			],
+			"name": "Gateway Sp-Spkng Wrld"
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",

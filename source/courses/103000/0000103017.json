@@ -6,7 +6,6 @@
 		"ASIAN",
 		"ENVST"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Paul T. Jackson"
 	],
@@ -15,6 +14,12 @@
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 396,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-03-25T23:18:01.915718-05:00",
+			"grouptype": "R"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
