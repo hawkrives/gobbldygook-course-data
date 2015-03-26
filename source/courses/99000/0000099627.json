@@ -19,12 +19,21 @@
 	"name": "Biopsychology",
 	"num": 238,
 	"pf": false,
-	"section": "A",
+	"revisions": [
+		{
+			"_updated": "2015-03-26T17:01:47.031277-05:00",
+			"section": "A",
+			"times": [
+				"MWF 1045-1140"
+			]
+		}
+	],
+	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"MWF 1045-1140"
+		"MWF 1255-0150PM"
 	],
 	"type": "Research",
 	"year": 2015

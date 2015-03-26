@@ -11,6 +11,7 @@
 	],
 	"level": 300,
 	"locations": [
+		"TOH 302",
 		"TOH 302"
 	],
 	"name": "Teaching of Comm Arts/Lit, 5-12",
@@ -21,13 +22,23 @@
 		{
 			"_updated": "2015-03-25T23:19:14.267275-05:00",
 			"name": "Tchg of Comm Arts/Lit"
+		},
+		{
+			"_updated": "2015-03-26T17:01:49.624422-05:00",
+			"locations": [
+				"TOH 302"
+			],
+			"times": [
+				"TTh 1115-1240PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"TTh 1115-1240PM"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"title": "Teaching of Communication Arts/Literature, 5-12",
 	"type": "Research",
