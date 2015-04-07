@@ -12,12 +12,20 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 190"
+		"RNS 290"
 	],
 	"name": "Plant Physiology",
 	"notes": "Students in Bio 251 must also register for one lab Bio 251 AL or BL.",
 	"num": 251,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-07T16:54:39.309555-05:00",
+			"locations": [
+				"RNS 190"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

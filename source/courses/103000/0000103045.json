@@ -15,8 +15,8 @@
 	],
 	"level": 300,
 	"locations": [
-		"RNS 190",
-		"RNS 190"
+		"RNS 124",
+		"RNS 124"
 	],
 	"name": "Cognitive Neuroscience",
 	"num": 339,
@@ -25,6 +25,13 @@
 		{
 			"_updated": "2015-03-25T23:19:14.453466-05:00",
 			"grouptype": "R"
+		},
+		{
+			"_updated": "2015-04-07T16:54:39.811941-05:00",
+			"locations": [
+				"RNS 190",
+				"RNS 190"
+			]
 		}
 	],
 	"semester": 3,

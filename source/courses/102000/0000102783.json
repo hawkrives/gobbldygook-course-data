@@ -6,13 +6,16 @@
 		"HIST"
 	],
 	"desc": "Students study the emergence and development of Greek civilization from the early Bronze Age through the Hellenistic period, concentrating on such topics as the Homeric Age, Greek colonization of the Mediterranean basin, Athens' evolution from democratic city-state to imperialist power, the Golden Age of Athens, social and intellectual trends and Alexander. May be repeated if topics are different. Offered periodically. Counts toward ancient studies major. Prerequisite: HIST 203 or permission of instructor.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Timothy R. Howe"
 	],
 	"level": 300,
 	"locations": [
-		"OM 110",
-		"OM 110"
+		"OM 140",
+		"OM 140"
 	],
 	"name": "Sem: Alexander the Great",
 	"num": 302,
@@ -28,14 +31,26 @@
 				"T 1145-0110PM",
 				"Th 1245-0205PM"
 			]
+		},
+		{
+			"_updated": "2015-04-07T16:54:34.236692-05:00",
+			"gereqs": null,
+			"locations": [
+				"OM 110",
+				"OM 110"
+			],
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"title": "Greek Civilization",
 	"type": "Seminar",

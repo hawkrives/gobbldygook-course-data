@@ -16,12 +16,20 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 290"
+		"RNS 190"
 	],
 	"name": "Cell/Molec Neuroscience",
 	"notes": "Students in Neuro 239 must also register for one lab Neuro 239 AL or BL.",
 	"num": 239,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-07T16:54:38.622925-05:00",
+			"locations": [
+				"RNS 290"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

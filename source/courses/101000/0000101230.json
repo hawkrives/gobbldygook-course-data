@@ -10,15 +10,26 @@
 		"FOL-J"
 	],
 	"instructors": [
-		"Hiroe Akimoto"
+		"Staff"
 	],
 	"level": 300,
 	"locations": [
-		"TOH 300"
+		"OM 105"
 	],
 	"name": "Advanced Japanese II",
 	"num": 302,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-07T16:54:38.434053-05:00",
+			"instructors": [
+				"Hiroe Akimoto"
+			],
+			"locations": [
+				"TOH 300"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
