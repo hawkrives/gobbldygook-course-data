@@ -15,18 +15,31 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 210",
-		"TOH 210"
+		"RNS 190",
+		"RNS 190"
 	],
 	"name": "Human Geography",
 	"num": 234,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-09T13:41:51.290499-05:00",
+			"locations": [
+				"TOH 210",
+				"TOH 210"
+			],
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Human Geography of the Middle East",
 	"type": "Research",
