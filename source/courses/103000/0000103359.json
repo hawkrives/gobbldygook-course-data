@@ -12,15 +12,33 @@
 	],
 	"grouptype": "R",
 	"instructors": [
-		"Staff"
+		"Carol Holly"
 	],
 	"level": 200,
+	"locations": [
+		"RML 515",
+		"RML 515"
+	],
 	"name": "Top: Literature of American Slavery",
 	"num": 220,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-16T13:38:52.648510-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
+	],
 	"title": "Topics in Literary History",
 	"type": "Topic",
 	"year": 2015

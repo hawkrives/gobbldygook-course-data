@@ -14,17 +14,30 @@
 	],
 	"level": 200,
 	"locations": [
+		"OM 110",
 		"OM 110"
 	],
 	"name": "What is Religion?",
 	"notes": "Open only to Religion majors during web registration.",
 	"num": 285,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-16T13:38:51.506834-05:00",
+			"locations": [
+				"OM 110"
+			],
+			"times": [
+				"MWF 1045-1140"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1045-1140"
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
 	],
 	"title": "What is Religion? Approaches and Methods",
 	"type": "Research",

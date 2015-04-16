@@ -17,7 +17,8 @@
 		"BMC 012",
 		"BMC 012"
 	],
-	"name": "Immigration/Citizenship",
+	"name": "Sem: Immigration/Citizenship",
+	"notes": "Open only to seniors during web registration. Juniors may add on a space- available basis during the drop/add period.",
 	"num": 350,
 	"pf": false,
 	"revisions": [
@@ -27,6 +28,11 @@
 				"OM 110",
 				"OM 110"
 			]
+		},
+		{
+			"_updated": "2015-04-16T13:38:52.180521-05:00",
+			"name": "Immigration/Citizenship",
+			"notes": null
 		}
 	],
 	"semester": 3,
