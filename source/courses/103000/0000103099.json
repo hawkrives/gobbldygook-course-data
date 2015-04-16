@@ -13,16 +13,26 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"name": "Hist Mod Pol Thought",
+	"locations": [
+		"TOH 308"
+	],
+	"name": "History of Modern Political Thought",
 	"num": 260,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-16T14:44:15.524663-05:00",
+			"locations": null,
+			"name": "Hist Mod Pol Thought",
+			"title": "History of Modern Political Thought"
+		}
+	],
 	"semester": 5,
 	"status": "O",
 	"term": 20145,
 	"times": [
 		"M-F 1000-1130"
 	],
-	"title": "History of Modern Political Thought",
 	"type": "Research",
 	"year": 2014
 }

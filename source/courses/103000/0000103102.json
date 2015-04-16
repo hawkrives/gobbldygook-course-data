@@ -5,16 +5,31 @@
 	"depts": [
 		"BIO"
 	],
+	"groupid": 126,
 	"instructors": [
 		"Kevin M. Crisp"
 	],
 	"level": 200,
+	"locations": [
+		"RNS 254"
+	],
 	"name": "Human Anatomy & Physiol L",
 	"num": 243,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-16T14:44:15.540184-05:00",
+			"groupid": null,
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 4,
 	"status": "O",
 	"term": 20144,
+	"times": [
+		"TTh 0100-0400PM"
+	],
 	"type": "Lab",
 	"year": 2014
 }

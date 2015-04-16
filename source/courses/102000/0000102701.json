@@ -10,17 +10,27 @@
 		"IST",
 		"SED"
 	],
+	"groupid": 114,
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 100,
 	"locations": [
-		"TBA"
+		"RNS 290"
 	],
 	"name": "Thinking & Doing Bio",
 	"notes": "Term Dates for this course: June 1 - June 26.",
 	"num": 135,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-16T14:44:15.352140-05:00",
+			"groupid": null,
+			"locations": [
+				"TBA"
+			]
+		}
+	],
 	"semester": 4,
 	"status": "O",
 	"term": 20144,
