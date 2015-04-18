@@ -11,6 +11,7 @@
 	],
 	"level": 200,
 	"locations": [
+		"HH 307",
 		"HH 307"
 	],
 	"name": "Managerial/Cost Acct",
@@ -22,13 +23,23 @@
 			"locations": [
 				"OM 010"
 			]
+		},
+		{
+			"_updated": "2015-04-18T00:00:47.496949-05:00",
+			"locations": [
+				"HH 307"
+			],
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"MWF 1255-0150PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Managerial Accounting",
 	"type": "Research",

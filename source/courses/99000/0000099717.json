@@ -7,11 +7,10 @@
 	],
 	"desc": "This course is an introduction to financial decision-making in a business environment. Topics include asset acquisition, issuance of stock vs. debt, dividend policy, planning and analysis, and working capital policy. Case discussions, combined with lectures and readings, enable students to apply finance principles in actual business situations. Computer spreadsheets are used. Offered annually. Prerequisite: MGMT 225.",
 	"instructors": [
-		"Staff"
+		"Kenneth Creech"
 	],
 	"level": 200,
 	"locations": [
-		"HH 307",
 		"HH 307"
 	],
 	"name": "Corporate Finance",
@@ -25,14 +24,27 @@
 				"HH 413",
 				"HH 413"
 			]
+		},
+		{
+			"_updated": "2015-04-18T00:00:39.632262-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [
+				"HH 307",
+				"HH 307"
+			],
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"MWF 1255-0150PM"
 	],
 	"type": "Research",
 	"year": 2015
