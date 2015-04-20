@@ -10,7 +10,7 @@
 		"SPM"
 	],
 	"instructors": [
-		"Jeremy B. Driver"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -19,6 +19,14 @@
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T12:00:26.335723-05:00",
+			"instructors": [
+				"Jeremy B. Driver"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

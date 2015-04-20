@@ -3161,7 +3161,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -3183,7 +3183,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 1045-1140</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -3381,7 +3381,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH110');"&gt;TOH 110&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -3764,7 +3764,7 @@
 	</course>
 	<course>
 		<clbid>0000099594</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>REL</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>E</coursesection>
@@ -4497,7 +4497,7 @@
 		<coursesubtype>L</coursesubtype>
 		<coursename>Calc I with Review Lab</coursename>
 		<pn>N</pn>
-		<notes>Course closed during web registration.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3033')"&gt;Hanson, Bruce&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.00</credits>
@@ -4519,7 +4519,7 @@
 		<coursesubtype>L</coursesubtype>
 		<coursename>Calc I with Review Lab</coursename>
 		<pn>N</pn>
-		<notes>Course closed during web registration.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3033')"&gt;Hanson, Bruce&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.00</credits>
@@ -4629,7 +4629,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Calculus I with Review</coursename>
 		<pn>N</pn>
-		<notes>Students in Math 119A must also register for one lab Math 119 AL or BL.&lt;br&gt;Course closed during web registration.</notes>
+		<notes>Students in Math 119A must also register for one lab Math 119 AL or BL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3033')"&gt;Hanson, Bruce&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -4651,7 +4651,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Calculus I with Review</coursename>
 		<pn>N</pn>
-		<notes>Students in Math 119B must also register for one lab Math 119 AL or BL.&lt;br&gt;Course closed during web registration.</notes>
+		<notes>Students in Math 119B must also register for one lab Math 119 AL or BL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3033')"&gt;Hanson, Bruce&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -4710,7 +4710,7 @@
 	</course>
 	<course>
 		<clbid>0000099653</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MATH</deptname>
 		<coursenumber>126</coursenumber>
 		<coursesection>C</coursesection>
@@ -6161,28 +6161,6 @@
 		<term>20151</term>
 	</course>
 	<course>
-		<clbid>0000099764</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>GCON</deptname>
-		<coursenumber>310</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Ethical Issues/Gr Con</coursename>
-		<pn>N</pn>
-		<notes>"Virtue with and without God"&lt;br&gt;Prerequisite: Completion of BTS-T or permission of instructor.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('329')"&gt;Barbour, John&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM310');"&gt;OM 310&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000000538</crsid>
-		<term>20151</term>
-	</course>
-	<course>
 		<clbid>0000099765</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>PHIL</deptname>
@@ -6720,7 +6698,7 @@
 		<coursename>Fitness Walking</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('18395')"&gt;Driver, Jeremy B.&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.25</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -7555,7 +7533,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Honors Calculus II</coursename>
 		<pn>N</pn>
-		<notes>Closed until September registration.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23820')"&gt;Diveris, Kosmas&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -7577,7 +7555,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Honors Calculus II</coursename>
 		<pn>N</pn>
-		<notes>Closed until September registration.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17527')"&gt;Garrett, Kristina&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -7599,7 +7577,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Honors Calculus II</coursename>
 		<pn>N</pn>
-		<notes>Closed until September registration.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17527')"&gt;Garrett, Kristina&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -8524,7 +8502,7 @@
 		<coursename>Intercol Soccer Women</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('18395')"&gt;Driver, Jeremy B.&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.25</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -8815,7 +8793,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0800-0855</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8837,7 +8815,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8859,7 +8837,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-G&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 0200-0255PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -9541,7 +9519,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-K&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 0200-0255PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH110');"&gt;TOH 110&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -12726,7 +12704,7 @@
 		<coursename>Managerial/Cost Acct</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26242')"&gt;Creech, Kenneth&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -19567,7 +19545,7 @@
 		<coursesubtype>F</coursesubtype>
 		<coursename>FLC - French</coursename>
 		<pn>N</pn>
-		<notes>Pending committee approval.&lt;br&gt;This course will meet in HOM 213.</notes>
+		<notes>This course will meet in HOM 213.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26252')"&gt;Epstein, Louis K.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.25</credits>
@@ -20077,7 +20055,7 @@
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8281')"&gt;Thalhammer, Kristina&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs></gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 1045-1140</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM110');"&gt;OM 110&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
@@ -20436,6 +20414,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000029365</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103387</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ESAC</deptname>
+		<coursenumber>162</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Hatha Yoga</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>TTh 0935-1030</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('SACWrRm');"&gt;SAC Wr Rm&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000027685</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>

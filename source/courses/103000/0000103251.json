@@ -6,6 +6,9 @@
 		"PSCI"
 	],
 	"desc": "Individuals, communities, and organizations have found ways to address even the most egregious state abuses of human rights and other injustices. Using comparative analysis, this course considers cases and theories of nonviolent personal and political resistance and the factors that appear to contribute to people taking action and to successful responses. Students research and analyze cases of their choosing in light of the literature. Prerequisites: PSCI 220 and at least one comparative politics course or permission of instructor.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Kristina Thalhammer"
 	],
@@ -21,6 +24,10 @@
 		{
 			"_updated": "2015-04-16T13:38:46.378160-05:00",
 			"notes": null
+		},
+		{
+			"_updated": "2015-04-20T12:00:33.040847-05:00",
+			"gereqs": null
 		}
 	],
 	"semester": 1,
