@@ -14,19 +14,30 @@
 	],
 	"level": 100,
 	"locations": [
-		"Tostrud Ctr",
 		"Tostrud Ctr"
 	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T18:00:30.609824-05:00",
+			"locations": [
+				"Tostrud Ctr",
+				"Tostrud Ctr"
+			],
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"TTh 0935-1035"
 	],
 	"type": "Research",
 	"year": 2015

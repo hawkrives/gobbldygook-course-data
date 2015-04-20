@@ -10,21 +10,35 @@
 		"AQR"
 	],
 	"instructors": [
-		"Staff"
+		"Kay E. Smith"
 	],
 	"level": 200,
 	"locations": [
-		"TOH 186"
+		"TOH 184"
 	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T18:00:26.278858-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [
+				"TOH 186"
+			],
+			"times": [
+				"MWF 1150-1245PM"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1150-1245PM"
+		"MWF 0800-0855"
 	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",

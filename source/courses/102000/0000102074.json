@@ -7,7 +7,7 @@
 	],
 	"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
 	"instructors": [
-		"Staff"
+		"Joseph Benson"
 	],
 	"level": 300,
 	"locations": [
@@ -17,13 +17,25 @@
 	"name": "Sem: Differential Geometry",
 	"num": 382,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T18:00:30.327886-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"title": "Topics in Mathematics",
 	"type": "Seminar",

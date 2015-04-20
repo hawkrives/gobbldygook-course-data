@@ -10,7 +10,7 @@
 		"AQR"
 	],
 	"instructors": [
-		"Ryota Matsuura"
+		"Joseph Benson"
 	],
 	"level": 100,
 	"locations": [
@@ -20,12 +20,24 @@
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T18:00:26.710546-05:00",
+			"instructors": [
+				"Ryota Matsuura"
+			],
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Gateways to Mathematics",
 	"type": "Research",

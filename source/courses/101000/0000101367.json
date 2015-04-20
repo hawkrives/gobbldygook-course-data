@@ -10,15 +10,26 @@
 		"AQR"
 	],
 	"instructors": [
-		"Marju Purin"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
-		"TOH 184"
+		"RNS 204"
 	],
 	"name": "Calculus II",
 	"num": 126,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-20T18:00:25.492331-05:00",
+			"instructors": [
+				"Marju Purin"
+			],
+			"locations": [
+				"TOH 184"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

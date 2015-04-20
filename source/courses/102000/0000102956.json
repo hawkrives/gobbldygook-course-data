@@ -15,7 +15,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RML 525"
+		"OM 030"
 	],
 	"name": "Economic Development",
 	"num": 243,
@@ -31,6 +31,12 @@
 			"_updated": "2015-04-20T12:00:30.542122-05:00",
 			"gereqs": [
 				"MCG"
+			]
+		},
+		{
+			"_updated": "2015-04-20T18:00:31.546369-05:00",
+			"locations": [
+				"RML 525"
 			]
 		}
 	],
