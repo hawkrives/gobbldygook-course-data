@@ -6,9 +6,6 @@
 		"HIST"
 	],
 	"desc": "Selected topics in historical studies, depending on instructor.",
-	"gereqs": [
-		"HWC"
-	],
 	"instructors": [
 		"Brendan LaRocque"
 	],
@@ -26,6 +23,12 @@
 			"_updated": "2015-04-16T13:38:52.022422-05:00",
 			"instructors": [
 				"Staff"
+			]
+		},
+		{
+			"_updated": "2015-04-21T18:00:31.393756-05:00",
+			"gereqs": [
+				"HWC"
 			]
 		}
 	],
