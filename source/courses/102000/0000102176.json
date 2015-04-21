@@ -10,7 +10,7 @@
 		"SPM"
 	],
 	"instructors": [
-		"David A. Stromme"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -19,6 +19,14 @@
 	"name": "Tennis",
 	"num": 157,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-21T12:00:33.615467-05:00",
+			"instructors": [
+				"David A. Stromme"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

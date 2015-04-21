@@ -10,7 +10,7 @@
 		"SPM"
 	],
 	"instructors": [
-		"Daniel Kosmoski"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -19,6 +19,14 @@
 	"name": "Fitness Walking",
 	"num": 136,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-21T12:00:29.533998-05:00",
+			"instructors": [
+				"Daniel Kosmoski"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

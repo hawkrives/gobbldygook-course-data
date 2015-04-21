@@ -10,7 +10,7 @@
 		"SPM"
 	],
 	"instructors": [
-		"Philip Lundin"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -19,6 +19,14 @@
 	"name": "Aerobics",
 	"num": 131,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-21T12:00:27.607690-05:00",
+			"instructors": [
+				"Philip Lundin"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
