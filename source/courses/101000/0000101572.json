@@ -16,7 +16,7 @@
 	"locations": [
 		"SAC Wr Rm"
 	],
-	"name": "Hatha Yoga",
+	"name": "Classical Hatha Yoga",
 	"notes": "Open to seniors only.",
 	"num": 162,
 	"pf": false,
@@ -26,6 +26,11 @@
 			"instructors": [
 				"Dennis Bengtson"
 			]
+		},
+		{
+			"_updated": "2015-04-22T18:00:31.087194-05:00",
+			"name": "Hatha Yoga",
+			"title": null
 		}
 	],
 	"semester": 3,
@@ -34,6 +39,7 @@
 	"times": [
 		"TTh 0935-1030"
 	],
+	"title": "Hatha Yoga",
 	"type": "Research",
 	"year": 2015
 }
