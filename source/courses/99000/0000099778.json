@@ -13,13 +13,26 @@
 		"Susan E. Smalling"
 	],
 	"level": 300,
+	"locations": [
+		"HH 302"
+	],
 	"name": "Field Practicum",
 	"notes": "Open to Senior Social Work majors only. Meets M-F from 8:00-5:00 and M from 7-10 p.m. in HH302.",
 	"num": 380,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-23T00:00:42.560098-05:00",
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
+	"times": [
+		"M 0700-1000PM"
+	],
 	"type": "Research",
 	"year": 2015
 }

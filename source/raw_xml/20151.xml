@@ -1982,7 +1982,7 @@
 	</course>
 	<course>
 		<clbid>0000099494</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MUSIC</deptname>
 		<coursenumber>267</coursenumber>
 		<coursesection></coursesection>
@@ -6306,8 +6306,8 @@
 		<halfcredit></halfcredit>
 		<credits>3.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes></meetingtimes>
-		<meetinglocations></meetinglocations>
+		<meetingtimes>M 0700-1000PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('HH302');"&gt;HH 302&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8001,7 +8001,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM210');"&gt;OM 210&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM210');"&gt;OM 210&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH110');"&gt;TOH 110&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH110');"&gt;TOH 110&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -20153,28 +20153,6 @@
 		<term>20151</term>
 	</course>
 	<course>
-		<clbid>0000103285</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>ENGL</deptname>
-		<coursenumber>280</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>T</coursesubtype>
-		<coursename>Top: Crime Fiction</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26260')"&gt;Nordfjord, Bjorn&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML421');"&gt;RML 421&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000022130</crsid>
-		<term>20151</term>
-	</course>
-	<course>
 		<clbid>0000103329</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>HIST</deptname>
@@ -20401,7 +20379,7 @@
 		<coursenumber>162</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>Hatha Yoga</coursename>
+		<coursename>Classical Hatha Yoga</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
