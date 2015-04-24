@@ -15,10 +15,17 @@
 		"RNS 310",
 		"RNS 310"
 	],
-	"name": "Analytical Chem",
+	"name": "Analytical Chemistry",
 	"notes": "Students in Chem 255 must also register for Chem 256 AL or BL.",
 	"num": 255,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-04-24T00:00:28.680399-05:00",
+			"name": "Analytical Chem",
+			"title": "Analytical Chemistry"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
@@ -26,7 +33,6 @@
 		"T 0935-1100",
 		"Th 0930-1050"
 	],
-	"title": "Analytical Chemistry",
 	"type": "Research",
 	"year": 2015
 }

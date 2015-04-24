@@ -9,9 +9,8 @@
 	"gereqs": [
 		"SPM"
 	],
-	"grouptype": "R",
 	"instructors": [
-		"Staff"
+		"Dennis Bengtson"
 	],
 	"level": 100,
 	"locations": [
@@ -25,6 +24,13 @@
 			"_updated": "2015-04-23T00:00:56.461954-05:00",
 			"name": "Hatha Yoga",
 			"title": null
+		},
+		{
+			"_updated": "2015-04-24T00:00:50.345875-05:00",
+			"grouptype": "R",
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 1,
