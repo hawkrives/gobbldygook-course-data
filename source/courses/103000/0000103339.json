@@ -13,6 +13,9 @@
 		"Kendra Strand"
 	],
 	"level": 100,
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Asian Cultures",
 	"num": 121,
 	"pf": false,
@@ -22,11 +25,19 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-04-27T18:00:12.096568-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-F 0100-0300PM"
+	],
 	"title": "Asian Cultures in Comparative Perspectives",
 	"type": "Research",
 	"year": 2015
