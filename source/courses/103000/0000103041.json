@@ -10,6 +10,7 @@
 		"WRI"
 	],
 	"groupid": 1158,
+	"grouptype": "2",
 	"instructors": [
 		"Grace E. Cho"
 	],
@@ -18,7 +19,7 @@
 		"RNS 131"
 	],
 	"name": "Research Methods",
-	"notes": "Students in Psych 230 must also register for one lab Psych 230 AL or BL.",
+	"notes": "Students in Psych 230 must also register for lab Psych 230 BL.",
 	"num": 230,
 	"pf": false,
 	"revisions": [
@@ -35,6 +36,11 @@
 			"locations": [
 				"RNS 390"
 			]
+		},
+		{
+			"_updated": "2015-04-28T18:00:26.672107-05:00",
+			"grouptype": null,
+			"notes": "Students in Psych 230 must also register for one lab Psych 230 AL or BL."
 		}
 	],
 	"section": "B",

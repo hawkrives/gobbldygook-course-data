@@ -6,6 +6,7 @@
 		"PSYCH"
 	],
 	"groupid": 1158,
+	"grouptype": "1",
 	"instructors": [
 		"Grace E. Cho"
 	],
@@ -20,6 +21,10 @@
 		{
 			"_updated": "2015-04-07T16:54:39.425274-05:00",
 			"locations": null
+		},
+		{
+			"_updated": "2015-04-28T18:00:24.465064-05:00",
+			"grouptype": null
 		}
 	],
 	"section": "A",

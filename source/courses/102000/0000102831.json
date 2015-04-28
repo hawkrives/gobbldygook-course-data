@@ -19,7 +19,7 @@
 		"RNS 210"
 	],
 	"name": "Research Methods",
-	"notes": "Students in Psych 230B must also register for Psych 230 AL or BL.",
+	"notes": "Students in Psych 230B must also register for Psych 230 BL.",
 	"num": 230,
 	"pf": false,
 	"revisions": [
@@ -30,11 +30,16 @@
 				"TBA"
 			],
 			"notes": "Students in Psych 230B must also register for Psych 230 BL."
+		},
+		{
+			"_updated": "2015-04-28T18:00:25.194069-05:00",
+			"notes": "Students in Psych 230B must also register for Psych 230 AL or BL.",
+			"status": "O"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20151,
 	"times": [
 		"T 0120-0245PM",

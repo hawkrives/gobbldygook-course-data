@@ -4995,28 +4995,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000101407</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>PSCI</deptname>
-		<coursenumber>284</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Citizenship War Terror</coursename>
-		<pn>N</pn>
-		<notes>Prerequisite: completion of BTS-T or permission of instructor.  Open only to&lt;br&gt;seniors and juniors during web registration.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1343')"&gt;Dale, J. Patrick&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0200-0255PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM110');"&gt;OM 110&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000019735</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000101408</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>HIST</deptname>
@@ -14067,7 +14045,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Research Methods</coursename>
 		<pn>N</pn>
-		<notes>Students in Psych 230 must also register for one lab Psych 230 AL or BL.</notes>
+		<notes>Students in Psych 230 must also register for lab Psych 230 AL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('20130')"&gt;Cho, Grace E.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -14076,7 +14054,7 @@
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS131');"&gt;RNS 131&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000001158</groupid>
-		<grouptype></grouptype>
+		<grouptype>1</grouptype>
 		<crsid>0000001158</crsid>
 		<term>20153</term>
 	</course>
@@ -14098,7 +14076,7 @@
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS240');"&gt;RNS 240&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000001158</groupid>
-		<grouptype></grouptype>
+		<grouptype>1</grouptype>
 		<crsid>0000026692</crsid>
 		<term>20153</term>
 	</course>
@@ -14120,7 +14098,7 @@
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS240');"&gt;RNS 240&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000001158</groupid>
-		<grouptype></grouptype>
+		<grouptype>2</grouptype>
 		<crsid>0000026692</crsid>
 		<term>20153</term>
 	</course>
@@ -16559,7 +16537,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH200');"&gt;TOH 200&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -18423,7 +18401,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Research Methods</coursename>
 		<pn>N</pn>
-		<notes>Students in Psych 230 must also register for one lab Psych 230 AL or BL.</notes>
+		<notes>Students in Psych 230 must also register for lab Psych 230 BL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('20130')"&gt;Cho, Grace E.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -18432,7 +18410,7 @@
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS131');"&gt;RNS 131&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000001158</groupid>
-		<grouptype></grouptype>
+		<grouptype>2</grouptype>
 		<crsid>0000001158</crsid>
 		<term>20153</term>
 	</course>
@@ -19873,13 +19851,13 @@
 		<coursenumber>189</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>T</coursesubtype>
-		<coursename>Topics with MCG</coursename>
+		<coursename>Top: Gandhi's India</coursename>
 		<pn>N</pn>
-		<notes>Open to first-year students only.&lt;br&gt;MCG and WRI pending committee approval.</notes>
+		<notes>Open to first-year students only.&lt;br&gt;MCG pending committee approval.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27189')"&gt;LaRocque, Brendan&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
@@ -19908,6 +19886,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000089</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103412</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSCI</deptname>
+		<coursenumber>299</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>T</coursesubtype>
+		<coursename>Top: TBA</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1343')"&gt;Dale, J. Patrick&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>MWF 0200-0255PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM110');"&gt;OM 110&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001142</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
