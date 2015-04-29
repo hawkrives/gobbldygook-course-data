@@ -11,7 +11,6 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 200",
 		"TOH 200"
 	],
 	"name": "Sr Sem: Families in Trans",
@@ -25,14 +24,24 @@
 				"OM 310",
 				"OM 310"
 			]
+		},
+		{
+			"_updated": "2015-04-29T12:00:26.314859-05:00",
+			"locations": [
+				"TOH 200",
+				"TOH 200"
+			],
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
+		"MWF 1255-0150PM"
 	],
 	"title": "Senior Seminar: Special Topics",
 	"type": "Research",
