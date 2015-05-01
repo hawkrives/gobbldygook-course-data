@@ -16700,7 +16700,7 @@
 	</course>
 	<course>
 		<clbid>0000100530</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ALSO</deptname>
 		<coursenumber>104</coursenumber>
 		<coursesection>A</coursesection>
@@ -17866,7 +17866,7 @@
 	</course>
 	<course>
 		<clbid>0000102769</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>X</coursestatus>
 		<deptname>GERM</deptname>
 		<coursenumber>266</coursenumber>
 		<coursesection></coursesection>
@@ -17879,7 +17879,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH308');"&gt;TOH 308&lt;/a&gt;</meetinglocations>
+		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -20447,7 +20447,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Grimm Fairy Tales and Folklore</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Taught in English.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6671')"&gt;Rippley, Lavern&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -20612,6 +20612,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000465</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103422</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>THEAT</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Children's Theater</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('9093')"&gt;Wilson, Karen&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001395</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>

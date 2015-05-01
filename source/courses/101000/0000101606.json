@@ -18,7 +18,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 340"
+		"OM 240",
+		"OM 240"
 	],
 	"name": "Integrated Science and Society",
 	"notes": "Full course title: Integrated Science and Society: Addiction from the Brain to the Social. Not open to first-year students. This course is intended for for students who do not major in one of the natural sciences.",
@@ -28,13 +29,23 @@
 		{
 			"_updated": "2015-03-10T17:02:49.345839-05:00",
 			"name": "Integrated Science/Societ"
+		},
+		{
+			"_updated": "2015-05-01T00:00:31.107077-05:00",
+			"locations": [
+				"OM 340"
+			],
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1045-1140"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Integrated Science/Society:Interdisciplinary Approach Contemporary Iss",
 	"type": "Research",
