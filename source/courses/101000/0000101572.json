@@ -6,9 +6,6 @@
 		"ESAC"
 	],
 	"desc": "Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness.",
-	"gereqs": [
-		"SPM"
-	],
 	"instructors": [
 		"Staff"
 	],
@@ -31,6 +28,12 @@
 			"_updated": "2015-04-22T18:00:31.087194-05:00",
 			"name": "Hatha Yoga",
 			"title": null
+		},
+		{
+			"_updated": "2015-05-01T18:00:17.063395-05:00",
+			"gereqs": [
+				"SPM"
+			]
 		}
 	],
 	"semester": 3,
