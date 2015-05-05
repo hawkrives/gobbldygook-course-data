@@ -14,11 +14,19 @@
 	],
 	"level": 100,
 	"locations": [
-		"SAC_POOL"
+		"SAC Pool"
 	],
 	"name": "Swim Fitness",
 	"num": 130,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-05-05T12:00:23.620754-05:00",
+			"locations": [
+				"SAC_POOL"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
