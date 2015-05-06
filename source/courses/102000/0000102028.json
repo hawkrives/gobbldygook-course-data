@@ -11,7 +11,7 @@
 		"IST"
 	],
 	"instructors": [
-		"Mark Sundby"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -21,6 +21,14 @@
 	"name": "Principles: Psych",
 	"num": 125,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-05-06T18:00:21.263594-05:00",
+			"instructors": [
+				"Mark Sundby"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

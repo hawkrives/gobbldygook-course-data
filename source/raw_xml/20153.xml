@@ -13672,7 +13672,7 @@
 		<coursename>Principles: Psych</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8134')"&gt;Sundby, Mark&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
@@ -13711,7 +13711,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>PSYCH</deptname>
 		<coursenumber>247</coursenumber>
-		<coursesection>B</coursesection>
+		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Psychopathology</coursename>
 		<pn>N</pn>
@@ -13721,28 +13721,6 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000001176</crsid>
-		<term>20153</term>
-	</course>
-	<course>
-		<clbid>0000102031</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>PSYCH</deptname>
-		<coursenumber>247</coursenumber>
-		<coursesection>A</coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Psychopathology</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5220')"&gt;McMillan, Donna&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
@@ -19886,6 +19864,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000001142</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103437</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>378</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Health Psychology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8134')"&gt;Sundby, Mark&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>Th 0700-1000PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS124');"&gt;RNS 124&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000018787</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103438</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>342</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Positive Psychology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5220')"&gt;McMillan, Donna&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS190');"&gt;RNS 190&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000017594</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
