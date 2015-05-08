@@ -6,10 +6,6 @@
 		"BIO"
 	],
 	"desc": "A range of microscopic techniques including brightfield, darkfield, interference, fluorescence, and advanced techniques including laser confocal microscopy are covered in this course. In parallel to microscope training sessions, students learn the latest computer techniques for video image grabbing and analysis. Teams design investigative projects that make use of appropriate mircoscope and computer technologies. Prerequisite: BIO 227, or BIO 125, or CH/BI 227. Offered during Interim.",
-	"gereqs": [
-		"IST",
-		"SED"
-	],
 	"groupid": 132,
 	"instructors": [
 		"Eric Cole"
@@ -27,6 +23,13 @@
 			"_updated": "2015-05-01T18:00:11.069140-05:00",
 			"locations": null,
 			"times": null
+		},
+		{
+			"_updated": "2015-05-08T12:00:10.740798-05:00",
+			"gereqs": [
+				"IST",
+				"SED"
+			]
 		}
 	],
 	"semester": 2,
