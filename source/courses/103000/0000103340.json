@@ -16,8 +16,8 @@
 	"locations": [
 		"RNS 202"
 	],
-	"name": "HiPerCiC Custom Web Apps",
-	"notes": "Course and GE pending Committee and Faculty approval Students in CSCI 259 must also register for CSCI 259 AL or BL.",
+	"name": "HiPerCiC Collaborative Web Apps",
+	"notes": "Students in CSCI 259 must also register for CSCI 259 AL or BL.",
 	"num": 259,
 	"pf": false,
 	"revisions": [
@@ -28,6 +28,11 @@
 		{
 			"_updated": "2015-04-28T18:00:25.813013-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-05-08T18:00:23.859732-05:00",
+			"name": "HiPerCiC Custom Web Apps",
+			"notes": "Course and GE pending Committee and Faculty approval Students in CSCI 259 must also register for CSCI 259 AL or BL."
 		}
 	],
 	"semester": 1,

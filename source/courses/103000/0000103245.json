@@ -11,15 +11,22 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 435"
-	],
 	"name": "Plant Morphology",
-	"notes": "Students in BIO 252 must also register for BIO 252 lab.",
+	"notes": "Students in BIO 252 must also register for BIO 252 lab. This course has been canceled.",
 	"num": 252,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-05-08T18:00:23.796199-05:00",
+			"locations": [
+				"RNS 435"
+			],
+			"notes": "Students in BIO 252 must also register for BIO 252 lab.",
+			"status": "O"
+		}
+	],
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20151,
 	"times": [
 		"MWF 0800-0855"

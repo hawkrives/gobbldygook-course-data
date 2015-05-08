@@ -5883,7 +5883,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Ecological Principles</coursename>
 		<pn>N</pn>
-		<notes>Students in Bio 261 must also register for one lab Bio 261 AL or BL.</notes>
+		<notes>Students in Bio 261 must also register for one lab Bio 261 AL, BL or CL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26207')"&gt;Center, Alyson&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -19930,6 +19930,72 @@
 		<groupid></groupid>
 		<grouptype>R</grouptype>
 		<crsid>0000029407</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103441</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NURS</deptname>
+		<coursenumber>314</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Medical-Surgical Nursing I</coursename>
+		<pn>N</pn>
+		<notes>Open to Junior Nursing majors only.  Will also meet T/Th 7:00 a.m. -3:00 p.m.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23811')"&gt;Morisette, Sandra&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4577')"&gt;Kuehn, Mary&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>W 1150-1245PM&lt;br&gt;W 1255-0150PM&lt;br&gt;W 0200-0255PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000029408</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103442</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NURS</deptname>
+		<coursenumber>390</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Research Methods in Nursing</coursename>
+		<pn>N</pn>
+		<notes>Open only to upper-class Nursing majors and sophomore Nursing majors with&lt;br&gt;permission of instructor.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5499')"&gt;Neal, Diana&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>M 0700-1000PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000029409</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000103444</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>261</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Ecological Principles Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26207')"&gt;Center, Alyson&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000000139</groupid>
+		<grouptype></grouptype>
+		<crsid>0000000140</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>

@@ -5817,7 +5817,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Ecological Principles</coursename>
 		<pn>N</pn>
-		<notes>Students in Bio 261 must also register for one lab Bio 261 AL, BL, or CL.&lt;br&gt;Not open to first-year students.</notes>
+		<notes>Students in Bio 261 must also register for one lab Bio 261 AL, BL, CL, or DL.&lt;br&gt;Not open to first-year students.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26207')"&gt;Center, Alyson&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -9638,7 +9638,7 @@
 	</course>
 	<course>
 		<clbid>0000099987</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PSCI</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>A</coursesection>
@@ -18812,7 +18812,7 @@
 	</course>
 	<course>
 		<clbid>0000102824</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BI/ES</deptname>
 		<coursenumber>350</coursenumber>
 		<coursesection>B</coursesection>
@@ -20000,20 +20000,20 @@
 	</course>
 	<course>
 		<clbid>0000103245</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>X</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>252</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Plant Morphology</coursename>
 		<pn>N</pn>
-		<notes>Students in BIO 252 must also register for BIO 252 lab.</notes>
+		<notes>Students in BIO 252 must also register for BIO 252 lab.&lt;br&gt;This course has been canceled.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0800-0855</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS435');"&gt;RNS 435&lt;/a&gt;</meetinglocations>
+		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000136</groupid>
 		<grouptype></grouptype>
@@ -20022,20 +20022,20 @@
 	</course>
 	<course>
 		<clbid>0000103246</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>X</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>252</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>L</coursesubtype>
 		<coursename>Plant Morphology Lab</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>This course has been cancelled.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>Th 1245-0345PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS455');"&gt;RNS 455&lt;/a&gt;</meetinglocations>
+		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000136</groupid>
 		<grouptype></grouptype>
@@ -20203,9 +20203,9 @@
 		<coursenumber>259</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>HiPerCiC Custom Web Apps</coursename>
+		<coursename>HiPerCiC Collaborative Web Apps</coursename>
 		<pn>N</pn>
-		<notes>Course and GE pending Committee and Faculty approval&lt;br&gt;Students in CSCI 259 must also register for CSCI 259 AL or BL.</notes>
+		<notes>Students in CSCI 259 must also register for CSCI 259 AL or BL.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('806')"&gt;Brown, Richard&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -20225,7 +20225,7 @@
 		<coursenumber>259</coursenumber>
 		<coursesection>A</coursesection>
 		<coursesubtype>L</coursesubtype>
-		<coursename>HiPerCiC Custom Web Apps Lab</coursename>
+		<coursename>HiPerCiC Collaborative Web Apps Lab</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('806')"&gt;Brown, Richard&lt;/a&gt;</instructors>
@@ -20247,7 +20247,7 @@
 		<coursenumber>259</coursenumber>
 		<coursesection>B</coursesection>
 		<coursesubtype>L</coursesubtype>
-		<coursename>HiPerCiC Custom Web Apps Lab</coursename>
+		<coursename>HiPerCiC Collaborative Web Apps Lab</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('806')"&gt;Brown, Richard&lt;/a&gt;</instructors>
@@ -20656,6 +20656,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000792</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103443</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>261</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Ecological Principles Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26207')"&gt;Center, Alyson&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0120-0420PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS440');"&gt;RNS 440&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000000139</groupid>
+		<grouptype></grouptype>
+		<crsid>0000000140</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
