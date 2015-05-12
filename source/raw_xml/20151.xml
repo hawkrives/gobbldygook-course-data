@@ -46,7 +46,7 @@
 	</course>
 	<course>
 		<clbid>0000099387</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MATH</deptname>
 		<coursenumber>252</coursenumber>
 		<coursesection>B</coursesection>
@@ -7993,7 +7993,7 @@
 		<coursenumber>133</coursenumber>
 		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>Individual Fitness.50</coursename>
+		<coursename>Individual Fitness .50</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4502')"&gt;Kosmoski, Daniel&lt;/a&gt;</instructors>
@@ -8015,7 +8015,7 @@
 		<coursenumber>133</coursenumber>
 		<coursesection>B</coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>Individual Fitness.50</coursename>
+		<coursename>Individual Fitness .50</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('228')"&gt;Anderson, Kurt&lt;/a&gt;</instructors>
@@ -13356,7 +13356,7 @@
 	</course>
 	<course>
 		<clbid>0000100302</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ART</deptname>
 		<coursenumber>221</coursenumber>
 		<coursesection></coursesection>
@@ -18702,7 +18702,7 @@
 	</course>
 	<course>
 		<clbid>0000102820</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>150</coursenumber>
 		<coursesection>F</coursesection>
@@ -20656,6 +20656,28 @@
 		<groupid>0000000139</groupid>
 		<grouptype></grouptype>
 		<crsid>0000000140</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103446</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NEURO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Wireless Neurostim</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17430')"&gt;Crisp, Kevin M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000920</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
