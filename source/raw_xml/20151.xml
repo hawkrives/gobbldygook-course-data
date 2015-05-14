@@ -6844,7 +6844,7 @@
 	</course>
 	<course>
 		<clbid>0000099807</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>EDUC</deptname>
 		<coursenumber>260</coursenumber>
 		<coursesection></coursesection>
@@ -14148,7 +14148,7 @@
 	</course>
 	<course>
 		<clbid>0000100359</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MGMT</deptname>
 		<coursenumber>225</coursenumber>
 		<coursesection>B</coursesection>
@@ -20688,6 +20688,28 @@
 		<coursesection>B</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>IS/Managing Deer Diseases</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2593')"&gt;Giannini, John&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000154</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103451</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Responses to Hunting</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('2593')"&gt;Giannini, John&lt;/a&gt;</instructors>
