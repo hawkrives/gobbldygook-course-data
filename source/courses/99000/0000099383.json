@@ -3,7 +3,6 @@
 	"credits": 0.25,
 	"crsid": 16220,
 	"depts": [
-		"ASIAN",
 		"HIST"
 	],
 	"instructors": [
@@ -13,6 +12,15 @@
 	"name": "FLC - Chinese",
 	"num": 250,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-05-16T00:00:18.495532-05:00",
+			"depts": [
+				"ASIAN",
+				"HIST"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

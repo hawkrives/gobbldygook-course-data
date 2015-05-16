@@ -3,7 +3,7 @@
 	<course>
 		<clbid>0000099383</clbid>
 		<coursestatus>O</coursestatus>
-		<deptname>AS/HI</deptname>
+		<deptname>HIST</deptname>
 		<coursenumber>250</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>F</coursesubtype>
@@ -4975,7 +4975,7 @@
 	<course>
 		<clbid>0000099678</clbid>
 		<coursestatus>O</coursestatus>
-		<deptname>AS/HI</deptname>
+		<deptname>HIST</deptname>
 		<coursenumber>250</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
@@ -7570,7 +7570,7 @@
 	</course>
 	<course>
 		<clbid>0000099878</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>STAT</deptname>
 		<coursenumber>214</coursenumber>
 		<coursesection>A</coursesection>
@@ -20722,6 +20722,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000154</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103454</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Psych of Faith Dev't</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('712')"&gt;Booth, David&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001257</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
