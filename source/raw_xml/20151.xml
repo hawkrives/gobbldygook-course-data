@@ -11821,10 +11821,10 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Matrix  Factorizations</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23820')"&gt;Diveris, Kosmas&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -11931,13 +11931,13 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Cultural Imperialism</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1368')"&gt;DeLaney, Jeane&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs></gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
@@ -20766,6 +20766,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000001057</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103481</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Theological Aesthetics</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17549')"&gt;Jothen, Peder J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001239</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000103482</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ART</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Photography in India</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5816')"&gt;Ojala, Margaret&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000069</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
