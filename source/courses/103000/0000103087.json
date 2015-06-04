@@ -6,6 +6,9 @@
 		"THEAT"
 	],
 	"desc": "Students learn and apply principles of speech composition and analyze speeches to understand effective methods. They demonstrate their knowledge in classroom speeches. Offered annually. Inquire in the Theater Department office about scheduling.",
+	"gereqs": [
+		"ORC"
+	],
 	"instructors": [
 		"William Sonnega"
 	],
@@ -16,6 +19,12 @@
 	"name": "Public Speaking",
 	"num": 120,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-06-04T12:00:36.068172-05:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

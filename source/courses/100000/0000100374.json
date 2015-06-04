@@ -7,7 +7,7 @@
 	],
 	"desc": "This course introduces the mathematics of randomness. Topics include probabilities on discrete and continuous sample spaces, conditional probability and Bayes' Theorem, random variables, expectation and variance, distributions (including binomial, Poisson, geometric, normal, exponential, and gamma) and the Central Limit Theorem. Students use computers to explore these topics. Offered each semester. Prerequisite: MATH 126 or MATH 128.",
 	"instructors": [
-		"Staff"
+		"Matthew Wright"
 	],
 	"level": 200,
 	"locations": [
@@ -46,6 +46,12 @@
 		{
 			"_updated": "2015-04-28T18:00:22.775218-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-06-04T12:00:35.282446-05:00",
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 1,

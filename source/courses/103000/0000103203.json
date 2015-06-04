@@ -11,16 +11,28 @@
 		"MCG"
 	],
 	"instructors": [
-		"Staff"
+		"Anne von Bibra"
 	],
 	"level": 100,
 	"locations": [
-		"DC Studio 1",
+		"DC 204",
 		"DC Studio 1"
 	],
 	"name": "World Dance Tradition",
 	"num": 124,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-06-04T12:00:19.360661-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [
+				"DC Studio 1",
+				"DC Studio 1"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
