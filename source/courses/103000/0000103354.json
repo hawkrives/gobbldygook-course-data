@@ -13,6 +13,9 @@
 		"Robert Entenmann"
 	],
 	"level": 200,
+	"locations": [
+		"TOH 112"
+	],
 	"name": "Japanese Civilization",
 	"num": 252,
 	"pf": false,
@@ -23,11 +26,19 @@
 				"ASIAN",
 				"HIST"
 			]
+		},
+		{
+			"_updated": "2015-06-05T18:00:09.359901-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-F 0100-0300PM"
+	],
 	"type": "Research",
 	"year": 2015
 }
