@@ -6,6 +6,9 @@
 		"NURS"
 	],
 	"desc": "This course provides tools for understanding how research in nursing is conceptualized, designed, carried out, interpreted, and disseminated. Use of library/internet resources, ethical guidelines, and skills of scientific writing are emphasized. Students work independently and in groups to critique research, conduct literature reviews, and prepare research posters/papers for presentation. Counts toward the nursing major as an elective. Offered spring 2016 and annually in the fall semester thereafter. Prerequisite: open to upper-class nursing majors and only to sophomore nursing majors with permission of the instructor.",
+	"gereqs": [
+		"WRI"
+	],
 	"grouptype": "R",
 	"instructors": [
 		"Diana Neal"
@@ -18,6 +21,12 @@
 	"notes": "Open only to upper-class Nursing majors and sophomore Nursing majors with permission of instructor.",
 	"num": 390,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-06-09T12:00:30.490520-05:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

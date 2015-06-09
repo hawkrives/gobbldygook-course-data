@@ -10,8 +10,8 @@
 		"ORC"
 	],
 	"instructors": [
-		"Sandra Morisette",
-		"Nicole B. Beckmann"
+		"Staff",
+		"Sandra Morisette"
 	],
 	"level": 300,
 	"locations": [
@@ -25,6 +25,13 @@
 		{
 			"_updated": "2015-04-28T18:00:25.645342-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-06-09T12:00:31.669073-05:00",
+			"instructors": [
+				"Sandra Morisette",
+				"Nicole B. Beckmann"
+			]
 		}
 	],
 	"semester": 1,
