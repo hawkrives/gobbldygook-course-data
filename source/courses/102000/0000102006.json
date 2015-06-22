@@ -18,10 +18,17 @@
 		"RNS 150",
 		"RNS 150"
 	],
-	"name": "Prin of Statistics",
+	"name": "Principles of Statistics",
 	"notes": "This course has class year limits. Students in Stat 110 must also register for one lab 110 AL, BL, or CL.",
 	"num": 110,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-06-22T12:00:26.563936-05:00",
+			"name": "Prin of Statistics",
+			"title": "Principles of Statistics"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
@@ -29,7 +36,6 @@
 		"T 1145-0110PM",
 		"Th 1245-0205PM"
 	],
-	"title": "Principles of Statistics",
 	"type": "Research",
 	"year": 2015
 }
