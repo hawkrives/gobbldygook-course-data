@@ -10,7 +10,7 @@
 		"IST"
 	],
 	"instructors": [
-		"Staff"
+		"Graham Hagen-Peter"
 	],
 	"level": 100,
 	"locations": [
@@ -23,6 +23,12 @@
 		{
 			"_updated": "2015-04-28T18:00:18.838525-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-07-17T18:00:18.912067-05:00",
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 1,
