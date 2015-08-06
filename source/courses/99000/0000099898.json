@@ -11,7 +11,7 @@
 	],
 	"halfcredit": "1",
 	"instructors": [
-		"Staff"
+		"Lee Goren"
 	],
 	"level": 100,
 	"locations": [
@@ -31,6 +31,12 @@
 		{
 			"_updated": "2015-04-28T18:00:19.232802-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-08-06T18:00:25.258532-05:00",
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 1,

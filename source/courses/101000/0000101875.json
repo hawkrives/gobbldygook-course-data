@@ -10,11 +10,11 @@
 		"HBS"
 	],
 	"instructors": [
-		"Sian E. Muir"
+		"Mark D. Skeba"
 	],
 	"level": 200,
 	"locations": [
-		"RML 525"
+		"RML 515"
 	],
 	"name": "Marketing",
 	"notes": "Not open to first-year students.",
@@ -26,13 +26,25 @@
 			"locations": [
 				"HH 307"
 			]
+		},
+		{
+			"_updated": "2015-08-06T18:00:26.339537-05:00",
+			"instructors": [
+				"Sian E. Muir"
+			],
+			"locations": [
+				"RML 525"
+			],
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 0905-1000"
+		"Th 0700-1000PM"
 	],
 	"type": "Research",
 	"year": 2015
