@@ -3491,7 +3491,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000001259</groupid>
 		<grouptype></grouptype>
@@ -8661,7 +8661,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -13334,14 +13334,14 @@
 	</course>
 	<course>
 		<clbid>0000100288</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>NORW</deptname>
 		<coursenumber>371</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Norsk Lit Til 1890</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>This course is a special offering.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('11352')"&gt;Korynta, Kyle A.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -17783,7 +17783,7 @@
 		<coursenumber>271</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>T</coursesubtype>
-		<coursename>Top: German Literature</coursename>
+		<coursename>Top: Post War Literature</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('50')"&gt;Achberger, Karen R.&lt;/a&gt;</instructors>
@@ -20920,6 +20920,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000001190</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000104349</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NORW</deptname>
+		<coursenumber>111</coursenumber>
+		<coursesection>E</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Beginning Norwegian I</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('11352')"&gt;Korynta, Kyle A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>MWF 0905-1000</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000921</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
