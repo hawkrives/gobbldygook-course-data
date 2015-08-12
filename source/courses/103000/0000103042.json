@@ -15,8 +15,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 210",
-		"RNS 210"
+		"RNS 290",
+		"RNS 290"
 	],
 	"name": "Cognitive Psychology",
 	"notes": "Students in Psych 237 must also register for Psych 237 AL or BL.",
@@ -31,6 +31,13 @@
 		{
 			"_updated": "2015-04-07T16:54:39.806622-05:00",
 			"locations": null
+		},
+		{
+			"_updated": "2015-08-12T16:37:26.925316-05:00",
+			"locations": [
+				"RNS 210",
+				"RNS 210"
+			]
 		}
 	],
 	"semester": 3,
