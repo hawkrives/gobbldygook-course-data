@@ -2567,7 +2567,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>T-F 1040-1240PM&lt;br&gt;T-F 0100-0300PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM020');"&gt;OM 020&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM240');"&gt;OM 240&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM020');"&gt;OM 020&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM020');"&gt;OM 020&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -5487,7 +5487,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Teaching ESL K-12</coursename>
 		<pn>N</pn>
-		<notes>The on-campus portion of this class will meet in TOH 112. Prerequisite: EDUC 246, and EDUC 330 or EDUC 260.</notes>
+		<notes>The on-campus portion of this class will meet in TOH 112. Prerequisite: EDUC 246, and EDUC 260 or EDUC 330.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('10293')"&gt;Tesdall, Jessica L.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -7060,6 +7060,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000075</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000104353</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>EDUC</deptname>
+		<coursenumber>2XX</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Placeholder Course</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000029844</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
