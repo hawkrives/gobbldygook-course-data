@@ -6,9 +6,6 @@
 		"ASIAN"
 	],
 	"desc": "The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Prerequisites to be determined by instructor.",
-	"gereqs": [
-		"MCG"
-	],
 	"instructors": [
 		"Ying Zhou"
 	],
@@ -52,6 +49,12 @@
 			"_updated": "2015-05-08T12:00:25.009698-05:00",
 			"locations": [
 				"DC 305"
+			]
+		},
+		{
+			"_updated": "2015-08-13T12:00:22.844176-05:00",
+			"gereqs": [
+				"MCG"
 			]
 		}
 	],
