@@ -5634,7 +5634,7 @@
 	</course>
 	<course>
 		<clbid>0000099731</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>O</coursestatus>
 		<deptname>PSYCH</deptname>
 		<coursenumber>241</coursenumber>
 		<coursesection>B</coursesection>
@@ -8076,14 +8076,14 @@
 	</course>
 	<course>
 		<clbid>0000099911</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>X</coursestatus>
 		<deptname>CHEM</deptname>
 		<coursenumber>378</coursenumber>
 		<coursesection>B</coursesection>
 		<coursesubtype>L</coursesubtype>
 		<coursename>Instr Analysis Lab</coursename>
 		<pn>Y</pn>
-		<notes></notes>
+		<notes>This lab has been canceled.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15745')"&gt;Beussman, Douglas J.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.25</credits>
@@ -12190,7 +12190,7 @@
 	</course>
 	<course>
 		<clbid>0000100204</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ART</deptname>
 		<coursenumber>254</coursenumber>
 		<coursesection></coursesection>
@@ -17228,15 +17228,15 @@
 	</course>
 	<course>
 		<clbid>0000100632</clbid>
-		<coursestatus>X</coursestatus>
+		<coursestatus>O</coursestatus>
 		<deptname>ESAC</deptname>
 		<coursenumber>142</coursenumber>
 		<coursesection>B</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Wt Training-Women</coursename>
 		<pn>N</pn>
-		<notes>This course has been canceled.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5195')"&gt;McDonald, Matthew C.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.25</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
@@ -21008,6 +21008,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000986</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000104433</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ESAC</deptname>
+		<coursenumber>151</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Badminton</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5195')"&gt;McDonald, Matthew C.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SPM.pdf"&gt;SPM&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001020</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
