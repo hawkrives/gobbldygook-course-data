@@ -16,7 +16,7 @@
 	],
 	"level": 100,
 	"locations": [
-		"DC 204"
+		"OM 110"
 	],
 	"name": "America Since 1945",
 	"notes": "Open to first-year students only.",
@@ -32,6 +32,12 @@
 		{
 			"_updated": "2015-04-10T21:30:04.470173-05:00",
 			"name": "America Since WW II"
+		},
+		{
+			"_updated": "2015-08-20T00:00:37.041928-05:00",
+			"locations": [
+				"DC 204"
+			]
 		}
 	],
 	"semester": 3,
