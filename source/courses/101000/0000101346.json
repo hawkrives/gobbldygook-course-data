@@ -10,7 +10,7 @@
 		"IST"
 	],
 	"instructors": [
-		"Jeremy Loebach"
+		"Staff"
 	],
 	"level": 200,
 	"locations": [
@@ -20,13 +20,25 @@
 	"name": "Biopsychology",
 	"num": 238,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-08-21T12:00:28.840426-05:00",
+			"instructors": [
+				"Jeremy Loebach"
+			],
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"type": "Research",
 	"year": 2015

@@ -13,6 +13,7 @@
 		"RNS 190"
 	],
 	"name": "Placeholder Course",
+	"notes": "Open to first-year students.",
 	"num": 0,
 	"pf": false,
 	"revisions": [
@@ -20,6 +21,10 @@
 			"_updated": "2015-03-25T23:18:01.902088-05:00",
 			"grouptype": "R",
 			"locations": null
+		},
+		{
+			"_updated": "2015-08-21T12:00:13.542190-05:00",
+			"notes": null
 		}
 	],
 	"semester": 2,
