@@ -15,6 +15,7 @@
 		"RNS 410"
 	],
 	"name": "Investments",
+	"notes": "Open only to rising Seniors and Juniors.",
 	"num": 380,
 	"pf": false,
 	"revisions": [
@@ -30,6 +31,10 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-08-24T18:00:27.369439-05:00",
+			"notes": null
 		}
 	],
 	"semester": 3,

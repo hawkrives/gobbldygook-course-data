@@ -17,6 +17,7 @@
 		"RNS 208"
 	],
 	"name": "Management",
+	"notes": "Not open to First-year students.",
 	"num": 251,
 	"pf": false,
 	"revisions": [
@@ -35,6 +36,10 @@
 		{
 			"_updated": "2015-04-28T18:00:21.747250-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-08-24T18:00:26.767784-05:00",
+			"notes": null
 		}
 	],
 	"section": "A",

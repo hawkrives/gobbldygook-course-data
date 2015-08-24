@@ -17,6 +17,7 @@
 		"HH 307"
 	],
 	"name": "Marketing",
+	"notes": "Not open to First-year students.",
 	"num": 250,
 	"pf": false,
 	"revisions": [
@@ -29,6 +30,10 @@
 		{
 			"_updated": "2015-04-28T18:00:21.794171-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-08-24T18:00:26.825033-05:00",
+			"notes": null
 		}
 	],
 	"semester": 1,

@@ -18,6 +18,7 @@
 		"RML 515"
 	],
 	"name": "Arts Management",
+	"notes": "Not open to First-year students.",
 	"num": 229,
 	"pf": false,
 	"revisions": [
@@ -31,6 +32,10 @@
 		{
 			"_updated": "2015-04-28T18:00:16.611240-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-08-24T18:00:21.995616-05:00",
+			"notes": null
 		}
 	],
 	"semester": 1,
