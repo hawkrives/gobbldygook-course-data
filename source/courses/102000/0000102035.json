@@ -11,11 +11,12 @@
 		"MCD"
 	],
 	"instructors": [
-		"Staff"
+		"David C. Schalliol"
 	],
 	"level": 200,
 	"locations": [
-		"RNS 208"
+		"TOH 108",
+		"TOH 108"
 	],
 	"name": "Race/Class-Am Culture",
 	"num": 264,
@@ -32,6 +33,18 @@
 			"instructors": [
 				"David C. Schalliol"
 			]
+		},
+		{
+			"_updated": "2015-08-24T12:00:31.718894-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [
+				"RNS 208"
+			],
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "B",
@@ -39,7 +52,8 @@
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 0200-0255PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Race and Class in American Culture",
 	"type": "Research",
