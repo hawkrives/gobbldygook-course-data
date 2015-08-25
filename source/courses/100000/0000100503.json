@@ -11,8 +11,8 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 200",
-		"TOH 200"
+		"TOH 214",
+		"TOH 214"
 	],
 	"name": "Teaching of World Languages, K-12",
 	"notes": "Open to rising Seniors and Juniors only.",
@@ -23,14 +23,25 @@
 			"_updated": "2015-03-25T23:19:11.620947-05:00",
 			"name": "Tchg of World Lang",
 			"title": "Teaching of World Languages, K-12"
+		},
+		{
+			"_updated": "2015-08-25T18:00:28.258540-05:00",
+			"locations": [
+				"TOH 200",
+				"TOH 200"
+			],
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
 	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
+		"T 0700-0830PM",
+		"Th 0530-0645PM"
 	],
 	"type": "Research",
 	"year": 2015

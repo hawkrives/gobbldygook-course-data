@@ -18,7 +18,7 @@
 		"RNS 150"
 	],
 	"name": "Immunology",
-	"notes": "Students in BIO 382 must also register for BIO 382 A Disc. or B Disc.",
+	"notes": "Students in BIO 382 must also register for BIO 382 A Disc. or B Disc. Not open to first-year students.",
 	"num": 382,
 	"pf": false,
 	"revisions": [
@@ -37,6 +37,10 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-08-25T18:00:29.446110-05:00",
+			"notes": "Students in BIO 382 must also register for BIO 382 A Disc. or B Disc."
 		}
 	],
 	"semester": 1,

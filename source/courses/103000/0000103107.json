@@ -19,7 +19,7 @@
 		"RNS 435"
 	],
 	"name": "Limnology",
-	"notes": "Students in BIO 363 must also register for one lab BIO 363 AL or BL.",
+	"notes": "Students in BIO 363 must also register for one lab BIO 363 AL or BL. Not open to first-year students.",
 	"num": 363,
 	"pf": false,
 	"revisions": [
@@ -34,6 +34,10 @@
 				"RNS 410",
 				"RNS 410"
 			]
+		},
+		{
+			"_updated": "2015-08-25T18:00:29.929874-05:00",
+			"notes": "Students in BIO 363 must also register for one lab BIO 363 AL or BL."
 		}
 	],
 	"semester": 1,

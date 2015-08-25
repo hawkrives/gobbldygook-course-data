@@ -10,6 +10,9 @@
 		"Theodore Johnson"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 356A"
+	],
 	"name": "Immunology Disc",
 	"num": 382,
 	"pf": false,
@@ -23,6 +26,10 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-08-25T18:00:29.473374-05:00",
+			"locations": null
 		}
 	],
 	"section": "B",
