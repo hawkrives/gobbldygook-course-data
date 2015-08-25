@@ -10,6 +10,9 @@
 		"Nicole Son"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 124"
+	],
 	"name": "Animal Behavior Lab",
 	"num": 386,
 	"pf": false,
@@ -29,11 +32,19 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-08-25T12:00:16.136292-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-Th 0100-0300PM"
+	],
 	"type": "Lab",
 	"year": 2015
 }

@@ -12,8 +12,9 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 246",
-		"RNS 246"
+		"RNS 250",
+		"RNS 250",
+		"RNS 250"
 	],
 	"name": "Probing Life W/Light",
 	"num": 249,
@@ -30,14 +31,26 @@
 				"IST",
 				"SED"
 			]
+		},
+		{
+			"_updated": "2015-08-25T12:00:17.275712-05:00",
+			"locations": [
+				"RNS 246",
+				"RNS 246"
+			],
+			"times": [
+				"M-F 1040-1210PM",
+				"M-F 0130-0430PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
 	"times": [
-		"M-F 1040-1210PM",
-		"M-F 0130-0430PM"
+		"M-F 0900-1000",
+		"M-F 1040-1200PM",
+		"M-F 0100-0300PM"
 	],
 	"title": "Probing Life With Light",
 	"type": "Research",

@@ -15,8 +15,12 @@
 		"Nicole Son"
 	],
 	"level": 300,
+	"locations": [
+		"TBA",
+		"TBA"
+	],
 	"name": "Animal Behavior",
-	"notes": "Students in BIO 386 must also register for BIO 386 lab.",
+	"notes": "Students in BIO 386 must also register for BIO 386 lab. Not open to first-year students.",
 	"num": 386,
 	"pf": false,
 	"revisions": [
@@ -36,11 +40,21 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-08-25T12:00:16.123126-05:00",
+			"locations": null,
+			"notes": "Students in BIO 386 must also register for BIO 386 lab.",
+			"times": null
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-Th 0900-1000",
+		"M-Th 1040-1200PM"
+	],
 	"type": "Research",
 	"year": 2015
 }

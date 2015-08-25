@@ -10,12 +10,25 @@
 		"Emily Mohl"
 	],
 	"level": 200,
+	"locations": [
+		"RNS 246"
+	],
 	"name": "Invertebrate Biology Lab",
 	"num": 248,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-08-25T12:00:16.679260-05:00",
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-Th 0100-0300PM"
+	],
 	"type": "Lab",
 	"year": 2015
 }

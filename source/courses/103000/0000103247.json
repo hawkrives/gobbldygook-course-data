@@ -11,13 +11,29 @@
 		"Emily Mohl"
 	],
 	"level": 200,
+	"locations": [
+		"TBA",
+		"TBA"
+	],
 	"name": "Invertebrate Biology",
-	"notes": "Students in BIO 248 must also register for BIO 248 lab.",
+	"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has field trips.",
 	"num": 248,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-08-25T12:00:16.662132-05:00",
+			"locations": null,
+			"notes": "Students in BIO 248 must also register for BIO 248 lab.",
+			"times": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-Th 0900-1000",
+		"M-Th 1040-1200PM"
+	],
 	"type": "Research",
 	"year": 2015
 }
