@@ -10,8 +10,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 190",
-		"RNS 190"
+		"RNS 290",
+		"RNS 290"
 	],
 	"name": "Placeholder Course",
 	"num": "2XX",
@@ -24,6 +24,13 @@
 		{
 			"_updated": "2015-03-25T23:19:14.502530-05:00",
 			"grouptype": "R"
+		},
+		{
+			"_updated": "2015-08-26T18:00:27.896348-05:00",
+			"locations": [
+				"RNS 190",
+				"RNS 190"
+			]
 		}
 	],
 	"semester": 3,

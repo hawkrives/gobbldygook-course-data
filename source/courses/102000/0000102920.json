@@ -11,8 +11,12 @@
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 390",
+		"RNS 390"
+	],
 	"name": "Molecular Biology",
-	"notes": "Students in Bio 364 must also register for Bio 364 lab.",
+	"notes": "Students in Bio 364 must also register for Bio 364 lab. Open to Juniors and Seniors only. This course has class-year limits.",
 	"num": 364,
 	"pf": false,
 	"revisions": [
@@ -22,11 +26,21 @@
 				"Staff"
 			],
 			"notes": "Students in Bio 364 must also register for one lab Bio 364 AL or BL."
+		},
+		{
+			"_updated": "2015-08-26T18:00:27.009665-05:00",
+			"locations": null,
+			"notes": "Students in Bio 364 must also register for Bio 364 lab.",
+			"times": null
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
+	],
 	"type": "Research",
 	"year": 2015
 }

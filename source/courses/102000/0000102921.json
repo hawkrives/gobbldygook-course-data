@@ -10,6 +10,10 @@
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 393",
+		"RNS 393"
+	],
 	"name": "Molecular Biology Lab",
 	"num": 364,
 	"pf": false,
@@ -20,11 +24,20 @@
 				"Staff"
 			],
 			"section": "A"
+		},
+		{
+			"_updated": "2015-08-26T18:00:27.015866-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
+	],
 	"type": "Lab",
 	"year": 2015
 }

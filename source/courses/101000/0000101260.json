@@ -20,11 +20,11 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 210",
-		"RNS 210"
+		"RNS 410",
+		"RNS 410"
 	],
 	"name": "AsiaCon3:InterpretJourney",
-	"notes": "Registration restricted to students in the Asian Con program. Course will also meet in RNS 208.",
+	"notes": "Registration restricted to students in the Asian Con program. Course will also meet in RNS 435.",
 	"num": 220,
 	"pf": false,
 	"revisions": [
@@ -63,6 +63,14 @@
 				"TOH 210"
 			],
 			"notes": "Registration restricted to students in the Asian Con program."
+		},
+		{
+			"_updated": "2015-08-26T18:00:21.134858-05:00",
+			"locations": [
+				"RNS 210",
+				"RNS 210"
+			],
+			"notes": "Registration restricted to students in the Asian Con program. Course will also meet in RNS 208."
 		}
 	],
 	"semester": 3,

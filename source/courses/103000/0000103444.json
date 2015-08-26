@@ -10,13 +10,26 @@
 		"Alyson Center"
 	],
 	"level": 200,
+	"locations": [
+		"RNS 440"
+	],
 	"name": "Ecological Principles Lab",
 	"num": 261,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-08-26T18:00:28.205265-05:00",
+			"locations": null,
+			"times": null
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"W 0200-0500PM"
+	],
 	"type": "Lab",
 	"year": 2015
 }
