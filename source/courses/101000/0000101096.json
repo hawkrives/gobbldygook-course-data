@@ -11,9 +11,10 @@
 	],
 	"level": 200,
 	"locations": [
-		"TB 227"
+		"RML 515"
 	],
 	"name": "Top: Environmental Film Doc",
+	"notes": "Film screenings will be Monday evening 7-9:30 pm.",
 	"num": 281,
 	"pf": false,
 	"revisions": [
@@ -31,13 +32,23 @@
 			"times": [
 				"M-F 0100-0300PM"
 			]
+		},
+		{
+			"_updated": "2015-08-26T12:00:15.913941-05:00",
+			"locations": [
+				"TB 227"
+			],
+			"notes": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
 	"times": [
-		"M-F 1040-1240PM"
+		"M-F 0800-1000"
 	],
 	"title": "Topics in Environmental Studies",
 	"type": "Topic",

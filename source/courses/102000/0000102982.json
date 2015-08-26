@@ -6,6 +6,9 @@
 		"ENGL"
 	],
 	"desc": "Students focus on poetry, deepening their understanding of the form and completing a substantial portfolio of polished work. Class sessions include discussion of models in contemporary poetry, exploration of various options within the form, and workshopping of student writing. Prerequisites: ENGL 292 or permission of the instructor.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Jennifer Kwon Dobbs"
 	],
@@ -17,6 +20,12 @@
 	"notes": "Open to students who have taken a 200-level workshop in that genre or by permission of the instructor. Any student who does not meet the requirements will be removed from the class after registration.",
 	"num": 371,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-08-26T12:00:32.249764-05:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
