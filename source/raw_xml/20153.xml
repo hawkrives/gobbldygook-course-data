@@ -15251,7 +15251,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>STAT</deptname>
 		<coursenumber>272</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>B</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Statistical Modeling</coursename>
 		<pn>N</pn>
@@ -15322,11 +15322,11 @@
 		<coursename>Statistics for Science</coursename>
 		<pn>N</pn>
 		<notes>This course has class-year limits.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('19267')"&gt;Lane-Getaz, Sharon&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14114')"&gt;Legler, Julie M.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0800-0855</meetingtimes>
+		<meetingtimes>MWF 1150-1245PM</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
@@ -15348,7 +15348,7 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0905-1000</meetingtimes>
+		<meetingtimes>MWF 1255-0150PM</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
@@ -18551,7 +18551,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>STAT</deptname>
 		<coursenumber>214</coursenumber>
-		<coursesection>A</coursesection>
+		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Honors Stats for Science</coursename>
 		<pn>N</pn>
@@ -18560,29 +18560,7 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 1150-1245PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000027698</crsid>
-		<term>20153</term>
-	</course>
-	<course>
-		<clbid>0000103082</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>STAT</deptname>
-		<coursenumber>214</coursenumber>
-		<coursesection>B</coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Honors Stats for Science</coursename>
-		<pn>N</pn>
-		<notes>This course has class-year limits.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14114')"&gt;Legler, Julie M.&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 1255-0150PM</meetingtimes>
+		<meetingtimes>MWF 0905-1000</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
@@ -19974,6 +19952,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000028766</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104542</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>STAT</deptname>
+		<coursenumber>272</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Statistical Modeling</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('19267')"&gt;Lane-Getaz, Sharon&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH182');"&gt;TOH 182&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001405</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
