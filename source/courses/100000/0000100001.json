@@ -11,8 +11,8 @@
 	],
 	"level": 100,
 	"locations": [
-		"OM 105",
-		"OM 105"
+		"OM 020",
+		"OM 020"
 	],
 	"name": "Intro/Academic Wri",
 	"num": 107,
@@ -28,6 +28,13 @@
 		{
 			"_updated": "2015-04-21T12:00:30.679397-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-09-22T23:33:14.088700-05:00",
+			"locations": [
+				"OM 105",
+				"OM 105"
+			]
 		}
 	],
 	"section": "A",

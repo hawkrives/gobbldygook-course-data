@@ -10,10 +10,6 @@
 		"Gary M. Muir"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 136",
-		"RNS 136"
-	],
 	"name": "Res:",
 	"notes": "Prerequisite: permission of instructor required. Closed during web registration",
 	"num": 396,
@@ -31,16 +27,23 @@
 			"instructors": [
 				"Shelly D. Dickinson"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:12.232228-05:00",
+			"locations": [
+				"RNS 136",
+				"RNS 136"
+			],
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Directed Undergraduate Research: \"Topic Description\"",
 	"type": "Research",
 	"year": 2015

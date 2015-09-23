@@ -14,7 +14,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 300"
+		"TOH 175"
 	],
 	"name": "Heritage/Hispanic US",
 	"num": 273,
@@ -35,6 +35,12 @@
 		{
 			"_updated": "2015-04-28T18:00:18.982151-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-09-22T23:33:12.686143-05:00",
+			"locations": [
+				"TOH 300"
+			]
 		}
 	],
 	"semester": 1,

@@ -10,7 +10,7 @@
 		"AQR"
 	],
 	"instructors": [
-		"Hwayeon Ryu"
+		"Kay E. Smith"
 	],
 	"level": 100,
 	"locations": [
@@ -34,11 +34,18 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:10.730267-05:00",
+			"instructors": [
+				"Hwayeon Ryu"
+			],
+			"status": "O"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20151,
 	"times": [
 		"MWF 0905-1000"

@@ -13,7 +13,6 @@
 	"level": 200,
 	"locations": [
 		"RNS 250",
-		"RNS 250",
 		"RNS 250"
 	],
 	"name": "Probing Life W/Light",
@@ -42,6 +41,19 @@
 				"M-F 1040-1210PM",
 				"M-F 0130-0430PM"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:00.201812-05:00",
+			"locations": [
+				"RNS 250",
+				"RNS 250",
+				"RNS 250"
+			],
+			"times": [
+				"M-F 0900-1000",
+				"M-F 1040-1200PM",
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
@@ -49,8 +61,7 @@
 	"term": 20152,
 	"times": [
 		"M-F 0900-1000",
-		"M-F 1040-1200PM",
-		"M-F 0100-0300PM"
+		"M-F 1040-1200PM"
 	],
 	"title": "Probing Life With Light",
 	"type": "Research",

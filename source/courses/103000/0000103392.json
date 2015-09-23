@@ -10,14 +10,11 @@
 		"MCG"
 	],
 	"instructors": [
-		"Brendan LaRocque"
+		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TB 216"
-	],
 	"name": "Top: Gandhi's India",
-	"notes": "Open to first-year students only.",
+	"notes": "Open to first-year students only. This course has been canceled.",
 	"num": 189,
 	"pf": false,
 	"revisions": [
@@ -36,10 +33,21 @@
 		{
 			"_updated": "2015-05-01T18:00:25.523764-05:00",
 			"notes": "Open to first-year students only. MCG pending committee approval."
+		},
+		{
+			"_updated": "2015-09-22T23:33:20.841552-05:00",
+			"instructors": [
+				"Brendan LaRocque"
+			],
+			"locations": [
+				"TB 216"
+			],
+			"notes": "Open to first-year students only.",
+			"status": "C"
 		}
 	],
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20151,
 	"times": [
 		"MWF 1045-1140"

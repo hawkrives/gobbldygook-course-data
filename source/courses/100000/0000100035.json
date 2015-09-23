@@ -5,13 +5,27 @@
 	"depts": [
 		"ENVST"
 	],
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
-		"Staff"
+		"Diane K. Angell",
+		"Kathleen L. Shea"
 	],
 	"level": 300,
-	"name": "IR/",
+	"name": "IR/Sustainable Corn Agric",
 	"num": 398,
 	"pf": false,
+	"revisions": [
+		{
+			"_updated": "2015-09-22T23:33:14.437412-05:00",
+			"gereqs": null,
+			"instructors": [
+				"Staff"
+			],
+			"name": "IR/"
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20151,

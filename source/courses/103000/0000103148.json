@@ -6,7 +6,7 @@
 		"PSYCH"
 	],
 	"instructors": [
-		"Donna McMillan"
+		"McMillan Donna K."
 	],
 	"level": 200,
 	"locations": [
@@ -14,6 +14,7 @@
 		"RNS 290"
 	],
 	"name": "Placeholder Course",
+	"notes": "Course title: Culture and Place in Psychology",
 	"num": "2XX",
 	"pf": false,
 	"revisions": [
@@ -31,6 +32,13 @@
 				"RNS 190",
 				"RNS 190"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:15.283974-05:00",
+			"instructors": [
+				"Donna McMillan"
+			],
+			"notes": null
 		}
 	],
 	"semester": 3,

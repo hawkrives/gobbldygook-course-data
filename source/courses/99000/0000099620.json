@@ -12,11 +12,11 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 310",
-		"RNS 310"
+		"RNS 208",
+		"RNS 208"
 	],
 	"name": "Biology of Reproduction",
-	"notes": "Students in Bio 275 must also register for one lab Bio 275 AL or BL.",
+	"notes": "Students in Bio 275 must also register for one lab Bio 275 AL or BL. Not open to first-year students.",
 	"num": 275,
 	"pf": false,
 	"revisions": [
@@ -30,6 +30,14 @@
 				"T 0935-1100",
 				"Th 0930-1050"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:10.526467-05:00",
+			"locations": [
+				"RNS 310",
+				"RNS 310"
+			],
+			"notes": "Students in Bio 275 must also register for one lab Bio 275 AL or BL."
 		}
 	],
 	"semester": 1,

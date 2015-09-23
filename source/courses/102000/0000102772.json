@@ -10,14 +10,11 @@
 		"HWC"
 	],
 	"instructors": [
-		"Kevin Mummey"
+		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"OM 340"
-	],
 	"name": "Top: Jihad and Crusades",
-	"notes": "Open to first-year students only.",
+	"notes": "Open to first-year students only. This course has been canceled.",
 	"num": 188,
 	"pf": false,
 	"revisions": [
@@ -41,10 +38,21 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-09-22T23:33:19.092452-05:00",
+			"instructors": [
+				"Kevin Mummey"
+			],
+			"locations": [
+				"OM 340"
+			],
+			"notes": "Open to first-year students only.",
+			"status": "C"
 		}
 	],
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20151,
 	"times": [
 		"MWF 1255-0150PM"
