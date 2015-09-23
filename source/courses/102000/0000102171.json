@@ -14,7 +14,7 @@
 		"TOH 214"
 	],
 	"name": "Teaching of Science, 5-12",
-	"notes": "Open to Juniors and Seniors only.",
+	"notes": "Open to Juniors and Seniors only. Prerequisite: EDUC 330.",
 	"num": 364,
 	"pf": false,
 	"revisions": [
@@ -22,6 +22,10 @@
 			"_updated": "2015-03-25T23:19:14.270321-05:00",
 			"name": "Tchg of Science",
 			"title": "Teaching of Science, 5-12"
+		},
+		{
+			"_updated": "2015-09-23T18:00:33.286924-05:00",
+			"notes": "Open to Juniors and Seniors only."
 		}
 	],
 	"semester": 3,

@@ -15,13 +15,17 @@
 		"CHM 233"
 	],
 	"name": "Teaching Music-Elementary Schools",
-	"notes": "Open to Juniors and Seniors only.",
+	"notes": "Open to Juniors and Seniors only. Prerequisite: EDUC 330.",
 	"num": 355,
 	"pf": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-25T23:19:14.265968-05:00",
 			"name": "Tchg Music-Elem Schls"
+		},
+		{
+			"_updated": "2015-09-23T18:00:33.263897-05:00",
+			"notes": "Open to Juniors and Seniors only."
 		}
 	],
 	"semester": 3,
