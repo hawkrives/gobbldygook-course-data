@@ -1,12 +1,12 @@
 {
 	"clbid": 99448,
-	"credits": 0.25,
+	"credits": 1.0,
 	"crsid": 1178,
 	"depts": [
 		"PSYCH"
 	],
 	"instructors": [
-		"Staff"
+		"Charles Huff"
 	],
 	"level": 200,
 	"name": "Academic Internship",
@@ -16,6 +16,13 @@
 		{
 			"_updated": "2015-04-07T16:54:32.777949-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-09-24T12:00:40.394722-05:00",
+			"credits": 0.25,
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 1,
