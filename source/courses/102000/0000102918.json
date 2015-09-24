@@ -10,6 +10,7 @@
 	],
 	"level": 0,
 	"locations": [
+		"TOH 214",
 		"TOH 214"
 	],
 	"name": "Placeholder Course",
@@ -35,13 +36,23 @@
 		{
 			"_updated": "2015-09-22T23:32:59.768138-05:00",
 			"notes": "Course title: The Many Faces of Homer"
+		},
+		{
+			"_updated": "2015-09-24T18:00:23.006985-05:00",
+			"locations": [
+				"TOH 214"
+			],
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
 	"times": [
-		"M-F 1040-1240PM"
+		"M-F 1040-1200PM",
+		"M-F 0100-0300PM"
 	],
 	"type": "Research",
 	"year": 2015
