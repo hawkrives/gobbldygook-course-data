@@ -14,8 +14,8 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 200",
-		"TOH 200"
+		"RML 420",
+		"RML 420"
 	],
 	"name": "Sem: History and Memory",
 	"num": 397,
@@ -28,6 +28,13 @@
 		{
 			"_updated": "2015-08-07T12:00:28.689593-05:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2015-09-25T00:01:07.085713-05:00",
+			"locations": [
+				"TOH 200",
+				"TOH 200"
+			]
 		}
 	],
 	"semester": 3,
