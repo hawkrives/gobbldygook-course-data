@@ -6,9 +6,6 @@
 		"ENGL"
 	],
 	"desc": "Students explore the complex relationships between literature and film. How do we translate the verbal into the visual? What can novels do that films cannot and vice versa? Subject matter includes both classic and contemporary fiction and film. Prerequisite: FYW.",
-	"gereqs": [
-		"ALS-L"
-	],
 	"instructors": [
 		"Carlos Gallego"
 	],
@@ -30,6 +27,12 @@
 			"_updated": "2015-06-04T18:00:29.801923-05:00",
 			"locations": [
 				"TOH 110"
+			]
+		},
+		{
+			"_updated": "2015-09-28T12:00:58.628304-05:00",
+			"gereqs": [
+				"ALS-L"
 			]
 		}
 	],
