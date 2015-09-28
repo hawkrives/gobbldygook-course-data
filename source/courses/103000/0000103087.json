@@ -14,6 +14,7 @@
 	],
 	"level": 100,
 	"locations": [
+		"TB 216",
 		"TB 216"
 	],
 	"name": "Public Speaking",
@@ -23,13 +24,23 @@
 		{
 			"_updated": "2015-06-04T12:00:36.068172-05:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2015-09-28T18:00:48.425419-05:00",
+			"locations": [
+				"TB 216"
+			],
+			"times": [
+				"M 0700-1000PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"M 0700-1000PM"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"type": "Research",
 	"year": 2015

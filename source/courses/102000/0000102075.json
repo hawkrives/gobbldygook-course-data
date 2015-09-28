@@ -14,8 +14,8 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 200",
-		"TOH 200"
+		"TOH 110",
+		"TOH 110"
 	],
 	"name": "Sem: Asia",
 	"num": 399,
@@ -31,6 +31,13 @@
 		{
 			"_updated": "2015-04-20T12:00:28.815718-05:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2015-09-28T18:00:46.741855-05:00",
+			"locations": [
+				"TOH 200",
+				"TOH 200"
+			]
 		}
 	],
 	"semester": 3,

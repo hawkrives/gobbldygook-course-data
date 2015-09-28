@@ -14,8 +14,8 @@
 	],
 	"level": 300,
 	"locations": [
-		"TOH 308",
-		"TOH 308"
+		"TOH 200",
+		"TOH 200"
 	],
 	"name": "Top: German Literature",
 	"num": 371,
@@ -33,14 +33,25 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-09-28T18:00:47.561934-05:00",
+			"locations": [
+				"TOH 308",
+				"TOH 308"
+			],
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Topics in German Literature",
 	"type": "Topic",

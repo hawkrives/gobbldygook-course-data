@@ -14,7 +14,7 @@
 	],
 	"level": 100,
 	"locations": [
-		"DC 100"
+		"DC 116"
 	],
 	"name": "Foundation New Media",
 	"num": 104,
@@ -23,6 +23,15 @@
 		{
 			"_updated": "2015-03-25T23:19:14.345546-05:00",
 			"grouptype": "R"
+		},
+		{
+			"_updated": "2015-09-28T18:00:47.822189-05:00",
+			"locations": [
+				"DC 100"
+			],
+			"times": [
+				"MWF 1250-0250PM"
+			]
 		}
 	],
 	"section": "B",
@@ -30,7 +39,7 @@
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1250-0250PM"
+		"MWF 1255-0255PM"
 	],
 	"type": "Research",
 	"year": 2015

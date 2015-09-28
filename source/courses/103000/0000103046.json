@@ -6,9 +6,6 @@
 		"PSYCH"
 	],
 	"desc": "Seminars allow in-depth study of particular themes or topics in psychology. See department Website for descriptions and additional prerequisites. Offered most years. May be repeated if topics are different. Prerequisite: PSYCH 230.",
-	"gereqs": [
-		"ORC"
-	],
 	"instructors": [
 		"Staff"
 	],
@@ -33,6 +30,12 @@
 				"Jessica R. Simon"
 			],
 			"name": "Sem: Aging Brain"
+		},
+		{
+			"_updated": "2015-09-28T18:00:48.287261-05:00",
+			"gereqs": [
+				"ORC"
+			]
 		}
 	],
 	"section": "C",
