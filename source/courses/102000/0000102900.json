@@ -20,7 +20,7 @@
 		"RNS 124"
 	],
 	"name": "Animal Behavior",
-	"notes": "Students in BIO 386 must also register for BIO 386 lab. Not open to first-year students.",
+	"notes": "Students in BIO 386 must also register for BIO 386 lab. Open only to Seniors and Juniors.",
 	"num": 386,
 	"pf": false,
 	"revisions": [
@@ -53,6 +53,10 @@
 				"TBA",
 				"TBA"
 			]
+		},
+		{
+			"_updated": "2015-09-29T12:00:39.565079-05:00",
+			"notes": "Students in BIO 386 must also register for BIO 386 lab. Not open to first-year students."
 		}
 	],
 	"semester": 2,

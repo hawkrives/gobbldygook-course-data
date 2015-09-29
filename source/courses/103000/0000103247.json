@@ -16,7 +16,7 @@
 		"TBA"
 	],
 	"name": "Invertebrate Biology",
-	"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has field trips.",
+	"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has class-year limits. This course has field trips.",
 	"num": 248,
 	"pf": false,
 	"revisions": [
@@ -25,6 +25,10 @@
 			"locations": null,
 			"notes": "Students in BIO 248 must also register for BIO 248 lab.",
 			"times": null
+		},
+		{
+			"_updated": "2015-09-29T12:00:39.777612-05:00",
+			"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has field trips."
 		}
 	],
 	"semester": 2,

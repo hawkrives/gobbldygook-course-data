@@ -6,11 +6,6 @@
 		"NORW"
 	],
 	"desc": "A study of Norwegian literature from 1890 to the present, this chronological overview places contemporary Norwegian literature in the context of historical, cultural, and linguistic change and relates Norwegian literature to international trends. Lectures, essays, and class discussion are in Norwegian. Offered annually in the spring semester. Prerequisite: NORW 253 or equivalent.",
-	"gereqs": [
-		"ALS-L",
-		"FOL-N",
-		"WRI"
-	],
 	"instructors": [
 		"Kyle A. Korynta"
 	],
@@ -34,6 +29,14 @@
 			"_updated": "2015-07-17T18:00:20.903318-05:00",
 			"instructors": [
 				"Staff"
+			]
+		},
+		{
+			"_updated": "2015-09-29T12:00:59.780995-05:00",
+			"gereqs": [
+				"ALS-L",
+				"FOL-N",
+				"WRI"
 			]
 		}
 	],
