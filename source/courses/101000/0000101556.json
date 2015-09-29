@@ -14,7 +14,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 297"
+		"RNS 208",
+		"RNS 208"
 	],
 	"name": "Global Climate Change",
 	"notes": "First-Year Students may register only with permission of instructor.",
@@ -43,13 +44,23 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-09-29T00:01:34.927540-05:00",
+			"locations": [
+				"RNS 297"
+			],
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1150-1245PM"
+		"T 0800-0925",
+		"Th 0800-0920"
 	],
 	"type": "Research",
 	"year": 2015

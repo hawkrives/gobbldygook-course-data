@@ -2478,8 +2478,8 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM110');"&gt;OM 110&lt;/a&gt;</meetinglocations>
+		<meetingtimes>MWF 1045-1140</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH316');"&gt;TOH 316&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -6922,8 +6922,8 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 1150-1245PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS297');"&gt;RNS 297&lt;/a&gt;</meetinglocations>
+		<meetingtimes>T 0800-0925&lt;br&gt;Th 0800-0920</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS208');"&gt;RNS 208&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS208');"&gt;RNS 208&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8743,7 +8743,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Intro to Sociology</coursename>
 		<pn>N</pn>
-		<notes>Open to first-year students only.</notes>
+		<notes>Open to first-year students only, others by permission of instructor.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('18160')"&gt;Sheppard, Ryan R.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -8809,7 +8809,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Intro: Enviro Studies</coursename>
 		<pn>N</pn>
-		<notes>This course has class year limits.</notes>
+		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('16579')"&gt;Schade, John D.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -11859,28 +11859,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000101899</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>ID</deptname>
-		<coursenumber>235</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Middle Eastern Studies</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15819')"&gt;Schillinger, Jamie A.&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM030');"&gt;OM 030&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000021529</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000101900</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>HIST</deptname>
@@ -14434,7 +14412,7 @@
 	</course>
 	<course>
 		<clbid>0000102093</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PSYCH</deptname>
 		<coursenumber>390</coursenumber>
 		<coursesection>B</coursesection>
@@ -16435,28 +16413,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000102284</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>MUSIC</deptname>
-		<coursenumber>164</coursenumber>
-		<coursesection>C</coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Voice Class</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26290')"&gt;Helgen, Robin&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>0.25</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('CHM233');"&gt;CHM 233&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000000810</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000102287</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>REL</deptname>
@@ -17605,7 +17561,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>MATH</deptname>
 		<coursenumber>282</coursenumber>
-		<coursesection>B</coursesection>
+		<coursesection></coursesection>
 		<coursesubtype>T</coursesubtype>
 		<coursename>Top: Latent Variables</coursename>
 		<pn>N</pn>
@@ -19163,28 +19119,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000103386</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>ASIAN</deptname>
-		<coursenumber>001</coursenumber>
-		<coursesection>A</coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Placeholder  Course</coursename>
-		<pn>N</pn>
-		<notes>Course title: Ecology in Japanese Lit</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27191')"&gt;Strand, Kendra&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MWF 0200-0255PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000022786</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000103388</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>MATH</deptname>
@@ -19204,28 +19138,6 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000748</crsid>
-		<term>20153</term>
-	</course>
-	<course>
-		<clbid>0000103389</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>MATH</deptname>
-		<coursenumber>282</coursenumber>
-		<coursesection>A</coursesection>
-		<coursesubtype>T</coursesubtype>
-		<coursename>Top: Data Visualization</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('6658')"&gt;Richey, Matthew&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MWF 1045-1140</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH184');"&gt;TOH 184&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000000750</crsid>
 		<term>20153</term>
 	</course>
 	<course>
@@ -19524,7 +19436,7 @@
 		<coursename>Top: TBD</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27238')"&gt;Christensen, Lars&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
@@ -19534,28 +19446,6 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000857</crsid>
-		<term>20153</term>
-	</course>
-	<course>
-		<clbid>0000104364</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>ASIAN</deptname>
-		<coursenumber>001</coursenumber>
-		<coursesection>B</coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Placeholder  Course</coursename>
-		<pn>N</pn>
-		<notes>Course title: Second Language Learning</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26220')"&gt;Zhou, Ying&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype>R</grouptype>
-		<crsid>0000022786</crsid>
 		<term>20153</term>
 	</course>
 	<course>
@@ -19974,6 +19864,94 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000021399</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104882</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>239</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Beyond Narnia: Theol of C.S. Lewis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 0905-1000</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM240');"&gt;OM 240&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000027763</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104883</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MATH</deptname>
+		<coursenumber>126</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Calculus II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 0200-0255PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS208');"&gt;RNS 208&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000733</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104884</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ASIAN</deptname>
+		<coursenumber>233</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Nature in Japanese Literature</coursename>
+		<pn>N</pn>
+		<notes>This course is pending faculty approval.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27191')"&gt;Strand, Kendra&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 0200-0255PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000030086</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104885</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ASIAN</deptname>
+		<coursenumber>282</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Second Lang Learning/Asian Context</coursename>
+		<pn>N</pn>
+		<notes>This course is pending faculty approval.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26220')"&gt;Zhou, Ying&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000030087</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
