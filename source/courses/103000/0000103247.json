@@ -12,11 +12,11 @@
 	],
 	"level": 200,
 	"locations": [
-		"TBA",
-		"TBA"
+		"RNS 206",
+		"RNS 206"
 	],
 	"name": "Invertebrate Biology",
-	"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has class-year limits. This course has field trips.",
+	"notes": "Students in BIO 248 must also register for BIO 248 lab. This course has class-year limits. First-year students may register after web registration with the permission of instructor. This course has field trips.",
 	"num": 248,
 	"pf": false,
 	"revisions": [
@@ -29,6 +29,14 @@
 		{
 			"_updated": "2015-09-29T12:00:39.777612-05:00",
 			"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has field trips."
+		},
+		{
+			"_updated": "2015-09-29T18:01:04.820330-05:00",
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"notes": "Students in BIO 248 must also register for BIO 248 lab. Not open to first-year students. This course has class-year limits. This course has field trips."
 		}
 	],
 	"semester": 2,

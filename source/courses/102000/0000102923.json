@@ -10,6 +10,9 @@
 		"Emily Mohl"
 	],
 	"level": 100,
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Supplemental Instruction BIO 150",
 	"notes": "Registration by permission of instructor.",
 	"num": 110,
@@ -34,11 +37,19 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-09-29T18:01:24.270658-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"MF 0200-0255PM"
+	],
 	"title": "Supplemental Biology",
 	"type": "Research",
 	"year": 2015

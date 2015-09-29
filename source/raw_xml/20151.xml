@@ -11601,10 +11601,10 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Agricultural Ethics</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8230')"&gt;Taliaferro, Charles&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -21844,6 +21844,28 @@
 		<groupid></groupid>
 		<grouptype>R</grouptype>
 		<crsid>0000026174</crsid>
+		<term>20151</term>
+	</course>
+	<course>
+		<clbid>0000104897</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Adv Organomet Cluster Synthesis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5287')"&gt;Miessler, Gary&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
 		<term>20151</term>
 	</course>
 </searchresults>
