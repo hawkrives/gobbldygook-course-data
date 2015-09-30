@@ -6,9 +6,6 @@
 		"REL"
 	],
 	"desc": "http:/www.stolaf.edu/registrar/rel This course introduces first-year students to the dialogue between Biblical traditions and the cultures and communities related to them. Students study major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section.",
-	"gereqs": [
-		"BTS-B"
-	],
 	"instructors": [
 		"Staff"
 	],
@@ -40,6 +37,12 @@
 			"locations": [
 				"OM 020",
 				"OM 020"
+			]
+		},
+		{
+			"_updated": "2015-09-30T18:01:17.976702-05:00",
+			"gereqs": [
+				"BTS-B"
 			]
 		}
 	],
