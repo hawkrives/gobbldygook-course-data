@@ -16,7 +16,7 @@
 	],
 	"level": 100,
 	"locations": [
-		"TOH 316"
+		"OM 110"
 	],
 	"name": "America Since 1945",
 	"notes": "Open to first-year students only.",
@@ -47,13 +47,22 @@
 			"times": [
 				"MWF 0905-1000"
 			]
+		},
+		{
+			"_updated": "2015-09-30T00:01:28.584775-05:00",
+			"locations": [
+				"TOH 316"
+			],
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1045-1140"
+		"MWF 0905-1000"
 	],
 	"title": "America Since World War II",
 	"type": "Research",
