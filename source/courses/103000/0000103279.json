@@ -13,6 +13,10 @@
 		"Kevin Mummey"
 	],
 	"level": 200,
+	"locations": [
+		"OM 030",
+		"OM 030"
+	],
 	"name": "Top: Spain to 1500",
 	"num": 299,
 	"pf": false,
@@ -27,12 +31,21 @@
 		{
 			"_updated": "2015-08-20T18:00:34.750339-05:00",
 			"name": "Top: Modern Spain"
+		},
+		{
+			"_updated": "2015-10-01T12:01:01.229058-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
+	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2015

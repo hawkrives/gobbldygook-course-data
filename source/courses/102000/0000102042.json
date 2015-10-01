@@ -10,6 +10,11 @@
 		"Gary M. Muir"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 123",
+		"RNS 123",
+		"RNS 123"
+	],
 	"name": "Res:",
 	"notes": "Prerequisite: permission of instructor required. Closed during web registration",
 	"num": 396,
@@ -39,12 +44,22 @@
 				"T 0800-0925",
 				"Th 0800-0920"
 			]
+		},
+		{
+			"_updated": "2015-10-01T12:00:58.433913-05:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"T 0935-1100",
+		"T 0120-0420PM",
+		"Th 0930-1050"
+	],
 	"title": "Directed Undergraduate Research: \"Topic Description\"",
 	"type": "Research",
 	"year": 2015

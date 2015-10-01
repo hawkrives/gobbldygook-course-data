@@ -12,7 +12,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 393"
+		"RNS 398"
 	],
 	"name": "Math of Biology Lab",
 	"num": 236,
@@ -32,13 +32,22 @@
 				"Staff",
 				"Anne Walter"
 			]
+		},
+		{
+			"_updated": "2015-10-01T12:00:57.095654-05:00",
+			"locations": [
+				"RNS 393"
+			],
+			"times": [
+				"M 1255-0300PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"M 1255-0300PM"
+		"W 1255-0300PM"
 	],
 	"type": "Lab",
 	"year": 2015
