@@ -5338,8 +5338,8 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS208');"&gt;RNS 208&lt;/a&gt;</meetinglocations>
+		<meetingtimes>MWF 1150-1245PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS297');"&gt;RNS 297&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -5678,7 +5678,7 @@
 	</course>
 	<course>
 		<clbid>0000101460</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>GCON</deptname>
 		<coursenumber>218</coursenumber>
 		<coursesection>C</coursesection>
@@ -5722,7 +5722,7 @@
 	</course>
 	<course>
 		<clbid>0000101462</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>GCON</deptname>
 		<coursenumber>218</coursenumber>
 		<coursesection>E</coursesection>
@@ -11530,7 +11530,7 @@
 	</course>
 	<course>
 		<clbid>0000101883</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>GCON</deptname>
 		<coursenumber>116</coursenumber>
 		<coursesection>A</coursesection>
@@ -11596,7 +11596,7 @@
 	</course>
 	<course>
 		<clbid>0000101886</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>GCON</deptname>
 		<coursenumber>116</coursenumber>
 		<coursesection>D</coursesection>
@@ -11640,7 +11640,7 @@
 	</course>
 	<course>
 		<clbid>0000101888</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>GCON</deptname>
 		<coursenumber>116</coursenumber>
 		<coursesection>F</coursesection>
@@ -11669,7 +11669,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Mental Health</coursename>
 		<pn>N</pn>
-		<notes>Open to Nursing majors only. Will also meet T/Th 7:00 a.m. - 3:00 p.m. in HH 320.</notes>
+		<notes>Open to Nursing majors only. Will also meet T/Th 7:00 a.m. - 3:00 p.m. in TBA.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17526')"&gt;Huehn Susan&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -12285,7 +12285,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Nursing Leadership</coursename>
 		<pn>N</pn>
-		<notes>Open to Nursing majors only. Will also meet M-F 7:00 a.m. - 3:00 p.m. in HH 320.</notes>
+		<notes>Open to Nursing majors only. Will also meet M-F 7:00 a.m. - 3:00 p.m. in TBA.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4577')"&gt;Kuehn, Mary&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -18621,7 +18621,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Holistic Health</coursename>
 		<pn>N</pn>
-		<notes>Open to Sophomore Nursing majors only.  Will also meet T/TH 7:00 a.m. - 3:00 p.m. in HH 215 or HH 204. Students in Nursing 211 must also register for Nursing 211lab.</notes>
+		<notes>Open to Sophomore Nursing majors only.  Will also meet T/TH 7:00 a.m. - 3:00 p.m. in TBA or TBA. Students in Nursing 211 must also register for one Nursing 211 lab.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27235')"&gt;Rodgers, Elizabeth&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -18683,7 +18683,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>NURS</deptname>
 		<coursenumber>211</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>L</coursesubtype>
 		<coursename>Holistic Health Lab</coursename>
 		<pn>N</pn>
@@ -18692,8 +18692,8 @@
 		<halfcredit></halfcredit>
 		<credits>0.00</credits>
 		<gereqs></gereqs>
-		<meetingtimes>TTh 0800-0300PM</meetingtimes>
-		<meetinglocations></meetinglocations>
+		<meetingtimes>Th 0800-1000</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000029265</groupid>
 		<grouptype></grouptype>
@@ -19149,7 +19149,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Pathopharmacology</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Open only to Junior nursing majors.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23811')"&gt;Morisette, Sandra&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -19193,7 +19193,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Research Methods in Nursing</coursename>
 		<pn>N</pn>
-		<notes>Open only to upper-class Nursing majors and sophomore Nursing majors with permission of instructor.</notes>
+		<notes>Open only to Senior and Junior Nursing majors during web registration, Sophomore Nursing majors may register later with permission of instructor.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4577')"&gt;Kuehn, Mary&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5499')"&gt;Neal, Diana&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -19263,7 +19263,7 @@
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7020')"&gt;Santurri, Edmund&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/BTS-T.pdf"&gt;BTS-T&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM240');"&gt;OM 240&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
@@ -19479,7 +19479,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Pathopharmacology</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Open only to Sophomore Nursing majors during web registration, others by permission of instructor.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23811')"&gt;Morisette, Sandra&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -19974,6 +19974,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000017673</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104905</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NURS</deptname>
+		<coursenumber>211</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Holistic Health Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27235')"&gt;Rodgers, Elizabeth&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>Th 1000-1200PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000029265</groupid>
+		<grouptype></grouptype>
+		<crsid>0000029283</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104906</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>NURS</deptname>
+		<coursenumber>211</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Holistic Health Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27235')"&gt;Rodgers, Elizabeth&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>Th 0100-0300PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000029265</groupid>
+		<grouptype></grouptype>
+		<crsid>0000029283</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
