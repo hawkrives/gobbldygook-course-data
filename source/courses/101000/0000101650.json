@@ -15,6 +15,7 @@
 	],
 	"level": 200,
 	"locations": [
+		"TOH 312",
 		"TOH 312"
 	],
 	"name": "Intermed Spanish II",
@@ -40,6 +41,15 @@
 			"locations": [
 				"TOH 114"
 			]
+		},
+		{
+			"_updated": "2015-10-02T12:01:15.522185-05:00",
+			"locations": [
+				"TOH 312"
+			],
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "E",
@@ -47,7 +57,8 @@
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 0200-0255PM"
+		"T 0120-0245PM",
+		"Th 0215-0335PM"
 	],
 	"title": "Intermediate Spanish II",
 	"type": "Research",

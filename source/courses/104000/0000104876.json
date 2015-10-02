@@ -9,7 +9,6 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Carlos Gallego"
 	],
@@ -17,10 +16,18 @@
 	"locations": [
 		"TOH 112"
 	],
-	"name": "Topics in Genre",
+	"name": "Top: Psychopath",
 	"num": 280,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2015-10-02T12:01:21.744509-05:00",
+			"grouptype": "R",
+			"name": "Topics in Genre",
+			"title": null
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
@@ -28,6 +35,7 @@
 	"times": [
 		"MWF 1255-0150PM"
 	],
+	"title": "Topics in Genre",
 	"type": "Topic",
 	"year": 2015
 }
