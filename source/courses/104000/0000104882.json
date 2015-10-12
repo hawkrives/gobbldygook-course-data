@@ -6,10 +6,6 @@
 		"REL"
 	],
 	"desc": "This course introduces students to Christian theology through examination of selected works of C.S. Lewis. The course considers both Lewis's explicitly theological writings and his fictional works as resources for theological reflection. Offered annually. Prerequisite: BTS-B.",
-	"gereqs": [
-		"BTS-T",
-		"WRI"
-	],
 	"grouptype": "R",
 	"instructors": [
 		"Edmund Santurri"
@@ -27,6 +23,13 @@
 			"_updated": "2015-10-02T00:02:14.988777-05:00",
 			"instructors": [
 				"Staff"
+			]
+		},
+		{
+			"_updated": "2015-10-12T12:01:04.573796-05:00",
+			"gereqs": [
+				"BTS-T",
+				"WRI"
 			]
 		}
 	],
