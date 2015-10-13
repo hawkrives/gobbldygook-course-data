@@ -10,7 +10,6 @@
 	"gereqs": [
 		"MCG"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Katherine S. Tegtmeyer Pak"
 	],
@@ -20,8 +19,15 @@
 	"num": 277,
 	"pf": false,
 	"prerequisites": "Prerequisites: preference given to students with prior coursework in eitherAsian studies or environmental studies. Counts toward Asian studies and environmental studiesmajors and concentrations and Japan studies concentration. Offered during Interim.",
+	"revisions": [
+		{
+			"_updated": "2015-10-13T12:00:23.926172-05:00",
+			"grouptype": "R",
+			"status": "O"
+		}
+	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"title": "Environmental Sustainability in Japan",
 	"type": "Research",

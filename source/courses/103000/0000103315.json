@@ -10,7 +10,6 @@
 		"ALS-L",
 		"ORC"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Karen Wilson"
 	],
@@ -20,8 +19,15 @@
 	"num": 257,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-10-13T12:00:23.931894-05:00",
+			"grouptype": "R",
+			"status": "O"
+		}
+	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"type": "Research",
 	"year": 2015
