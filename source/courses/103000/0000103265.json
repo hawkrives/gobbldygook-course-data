@@ -7,7 +7,8 @@
 	],
 	"desc": "This course presents an opportunity to study the life, thought, and historical significance of the Apostle Paul in the very settings in which he traveled and lived. Visits to archaeological sites in Greece and Turkey enable students to explore: 1) the relationship of geography, culture and religion in the Book of Acts, the Letters of Paul and the Bible generally; and 2) the religious pluralism of the first century Roman world, including the Jewish and Hellenistic roots of Christianity. The course also explores other significant developments in the early church of this region, and considers the Christian encounter with Islam. Prerequisite: BTS-B. Offered during Interim.",
 	"gereqs": [
-		"HWC"
+		"HWC",
+		"ORC"
 	],
 	"instructors": [
 		"Jason J. Ripley"
@@ -18,6 +19,14 @@
 	"num": 275,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B. Offered during Interim.",
+	"revisions": [
+		{
+			"_updated": "2015-10-13T18:00:21.377746-05:00",
+			"gereqs": [
+				"HWC"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

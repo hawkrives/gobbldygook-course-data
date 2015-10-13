@@ -9,7 +9,6 @@
 	"gereqs": [
 		"IST"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Sandra Morisette"
 	],
@@ -41,6 +40,10 @@
 		{
 			"_updated": "2015-10-01T18:01:22.798008-05:00",
 			"notes": null
+		},
+		{
+			"_updated": "2015-10-13T18:00:33.151692-05:00",
+			"grouptype": "R"
 		}
 	],
 	"section": "A",

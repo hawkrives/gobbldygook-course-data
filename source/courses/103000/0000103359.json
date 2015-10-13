@@ -10,7 +10,6 @@
 		"ALS-L",
 		"WRI"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Carol Holly"
 	],
@@ -31,6 +30,10 @@
 			],
 			"locations": null,
 			"times": null
+		},
+		{
+			"_updated": "2015-10-13T18:00:33.081348-05:00",
+			"grouptype": "R"
 		}
 	],
 	"semester": 3,

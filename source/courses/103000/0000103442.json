@@ -9,7 +9,6 @@
 	"gereqs": [
 		"WRI"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Mary Kuehn",
 		"Diana Neal"
@@ -37,6 +36,10 @@
 		{
 			"_updated": "2015-10-01T18:01:22.822004-05:00",
 			"notes": "Open only to upper-class Nursing majors and sophomore Nursing majors with permission of instructor."
+		},
+		{
+			"_updated": "2015-10-13T18:00:33.165154-05:00",
+			"grouptype": "R"
 		}
 	],
 	"semester": 3,
