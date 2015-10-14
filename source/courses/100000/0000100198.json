@@ -6,9 +6,6 @@
 		"ENGL"
 	],
 	"desc": "Students pursue an independent topic of study with a faculty director.",
-	"gereqs": [
-		"WRI"
-	],
 	"instructors": [
 		"Carlos Gallego"
 	],
@@ -24,6 +21,12 @@
 				"Staff"
 			],
 			"name": "IS/"
+		},
+		{
+			"_updated": "2015-10-14T18:00:35.042190-05:00",
+			"gereqs": [
+				"WRI"
+			]
 		}
 	],
 	"semester": 1,
