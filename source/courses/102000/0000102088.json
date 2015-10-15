@@ -6,6 +6,9 @@
 		"HIST"
 	],
 	"desc": "This course will look at the changing ideological and policy responses Americans made to the Cold War and the ways historians have interpreted and explained them. We'll examine both American foreign policy and its domestic ramifications, like McCarthysim and domestic spy cases. Each student will pursue an individual project at the end of the semester.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Eric J. Fure-Slocum"
 	],
@@ -40,6 +43,10 @@
 			"locations": [
 				"TOH 300"
 			]
+		},
+		{
+			"_updated": "2015-10-15T18:00:38.482187-05:00",
+			"gereqs": null
 		}
 	],
 	"semester": 3,

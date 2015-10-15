@@ -6153,7 +6153,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 1150-1245PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8783,7 +8783,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>WMGST</deptname>
 		<coursenumber>121</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Intro Womens/Gender St</coursename>
 		<pn>N</pn>
@@ -14335,7 +14335,7 @@
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('10197')"&gt;Fure-Slocum, Eric J.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs></gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 0800-0855</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML420');"&gt;RML 420&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
@@ -15712,7 +15712,7 @@
 		<clbid>0000102181</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>DANCE</deptname>
-		<coursenumber>105</coursenumber>
+		<coursenumber>205</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>The Beat Goes On</coursename>
@@ -19930,6 +19930,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000022446</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104937</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>WMGST</deptname>
+		<coursenumber>121</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Intro Womens/Gender St</coursename>
+		<pn>N</pn>
+		<notes>This course has class-year limits.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21084')"&gt;Al Atiyat, Ibtesam&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 1150-1245PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH212');"&gt;TOH 212&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000026169</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
