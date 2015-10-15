@@ -6,6 +6,9 @@
 		"WMGST"
 	],
 	"desc": "Required for the women's and gender studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts toward American studies major.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Rebecca S. Richards"
 	],
@@ -30,6 +33,10 @@
 		{
 			"_updated": "2015-09-29T18:01:20.034559-05:00",
 			"notes": null
+		},
+		{
+			"_updated": "2015-10-15T12:00:36.861044-05:00",
+			"gereqs": null
 		}
 	],
 	"semester": 3,
