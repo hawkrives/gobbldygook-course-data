@@ -13,13 +13,26 @@
 		"Anthony Pahnke"
 	],
 	"level": 100,
+	"locations": [
+		"TOH 110"
+	],
 	"name": "The Problem of War",
 	"num": 119,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-10-16T12:00:35.955820-05:00",
+			"locations": null,
+			"times": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
+	"times": [
+		"M-F 0100-0300PM"
+	],
 	"type": "Research",
 	"year": 2015
 }
