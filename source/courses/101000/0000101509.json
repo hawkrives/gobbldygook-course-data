@@ -17,6 +17,7 @@
 		"RML 420"
 	],
 	"name": "First-Year Writing",
+	"notes": "Section title: Personal Ecology.",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
@@ -26,6 +27,10 @@
 			"locations": [
 				"RML 520"
 			]
+		},
+		{
+			"_updated": "2015-10-16T18:00:59.959144-05:00",
+			"notes": null
 		}
 	],
 	"section": "C",
