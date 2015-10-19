@@ -11,7 +11,7 @@
 	],
 	"level": 300,
 	"locations": [
-		"RNS 316",
+		"RNS 426",
 		"RNS 393"
 	],
 	"name": "Research: Molecular Microbiology",
@@ -33,6 +33,13 @@
 		{
 			"_updated": "2015-09-29T12:00:39.877005-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-10-19T12:02:13.198792-05:00",
+			"locations": [
+				"RNS 316",
+				"RNS 393"
+			]
 		}
 	],
 	"semester": 2,
