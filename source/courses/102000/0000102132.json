@@ -11,12 +11,20 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 290"
+		"RNS 208"
 	],
 	"name": "Sport and Exercise Psych",
 	"num": 251,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSYCH 125.",
+	"revisions": [
+		{
+			"_updated": "2015-10-19T18:03:38.972862-05:00",
+			"locations": [
+				"RNS 290"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,

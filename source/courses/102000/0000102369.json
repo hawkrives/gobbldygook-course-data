@@ -11,13 +11,22 @@
 	],
 	"level": 300,
 	"locations": [
-		"OM 310",
-		"OM 310"
+		"TOH 310",
+		"TOH 310"
 	],
 	"name": "Genre: The Algerian Novel",
 	"num": 373,
 	"pf": false,
 	"prerequisites": "Prerequisite: minimum of one 270-level course.",
+	"revisions": [
+		{
+			"_updated": "2015-10-19T18:03:40.300784-05:00",
+			"locations": [
+				"OM 310",
+				"OM 310"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
