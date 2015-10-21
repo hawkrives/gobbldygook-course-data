@@ -6316,7 +6316,7 @@
 	</course>
 	<course>
 		<clbid>0000102997</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PSYCH</deptname>
 		<coursenumber>223</coursenumber>
 		<coursesection></coursesection>
@@ -6448,7 +6448,7 @@
 	</course>
 	<course>
 		<clbid>0000103017</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>AS/ES</deptname>
 		<coursenumber>396I</coursenumber>
 		<coursesection></coursesection>
@@ -7192,6 +7192,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000189</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000104952</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ART</deptname>
+		<coursenumber>207</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Ceramics</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('10981')"&gt;Fisher, Kathryne&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>M-F 0900-1000&lt;br&gt;M-F 1040-1200PM&lt;br&gt;M-F 0100-0300PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('DC115');"&gt;DC 115&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('DC115');"&gt;DC 115&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('DC115');"&gt;DC 115&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001496</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
