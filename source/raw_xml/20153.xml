@@ -3975,7 +3975,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 1150-1245PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS310');"&gt;RNS 310&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS290');"&gt;RNS 290&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -5333,7 +5333,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Conservation Biology</coursename>
 		<pn>N</pn>
-		<notes>Prerequisite: one natural science course.&lt;br&gt;This course includes an academic civic engagement (ACE) component.</notes>
+		<notes>Prerequisite: one natural science course.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8210')"&gt;Swift, Michael&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -8057,7 +8057,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>JAPAN</deptname>
 		<coursenumber>232</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Intermed Japanese II</coursename>
 		<pn>N</pn>
@@ -8079,7 +8079,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>JAPAN</deptname>
 		<coursenumber>232</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>L</coursesubtype>
 		<coursename>Intermed Japanese II Lab</coursename>
 		<pn>N</pn>
@@ -8441,7 +8441,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 1150-1245PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS290');"&gt;RNS 290&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS310');"&gt;RNS 310&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000122</groupid>
 		<grouptype></grouptype>
@@ -13539,7 +13539,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Pursuits of Happiness: 1920-Present</coursename>
 		<pn>N</pn>
-		<notes>Open to American Conversations students only.</notes>
+		<notes>Open to American Conversations students only.&lt;br&gt;This course includes an academic civic engagement (ACE) component.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17418')"&gt;Willcoxon, Jeanne I.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -13561,7 +13561,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Pursuits of Happiness: 1920-Present</coursename>
 		<pn>N</pn>
-		<notes>Open to American Conversations students only.</notes>
+		<notes>Open to American Conversations students only.&lt;br&gt;This course includes an academic civic engagement (ACE) component.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('10197')"&gt;Fure-Slocum, Eric J.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -16014,28 +16014,6 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000026528</crsid>
-		<term>20153</term>
-	</course>
-	<course>
-		<clbid>0000102202</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>AMST</deptname>
-		<coursenumber>207</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>T</coursesubtype>
-		<coursename>Top: California Dreams</coursename>
-		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('110')"&gt;Allister, Mark&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML421');"&gt;RML 421&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000000007</crsid>
 		<term>20153</term>
 	</course>
 	<course>
@@ -19559,28 +19537,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000104862</clbid>
-		<coursestatus>O</coursestatus>
-		<deptname>PHIL</deptname>
-		<coursenumber>001</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Placeholder Course</coursename>
-		<pn>N</pn>
-		<notes>Course Title: Friendship Love and the Good Life. Prerequisite: completion of&lt;br&gt;BTS-T or permission of instructor. Open only to Seniors and a limited number of&lt;br&gt;Juniors during web registration.  This course is pending committee approval.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8165')"&gt;Swain, Corliss&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000024139</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000104876</clbid>
 		<coursestatus>O</coursestatus>
 		<deptname>ENGL</deptname>
@@ -19748,8 +19704,8 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
-		<meetingtimes>MWF 0200-0255PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
+		<meetingtimes>MWF 1045-1140</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM210');"&gt;OM 210&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -19996,6 +19952,94 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000019405</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104954</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>AMST</deptname>
+		<coursenumber>205</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>T</coursesubtype>
+		<coursename>Top: California Dreams</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('110')"&gt;Allister, Mark&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HWC.pdf"&gt;HWC&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 1255-0150PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML421');"&gt;RML 421&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000005</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104955</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>256</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Friendship Love &amp;amp; the Good Life</coursename>
+		<pn>N</pn>
+		<notes>Course Title: Friendship Love and the Good Life. Prerequisite: completion of&lt;br&gt;BTS-T or permission of instructor. Open only to Seniors and a limited number of&lt;br&gt;Juniors during web registration.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8165')"&gt;Swain, Corliss&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH108');"&gt;TOH 108&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000981</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104956</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>JAPAN</deptname>
+		<coursenumber>232</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Intermed Japanese II</coursename>
+		<pn>N</pn>
+		<notes>Students in Japanese 232B must also register for one Japanese 232 Lab.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27191')"&gt;Strand, Kendra&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-J&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 0200-0255PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000000664</groupid>
+		<grouptype></grouptype>
+		<crsid>0000000664</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104957</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>JAPAN</deptname>
+		<coursenumber>232</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Intermed Japanese II Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27191')"&gt;Strand, Kendra&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0120-0215PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH175');"&gt;TOH 175&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000000664</groupid>
+		<grouptype></grouptype>
+		<crsid>0000000665</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>

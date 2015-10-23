@@ -14,12 +14,20 @@
 	],
 	"level": 300,
 	"locations": [
-		"RNS 310"
+		"RNS 290"
 	],
 	"name": "Biochemistry I",
 	"num": 379,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHEM 248.",
+	"revisions": [
+		{
+			"_updated": "2015-10-23T18:01:22.375536-05:00",
+			"locations": [
+				"RNS 310"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
