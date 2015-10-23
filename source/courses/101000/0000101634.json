@@ -11,14 +11,14 @@
 	],
 	"groupid": 664,
 	"instructors": [
-		"Hiroe Akimoto"
+		"Kendra Strand"
 	],
 	"level": 200,
 	"locations": [
 		"TOH 312"
 	],
 	"name": "Intermed Japanese II",
-	"notes": "Students in Japanese 232 must also register for Japanese 232 Lab.",
+	"notes": "Students in Japanese 232A must also register for one Japanese 232 Lab.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: JAPAN 231 or its equivalent.",
@@ -31,6 +31,13 @@
 			"locations": [
 				"TOH 110"
 			]
+		},
+		{
+			"_updated": "2015-10-23T12:00:44.819597-05:00",
+			"instructors": [
+				"Hiroe Akimoto"
+			],
+			"notes": "Students in Japanese 232 must also register for Japanese 232 Lab."
 		}
 	],
 	"semester": 3,

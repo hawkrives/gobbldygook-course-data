@@ -17,6 +17,7 @@
 		"TOH 175"
 	],
 	"name": "Heritage/Hispanic US",
+	"notes": "This course includes an academic civic engagement (ACE) component.",
 	"num": 273,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 250.",
@@ -42,6 +43,10 @@
 			"locations": [
 				"TOH 300"
 			]
+		},
+		{
+			"_updated": "2015-10-23T12:00:55.520854-05:00",
+			"notes": null
 		}
 	],
 	"semester": 1,
