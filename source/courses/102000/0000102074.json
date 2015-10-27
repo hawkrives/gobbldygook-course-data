@@ -15,9 +15,10 @@
 		"TOH 184"
 	],
 	"name": "Sem: Differential Geometry",
+	"notes": "Prerequisite: Math 226 or permission of instructor.",
 	"num": 382,
 	"pf": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequisite: Math 226 or permission of instructor.",
 	"revisions": [
 		{
 			"_updated": "2015-04-20T18:00:30.327886-05:00",
@@ -28,6 +29,11 @@
 				"T 0935-1100",
 				"Th 0930-1050"
 			]
+		},
+		{
+			"_updated": "2015-10-27T00:01:35.834973-05:00",
+			"notes": null,
+			"prerequisites": false
 		}
 	],
 	"section": "B",
