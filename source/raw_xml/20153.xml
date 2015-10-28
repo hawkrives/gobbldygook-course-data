@@ -7225,7 +7225,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Incl Pract: Grp/Org/Cm</coursename>
 		<pn>N</pn>
-		<notes>This is only open to Junior Social Work majors.</notes>
+		<notes>This is only open to Junior Social Work majors.&lt;br&gt;This course includes an academic civic engagement (ACE) component.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27153')"&gt;Moore, Lisa L.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -13114,7 +13114,7 @@
 	</course>
 	<course>
 		<clbid>0000102011</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHYS</deptname>
 		<coursenumber>125</coursenumber>
 		<coursesection>B</coursesection>
@@ -18951,7 +18951,7 @@
 		<coursesubtype>S</coursesubtype>
 		<coursename>Sem: History and Memory</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Especially for junior and senior history majors and Latin American studies major&lt;br&gt;majors.  Others need permission of instructor.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1368')"&gt;DeLaney, Jeane&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -20018,6 +20018,28 @@
 		<groupid>0000000664</groupid>
 		<grouptype></grouptype>
 		<crsid>0000000665</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104968</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ASIAN</deptname>
+		<coursenumber>240</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>F</coursesubtype>
+		<coursename>FLC - Japanese</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27188')"&gt;Boteilho, Caleb&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000030106</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
