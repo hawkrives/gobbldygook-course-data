@@ -2760,7 +2760,7 @@
 		<coursename>AsiaCon3:InterpretJourney</coursename>
 		<pn>N</pn>
 		<notes>Registration restricted to students in the Asian Con program.&lt;br&gt;Course will also meet in RNS 435.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14223')"&gt;Williamson, Thomas A.&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1821')"&gt;Entenmann, Robert&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14223')"&gt;Williamson, Thomas A.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-A.pdf"&gt;ALS-A&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/HBS.pdf"&gt;HBS&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
@@ -16817,7 +16817,7 @@
 		<coursesubtype>L</coursesubtype>
 		<coursename>Molecular Biology Lab</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Open to Seniors and Juniors only.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13100')"&gt;Kandl, Kimberly A.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.00</credits>
@@ -20018,6 +20018,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000030106</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104973</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>HIST</deptname>
+		<coursenumber>289</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>T</coursesubtype>
+		<coursename>Top: History of Islam in South Asia</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27189')"&gt;LaRocque, Brendan&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCG.pdf"&gt;MCG&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000021545</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
