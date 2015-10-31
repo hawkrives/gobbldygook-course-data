@@ -10,9 +10,6 @@
 		"Kris A. Cropsey"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 314"
-	],
 	"name": "Beginning Spanish II",
 	"num": 112,
 	"pf": false,
@@ -20,6 +17,12 @@
 	"revisions": [
 		{
 			"title": "Beginning Spanish II"
+		},
+		{
+			"_updated": "2015-10-31T00:22:56.214359-05:00",
+			"locations": [
+				"TOH 314"
+			]
 		}
 	],
 	"semester": 4,

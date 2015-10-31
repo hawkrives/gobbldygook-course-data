@@ -13,15 +13,23 @@
 		"Kathryne Fisher"
 	],
 	"level": 200,
-	"locations": [
-		"DC 115"
-	],
 	"name": "Ceramics",
+	"notes": "This course has been canceled.",
 	"num": 207,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:22:56.231868-05:00",
+			"locations": [
+				"DC 115"
+			],
+			"notes": null,
+			"status": "O"
+		}
+	],
 	"semester": 4,
-	"status": "O",
+	"status": "X",
 	"term": 20144,
 	"times": [
 		"M-F 0100-0400PM"

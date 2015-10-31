@@ -14,12 +14,20 @@
 	],
 	"level": 100,
 	"locations": [
-		"TOH 184"
+		"RNS 204"
 	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
 	"prerequisites": "Prerequisites: high school algebra and geometry.",
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:22:56.238412-05:00",
+			"locations": [
+				"TOH 184"
+			]
+		}
+	],
 	"semester": 4,
 	"status": "O",
 	"term": 20144,

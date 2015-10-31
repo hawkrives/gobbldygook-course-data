@@ -17,11 +17,22 @@
 	"num": 253,
 	"pf": true,
 	"prerequisites": "Prerequisite: previous or concurrent registration in CHEM 247. Offered annually in the fall semester.",
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:22:56.174413-05:00",
+			"section": null,
+			"status": "O",
+			"times": [
+				"TTh 1230-0330PM"
+			]
+		}
+	],
+	"section": "A",
 	"semester": 4,
-	"status": "O",
+	"status": "C",
 	"term": 20144,
 	"times": [
-		"TTh 1230-0330PM"
+		"MW 1230-0330PM"
 	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",

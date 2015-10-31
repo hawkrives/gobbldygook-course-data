@@ -13,20 +13,26 @@
 		"M. Minda Ori\u00f1a"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 124"
-	],
 	"name": "Social Psychology",
+	"notes": "This course has been cancelled.",
 	"num": 249,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSYCH 125. Offered annually.",
 	"revisions": [
 		{
 			"title": "Social Psychology"
+		},
+		{
+			"_updated": "2015-10-31T00:22:56.218896-05:00",
+			"locations": [
+				"RNS 124"
+			],
+			"notes": null,
+			"status": "O"
 		}
 	],
 	"semester": 4,
-	"status": "O",
+	"status": "X",
 	"term": 20144,
 	"times": [
 		"M-F 1000-1130"

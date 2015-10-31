@@ -14,10 +14,8 @@
 		"Charles H. III. Watson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 140"
-	],
 	"name": "Race and Social Justice",
+	"notes": "This course has been cancelled.",
 	"num": 255,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-T or permission of instructor. Offered occasionally during Interim. Counts toward race and ethnic studies concentration.",
@@ -27,10 +25,18 @@
 			"locations": [
 				"TBA"
 			]
+		},
+		{
+			"_updated": "2015-10-31T00:22:56.177888-05:00",
+			"locations": [
+				"OM 140"
+			],
+			"notes": null,
+			"status": "O"
 		}
 	],
 	"semester": 4,
-	"status": "O",
+	"status": "X",
 	"term": 20144,
 	"times": [
 		"M-F 1000-1130"

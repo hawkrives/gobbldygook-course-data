@@ -1,7 +1,7 @@
 {
 	"clbid": 85333,
 	"credits": 0.25,
-	"crsid": 25195,
+	"crsid": 809,
 	"depts": [
 		"MUSIC"
 	],
@@ -13,10 +13,17 @@
 	"locations": [
 		"CHM 140"
 	],
-	"name": "Beyond the Alexander Tech",
+	"name": "Beyond Alexander Tech",
 	"num": 163,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:21:42.616610-05:00",
+			"crsid": 25195,
+			"name": "Beyond the Alexander Tech"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20113,

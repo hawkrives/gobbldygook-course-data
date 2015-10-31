@@ -9,7 +9,7 @@
 		"Matt Wiebold"
 	],
 	"level": 300,
-	"name": "IR/Ardvino Spectrophotum",
+	"name": "IR/Arduino Spectrophotom",
 	"num": 398,
 	"pf": false,
 	"prerequisites": false,
@@ -20,6 +20,10 @@
 				"Staff"
 			],
 			"name": "IR/"
+		},
+		{
+			"_updated": "2015-10-31T00:23:18.216250-05:00",
+			"name": "IR/Ardvino Spectrophotum"
 		}
 	],
 	"semester": 3,

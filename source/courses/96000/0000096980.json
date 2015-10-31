@@ -6,6 +6,9 @@
 		"ASIAN"
 	],
 	"desc": "A capstone experience offering an opportunity to pursue a research project and to discuss issues of general interest to students of Asia. This seminar proceeds along two tracks: one focusing on discussion of readings of general interest to Asian Studies students, the other devoted to research, writing, and presenting findings to the class. Prerequisite: ASIAN 275 or permission of the instructor. Offered annually.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Robert Entenmann"
 	],
@@ -18,6 +21,12 @@
 	"num": 399,
 	"pf": false,
 	"prerequisites": "Prerequisite: ASIAN 275 or permission of the instructor. Offered annually.",
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:23:19.338487-05:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

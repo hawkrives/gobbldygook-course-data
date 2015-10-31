@@ -14,9 +14,10 @@
 	],
 	"level": 200,
 	"locations": [
-		"TOH 308"
+		"TOH 312"
 	],
 	"name": "History of Modern Political Thought",
+	"notes": "This course has been cancelled.",
 	"num": 260,
 	"pf": false,
 	"prerequisites": false,
@@ -26,10 +27,18 @@
 			"locations": null,
 			"name": "Hist Mod Pol Thought",
 			"title": "History of Modern Political Thought"
+		},
+		{
+			"_updated": "2015-10-31T00:23:01.638684-05:00",
+			"locations": [
+				"TOH 308"
+			],
+			"notes": null,
+			"status": "O"
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20145,
 	"times": [
 		"M-F 1000-1130"

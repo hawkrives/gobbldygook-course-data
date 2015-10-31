@@ -10,15 +10,23 @@
 		"Kris A. Cropsey"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 314"
-	],
 	"name": "Intermed Spanish I",
+	"notes": "This course has been cancelled.",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 112 or placement. Offered each semester and during Interim.",
+	"revisions": [
+		{
+			"_updated": "2015-10-31T00:22:56.216209-05:00",
+			"locations": [
+				"TOH 314"
+			],
+			"notes": null,
+			"status": "O"
+		}
+	],
 	"semester": 4,
-	"status": "O",
+	"status": "X",
 	"term": 20144,
 	"times": [
 		"M-F 1230-0200PM"
