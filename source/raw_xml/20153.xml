@@ -2752,7 +2752,7 @@
 	</course>
 	<course>
 		<clbid>0000101260</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ASIAN</deptname>
 		<coursenumber>220</coursenumber>
 		<coursesection></coursesection>
@@ -8810,7 +8810,7 @@
 		<coursename>Intro: Enviro Studies</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('16579')"&gt;Schade, John D.&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)</gereqs>
@@ -14173,7 +14173,7 @@
 		<coursestatus>O</coursestatus>
 		<deptname>ENVST</deptname>
 		<coursenumber>399</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>B</coursesection>
 		<coursesubtype>S</coursesubtype>
 		<coursename>Sem: Environ Studies</coursename>
 		<pn>N</pn>
@@ -16751,7 +16751,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Digital Filmmaking</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Prerequisite: ART 104 or permission of instructor.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13653')"&gt;Nelson, Peter B.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -16933,7 +16933,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH300');"&gt;TOH 300&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -18775,11 +18775,11 @@
 		<coursesubtype>S</coursesubtype>
 		<coursename>Sem: History of Philosophy</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>This course does NOT satisfy the ORC requirement (except when taught by Swain).</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21884')"&gt;Munoz-Hutchinson, Danny&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ORC.pdf"&gt;ORC&lt;/a&gt; ('08)</gereqs>
+		<gereqs></gereqs>
 		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
 		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM310');"&gt;OM 310&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM310');"&gt;OM 310&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
@@ -19243,7 +19243,7 @@
 		<credits>0.50</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('SAC103');"&gt;SAC 103&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -19507,7 +19507,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/ALS-L.pdf"&gt;ALS-L&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>MWF 1255-0150PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH112');"&gt;TOH 112&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM030');"&gt;OM 030&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -20040,6 +20040,28 @@
 		<groupid></groupid>
 		<grouptype>R</grouptype>
 		<crsid>0000021545</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104974</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENVST</deptname>
+		<coursenumber>399</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>S</coursesubtype>
+		<coursename>Sem: Environ Studies</coursename>
+		<pn>N</pn>
+		<notes>Open to Senior Enviromental Studies majors only.&lt;br&gt;Environmental Studies concentrators may register only with permission of&lt;br&gt;instructor.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('16579')"&gt;Schade, John D.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 1145-0110PM&lt;br&gt;Th 1245-0205PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS400');"&gt;RNS 400&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS400');"&gt;RNS 400&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000468</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>

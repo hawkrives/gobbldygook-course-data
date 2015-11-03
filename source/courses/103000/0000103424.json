@@ -11,7 +11,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 250"
+		"RNS 255"
 	],
 	"name": "Probing Life /Light Lab",
 	"num": 249,
@@ -22,6 +22,12 @@
 			"_updated": "2015-09-22T23:33:00.218042-05:00",
 			"locations": null,
 			"times": null
+		},
+		{
+			"_updated": "2015-11-03T11:38:12.193106-06:00",
+			"locations": [
+				"RNS 250"
+			]
 		}
 	],
 	"semester": 2,

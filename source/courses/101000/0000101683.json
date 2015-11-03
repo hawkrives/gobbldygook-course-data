@@ -10,7 +10,7 @@
 		"IST"
 	],
 	"instructors": [
-		"John D. Schade"
+		"Staff"
 	],
 	"level": 100,
 	"locations": [
@@ -34,6 +34,12 @@
 		{
 			"_updated": "2015-09-29T00:01:36.664082-05:00",
 			"notes": "This course has class year limits."
+		},
+		{
+			"_updated": "2015-11-03T11:38:11.930513-06:00",
+			"instructors": [
+				"John D. Schade"
+			]
 		}
 	],
 	"semester": 3,
