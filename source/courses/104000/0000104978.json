@@ -1,5 +1,5 @@
 {
-	"clbid": 101597,
+	"clbid": 104978,
 	"credits": 0.5,
 	"crsid": 1012,
 	"depts": [
@@ -10,32 +10,24 @@
 		"SPM"
 	],
 	"instructors": [
-		"Kurt Anderson"
+		"Eric C. Yuen"
 	],
 	"level": 100,
 	"locations": [
+		"SAC 112",
 		"SAC 112"
 	],
 	"name": "Individual Fitness .50",
 	"num": 133,
 	"pf": false,
 	"prerequisites": false,
-	"revisions": [
-		{
-			"_updated": "2015-05-12T18:00:19.412344-05:00",
-			"name": "Individual Fitness.50"
-		},
-		{
-			"_updated": "2015-11-03T22:50:02.470915-06:00",
-			"section": null
-		}
-	],
-	"section": "A",
+	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"MWF 1255-0150PM"
+		"T 1145-0110PM",
+		"Th 1245-0205PM"
 	],
 	"title": "Individual Fitness",
 	"type": "Research",
