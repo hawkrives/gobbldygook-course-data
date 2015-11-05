@@ -10,14 +10,14 @@
 		"IST"
 	],
 	"instructors": [
-		"Staff"
+		"Michael Swift"
 	],
 	"level": 100,
 	"locations": [
-		"RNS 210",
-		"RNS 210"
+		"DC 305"
 	],
 	"name": "Intro: Enviro Studies",
+	"notes": "Please note the recent class day/time change.",
 	"num": 137,
 	"pf": false,
 	"prerequisites": false,
@@ -40,14 +40,28 @@
 			"instructors": [
 				"John D. Schade"
 			]
+		},
+		{
+			"_updated": "2015-11-05T08:26:32.075932-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [
+				"RNS 210",
+				"RNS 210"
+			],
+			"notes": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
 	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
+		"MWF 1150-1245PM"
 	],
 	"title": "Introduction to Environmental Studies",
 	"type": "Research",

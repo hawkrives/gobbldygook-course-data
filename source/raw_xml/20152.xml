@@ -5700,7 +5700,7 @@
 	</course>
 	<course>
 		<clbid>0000101103</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>EDUC</deptname>
 		<coursenumber>379</coursenumber>
 		<coursesection></coursesection>
@@ -6895,7 +6895,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Literature &amp;amp; Film</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>Focus of course will be War in Literature and Film</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26249')"&gt;Mokdad, Linda&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -7071,7 +7071,7 @@
 		<coursesubtype>R</coursesubtype>
 		<coursename>Exploring Teaching</coursename>
 		<pn>N</pn>
-		<notes>Prerequisite: EDUC 260 or EDUC 290.  This course is intended for educational&lt;br&gt;studies concentrators in the non-licensure track.  This is an off-campus course.</notes>
+		<notes>Prerequisite: EDUC 260 or EDUC 290. Admission by application.  This course is&lt;br&gt;intended for educational studies concentrators in the non-licensure track.  This&lt;br&gt;is an off-campus course.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23448')"&gt;Taylor, Anthony&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -7302,6 +7302,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000204</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000104979</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Scientific Realism</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('20236')"&gt;Cunningham, Arthur&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000993</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
