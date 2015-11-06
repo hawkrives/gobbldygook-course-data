@@ -6,7 +6,6 @@
 		"ID"
 	],
 	"desc": "This seminar integrates the liberal arts with the experience of work and the search for a vocation or career. Course content will include both an off-campus internship and on- campus class sessions that connect academic theories/analyses of work with their particular internship experience. Students will also consider and articulate the value of the liberal arts for their pursuit of a creative, productive, and satisfying professional life.",
-	"grouptype": "R",
 	"instructors": [
 		"William Sonnega"
 	],
@@ -27,6 +26,10 @@
 		{
 			"_updated": "2015-11-03T11:38:12.398560-06:00",
 			"notes": "Course will meet in the afternoons on January 6, 13, 20, and 29 at the Art Barn."
+		},
+		{
+			"_updated": "2015-11-05T18:01:56.403060-06:00",
+			"grouptype": "R"
 		}
 	],
 	"semester": 2,

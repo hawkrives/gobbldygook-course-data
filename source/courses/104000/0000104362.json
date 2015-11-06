@@ -9,6 +9,7 @@
 	"gereqs": [
 		"FOL-C"
 	],
+	"groupid": 241,
 	"instructors": [
 		"Ying Zhou"
 	],
@@ -17,10 +18,17 @@
 		"TOH 314"
 	],
 	"name": "Intermed Chinese I",
-	"notes": "Students in Chinese 231 must also register for Chinese 231 lab.",
+	"notes": "Students in Chinese 231 must also register for Chinese 231 lab. Open to first- year students.",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHIN 112 or placement.",
+	"revisions": [
+		{
+			"_updated": "2015-11-05T18:01:56.057559-06:00",
+			"groupid": null,
+			"notes": "Students in Chinese 231 must also register for Chinese 231 lab."
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
