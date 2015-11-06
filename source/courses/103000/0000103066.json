@@ -17,6 +17,7 @@
 		"TOH 110"
 	],
 	"name": "Dostoevsky-Tr",
+	"notes": "Open only to juniors and seniors during web registration.",
 	"num": 371,
 	"pf": false,
 	"prerequisites": "Prerequisite: completion of BTS-T.",
@@ -32,6 +33,10 @@
 			"locations": [
 				"TOH 112"
 			]
+		},
+		{
+			"_updated": "2015-11-06T00:01:48.511281-06:00",
+			"notes": null
 		}
 	],
 	"semester": 3,
