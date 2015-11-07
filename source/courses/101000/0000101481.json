@@ -17,6 +17,7 @@
 		"TOH 184"
 	],
 	"name": "Elem Linear Algebra",
+	"notes": "This course has been canceled.",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 119 or MATH 120.",
@@ -26,11 +27,16 @@
 			"times": [
 				"MWF 0905-1000"
 			]
+		},
+		{
+			"_updated": "2015-11-07T00:02:03.699030-06:00",
+			"notes": null,
+			"status": "O"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1255-0150PM"
