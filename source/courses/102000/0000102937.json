@@ -14,6 +14,7 @@
 		"RNS 297"
 	],
 	"name": "Top: Mod Org Reactions/Green Chem",
+	"notes": "This course has been canceled.",
 	"num": 391,
 	"pf": false,
 	"prerequisites": "Prerequisite: permission of instructor.",
@@ -23,11 +24,16 @@
 			"locations": [
 				"RNS 316"
 			]
+		},
+		{
+			"_updated": "2015-11-10T00:01:44.509256-06:00",
+			"notes": null,
+			"status": "O"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1045-1140"
