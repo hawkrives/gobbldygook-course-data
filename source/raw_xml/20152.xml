@@ -1638,7 +1638,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23550')"&gt;Smalling, Susan E.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -2246,7 +2246,7 @@
 	</course>
 	<course>
 		<clbid>0000100756</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>CHEM</deptname>
 		<coursenumber>123</coursenumber>
 		<coursesection>A</coursesection>
@@ -5084,7 +5084,7 @@
 	</course>
 	<course>
 		<clbid>0000101037</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MUSIC</deptname>
 		<coursenumber>269</coursenumber>
 		<coursesection></coursesection>
@@ -6536,7 +6536,7 @@
 	</course>
 	<course>
 		<clbid>0000103140</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>128</coursenumber>
 		<coursesection></coursesection>
@@ -7262,7 +7262,7 @@
 	</course>
 	<course>
 		<clbid>0000104976</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHIL</deptname>
 		<coursenumber>398</coursenumber>
 		<coursesection>A</coursesection>
@@ -7306,7 +7306,7 @@
 	</course>
 	<course>
 		<clbid>0000104979</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHIL</deptname>
 		<coursenumber>398</coursenumber>
 		<coursesection>C</coursesection>
@@ -7478,6 +7478,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000847</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000104993</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Response to Existentialism</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('9090')"&gt;Wilson, Charles&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001257</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
