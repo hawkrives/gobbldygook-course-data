@@ -5920,14 +5920,14 @@
 	</course>
 	<course>
 		<clbid>0000101479</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MATH</deptname>
 		<coursenumber>220</coursenumber>
 		<coursesection>C</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Elem Linear Algebra</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>This course has been canceled.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7593')"&gt;Smith, Kay E.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -20150,6 +20150,28 @@
 		<groupid>0000000197</groupid>
 		<grouptype></grouptype>
 		<crsid>0000000200</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104992</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MATH</deptname>
+		<coursenumber>244</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Real Analysis I</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7593')"&gt;Smith, Kay E.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>MWF 0800-0855</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH184');"&gt;TOH 184&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000745</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
