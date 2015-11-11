@@ -10,7 +10,7 @@
 		"MCG"
 	],
 	"instructors": [
-		"Robert Entenmann"
+		"Staff"
 	],
 	"level": 200,
 	"locations": [
@@ -41,6 +41,12 @@
 		{
 			"_updated": "2015-11-10T18:00:42.492434-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-11-11T12:00:58.291152-06:00",
+			"instructors": [
+				"Robert Entenmann"
+			]
 		}
 	],
 	"semester": 2,
