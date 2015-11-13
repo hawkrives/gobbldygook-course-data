@@ -1044,7 +1044,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7676')"&gt;Sonnega, William&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -6228,7 +6228,7 @@
 	</course>
 	<course>
 		<clbid>0000101499</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>275</coursenumber>
 		<coursesection></coursesection>
@@ -6844,7 +6844,7 @@
 	</course>
 	<course>
 		<clbid>0000101540</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>250</coursenumber>
 		<coursesection>B</coursesection>
@@ -6976,7 +6976,7 @@
 	</course>
 	<course>
 		<clbid>0000101573</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>272</coursenumber>
 		<coursesection></coursesection>
@@ -8186,7 +8186,7 @@
 	</course>
 	<course>
 		<clbid>0000101642</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>231</coursenumber>
 		<coursesection>D</coursesection>
@@ -8274,7 +8274,7 @@
 	</course>
 	<course>
 		<clbid>0000101647</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>232</coursenumber>
 		<coursesection>D</coursesection>
@@ -8340,7 +8340,7 @@
 	</course>
 	<course>
 		<clbid>0000101650</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>232</coursenumber>
 		<coursesection>E</coursesection>
@@ -14852,7 +14852,7 @@
 	</course>
 	<course>
 		<clbid>0000102131</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>276</coursenumber>
 		<coursesection></coursesection>
@@ -16546,7 +16546,7 @@
 	</course>
 	<course>
 		<clbid>0000102363</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>112</coursenumber>
 		<coursesection>C</coursesection>
@@ -20172,6 +20172,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000745</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104995</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>MATH</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Large Scale Optimization</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5214')"&gt;McKelvey, Steven&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000752</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
