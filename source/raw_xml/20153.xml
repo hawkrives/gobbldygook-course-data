@@ -4380,14 +4380,14 @@
 	</course>
 	<course>
 		<clbid>0000101366</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MATH</deptname>
 		<coursenumber>120</coursenumber>
 		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Calculus I</coursename>
 		<pn>N</pn>
-		<notes></notes>
+		<notes>This course has been canceled.</notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27198')"&gt;Ryu, Hwayeon&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
@@ -20194,6 +20194,116 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000752</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104996</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Is Race a Choice?</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22837')"&gt;Gallego, Carlos&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000451</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104997</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Freedom of Speech</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21885')"&gt;Fuerstein, Michael&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000993</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104998</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Publishing Post-Colonial</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21893')"&gt;Naito, Jonathan T.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000434</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000104999</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PHIL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Philosophy in Counseling</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5051')"&gt;Marino, Gordon D.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000993</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105000</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MATH</deptname>
+		<coursenumber>126</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Calculus II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27198')"&gt;Ryu, Hwayeon&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 0800-0855</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS204');"&gt;RNS 204&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000733</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
