@@ -5810,7 +5810,7 @@
 	</course>
 	<course>
 		<clbid>0000101468</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>261</coursenumber>
 		<coursesection></coursesection>
@@ -5986,7 +5986,7 @@
 	</course>
 	<course>
 		<clbid>0000101483</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHIL</deptname>
 		<coursenumber>257</coursenumber>
 		<coursesection>A</coursesection>
@@ -11728,7 +11728,7 @@
 	</course>
 	<course>
 		<clbid>0000101893</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>231</coursenumber>
 		<coursesection></coursesection>
@@ -11794,7 +11794,7 @@
 	</course>
 	<course>
 		<clbid>0000101896</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>231</coursenumber>
 		<coursesection>C</coursesection>
@@ -13210,7 +13210,7 @@
 		<coursename>Principles Comp Sci</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('97')"&gt;Allen, Richard&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27194')"&gt;Wright, Matthew&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/AQR.pdf"&gt;AQR&lt;/a&gt; ('08)</gereqs>
@@ -18218,10 +18218,10 @@
 	</course>
 	<course>
 		<clbid>0000103081</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>STAT</deptname>
 		<coursenumber>214</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Honors Stats for Science</coursename>
 		<pn>N</pn>
@@ -18551,7 +18551,7 @@
 		<coursestatus>C</coursestatus>
 		<deptname>CSCI</deptname>
 		<coursenumber>276</coursenumber>
-		<coursesection></coursesection>
+		<coursesection>A</coursesection>
 		<coursesubtype>R</coursesubtype>
 		<coursename>Programming Languages</coursename>
 		<pn>N</pn>
@@ -20304,6 +20304,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000733</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105001</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CSCI</deptname>
+		<coursenumber>276</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Programming Languages</coursename>
+		<pn>N</pn>
+		<notes>Open only to declared Computer Science majors.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('97')"&gt;Allen, Richard&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS203');"&gt;RNS 203&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS203');"&gt;RNS 203&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000297</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
