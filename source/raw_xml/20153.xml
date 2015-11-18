@@ -5832,7 +5832,7 @@
 	</course>
 	<course>
 		<clbid>0000101469</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>261</coursenumber>
 		<coursesection>A</coursesection>
@@ -12036,7 +12036,7 @@
 	</course>
 	<course>
 		<clbid>0000101913</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHYS</deptname>
 		<coursenumber>245</coursenumber>
 		<coursesection>A</coursesection>
@@ -13268,7 +13268,7 @@
 	</course>
 	<course>
 		<clbid>0000102018</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ECON</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>A</coursesection>
@@ -20326,6 +20326,204 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000297</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105004</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Workplace &amp;amp; Positive Psychology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5220')"&gt;McMillan Donna K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001179</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105005</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Study of Faith Development</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('712')"&gt;Booth, David&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001257</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105007</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PSCI</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Modern Republicanism</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17420')"&gt;Casson, Douglas J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001152</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105008</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Evolutionary Genetics</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('18288')"&gt;Freedberg, Steven&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000154</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105009</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>PHYS</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Advanced Engineering Design</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14912')"&gt;Engbrecht, Jason J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001101</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105010</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Book Publishing</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22837')"&gt;Gallego, Carlos&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000434</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105011</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ART</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Contemporary Women in Craft</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13137')"&gt;Thompson, Nancy M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000069</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105012</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>HIST</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/ Time Machine</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15815')"&gt;Howe, Timothy R.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000642</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105013</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>ENGL</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/ Chicano Literature</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22837')"&gt;Gallego, Carlos&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000434</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
