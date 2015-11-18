@@ -6,13 +6,22 @@
 		"ESTH"
 	],
 	"instructors": [
-		"Staff"
+		"John A. Bazzachini"
 	],
 	"level": 200,
-	"name": "IS/",
+	"name": "IS/Personal Training",
 	"num": 298,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-11-18T00:01:08.883398-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"name": "IS/"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
