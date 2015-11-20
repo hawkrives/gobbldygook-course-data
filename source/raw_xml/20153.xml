@@ -3588,7 +3588,7 @@
 	</course>
 	<course>
 		<clbid>0000101312</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>REL</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>A</coursesection>
@@ -15182,7 +15182,7 @@
 	</course>
 	<course>
 		<clbid>0000102148</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MSCS</deptname>
 		<coursenumber>389</coursenumber>
 		<coursesection></coursesection>
@@ -16172,7 +16172,7 @@
 	</course>
 	<course>
 		<clbid>0000102218</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>HIST</deptname>
 		<coursenumber>188</coursenumber>
 		<coursesection></coursesection>
@@ -20524,6 +20524,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000434</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000105019</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>MGMT</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('16804')"&gt;Muir, Sian E.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.50</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000784</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
