@@ -11,8 +11,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"RML 420",
-		"RML 420"
+		"OM 030",
+		"OM 030"
 	],
 	"name": "Res Methods/Social Work",
 	"notes": "This course is open only to Junior Social Work majors.",
@@ -30,6 +30,13 @@
 		{
 			"_updated": "2015-09-29T18:01:22.603214-05:00",
 			"notes": "This course is open to Social Work majors only. This course has class-year limits."
+		},
+		{
+			"_updated": "2015-11-19T18:01:16.873872-06:00",
+			"locations": [
+				"RML 420",
+				"RML 420"
+			]
 		}
 	],
 	"semester": 3,

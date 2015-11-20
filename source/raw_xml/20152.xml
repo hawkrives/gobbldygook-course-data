@@ -164,7 +164,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8876')"&gt;Walter, Anne&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -5040,7 +5040,7 @@
 	</course>
 	<course>
 		<clbid>0000101035</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>HIST</deptname>
 		<coursenumber>169</coursenumber>
 		<coursesection></coursesection>
@@ -7240,7 +7240,7 @@
 	</course>
 	<course>
 		<clbid>0000104967</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>298</coursenumber>
 		<coursesection>A</coursesection>
@@ -7588,6 +7588,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000154</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000105020</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27187')"&gt;Solomon, William C.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000153</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
