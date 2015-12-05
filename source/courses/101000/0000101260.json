@@ -15,7 +15,6 @@
 		"WRI"
 	],
 	"instructors": [
-		"Thomas A. Williamson",
 		"Robert Entenmann"
 	],
 	"level": 200,
@@ -89,6 +88,13 @@
 		{
 			"_updated": "2015-11-03T11:38:07.684358-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-12-05T06:10:09.886913-06:00",
+			"instructors": [
+				"Thomas A. Williamson",
+				"Robert Entenmann"
+			]
 		}
 	],
 	"semester": 3,
