@@ -199,28 +199,6 @@
 		<term>20153</term>
 	</course>
 	<course>
-		<clbid>0000101125</clbid>
-		<coursestatus>C</coursestatus>
-		<deptname>BIO</deptname>
-		<coursenumber>294</coursenumber>
-		<coursesection></coursesection>
-		<coursesubtype>R</coursesubtype>
-		<coursename>Academic Internship</coursename>
-		<pn>Y</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
-		<halfcredit></halfcredit>
-		<credits>1.00</credits>
-		<gereqs></gereqs>
-		<meetingtimes></meetingtimes>
-		<meetinglocations></meetinglocations>
-		<varcredits>N</varcredits>
-		<groupid></groupid>
-		<grouptype></grouptype>
-		<crsid>0000000153</crsid>
-		<term>20153</term>
-	</course>
-	<course>
 		<clbid>0000101126</clbid>
 		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
@@ -1022,7 +1000,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22826')"&gt;Hirsch, Richard M.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -3786,7 +3764,7 @@
 	</course>
 	<course>
 		<clbid>0000101321</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>REL</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>J</coursesection>
@@ -18890,8 +18868,8 @@
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
-		<meetingtimes></meetingtimes>
-		<meetinglocations></meetinglocations>
+		<meetingtimes>MWF 1150-1245PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS226');"&gt;RNS 226&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -19516,7 +19494,7 @@
 	</course>
 	<course>
 		<clbid>0000104877</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ART</deptname>
 		<coursenumber>276</coursenumber>
 		<coursesection></coursesection>
@@ -20590,6 +20568,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000069</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109052</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PHYS</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Catalan Sandpiles IS</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4480')"&gt;Kolan, Amy&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001101</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109056</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Na+/K+ ATPase Activity II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8876')"&gt;Walter, Anne&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>

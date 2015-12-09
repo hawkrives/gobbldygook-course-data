@@ -10,6 +10,9 @@
 		"Hiroe Akimoto"
 	],
 	"level": 300,
+	"locations": [
+		"RNS 226"
+	],
 	"name": "Special Topics/Japanese",
 	"num": 320,
 	"pf": false,
@@ -18,11 +21,19 @@
 		{
 			"_updated": "2015-10-13T18:00:33.074106-05:00",
 			"grouptype": "R"
+		},
+		{
+			"_updated": "2015-12-08T18:00:46.696636-06:00",
+			"locations": null,
+			"times": null
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
+	"times": [
+		"MWF 1150-1245PM"
+	],
 	"title": "Special Topics in Japanese",
 	"type": "Research",
 	"year": 2015
