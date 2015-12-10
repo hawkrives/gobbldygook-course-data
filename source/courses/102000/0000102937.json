@@ -10,9 +10,6 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"name": "Top: Mod Org Reactions/Green Chem",
 	"notes": "This course has been canceled.",
 	"num": 391,
@@ -35,11 +32,18 @@
 			"instructors": [
 				"Daniel A. Everson"
 			]
+		},
+		{
+			"_updated": "2015-12-10T12:01:03.234959-06:00",
+			"locations": [
+				"RNS 297"
+			],
+			"status": "C"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"status": "C",
+	"status": "X",
 	"term": 20153,
 	"times": [
 		"MWF 1045-1140"
