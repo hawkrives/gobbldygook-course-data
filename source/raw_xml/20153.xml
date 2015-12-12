@@ -3051,7 +3051,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>T 0935-1100</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH153');"&gt;TOH 153&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000239</groupid>
 		<grouptype></grouptype>
@@ -3073,7 +3073,7 @@
 		<credits>0.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>T 1145-0110PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RML115');"&gt;RML 115&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH175');"&gt;TOH 175&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid>0000000239</groupid>
 		<grouptype></grouptype>
@@ -11090,7 +11090,7 @@
 	</course>
 	<course>
 		<clbid>0000101858</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ESAC</deptname>
 		<coursenumber>122</coursenumber>
 		<coursesection></coursesection>
@@ -14676,7 +14676,7 @@
 	</course>
 	<course>
 		<clbid>0000102121</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>291</coursenumber>
 		<coursesection>A</coursesection>
@@ -19846,7 +19846,7 @@
 	</course>
 	<course>
 		<clbid>0000104940</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MGMT</deptname>
 		<coursenumber>396</coursenumber>
 		<coursesection></coursesection>
@@ -20583,7 +20583,7 @@
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8876')"&gt;Walter, Anne&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs></gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
