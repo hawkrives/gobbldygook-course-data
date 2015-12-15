@@ -18504,7 +18504,7 @@
 	</course>
 	<course>
 		<clbid>0000103170</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>O</coursestatus>
 		<deptname>CSCI</deptname>
 		<coursenumber>276</coursenumber>
 		<coursesection>A</coursesection>
@@ -20590,6 +20590,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000175</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109065</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ART</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Animated Short Film</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13653')"&gt;Nelson, Peter B.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000069</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109066</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Stress in Adolescence</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17027')"&gt;Johnson, Anna E.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001179</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
