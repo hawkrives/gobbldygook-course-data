@@ -4424,15 +4424,15 @@
 	</course>
 	<course>
 		<clbid>0000100950</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>HIST</deptname>
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Contemporary Maori Affairs</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13148')"&gt;Hahn, Steven C.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -7984,6 +7984,72 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000001057</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109073</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5220')"&gt;McMillan Donna K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001178</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109074</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ID</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22783')"&gt;Keefe, Susi K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000707</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109075</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Women's Physiology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13100')"&gt;Kandl, Kimberly A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000154</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
