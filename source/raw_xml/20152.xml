@@ -516,7 +516,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8415')"&gt;Titus, Mary&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -2488,7 +2488,7 @@
 	</course>
 	<course>
 		<clbid>0000100826</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>O</coursestatus>
 		<deptname>SWRK</deptname>
 		<coursenumber>122</coursenumber>
 		<coursesection></coursesection>
@@ -3813,10 +3813,10 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Carbon - Carbon Bond Formation</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22808')"&gt;Kalyani, Dipannita&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -7940,6 +7940,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000153</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109071</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MUSIC</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('11950')"&gt;Stover, Mark A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000846</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109072</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ESTH</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5580')"&gt;Nesbit, Scott&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001057</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
