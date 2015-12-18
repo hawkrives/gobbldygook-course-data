@@ -3681,10 +3681,10 @@
 		<coursenumber>398</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IR/</coursename>
+		<coursename>IR/Data Collection</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22783')"&gt;Keefe, Susi K.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -8050,6 +8050,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000154</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109076</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MUSIC</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/A Study in Excerpts</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('9157')"&gt;Zimmerman, Larry J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000847</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109077</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15745')"&gt;Beussman, Douglas J.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000204</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
