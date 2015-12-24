@@ -890,7 +890,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5220')"&gt;McMillan Donna K.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -2303,7 +2303,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/EIN.pdf"&gt;EIN&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>M-F 1040-1240PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM305');"&gt;OM 305&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -6197,7 +6197,7 @@
 		<credits>1.00</credits>
 		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes>M-F 1040-1240PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('OM305');"&gt;OM 305&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -8314,6 +8314,28 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000847</crsid>
+		<term>20152</term>
+	</course>
+	<course>
+		<clbid>0000109103</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>S</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Psychology of Adoption</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23549')"&gt;Veltri, Carlo O.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001179</crsid>
 		<term>20152</term>
 	</course>
 </searchresults>
