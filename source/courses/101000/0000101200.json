@@ -1,12 +1,12 @@
 {
 	"clbid": 101200,
-	"credits": 1.0,
+	"credits": 0.5,
 	"crsid": 1366,
 	"depts": [
 		"SWRK"
 	],
 	"instructors": [
-		"Staff"
+		"Mary Carlsen"
 	],
 	"level": 200,
 	"name": "Academic Internship",
@@ -17,6 +17,13 @@
 		{
 			"_updated": "2015-10-03T00:01:58.848216-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-12-19T00:00:45.633634-06:00",
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 3,

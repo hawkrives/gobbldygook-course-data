@@ -7,7 +7,7 @@
 	],
 	"groupid": 194,
 	"instructors": [
-		"Robert Hanson"
+		"Beth Abdella"
 	],
 	"level": 100,
 	"locations": [
@@ -23,11 +23,21 @@
 			"instructors": [
 				"Beth Abdella"
 			]
+		},
+		{
+			"_updated": "2015-11-11T18:01:21.009271-06:00",
+			"status": "O"
+		},
+		{
+			"_updated": "2015-12-09T12:00:52.949585-06:00",
+			"instructors": [
+				"Robert Hanson"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"T 1145-0245PM"

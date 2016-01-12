@@ -7,7 +7,8 @@
 	],
 	"desc": "Students examine the theological significance of the Israelite prophetic literature by tracing its origin and composition in ancient Israelite contexts, its appropriate and reinterpretation in the New Testament writings in light of early Christian experiences of Jesus Christ, and its continuing influence on postbiblical Christian worship and theology. Offered periodically. Prerequisite: BTS-B.",
 	"gereqs": [
-		"BTS-T"
+		"BTS-T",
+		"WRI"
 	],
 	"instructors": [
 		"Margaret Odell"
@@ -30,10 +31,20 @@
 			"locations": [
 				"OM 210"
 			]
+		},
+		{
+			"_updated": "2015-11-10T12:01:01.829152-06:00",
+			"gereqs": [
+				"BTS-T"
+			]
+		},
+		{
+			"_updated": "2015-12-22T18:00:37.225795-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1150-1245PM"

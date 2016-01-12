@@ -12,7 +12,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"SAC 103"
+		"TOH 312"
 	],
 	"name": "Intro to Coaching",
 	"notes": "First-half of semester course.",
@@ -24,10 +24,20 @@
 			"_updated": "2015-08-17T12:00:35.036387-05:00",
 			"halfcredit": "2",
 			"notes": "Second half of semester course."
+		},
+		{
+			"_updated": "2015-11-03T11:38:17.405331-06:00",
+			"locations": [
+				"SAC 103"
+			]
+		},
+		{
+			"_updated": "2015-11-11T18:01:28.466109-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 0905-1000"

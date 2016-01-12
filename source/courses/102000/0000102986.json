@@ -15,7 +15,7 @@
 		"RML 520"
 	],
 	"name": "Sem: Austen/Eliot/Woolf",
-	"notes": "See course description for prerequisites. Open only to seniors during web registration.",
+	"notes": "See course description for prerequisites. Open only to juniors and seniors during web registration.",
 	"num": 391,
 	"pf": false,
 	"prerequisites": "Prerequisites: ENGL 185 plus at least two English courses at level II, or permission of the instructor.",
@@ -23,10 +23,18 @@
 		{
 			"_updated": "2015-03-10T17:02:50.007643-05:00",
 			"notes": "Prerequisites: Completion of BTS-T or permissin of the instructor. See course description for additional prerequisites. Open only to seniors during web registration."
+		},
+		{
+			"_updated": "2015-11-03T22:50:06.479922-06:00",
+			"notes": "See course description for prerequisites. Open only to seniors during web registration."
+		},
+		{
+			"_updated": "2015-11-11T18:01:27.354084-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"T 0120-0245PM",

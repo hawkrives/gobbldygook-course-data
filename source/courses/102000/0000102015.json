@@ -10,7 +10,7 @@
 		"AQR"
 	],
 	"instructors": [
-		"Richard Allen"
+		"Matthew Wright"
 	],
 	"level": 100,
 	"locations": [
@@ -26,10 +26,20 @@
 			"locations": [
 				"RNS 202"
 			]
+		},
+		{
+			"_updated": "2015-11-11T18:01:25.200254-06:00",
+			"status": "O"
+		},
+		{
+			"_updated": "2015-11-16T18:00:41.665986-06:00",
+			"instructors": [
+				"Richard Allen"
+			]
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1045-1140"

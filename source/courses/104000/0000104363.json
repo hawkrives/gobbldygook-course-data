@@ -5,6 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
+	"groupid": 241,
 	"instructors": [
 		"Ying Zhou"
 	],
@@ -16,6 +17,12 @@
 	"num": 231,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-11-05T18:01:56.077682-06:00",
+			"groupid": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,

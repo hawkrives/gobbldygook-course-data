@@ -19,7 +19,7 @@
 		"TBA"
 	],
 	"name": "Pathopharmacology",
-	"notes": "Open only to Junior nursing majors.",
+	"notes": "Open only to Junior nursing majors during web registration, others by permission of instructor.",
 	"num": 210,
 	"pf": false,
 	"prerequisites": "Prerequisite: concurrent registration in (or previous completion of) BIO 243.",
@@ -44,11 +44,19 @@
 		{
 			"_updated": "2015-10-13T18:00:33.151692-05:00",
 			"grouptype": "R"
+		},
+		{
+			"_updated": "2015-11-05T18:02:38.749676-06:00",
+			"notes": "Open only to Junior nursing majors."
+		},
+		{
+			"_updated": "2015-11-11T18:01:28.384472-06:00",
+			"status": "O"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"F 1150-1245PM",

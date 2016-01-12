@@ -7,7 +7,7 @@
 	],
 	"groupid": 194,
 	"instructors": [
-		"Beth Abdella"
+		"Jeffrey J. Schwinefus"
 	],
 	"level": 100,
 	"locations": [
@@ -17,9 +17,21 @@
 	"num": 126,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2015-11-11T18:01:21.024029-06:00",
+			"status": "O"
+		},
+		{
+			"_updated": "2015-12-09T12:00:52.982075-06:00",
+			"instructors": [
+				"Beth Abdella"
+			]
+		}
+	],
 	"section": "F",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"Th 0800-1100"

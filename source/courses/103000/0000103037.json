@@ -18,6 +18,7 @@
 		"TOH 316"
 	],
 	"name": "Moral Theory",
+	"notes": "Prerequisites: one course in philosophy and completion of BTS-T or permission of the instructor. Open only to juniors and seniors during web registration.",
 	"num": 278,
 	"pf": false,
 	"prerequisites": "Prerequisites: one course in philosophy and completion of BTS-T or permission of instructor.",
@@ -33,10 +34,18 @@
 			"locations": [
 				"OM 030"
 			]
+		},
+		{
+			"_updated": "2015-11-07T00:02:16.635411-06:00",
+			"notes": null
+		},
+		{
+			"_updated": "2015-11-11T18:01:27.536025-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1255-0150PM"

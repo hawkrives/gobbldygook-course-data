@@ -17,6 +17,7 @@
 		"OM 030"
 	],
 	"name": "Dying, Death, Bereavement",
+	"notes": "Open to a limited number of first-year students.",
 	"num": 248,
 	"pf": false,
 	"prerequisites": false,
@@ -36,10 +37,18 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2015-11-05T18:01:55.446871-06:00",
+			"notes": null
+		},
+		{
+			"_updated": "2015-11-09T18:00:40.212508-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"times": [
 		"M-F 1040-1240PM"

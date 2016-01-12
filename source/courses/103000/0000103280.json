@@ -6,9 +6,6 @@
 		"PHIL"
 	],
 	"desc": "Students consider a selected figure or movement from the history of philosophy. May be repeated if topics are different. Counts towards ancient studies and medieval studies majors. Prerequisites: two courses in philosophy, one of which must be either PHIL 235 or PHIL 236 or permission of the department chair.",
-	"gereqs": [
-		"ORC"
-	],
 	"instructors": [
 		"Danny Munoz-Hutchinson"
 	],
@@ -18,6 +15,7 @@
 		"OM 310"
 	],
 	"name": "Sem: History of Philosophy",
+	"notes": "This course does NOT satisfy the ORC requirement (except when taught by Swain).",
 	"num": 374,
 	"pf": false,
 	"prerequisites": "Prerequisites: two courses in philosophy, one of which must be either PHIL 235 or PHIL 236 or permission of the department chair.",
@@ -42,10 +40,21 @@
 				"RNS 124",
 				"RNS 124"
 			]
+		},
+		{
+			"_updated": "2015-11-03T11:38:17.260003-06:00",
+			"gereqs": [
+				"ORC"
+			],
+			"notes": null
+		},
+		{
+			"_updated": "2015-11-20T18:00:53.980322-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"T 0120-0245PM",

@@ -7,13 +7,11 @@
 	],
 	"desc": "The field of chemistry is constantly expanding into new frontiers. This course provides an in-depth study of advanced topics that are chosen with attention to student interest and available staff. Recent topics include biophysical chemistry and environmental chemical analysis.Topics are announced prior to registration for the term; see the current class and lab schedule. May be repeated if topics are different. Counts toward environmental studies major (all tracks) and concentration when taught with environmental science focus and approved by chair. Prerequisite: permission of instructor.",
 	"instructors": [
-		"Daniel A. Everson"
+		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"name": "Top: Mod Org Reactions/Green Chem",
+	"notes": "This course has been canceled.",
 	"num": 391,
 	"pf": false,
 	"prerequisites": "Prerequisite: permission of instructor.",
@@ -23,11 +21,29 @@
 			"locations": [
 				"RNS 316"
 			]
+		},
+		{
+			"_updated": "2015-11-10T00:01:44.509256-06:00",
+			"notes": null,
+			"status": "O"
+		},
+		{
+			"_updated": "2015-12-09T12:00:59.966368-06:00",
+			"instructors": [
+				"Daniel A. Everson"
+			]
+		},
+		{
+			"_updated": "2015-12-10T12:01:03.234959-06:00",
+			"locations": [
+				"RNS 297"
+			],
+			"status": "C"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"status": "O",
+	"status": "X",
 	"term": 20153,
 	"times": [
 		"MWF 1045-1140"

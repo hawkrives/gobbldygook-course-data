@@ -19,7 +19,7 @@
 		"RNS 131"
 	],
 	"name": "Research Methods",
-	"notes": "Students in Psych 230 must also register for lab Psych 230 BL.",
+	"notes": "Students in Psych 230B must also register for lab Psych 230 BL.",
 	"num": 230,
 	"pf": false,
 	"prerequisites": "Prerequisites: PSYCH 125, and STAT 110 or STAT 212 or STAT 214 or ECON 263.",
@@ -42,11 +42,19 @@
 			"_updated": "2015-04-28T18:00:26.672107-05:00",
 			"grouptype": null,
 			"notes": "Students in Psych 230 must also register for one lab Psych 230 AL or BL."
+		},
+		{
+			"_updated": "2015-11-06T00:01:48.053081-06:00",
+			"notes": "Students in Psych 230 must also register for lab Psych 230 BL."
+		},
+		{
+			"_updated": "2015-11-11T18:01:27.564301-06:00",
+			"status": "O"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20153,
 	"times": [
 		"MWF 1045-1140"

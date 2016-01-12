@@ -14,7 +14,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 305"
+		"TOH 312"
 	],
 	"name": "Philosophy & Feminism",
 	"notes": "Open to all students. This course has class limits.",
@@ -25,10 +25,20 @@
 		{
 			"_updated": "2015-03-25T23:18:01.894607-05:00",
 			"locations": null
+		},
+		{
+			"_updated": "2015-11-09T18:00:40.087923-06:00",
+			"status": "O"
+		},
+		{
+			"_updated": "2015-12-23T18:00:52.370347-06:00",
+			"locations": [
+				"OM 305"
+			]
 		}
 	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"times": [
 		"M-F 1040-1240PM"

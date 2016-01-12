@@ -6,7 +6,7 @@
 		"MGMT"
 	],
 	"instructors": [
-		"Staff"
+		"Richard M. Hirsch"
 	],
 	"level": 300,
 	"name": "Academic Internship",
@@ -17,6 +17,12 @@
 		{
 			"_updated": "2015-10-03T00:01:58.062839-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2015-12-08T18:00:36.267079-06:00",
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 3,

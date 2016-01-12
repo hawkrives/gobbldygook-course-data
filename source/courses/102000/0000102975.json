@@ -19,6 +19,7 @@
 		"TOH 212"
 	],
 	"name": "Sami:Tradition/Transition",
+	"notes": "Open to a limited number of first-year students.",
 	"num": 244,
 	"pf": false,
 	"prerequisites": false,
@@ -27,10 +28,18 @@
 			"_updated": "2015-03-25T23:18:01.892771-05:00",
 			"grouptype": "R",
 			"locations": null
+		},
+		{
+			"_updated": "2015-11-05T18:01:54.874992-06:00",
+			"notes": null
+		},
+		{
+			"_updated": "2015-11-09T18:00:40.075637-06:00",
+			"status": "O"
 		}
 	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"times": [
 		"M-F 1040-1240PM"
