@@ -15,8 +15,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 140",
-		"OM 140"
+		"RNS 204",
+		"RNS 204"
 	],
 	"name": "International Law",
 	"num": 285,
@@ -33,6 +33,13 @@
 		{
 			"_updated": "2015-11-11T18:01:28.132341-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-12T10:02:41.107206-06:00",
+			"locations": [
+				"OM 140",
+				"OM 140"
+			]
 		}
 	],
 	"semester": 3,

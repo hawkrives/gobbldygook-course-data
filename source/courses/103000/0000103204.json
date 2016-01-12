@@ -14,7 +14,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 240"
+		"OM 340"
 	],
 	"name": "The Ethics of Jesus",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open to Seniors and limited number of Juniors during web registration.",
@@ -25,10 +25,17 @@
 		{
 			"_updated": "2015-10-06T12:00:24.798685-05:00",
 			"notes": null
+		},
+		{
+			"_updated": "2016-01-12T10:00:41.786956-06:00",
+			"locations": [
+				"OM 240"
+			],
+			"status": "O"
 		}
 	],
 	"semester": 2,
-	"status": "O",
+	"status": "C",
 	"term": 20152,
 	"times": [
 		"M-F 0800-1000"

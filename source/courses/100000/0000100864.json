@@ -5,14 +5,27 @@
 	"depts": [
 		"ESTH"
 	],
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
-		"Staff"
+		"William Sean Goldsworthy"
 	],
 	"level": 300,
-	"name": "IR/",
+	"name": "IR/Kinesio Tape for DOMS Research 1",
 	"num": 398,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-01-12T10:00:41.574547-06:00",
+			"gereqs": null,
+			"instructors": [
+				"Staff"
+			],
+			"name": "IR/"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20152,
