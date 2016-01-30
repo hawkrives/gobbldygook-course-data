@@ -5,7 +5,7 @@
 	"depts": [
 		"SOAN"
 	],
-	"desc": "Students learn to design and conduct qualitative research in the tradition of sociological and anthropological ethnography. Students discuss theoretical approaches to ethnography and learn data collection methods through case studies and fieldwork assignments. Students use their own research to gain experience in interpreting field notes, doing analysis, and writing an ethnographic interpretation of their research findings. Open to junior or senior sociology/anthropology majors only. Offered annually in the spring semester. Prerequisite: SOAN 291or SOAN 292.",
+	"desc": "Students learn to design and conduct qualitative research in the tradition of sociological and anthropological ethnography. Students discuss theoretical approaches to ethnography and learn data collection methods through case studies and fieldwork assignments. Students use their own research to gain experience in interpreting field notes, doing analysis, and writing an ethnographic interpretation of their research findings. Offered annually in the spring semester. Counts toward management studies concentration. Prerequisite: SOAN 291 or SOAN 292. Open to junior or senior sociology/anthropology majors only.",
 	"gereqs": [
 		"WRI"
 	],
@@ -21,7 +21,7 @@
 	"notes": "Open to Sociology/Anthropology majors only.",
 	"num": 373,
 	"pf": false,
-	"prerequisites": "Prerequisite: SOAN 291or SOAN 292.",
+	"prerequisites": "Prerequisite: SOAN 291 or SOAN 292. Open to junior or senior sociology/anthropology majors only.",
 	"revisions": [
 		{
 			"_updated": "2015-04-07T16:54:38.756349-05:00",
@@ -29,6 +29,11 @@
 				"OM 110",
 				"OM 110"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:43.933963-06:00",
+			"desc": "Students learn to design and conduct qualitative research in the tradition of sociological and anthropological ethnography. Students discuss theoretical approaches to ethnography and learn data collection methods through case studies and fieldwork assignments. Students use their own research to gain experience in interpreting field notes, doing analysis, and writing an ethnographic interpretation of their research findings. Open to junior or senior sociology/anthropology majors only. Offered annually in the spring semester. Prerequisite: SOAN 291or SOAN 292.",
+			"prerequisites": "Prerequisite: SOAN 291or SOAN 292."
 		}
 	],
 	"section": "A",

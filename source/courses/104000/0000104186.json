@@ -5,7 +5,7 @@
 	"depts": [
 		"ESTH"
 	],
-	"desc": "Students may be co-registered for the capstone course and their final core courses in the major. Students conduct semester-long research on a topic and present their findings in the formof a research paper. Offered annually. Prerequisite: senior standing.",
+	"desc": "Students may be co-registered for the capstone course and their final core courses in the major. Students conduct semester-long research on a topic and present their findings in the form of a research paper. Offered annually. Prerequisite: senior standing.",
 	"gereqs": [
 		"WRI"
 	],
@@ -21,6 +21,12 @@
 	"num": 390,
 	"pf": false,
 	"prerequisites": "Prerequisite: senior standing.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T08:55:44.909474-06:00",
+			"desc": "Students may be co-registered for the capstone course and their final core courses in the major. Students conduct semester-long research on a topic and present their findings in the formof a research paper. Offered annually. Prerequisite: senior standing."
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

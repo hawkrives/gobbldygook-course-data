@@ -5,7 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
-	"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 750 characters. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the fall semester. Prerequisite: CHIN 112 or equivalent.",
+	"desc": "This course is for students who have successfully completed CHIN 112 or students who have had at least one year of Chinese learning experience. It aims to enhance students' proficiency in all four language skills (speaking, listening, reading, and writing) as well as knowledge of various Chinese communities and cross-cultural communications. Students should achieve the Intermediate Low/Medium level on the ACTFL proficiency scale. Class meets four times weekly. Prerequisite: CHIN 112 or placement.",
 	"gereqs": [
 		"FOL-C"
 	],
@@ -21,7 +21,7 @@
 	"notes": "Students in Chinese 231B must also register for one lab Chinese 231AL or BL.",
 	"num": 231,
 	"pf": false,
-	"prerequisites": "Prerequisite: CHIN 112 or equivalent.",
+	"prerequisites": "Prerequisite: CHIN 112 or placement.",
 	"revisions": [
 		{
 			"_updated": "2015-03-25T23:19:11.160004-05:00",
@@ -32,6 +32,11 @@
 		{
 			"_updated": "2015-09-22T23:33:13.412866-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:55:50.743422-06:00",
+			"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 750 characters. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the fall semester. Prerequisite: CHIN 112 or equivalent.",
+			"prerequisites": "Prerequisite: CHIN 112 or equivalent."
 		}
 	],
 	"section": "B",

@@ -5,7 +5,7 @@
 	"depts": [
 		"CSCI"
 	],
-	"desc": "This course explores modern computer hardware, emphasizing trade-offs among architectural choices and examining representative examples. Programming exercises explore how these topics relate to five high-level programming languages. Topics include virtual machines, overview of computer organization, forms of parallelism, machine-level implementation of programming language features, memory organization, digital logic, microprogrammed and RISC architectures, multi-core architectures, performance enhancements, assembly programming, and architecture of networks and their protocols. Offered annually. Prerequisite: CSCI 121 or CSCI 125 or consent of the instructor.",
+	"desc": "This course explores modern computer hardware, emphasizing trade-offs among architectural choices and examining representative examples. Programming exercises explore how these topics relate to five high-level programming languages. Topics include virtual machines, overview of computer organization, forms of parallelism, machine-level implementation of programming language features, memory organization, digital logic, microprogrammed and RISC architectures, multi-core architectures, performance enhancements, assembly programming, and architecture of networks and their protocols. Offered annually. Counts toward management studies concentration. Prerequisite: CSCI 121 or CSCI 125 or consent of the instructor.",
 	"instructors": [
 		"Richard Brown"
 	],
@@ -27,6 +27,10 @@
 			"locations": [
 				"RNS 203"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:50.656617-06:00",
+			"desc": "This course explores modern computer hardware, emphasizing trade-offs among architectural choices and examining representative examples. Programming exercises explore how these topics relate to five high-level programming languages. Topics include virtual machines, overview of computer organization, forms of parallelism, machine-level implementation of programming language features, memory organization, digital logic, microprogrammed and RISC architectures, multi-core architectures, performance enhancements, assembly programming, and architecture of networks and their protocols. Offered annually. Prerequisite: CSCI 121 or CSCI 125 or consent of the instructor."
 		}
 	],
 	"semester": 1,

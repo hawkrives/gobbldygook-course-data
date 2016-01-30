@@ -5,7 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
-	"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Prerequisite: CHIN 232 or equivalent.",
+	"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Counts toward management studies concentration. Prerequisite: CHIN 232 or equivalent.",
 	"gereqs": [
 		"FOL-C"
 	],
@@ -30,6 +30,11 @@
 		{
 			"_updated": "2015-04-28T18:00:16.347481-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:55:50.125290-06:00",
+			"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Prerequisite: CHIN 232 or equivalent.",
+			"title": null
 		}
 	],
 	"semester": 1,
@@ -38,6 +43,7 @@
 	"times": [
 		"MWF 1255-0150PM"
 	],
+	"title": "Third-Year Chinese I",
 	"type": "Research",
 	"year": 2015
 }

@@ -5,7 +5,7 @@
 	"depts": [
 		"MATH"
 	],
-	"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students.",
+	"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Counts toward computer science mjaor. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students.",
 	"gereqs": [
 		"WRI"
 	],
@@ -41,6 +41,10 @@
 		{
 			"_updated": "2015-09-22T23:33:17.052879-05:00",
 			"notes": null
+		},
+		{
+			"_updated": "2016-01-30T08:55:51.183357-06:00",
+			"desc": "Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students."
 		}
 	],
 	"section": "B",

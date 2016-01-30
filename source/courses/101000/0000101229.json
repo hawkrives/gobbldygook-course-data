@@ -5,7 +5,7 @@
 	"depts": [
 		"ENGL"
 	],
-	"desc": "Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: Completion of ENGL 293 or permission of the instructor.",
+	"desc": "Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: completion of ENGL 293 or permission of the instructor.",
 	"gereqs": [
 		"WRI"
 	],
@@ -20,7 +20,7 @@
 	"notes": "Open to students who have taken a 200-level workshop in that genre or by permission of the instructor. Any student who does not meet the requirements will be removed from the class after registration.",
 	"num": 372,
 	"pf": false,
-	"prerequisites": "Prerequisites: Completion of ENGL 293 or permission of the instructor.",
+	"prerequisites": "Prerequisites: completion of ENGL 293 or permission of the instructor.",
 	"revisions": [
 		{
 			"_updated": "2015-03-25T23:19:13.446723-05:00",
@@ -42,6 +42,11 @@
 			"locations": [
 				"RML 520"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:43.559285-06:00",
+			"desc": "Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: Completion of ENGL 293 or permission of the instructor.",
+			"prerequisites": "Prerequisites: Completion of ENGL 293 or permission of the instructor."
 		}
 	],
 	"semester": 3,

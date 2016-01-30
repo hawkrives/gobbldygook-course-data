@@ -5,7 +5,7 @@
 	"depts": [
 		"MATH"
 	],
-	"desc": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Prerequisite: MATH 119 or MATH 120.",
+	"desc": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120.",
 	"gereqs": [
 		"AQR"
 	],
@@ -33,6 +33,10 @@
 		{
 			"_updated": "2015-12-01T00:04:53.188044-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:55:43.919769-06:00",
+			"desc": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Prerequisite: MATH 119 or MATH 120."
 		}
 	],
 	"section": "D",

@@ -5,7 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
-	"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Prerequisite: CHIN 301 or equivalent.",
+	"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Counts toward management studies concentration. Prerequisite: CHIN 301 or equivalent.",
 	"gereqs": [
 		"FOL-C"
 	],
@@ -45,6 +45,11 @@
 			"instructors": [
 				"Ying Zhou"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:43.555450-06:00",
+			"desc": "This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Prerequisite: CHIN 301 or equivalent.",
+			"title": null
 		}
 	],
 	"semester": 3,
@@ -53,6 +58,7 @@
 	"times": [
 		"MWF 0905-1000"
 	],
+	"title": "Third-Year Chinese II",
 	"type": "Research",
 	"year": 2015
 }

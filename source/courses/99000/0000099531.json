@@ -5,7 +5,7 @@
 	"depts": [
 		"SOAN"
 	],
-	"desc": "This course introduces students to anthropological theory and the \"culture\" of the discipline itself. Students examine anthropology's formation during the Industrial Revolution and the Age of Empire, which called for new explanations of human differences and gave new significance to the nature and meaning of \"culture.\" They explore the method of participant observation research, the question of whether anthropology is a science, the problem of representing one culture to another, and the changing nature of ethnographic writing. Open to sociology/anthropology majors only. Offered annually in the fall semester.",
+	"desc": "This course introduces students to anthropological theory and the \"culture\" of the discipline itself. Students examine anthropology's formation during the Industrial Revolution and the Age of Empire, which called for new explanations of human differences and gave new significance to the nature and meaning of \"culture.\" They explore the method of participant observation research, the question of whether anthropology is a science, the problem of representing one culture to another, and the changing nature of ethnographic writing. Offered annually in the fall semester. Prerequsite: open to sociology/anthropology majors only.",
 	"gereqs": [
 		"WRI"
 	],
@@ -20,7 +20,7 @@
 	"notes": "Open to Sociology/Anthropology majors only.",
 	"num": 292,
 	"pf": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequsite: open to sociology/anthropology majors only.",
 	"revisions": [
 		{
 			"_updated": "2015-03-25T23:19:10.728416-05:00",
@@ -37,6 +37,11 @@
 			"locations": [
 				"HH 302"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:50.187102-06:00",
+			"desc": "This course introduces students to anthropological theory and the \"culture\" of the discipline itself. Students examine anthropology's formation during the Industrial Revolution and the Age of Empire, which called for new explanations of human differences and gave new significance to the nature and meaning of \"culture.\" They explore the method of participant observation research, the question of whether anthropology is a science, the problem of representing one culture to another, and the changing nature of ethnographic writing. Open to sociology/anthropology majors only. Offered annually in the fall semester.",
+			"prerequisites": false
 		}
 	],
 	"section": "B",

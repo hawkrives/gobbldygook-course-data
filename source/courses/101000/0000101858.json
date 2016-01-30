@@ -5,7 +5,7 @@
 	"depts": [
 		"ESAC"
 	],
-	"desc": "This course teaches the skills necessary for lifeguarding, first aid, AED, CPR, and waterfront guarding certification. Students must be able to swim 550 yards (22 lengths).",
+	"desc": "This course teaches the skills necessary for lifeguarding, first aid, AED, CPR, and waterfront guarding certification. Prerequisite: must be able to swim 550 yards (22 lengths).",
 	"gereqs": [
 		"SPM"
 	],
@@ -19,7 +19,7 @@
 	"name": "Lifeguard Training",
 	"num": 122,
 	"pf": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequisite: must be able to swim 550 yards (22 lengths).",
 	"revisions": [
 		{
 			"_updated": "2015-05-05T12:00:21.322700-05:00",
@@ -30,6 +30,11 @@
 		{
 			"_updated": "2015-12-11T18:00:59.199930-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:55:44.219719-06:00",
+			"desc": "This course teaches the skills necessary for lifeguarding, first aid, AED, CPR, and waterfront guarding certification. Students must be able to swim 550 yards (22 lengths).",
+			"prerequisites": false
 		}
 	],
 	"semester": 3,

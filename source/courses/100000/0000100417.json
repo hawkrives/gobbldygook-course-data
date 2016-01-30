@@ -5,7 +5,7 @@
 	"depts": [
 		"MATH"
 	],
-	"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+	"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topic is different. Offered annually.",
 	"instructors": [
 		"Marju Purin"
 	],
@@ -30,6 +30,10 @@
 		{
 			"_updated": "2015-04-28T18:00:23.037373-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:55:51.213338-06:00",
+			"desc": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 		}
 	],
 	"semester": 1,

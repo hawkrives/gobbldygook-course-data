@@ -5,7 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
-	"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 1,000 characters. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the spring semester. Prerequisite: CHIN 231 or equivalent.",
+	"desc": "This course is for students who have successfully completed CHIN 231 or students with equivalent previous Chinese learning experiences. It aims to further enhance students' proficiency in all four language skills (speaking, listening, reading, and writing) as well as knowledge of various Chinese communities and cross-cultural communications. Students should achieve the Intermediate Medium/High level on the ACTFL proficiency scale. Class meets four times weekly. Counts toward management studies concentration. Prerequisite: CHIN 231 or placement.",
 	"gereqs": [
 		"FOL-C"
 	],
@@ -21,7 +21,7 @@
 	"notes": "Students in Chinese 232B must also register for one lab Chinese 232AL or BL.",
 	"num": 232,
 	"pf": false,
-	"prerequisites": "Prerequisite: CHIN 231 or equivalent.",
+	"prerequisites": "Prerequisite: CHIN 231 or placement.",
 	"revisions": [
 		{
 			"_updated": "2015-04-07T16:54:38.922964-05:00",
@@ -34,6 +34,11 @@
 			"instructors": [
 				"Hsiang-Lin Shih"
 			]
+		},
+		{
+			"_updated": "2016-01-30T08:55:44.066459-06:00",
+			"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 1,000 characters. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the spring semester. Prerequisite: CHIN 231 or equivalent.",
+			"prerequisites": "Prerequisite: CHIN 231 or equivalent."
 		}
 	],
 	"section": "B",
