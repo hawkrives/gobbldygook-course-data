@@ -11,13 +11,14 @@
 		"WRI"
 	],
 	"instructors": [
-		"Margaret Odell"
+		"Staff"
 	],
 	"level": 200,
 	"locations": [
 		"OM 305"
 	],
 	"name": "Hebr Proph/Christian Trad",
+	"notes": "This course has been canceled.",
 	"num": 273,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
@@ -41,10 +42,18 @@
 		{
 			"_updated": "2015-12-22T18:00:37.225795-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:51:20.370546-06:00",
+			"instructors": [
+				"Margaret Odell"
+			],
+			"notes": null,
+			"status": "C"
 		}
 	],
 	"semester": 3,
-	"status": "C",
+	"status": "X",
 	"term": 20153,
 	"times": [
 		"MWF 1150-1245PM"

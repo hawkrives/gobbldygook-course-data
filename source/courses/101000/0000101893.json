@@ -12,7 +12,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 150"
+		"RNS 310"
 	],
 	"name": "Microbiology",
 	"notes": "Students in Bio 231 must also register for one lab Bio 231 AL, BL, or CL. This course has class-year limits.",
@@ -23,6 +23,12 @@
 		{
 			"_updated": "2015-11-16T18:00:40.982135-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T08:51:19.699132-06:00",
+			"locations": [
+				"RNS 150"
+			]
 		}
 	],
 	"semester": 3,
