@@ -5,7 +5,7 @@
 	"depts": [
 		"GREEK"
 	],
-	"desc": "Like the genre that it describes, the word drama is itself of Greek origin. From the treasure-trove left to us by Aeschylus, Sophocles, Euripides, Aristophanes, and Menander, students translate one or two complete plays and discuss the evolution of the Greek theater, staging, and modern interpretations. Prerequisite: GREEK 231 or equivalent. Offered alternate years.",
+	"desc": "Like the genre that it describes, the word drama is itself of Greek origin. From the treasure-trove left to us by Aeschylus, Sophocles, Euripides, Aristophanes, and Menander, students translate one or two complete plays and discuss the evolution of the Greek theater, staging, and modern interpretations. Offered alternate years. Prerequisite: GREEK 231 or equivalent.",
 	"gereqs": [
 		"FOL-K"
 	],
@@ -20,13 +20,18 @@
 	"name": "Greek Drama",
 	"num": 374,
 	"pf": false,
-	"prerequisites": "Prerequisite: GREEK 231 or equivalent. Offered alternate years.",
+	"prerequisites": "Prerequisite: GREEK 231 or equivalent.",
 	"revisions": [
 		{
 			"_updated": "2015-10-31T00:23:19.433991-05:00",
 			"instructors": [
 				"Lisa Whitlatch"
 			]
+		},
+		{
+			"_updated": "2016-01-30T09:05:07.364427-06:00",
+			"desc": "Like the genre that it describes, the word drama is itself of Greek origin. From the treasure-trove left to us by Aeschylus, Sophocles, Euripides, Aristophanes, and Menander, students translate one or two complete plays and discuss the evolution of the Greek theater, staging, and modern interpretations. Prerequisite: GREEK 231 or equivalent. Offered alternate years.",
+			"prerequisites": "Prerequisite: GREEK 231 or equivalent. Offered alternate years."
 		}
 	],
 	"semester": 3,

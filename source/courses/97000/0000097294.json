@@ -5,7 +5,7 @@
 	"depts": [
 		"LATIN"
 	],
-	"desc": "The Romans claimed that satire was a literary genre of their own creation. Students are able to weigh the merits of that claim as they translate selections from the wry and witty texts of prominent Roman satirists such as Horace, Petronius, Martial, and Juvenal. Prerequisite: LATIN 231 or equivalent. Offered every third year.",
+	"desc": "The Romans claimed that satire was a literary genre of their own creation. Students are able to weigh the merits of that claim as they translate selections from the wry and witty texts of prominent Roman satirists such as Horace, Petronius, Martial, and Juvenal. Offered periodically. Prerequisite: LATIN 231 or equivalent.",
 	"gereqs": [
 		"FOL-L"
 	],
@@ -20,7 +20,14 @@
 	"name": "Latin Satire",
 	"num": 377,
 	"pf": false,
-	"prerequisites": "Prerequisite: LATIN 231 or equivalent. Offered every third year.",
+	"prerequisites": "Prerequisite: LATIN 231 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.367961-06:00",
+			"desc": "The Romans claimed that satire was a literary genre of their own creation. Students are able to weigh the merits of that claim as they translate selections from the wry and witty texts of prominent Roman satirists such as Horace, Petronius, Martial, and Juvenal. Prerequisite: LATIN 231 or equivalent. Offered every third year.",
+			"prerequisites": "Prerequisite: LATIN 231 or equivalent. Offered every third year."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

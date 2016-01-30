@@ -5,7 +5,7 @@
 	"depts": [
 		"NURS"
 	],
-	"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+	"desc": "Does not count toward the major. Students may choose a 1.00, 0.50, or 0.25 credit option.",
 	"instructors": [
 		"Diana Neal"
 	],
@@ -14,11 +14,17 @@
 	"num": 394,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.627989-06:00",
+			"desc": "Does not count toward the major. Students may choose a 1.00-, .50-, or .25-credit option.",
+			"title": "Internship"
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"title": "Internship",
 	"type": "Research",
 	"year": 2014
 }

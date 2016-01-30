@@ -5,7 +5,7 @@
 	"depts": [
 		"GERM"
 	],
-	"desc": "Independent Research. May be counted toward German major or German studies concentration.",
+	"desc": "May be counted toward German major or German studies concentration.",
 	"instructors": [
 		"Sylvia Fischer"
 	],
@@ -22,6 +22,10 @@
 			],
 			"name": "IR/",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T09:05:06.853582-06:00",
+			"desc": "Independent Research. May be counted toward German major or German studies concentration."
 		}
 	],
 	"semester": 3,

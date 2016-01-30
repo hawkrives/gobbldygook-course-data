@@ -5,7 +5,6 @@
 	"depts": [
 		"MGMT"
 	],
-	"desc": "Independent Study",
 	"instructors": [
 		"Staff"
 	],
@@ -14,6 +13,12 @@
 	"num": 398,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.837260-06:00",
+			"desc": "Independent Study"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

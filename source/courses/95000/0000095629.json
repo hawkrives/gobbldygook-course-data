@@ -5,7 +5,7 @@
 	"depts": [
 		"DANCE"
 	],
-	"desc": "This course offers a further exploration of ballet vocabulary and technique for the advanced dancer with an emphasis on clarity, intention, and musicality. Open to majors and other students with instructor's permission. Prerequisite: DANCE 221. May be repeated with permission of instructor. Offered each semester.",
+	"desc": "This course offers a further exploration of ballet vocabulary and technique for the advanced dancer with an emphasis on clarity, intention, and musicality. May be repeated with permission of instructor. Offered each semester. Prerequisite: DANCE 221. Open to dance majors and other students with instructor's permission.",
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -21,7 +21,14 @@
 	"name": "Ballet III",
 	"num": 321,
 	"pf": false,
-	"prerequisites": "Prerequisite: DANCE 221. May be repeated with permission of instructor. Offered each semester.",
+	"prerequisites": "Prerequisite: DANCE 221. Open to dance majors and other students with instructor's permission.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.411691-06:00",
+			"desc": "This course offers a further exploration of ballet vocabulary and technique for the advanced dancer with an emphasis on clarity, intention, and musicality. Open to majors and other students with instructor's permission. Prerequisite: DANCE 221. May be repeated with permission of instructor. Offered each semester.",
+			"prerequisites": "Prerequisite: DANCE 221. May be repeated with permission of instructor. Offered each semester."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

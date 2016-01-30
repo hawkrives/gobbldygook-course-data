@@ -5,7 +5,7 @@
 	"depts": [
 		"MUSIC"
 	],
-	"desc": "Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Prerequisite: MUSIC 114 or permission of instructor. Offered annually in the spring semester.",
+	"desc": "Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Offered annually in the spring semester. Prerequisite: MUSIC 114 or permission of instructor.",
 	"instructors": [
 		"Anton Armstrong"
 	],
@@ -17,7 +17,14 @@
 	"name": "Conducting",
 	"num": 251,
 	"pf": false,
-	"prerequisites": "Prerequisite: MUSIC 114 or permission of instructor. Offered annually in the spring semester.",
+	"prerequisites": "Prerequisite: MUSIC 114 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.567717-06:00",
+			"desc": "Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Prerequisite: MUSIC 114 or permission of instructor. Offered annually in the spring semester.",
+			"prerequisites": "Prerequisite: MUSIC 114 or permission of instructor. Offered annually in the spring semester."
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

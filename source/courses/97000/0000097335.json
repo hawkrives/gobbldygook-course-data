@@ -5,7 +5,7 @@
 	"depts": [
 		"REL"
 	],
-	"desc": "This course explores the meaning and significance of Jesus Christ in major New Testament writings: the Gospels, the letters of Paul, Hebrews, Revelation. Students also examine the development of New Testament ideas about Christ in subsequent Christian tradition, both classical and contemporary. Prerequisite: BTS-B. Counts toward ancient studies major.",
+	"desc": "This course explores the meaning and significance of Jesus Christ in major New Testament writings: the Gospels, the letters of Paul, Hebrews, Revelation. Students also examine the development of New Testament ideas about Christ in subsequent Christian tradition, both classical and contemporary. Counts toward ancient studies major. Prerequisite: BTS-B.",
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -21,7 +21,14 @@
 	"name": "Jesus in Script/Trad",
 	"num": 221,
 	"pf": false,
-	"prerequisites": "Prerequisite: BTS-B. Counts toward ancient studies major.",
+	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.422409-06:00",
+			"desc": "This course explores the meaning and significance of Jesus Christ in major New Testament writings: the Gospels, the letters of Paul, Hebrews, Revelation. Students also examine the development of New Testament ideas about Christ in subsequent Christian tradition, both classical and contemporary. Prerequisite: BTS-B. Counts toward ancient studies major.",
+			"prerequisites": "Prerequisite: BTS-B. Counts toward ancient studies major."
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "C",

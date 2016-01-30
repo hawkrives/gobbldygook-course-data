@@ -5,7 +5,7 @@
 	"depts": [
 		"REL"
 	],
-	"desc": "This course provides a critical analysis of the development of Christian thought in the Middle Ages and Reformation, 11th through 16th centuries. Particular attention is paid to the great theological systems of the Middle Ages and to the theological aims of the 16th-century reforming movements, drawing upon readings from Anselm, Aquinas, Bonaventure, Luther, Calvin, and others. Prerequisite: BTS-B. Counts toward medieval studies major.",
+	"desc": "This course provides a critical analysis of the development of Christian thought in the Middle Ages and Reformation, 11th through 16th centuries. Particular attention is paid to the great theological systems of the Middle Ages and to the theological aims of the 16th-century reforming movements, drawing upon readings from Anselm, Aquinas, Bonaventure, Luther, Calvin, and others. Counts toward medieval studies major. Prerequisite: BTS-B.",
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -20,7 +20,14 @@
 	"name": "Hist Chr Thought II",
 	"num": 303,
 	"pf": false,
-	"prerequisites": "Prerequisite: BTS-B. Counts toward medieval studies major.",
+	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.431787-06:00",
+			"desc": "This course provides a critical analysis of the development of Christian thought in the Middle Ages and Reformation, 11th through 16th centuries. Particular attention is paid to the great theological systems of the Middle Ages and to the theological aims of the 16th-century reforming movements, drawing upon readings from Anselm, Aquinas, Bonaventure, Luther, Calvin, and others. Prerequisite: BTS-B. Counts toward medieval studies major.",
+			"prerequisites": "Prerequisite: BTS-B. Counts toward medieval studies major."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

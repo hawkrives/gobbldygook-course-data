@@ -5,7 +5,7 @@
 	"depts": [
 		"JAPAN"
 	],
-	"desc": "Students continue to develop the listening, speaking, reading and writing skills that enable them to deal not only with topics of daily life, but also cultural themes and authentic materials. Class meets four times weekly. Prerequisite: JAPAN 231 or its equivalent. Offered annually in the spring semester.",
+	"desc": "Students continue to develop the listening, speaking, reading and writing skills that enable them to deal not only with topics of daily life, but also cultural themes and authentic materials. Class meets four times weekly. Offered annually in the spring semester. Prerequisite: JAPAN 231 or its equivalent.",
 	"gereqs": [
 		"FOL-J"
 	],
@@ -20,7 +20,14 @@
 	"name": "Intermed Japanese II",
 	"num": 232,
 	"pf": false,
-	"prerequisites": "Prerequisite: JAPAN 231 or its equivalent. Offered annually in the spring semester.",
+	"prerequisites": "Prerequisite: JAPAN 231 or its equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.563995-06:00",
+			"desc": "Students continue to develop the listening, speaking, reading and writing skills that enable them to deal not only with topics of daily life, but also cultural themes and authentic materials. Class meets four times weekly. Prerequisite: JAPAN 231 or its equivalent. Offered annually in the spring semester.",
+			"prerequisites": "Prerequisite: JAPAN 231 or its equivalent. Offered annually in the spring semester."
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

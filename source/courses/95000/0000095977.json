@@ -5,7 +5,7 @@
 	"depts": [
 		"CHIN"
 	],
-	"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 1,000 characters. Class meets four times weekly. Individual language laboratory visits are also required. Prerequisite: CHIN 231 or equivalent. Offered annually in the spring semester",
+	"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 1,000 characters. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the spring semester. Prerequisite: CHIN 231 or equivalent.",
 	"gereqs": [
 		"FOL-C"
 	],
@@ -21,7 +21,14 @@
 	"notes": "Students in Chinese 232B must also register for one lab Chinese 232AL or BL.",
 	"num": 232,
 	"pf": false,
-	"prerequisites": "Prerequisite: CHIN 231 or equivalent. Offered annually in the spring semester",
+	"prerequisites": "Prerequisite: CHIN 231 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.752171-06:00",
+			"desc": "Students continue to develop listening and reading comprehension and use of basic structures through speaking and writing. The vocabulary for reading and writing increases to 1,000 characters. Class meets four times weekly. Individual language laboratory visits are also required. Prerequisite: CHIN 231 or equivalent. Offered annually in the spring semester",
+			"prerequisites": "Prerequisite: CHIN 231 or equivalent. Offered annually in the spring semester"
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

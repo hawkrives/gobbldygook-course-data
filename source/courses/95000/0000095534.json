@@ -5,7 +5,6 @@
 	"depts": [
 		"PSYCH"
 	],
-	"desc": "Internship",
 	"instructors": [
 		"Staff"
 	],
@@ -14,6 +13,12 @@
 	"num": 394,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.332421-06:00",
+			"desc": "Internship"
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,

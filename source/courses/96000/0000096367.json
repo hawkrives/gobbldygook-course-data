@@ -5,7 +5,7 @@
 	"depts": [
 		"EDUC"
 	],
-	"desc": "This course is designed to assist students in developing their own teacher style as they prepare to become full-time teachers. Topics include the roles and responsibilities of teachers, methods of instruction, planning, classroom management, assessment and reporting and other current educational issues. Through micro-teaching and school-based field experiences, they also practice instructional skills and techniques. Required 20-hour field experience. Prerequisite: EDUC 290 and approval of teacher education application. Offered each semester.",
+	"desc": "This course is designed to assist students in developing their own teacher style as they prepare to become full-time teachers. Topics include the roles and responsibilities of teachers, methods of instruction, planning, classroom management, assessment and reporting and other current educational issues. Through micro-teaching and school-based field experiences, they also practice instructional skills and techniques. Required 20-hour field experience. Offered each semester. Prerequisite: EDUC 290 and approval of teacher education application.",
 	"gereqs": [
 		"ORC"
 	],
@@ -20,7 +20,14 @@
 	"notes": "Open to Juniors and Seniors only.",
 	"num": 330,
 	"pf": false,
-	"prerequisites": "Prerequisite: EDUC 290 and approval of teacher education application. Offered each semester.",
+	"prerequisites": "Prerequisite: EDUC 290 and approval of teacher education application.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.085106-06:00",
+			"desc": "This course is designed to assist students in developing their own teacher style as they prepare to become full-time teachers. Topics include the roles and responsibilities of teachers, methods of instruction, planning, classroom management, assessment and reporting and other current educational issues. Through micro-teaching and school-based field experiences, they also practice instructional skills and techniques. Required 20-hour field experience. Prerequisite: EDUC 290 and approval of teacher education application. Offered each semester.",
+			"prerequisites": "Prerequisite: EDUC 290 and approval of teacher education application. Offered each semester."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

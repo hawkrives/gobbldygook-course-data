@@ -5,7 +5,7 @@
 	"depts": [
 		"ECON"
 	],
-	"desc": "This class applies economic principles to issues of urban development. Topics include urban economic history, location analysis, policy analysis (especially concerning poverty, housing, transportation and education), land use controls, and macroeconomic forecasting. Prerequisites: one of Economics 110-121 or permission of instructor. Offered annually.",
+	"desc": "This class applies economic principles to issues of urban development. Topics include urban economic history, location analysis, policy analysis (especially concerning poverty, housing, transportation and education), land use controls, and macroeconomic forecasting. Offered annually. Prerequisites: one of Economics 110-121 or permission of instructor.",
 	"instructors": [
 		"Steve Soderlind"
 	],
@@ -16,7 +16,14 @@
 	"name": "Urban Economics",
 	"num": 249,
 	"pf": false,
-	"prerequisites": "Prerequisites: one of Economics 110-121 or permission of instructor. Offered annually.",
+	"prerequisites": "Prerequisites: one of Economics 110-121 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:07.386252-06:00",
+			"desc": "This class applies economic principles to issues of urban development. Topics include urban economic history, location analysis, policy analysis (especially concerning poverty, housing, transportation and education), land use controls, and macroeconomic forecasting. Prerequisites: one of Economics 110-121 or permission of instructor. Offered annually.",
+			"prerequisites": "Prerequisites: one of Economics 110-121 or permission of instructor. Offered annually."
+		}
+	],
 	"semester": 3,
 	"status": "C",
 	"term": 20143,

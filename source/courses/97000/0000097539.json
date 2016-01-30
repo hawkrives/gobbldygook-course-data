@@ -5,7 +5,7 @@
 	"depts": [
 		"ENGL"
 	],
-	"desc": "These courses emphasize the study of literature united by specific formal elements rather than by theme, topic, historical period, or national origin. The genre studied may be broad, such as narrative fiction, or narrowly defined, such as the elegy. The course focuses on the study of literature through a critical exploration of form. May be repeated if topics are different. Prerequisite: FYW. Click on course title in the class and lab for more information about the course for that term.",
+	"desc": "These courses emphasize the study of literature united by specific formal elements rather than by theme, topic, historical period, or national origin. The genre studied may be broad, such as narrative fiction, or narrowly defined, such as the elegy. The course focuses on the study of literature through a critical exploration of form. May be repeated if topics are different. Click on course title in the class and lab for more information about the course for that term. Prerequisite: FYW.",
 	"gereqs": [
 		"ALS-L"
 	],
@@ -20,11 +20,16 @@
 	"name": "Top: Memoir Boom",
 	"num": 280,
 	"pf": false,
-	"prerequisites": "Prerequisite: FYW. Click on course title in the class and lab for more information about the course for that term.",
+	"prerequisites": "Prerequisite: FYW.",
 	"revisions": [
 		{
 			"_updated": "2015-03-10T16:59:58.222533-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-01-30T09:05:07.508505-06:00",
+			"desc": "These courses emphasize the study of literature united by specific formal elements rather than by theme, topic, historical period, or national origin. The genre studied may be broad, such as narrative fiction, or narrowly defined, such as the elegy. The course focuses on the study of literature through a critical exploration of form. May be repeated if topics are different. Prerequisite: FYW. Click on course title in the class and lab for more information about the course for that term.",
+			"prerequisites": "Prerequisite: FYW. Click on course title in the class and lab for more information about the course for that term."
 		}
 	],
 	"section": "B",

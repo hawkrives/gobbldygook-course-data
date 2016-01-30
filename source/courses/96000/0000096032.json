@@ -5,7 +5,7 @@
 	"depts": [
 		"MGMT"
 	],
-	"desc": "This introduction to making personal investment decisions provides a foundation for students seeking a career in the investment field. Although stocks are the primary focus, bonds, options, futures and mutual funds are also introduced. Topics include risk and return, security analysis, valuation theory, stock investment systems, and portfolio management. Students analyze historical data using a computer database and spreadsheet. Prerequisites: MGMT 281 and a statistics course, or permission of instructor. Offered annually.",
+	"desc": "This introduction to making personal investment decisions provides a foundation for students seeking a career in the investment field. Although stocks are the primary focus, bonds, options, futures and mutual funds are also introduced. Topics include risk and return, security analysis, valuation theory, stock investment systems, and portfolio management. Students analyze historical data using a computer database and spreadsheet. Offered annually. Prerequisites: MGMT 281 and a statistics course, or permission of instructor.",
 	"instructors": [
 		"Richard Goedde"
 	],
@@ -17,7 +17,14 @@
 	"name": "Investments",
 	"num": 380,
 	"pf": false,
-	"prerequisites": "Prerequisites: MGMT 281 and a statistics course, or permission of instructor. Offered annually.",
+	"prerequisites": "Prerequisites: MGMT 281 and a statistics course, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.825716-06:00",
+			"desc": "This introduction to making personal investment decisions provides a foundation for students seeking a career in the investment field. Although stocks are the primary focus, bonds, options, futures and mutual funds are also introduced. Topics include risk and return, security analysis, valuation theory, stock investment systems, and portfolio management. Students analyze historical data using a computer database and spreadsheet. Prerequisites: MGMT 281 and a statistics course, or permission of instructor. Offered annually.",
+			"prerequisites": "Prerequisites: MGMT 281 and a statistics course, or permission of instructor. Offered annually."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

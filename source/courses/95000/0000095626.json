@@ -5,7 +5,7 @@
 	"depts": [
 		"DANCE"
 	],
-	"desc": "This course offers an expansion of ballet vocabulary and technique with an emphasis on movement quality, clarity and efficiency. Outside work includes practicing, reading, writing and concert attendance. Open to majors and other students with instructor's permission. Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor. Offered each semester. DANCE 221 may be repeated with permission of instructor.",
+	"desc": "This course offers an expansion of ballet vocabulary and technique with an emphasis on movement quality, clarity and efficiency. Outside work includes practicing, reading, writing and concert attendance. Open to majors and other students with instructor's permission. Offered each semester. Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor.",
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -21,7 +21,14 @@
 	"name": "Ballet II",
 	"num": 220,
 	"pf": false,
-	"prerequisites": "Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor. Offered each semester. DANCE 221 may be repeated with permission of instructor.",
+	"prerequisites": "Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-01-30T09:05:06.405913-06:00",
+			"desc": "This course offers an expansion of ballet vocabulary and technique with an emphasis on movement quality, clarity and efficiency. Outside work includes practicing, reading, writing and concert attendance. Open to majors and other students with instructor's permission. Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor. Offered each semester. DANCE 221 may be repeated with permission of instructor.",
+			"prerequisites": "Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor. Offered each semester. DANCE 221 may be repeated with permission of instructor."
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20143,

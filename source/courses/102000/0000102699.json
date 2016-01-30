@@ -5,7 +5,7 @@
 	"depts": [
 		"REL"
 	],
-	"desc": "Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered periodically during Interim.",
+	"desc": "Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside theological writings. Offered periodically during Interim. Prerequisite: BTS-B.",
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -21,7 +21,7 @@
 	"name": "Quest of Ring/Grail/Cross",
 	"num": 238,
 	"pf": false,
-	"prerequisites": "Prerequisite: BTS-B. Offered periodically during Interim.",
+	"prerequisites": "Prerequisite: BTS-B.",
 	"revisions": [
 		{
 			"term": "20145"
@@ -40,6 +40,11 @@
 			"locations": [
 				"TBA"
 			]
+		},
+		{
+			"_updated": "2016-01-30T09:03:11.964282-06:00",
+			"desc": "Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside of theological writings. Prerequisite: BTS-B. Offered periodically during Interim.",
+			"prerequisites": "Prerequisite: BTS-B. Offered periodically during Interim."
 		}
 	],
 	"semester": 5,
