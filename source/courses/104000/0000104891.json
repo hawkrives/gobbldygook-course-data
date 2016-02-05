@@ -13,7 +13,7 @@
 	"name": "Exploring Teaching",
 	"notes": "Prerequisite: EDUC 260 or EDUC 290. Admission by application. This course is intended for educational studies concentrators in the non-licensure track. This is an off-campus course.",
 	"num": 270,
-	"pf": false,
+	"pf": true,
 	"prerequisites": "Prerequisite: EDUC 260 or EDUC 290.",
 	"revisions": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"_updated": "2015-11-05T18:01:56.302532-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-04T18:00:25.833026-06:00",
+			"pf": false
 		}
 	],
 	"semester": 2,
