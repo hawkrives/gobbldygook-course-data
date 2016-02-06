@@ -15,7 +15,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 297"
+		"RNS 290"
 	],
 	"name": "Conservation Biology",
 	"notes": "Prerequisite: one natural science course.",
@@ -49,6 +49,12 @@
 		{
 			"_updated": "2015-11-11T18:01:21.303952-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-05T18:00:32.599183-06:00",
+			"locations": [
+				"RNS 297"
+			]
 		}
 	],
 	"semester": 3,
