@@ -11,12 +11,20 @@
 	],
 	"level": 100,
 	"locations": [
-		"TOH 110"
+		"TOH 212"
 	],
 	"name": "Beginning Norwegian II",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: NORW 111 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-02-08T18:00:43.541327-06:00",
+			"locations": [
+				"TOH 110"
+			]
+		}
+	],
 	"section": "E",
 	"semester": 3,
 	"status": "O",
