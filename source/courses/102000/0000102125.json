@@ -12,7 +12,7 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 203"
+		"RNS 202"
 	],
 	"name": "Software Design/Lab",
 	"num": 252,
@@ -22,11 +22,18 @@
 		{
 			"_updated": "2016-02-01T21:45:41.159203-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-10T00:00:52.449311-06:00",
+			"locations": [
+				"RNS 203"
+			],
+			"status": "C"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20153,
 	"times": [
 		"W 0300-0500PM"

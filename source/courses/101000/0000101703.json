@@ -10,10 +10,10 @@
 		"WRI"
 	],
 	"instructors": [
-		"Staff"
+		"J. Patrick Dale"
 	],
 	"level": 300,
-	"name": "IR/",
+	"name": "IR/Violence and Religion",
 	"num": 398,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSCI 220 and one course in the subfield or permission of instructor.",
@@ -21,6 +21,13 @@
 		{
 			"_updated": "2016-02-09T18:00:35.612792-06:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2016-02-10T00:00:49.093668-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"name": "IR/"
 		}
 	],
 	"semester": 3,

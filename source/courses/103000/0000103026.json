@@ -6,15 +6,26 @@
 		"HIST"
 	],
 	"instructors": [
-		"Timothy R. Howe"
+		"Staff"
 	],
 	"level": 200,
 	"name": "FLC - Latin",
+	"notes": "This FLC section has been canceled.",
 	"num": 204,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-02-10T00:00:55.219504-06:00",
+			"instructors": [
+				"Timothy R. Howe"
+			],
+			"notes": null,
+			"status": "O"
+		}
+	],
 	"semester": 3,
-	"status": "O",
+	"status": "X",
 	"term": 20153,
 	"type": "FLAC",
 	"year": 2015
