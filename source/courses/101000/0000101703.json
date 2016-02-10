@@ -6,6 +6,9 @@
 		"PSCI"
 	],
 	"desc": "Students who have taken five political science courses, one of which is in the area of the proposed research, may propose an independent research project to a member of the departmental faculty. Prerequisite: PSCI 220 and one course in the subfield or permission of instructor.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Staff"
 	],
@@ -14,6 +17,12 @@
 	"num": 398,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSCI 220 and one course in the subfield or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-02-09T18:00:35.612792-06:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
