@@ -20,11 +20,11 @@
 	],
 	"level": 200,
 	"locations": [
-		"RNS 410",
-		"RNS 410"
+		"TOH 210",
+		"TOH 210"
 	],
 	"name": "AsiaCon3:InterpretJourney",
-	"notes": "Registration restricted to students in the Asian Con program. Course will also meet in RNS 435.",
+	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHIN 231 or JAPAN 231 and ASIAN 215 or ASIAN 216.",
@@ -102,6 +102,14 @@
 			"instructors": [
 				"Robert Entenmann"
 			]
+		},
+		{
+			"_updated": "2016-02-12T00:01:59.370829-06:00",
+			"locations": [
+				"RNS 410",
+				"RNS 410"
+			],
+			"notes": "Registration restricted to students in the Asian Con program. Course will also meet in RNS 435."
 		}
 	],
 	"semester": 3,
