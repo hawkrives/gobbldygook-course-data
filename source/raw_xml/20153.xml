@@ -6725,7 +6725,7 @@
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>MWF 0905-1000</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH316');"&gt;TOH 316&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH210');"&gt;TOH 210&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -21602,6 +21602,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000175</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109433</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>E</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Adv. Ni-Catalyzed Coupling</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22808')"&gt;Kalyani, Dipannita&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109434</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>375</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Advanced Lab</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27148')"&gt;Sanchez-Gonzalez, Rodrigo&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.25</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000211</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
