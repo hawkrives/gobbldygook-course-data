@@ -208,7 +208,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('256')"&gt;Angell, Diane K.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -2686,7 +2686,7 @@
 	</course>
 	<course>
 		<clbid>0000101258</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>DANCE</deptname>
 		<coursenumber>212</coursenumber>
 		<coursesection></coursesection>
@@ -9885,7 +9885,7 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Qualitative Research in China</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15754')"&gt;Tegtmeyer Pak, Katherine S.&lt;/a&gt;</instructors>
@@ -10435,10 +10435,10 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Current Topics</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27147')"&gt;Zanon, Ksenia&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -10699,7 +10699,7 @@
 		<coursenumber>298</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IS/</coursename>
+		<coursename>IS/Digital Archaeology</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15815')"&gt;Howe, Timothy R.&lt;/a&gt;</instructors>
@@ -21646,6 +21646,204 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000211</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109474</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Ni Catalysis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22808')"&gt;Kalyani, Dipannita&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000205</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109475</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>F</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Organometallic Synthesis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5287')"&gt;Miessler, Gary&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109476</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>G</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Plant Tolerance Research</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('25351')"&gt;Mohl, Emily&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109477</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSCI</deptname>
+		<coursenumber>294</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Academic Internship</coursename>
+		<pn>Y</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3418')"&gt;Hofrenning, Daniel&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001139</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109478</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CLASS</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Christian/Roman Pietas</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14999')"&gt;Brunelle, Christopher M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000236</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109481</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>SOAN</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Critical Theory and Praxis</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('14223')"&gt;Williamson, Thomas A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001316</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109482</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MUSIC</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Organ Pedagogy and Literature</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13173')"&gt;Rodland, Catherine R.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000847</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109491</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>B</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Great Con Revisited</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('9090')"&gt;Wilson, Charles&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001239</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109492</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>MUSIC</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Bassoon Pedagogy &amp;amp; Literature</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('17590')"&gt;Maeda, Dana L.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000847</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
