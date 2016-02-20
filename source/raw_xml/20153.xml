@@ -1836,7 +1836,7 @@
 		<coursename>Academic Internship</coursename>
 		<pn>Y</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('3418')"&gt;Hofrenning, Daniel&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>0.50</credits>
 		<gereqs></gereqs>
@@ -6712,7 +6712,7 @@
 	</course>
 	<course>
 		<clbid>0000101526</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PHIL</deptname>
 		<coursenumber>240</coursenumber>
 		<coursesection></coursesection>
@@ -9115,10 +9115,10 @@
 		<coursenumber>398</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IR/</coursename>
+		<coursename>IR/Podcasting in Community</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7676')"&gt;Sonnega, William&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -10089,7 +10089,7 @@
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
-		<gereqs></gereqs>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
 		<meetingtimes></meetingtimes>
 		<meetinglocations></meetinglocations>
 		<varcredits>N</varcredits>
@@ -17954,7 +17954,7 @@
 	</course>
 	<course>
 		<clbid>0000103058</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>REL</deptname>
 		<coursenumber>244</coursenumber>
 		<coursesection>A</coursesection>
@@ -21844,6 +21844,138 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000847</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109523</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>PSYCH</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Cross-Cultural CI Life Quality</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21097')"&gt;Loebach, Jeremy&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001190</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109524</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>G</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Nickelacyde</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26273')"&gt;Everson, Daniel A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109525</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>REL</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>D</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Reviving Edwards</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('4592')"&gt;Lagerquist, L. DeAne&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001257</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109526</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>CHEM</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>H</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Solar Cells II</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('26273')"&gt;Everson, Daniel A.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000223</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109527</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>H</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Reg of Bacterial TBDR Expression</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23548')"&gt;Bowers, Lisa M.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109528</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>I</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Resource Use of Prairie Mammals</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('256')"&gt;Angell, Diane K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
