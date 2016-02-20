@@ -9,10 +9,10 @@
 		"WRI"
 	],
 	"instructors": [
-		"Staff"
+		"Paul T. Jackson"
 	],
 	"level": 200,
-	"name": "IS/",
+	"name": "IS/Fish and Freshwater Aquaculture",
 	"num": 298,
 	"pf": false,
 	"prerequisites": false,
@@ -20,6 +20,13 @@
 		{
 			"_updated": "2016-02-20T00:00:58.588113-06:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2016-02-20T06:01:03.977036-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"name": "IS/"
 		}
 	],
 	"semester": 3,
