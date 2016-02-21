@@ -6,6 +6,9 @@
 		"BIO"
 	],
 	"desc": "Independent research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, a student conceives and performs a research project leading to the production of a major piece of work such as a research paper or poster presentation. Independent research requires permission of a supervisor and completion of an independent research form available at the Registrar's Office or its Web site.",
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Staff"
 	],
@@ -18,6 +21,10 @@
 		{
 			"_updated": "2016-01-30T08:55:44.137129-06:00",
 			"desc": "Independent research is offered for students dedicated to an in-depth research experience. In conjunction with a faculty supervisor, a student conceives and performs a research project leading to the writing of a major research paper and a poster presentation. Independent research requires permission of a supervisor, a secondary faculty reader of the paper, and completion of an independent research form available at the Office of the Registrar and Academic Advising or its Web site."
+		},
+		{
+			"_updated": "2016-02-20T18:00:53.067344-06:00",
+			"gereqs": null
 		}
 	],
 	"semester": 3,
