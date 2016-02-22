@@ -10,10 +10,10 @@
 		"WRI"
 	],
 	"instructors": [
-		"Staff"
+		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"name": "IR/",
+	"name": "IR/Gene Expression by qDCR",
 	"num": 398,
 	"pf": false,
 	"prerequisites": false,
@@ -25,6 +25,13 @@
 		{
 			"_updated": "2016-02-20T18:00:53.067344-06:00",
 			"gereqs": null
+		},
+		{
+			"_updated": "2016-02-22T06:00:44.072160-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"name": "IR/"
 		}
 	],
 	"semester": 3,

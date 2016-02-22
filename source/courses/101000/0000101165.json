@@ -1,12 +1,12 @@
 {
 	"clbid": 101165,
-	"credits": 1.0,
+	"credits": 0.5,
 	"crsid": 846,
 	"depts": [
 		"MUSIC"
 	],
 	"instructors": [
-		"Staff"
+		"David Hagedorn"
 	],
 	"level": 200,
 	"name": "Academic Internship",
@@ -17,6 +17,13 @@
 		{
 			"_updated": "2015-10-03T00:01:58.102272-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-22T06:00:39.409050-06:00",
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 3,
