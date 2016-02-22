@@ -8895,7 +8895,7 @@
 		<coursenumber>398</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IR/Gene Expression by qDCR</coursename>
+		<coursename>IR/Gene Expression by qPCR</coursename>
 		<pn>N</pn>
 		<notes></notes>
 		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13100')"&gt;Kandl, Kimberly A.&lt;/a&gt;</instructors>
@@ -8983,10 +8983,10 @@
 		<coursenumber>398</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IR/</coursename>
+		<coursename>IR/Modeling Self-Control</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('22839')"&gt;Hodgson, Ashley&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -9269,10 +9269,10 @@
 		<coursenumber>398</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>R</coursesubtype>
-		<coursename>IR/</coursename>
+		<coursename>IR/Sandmaze-Spatial Learning</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('15747')"&gt;Dickinson, Shelly D.&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -14926,7 +14926,7 @@
 		<coursename>Senior Studies in Studio Art</coursename>
 		<pn>N</pn>
 		<notes>Open to Seniors only.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1369')"&gt;Dell, Irve&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('23761')"&gt;Weeks, Michon&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7064')"&gt;Saurer, John&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('7064')"&gt;Saurer, John&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -21196,7 +21196,7 @@
 		<coursename>IR/Cell Fractionation</coursename>
 		<pn>N</pn>
 		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('13100')"&gt;Kandl, Kimberly A.&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1206')"&gt;Cole, Eric&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -22108,6 +22108,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000175</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109534</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>LAMST</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Contemp Latin American Issues</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1368')"&gt;DeLaney, Jeane&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000027402</crsid>
+		<term>20153</term>
+	</course>
+	<course>
+		<clbid>0000109537</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ENVST</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Minnesota Land Use Conversion</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('8616')"&gt;Umbanhowar, Charles Jr.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000467</crsid>
 		<term>20153</term>
 	</course>
 </searchresults>
