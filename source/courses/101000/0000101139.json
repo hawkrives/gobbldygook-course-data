@@ -6,17 +6,25 @@
 		"DANCE"
 	],
 	"instructors": [
-		"Staff"
+		"Heather J. Klopchin"
 	],
-	"level": 200,
+	"level": 300,
 	"name": "Academic Internship",
-	"num": 294,
+	"num": 394,
 	"pf": true,
 	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-03T00:01:57.612862-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-24T00:01:21.990941-06:00",
+			"instructors": [
+				"Staff"
+			],
+			"level": 200,
+			"num": 294
 		}
 	],
 	"semester": 3,
