@@ -5,6 +5,9 @@
 	"depts": [
 		"MGMT"
 	],
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Staff"
 	],
@@ -13,6 +16,12 @@
 	"num": 298,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-02-23T18:01:06.210865-06:00",
+			"gereqs": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
