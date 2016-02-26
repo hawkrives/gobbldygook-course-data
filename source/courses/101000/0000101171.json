@@ -1,12 +1,12 @@
 {
 	"clbid": 101171,
-	"credits": 1.0,
+	"credits": 0.25,
 	"crsid": 1057,
 	"depts": [
 		"ESTH"
 	],
 	"instructors": [
-		"Staff"
+		"Cynthia Book"
 	],
 	"level": 200,
 	"name": "Academic Internship",
@@ -17,6 +17,13 @@
 		{
 			"_updated": "2015-10-03T00:01:58.231813-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-26T12:01:07.269254-06:00",
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 3,
