@@ -1,12 +1,12 @@
 {
 	"clbid": 101203,
-	"credits": 1.0,
+	"credits": 0.5,
 	"crsid": 709,
 	"depts": [
 		"ID"
 	],
 	"instructors": [
-		"Staff"
+		"Kristina Thalhammer"
 	],
 	"level": 300,
 	"name": "Academic Internship",
@@ -17,6 +17,13 @@
 		{
 			"_updated": "2015-10-03T00:01:58.905306-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-26T18:01:24.699960-06:00",
+			"credits": 1.0,
+			"instructors": [
+				"Staff"
+			]
 		}
 	],
 	"semester": 3,

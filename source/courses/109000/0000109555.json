@@ -18,14 +18,24 @@
 		"RNS 208"
 	],
 	"name": "Principles Physics I",
+	"notes": "Class will meet from June 1 - June 28 only.",
 	"num": 124,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 119 or MATH 120 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-02-26T18:00:56.587605-06:00",
+			"notes": null,
+			"times": [
+				"M-Th 1000-1200PM"
+			]
+		}
+	],
 	"semester": 4,
 	"status": "O",
 	"term": 20154,
 	"times": [
-		"M-Th 1000-1200PM"
+		"M-F 0900-1100"
 	],
 	"title": "Principles of Physics I",
 	"type": "Research",
