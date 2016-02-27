@@ -12,8 +12,7 @@
 		"ORC"
 	],
 	"instructors": [
-		"Lavern Rippley",
-		"Steve Soderlind"
+		"Lavern Rippley"
 	],
 	"level": 200,
 	"name": "The Mare Balticum",
@@ -29,6 +28,13 @@
 		{
 			"_updated": "2015-11-05T18:01:55.725102-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-02-27T12:00:57.738552-06:00",
+			"instructors": [
+				"Lavern Rippley",
+				"Steve Soderlind"
+			]
 		}
 	],
 	"semester": 2,
