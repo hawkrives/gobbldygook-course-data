@@ -8,9 +8,9 @@
 	"instructors": [
 		"Sian E. Muir"
 	],
-	"level": 300,
+	"level": 200,
 	"name": "Academic Internship",
-	"num": 394,
+	"num": 294,
 	"pf": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,8 +33,15 @@
 			"instructors": [
 				"Richard M. Hirsch"
 			]
+		},
+		{
+			"_updated": "2016-03-14T18:01:04.230453-05:00",
+			"level": 300,
+			"num": 394,
+			"section": null
 		}
 	],
+	"section": "B",
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
