@@ -5,6 +5,9 @@
 	"depts": [
 		"ASIAN"
 	],
+	"gereqs": [
+		"WRI"
+	],
 	"instructors": [
 		"Ka F. Wong"
 	],
@@ -13,6 +16,12 @@
 	"num": 298,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-03-17T18:01:02.162813-05:00",
+			"gereqs": null
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
