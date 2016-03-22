@@ -7,7 +7,8 @@
 	],
 	"desc": "This course examines architectural monuments and their symbolic forms combined with evidence of earthly and divine concepts. From cave dwellings to geodesic domes, from Eastern to Western systems, students review sacred and profane structures from a variety of cultures. Each student investigates a living reality of space, function, and form found in human-built environments. Offered periodically.",
 	"gereqs": [
-		"ALS-A"
+		"ALS-A",
+		"MCG"
 	],
 	"instructors": [
 		"Christina Spiker"
@@ -37,6 +38,12 @@
 		{
 			"_updated": "2015-09-22T23:33:20.626868-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-03-22T12:01:02.125787-05:00",
+			"gereqs": [
+				"ALS-A"
+			]
 		}
 	],
 	"semester": 1,
