@@ -10,7 +10,7 @@
 		"AQR"
 	],
 	"instructors": [
-		"Kay E. Smith"
+		"Staff"
 	],
 	"level": 200,
 	"locations": [
@@ -46,6 +46,12 @@
 		{
 			"_updated": "2016-01-30T08:55:43.917584-06:00",
 			"desc": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Prerequisite: MATH 119 or MATH 120."
+		},
+		{
+			"_updated": "2016-04-22T18:00:42.683474-05:00",
+			"instructors": [
+				"Kay E. Smith"
+			]
 		}
 	],
 	"section": "C",
