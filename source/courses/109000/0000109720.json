@@ -13,12 +13,20 @@
 		"Gordon D. Marino"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"BMC 202"
+	],
 	"name": "Making of Modern Mind",
 	"notes": "Open to sophomores and first-year students.",
 	"num": 118,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.330916-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

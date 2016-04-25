@@ -13,11 +13,20 @@
 		"Kaethe Schwehn"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 515",
+		"RML 515"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.114218-05:00",
+			"locations": []
+		}
+	],
 	"section": "N",
 	"semester": 1,
 	"status": "O",

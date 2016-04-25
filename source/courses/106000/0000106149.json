@@ -7,14 +7,25 @@
 	],
 	"groupid": 192,
 	"instructors": [
-		"Staff"
+		"William C. Solomon"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Struct Chem & Equilib Lab",
 	"num": 125,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.913109-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": []
+		}
+	],
 	"section": "G",
 	"semester": 1,
 	"status": "O",

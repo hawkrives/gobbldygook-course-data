@@ -10,17 +10,28 @@
 		"Prabal Adhikari"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 298"
+	],
 	"name": "Adv Physics Lab (375)",
 	"num": 385,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:17.947059-05:00",
+			"locations": [],
+			"times": [
+				"F 0100-0400PM"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
 	"times": [
-		"F 0100-0400PM"
+		"F 0200-0500PM"
 	],
 	"title": "Advanced Physics Laboratory",
 	"type": "Lab",

@@ -14,12 +14,21 @@
 		"Christopher L. Chiappari"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 204",
+		"DC 204"
+	],
 	"name": "Intro to Cultural Anthropology",
 	"notes": "Open to first-year students only.",
 	"num": 128,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.571066-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

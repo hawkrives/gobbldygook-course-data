@@ -10,11 +10,20 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 240",
+		"RNS 240"
+	],
 	"name": "Sem: TBD",
 	"num": 390,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSYCH 230.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.360536-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",

@@ -10,11 +10,19 @@
 		"Kevin M. Crisp"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 398"
+	],
 	"name": "Cells and Tissues Lab",
 	"num": 143,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.933325-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

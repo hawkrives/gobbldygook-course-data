@@ -14,12 +14,20 @@
 		"Amanda Randall"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 310"
+	],
 	"name": "Top: German War Film (in English)",
 	"notes": "ALS-A is pending approval.",
 	"num": 263,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.294849-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

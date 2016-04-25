@@ -10,11 +10,16 @@
 		"Hiroe Akimoto"
 	],
 	"level": 300,
-	"locations": [],
 	"name": "Special Topics/Japanese",
 	"num": 320,
 	"pf": false,
 	"prerequisites": "Prerequisite: JAPAN 302 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.068259-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

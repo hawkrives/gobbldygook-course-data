@@ -11,12 +11,20 @@
 		"Laura Listenberger"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 350"
+	],
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": "Open only to those students who have completed CH/BI 125.",
 	"num": 126,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.291781-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 2,
 	"status": "O",

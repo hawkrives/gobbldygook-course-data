@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 246"
+	],
 	"name": "Invertebrate Biology Lab",
 	"num": 248,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.239780-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

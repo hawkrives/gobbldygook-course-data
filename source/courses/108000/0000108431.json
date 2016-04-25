@@ -11,15 +11,27 @@
 		"MCD"
 	],
 	"instructors": [
-		"Staff"
+		"Carla Manzoni"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 314",
+		"TOH 314"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 231or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.533729-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": []
+		}
+	],
 	"section": "G",
 	"semester": 3,
 	"status": "O",

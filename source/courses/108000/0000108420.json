@@ -14,12 +14,20 @@
 		"Ksenia Zanon"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Intermed Russian II",
 	"notes": "Students in Russian 232 must also register for Russian 232 L.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: RUSSN 231 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.511395-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

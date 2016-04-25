@@ -10,11 +10,19 @@
 		"Rodrigo Sanchez-Gonzalez"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Atom/Molec Structure",
 	"num": 123,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHEM 121.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.258060-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 2,
 	"status": "O",

@@ -14,11 +14,19 @@
 		"Anthony Pahnke"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"BMC 202"
+	],
 	"name": "Global Env Politics",
 	"num": 201,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.403189-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

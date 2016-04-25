@@ -10,11 +10,19 @@
 		"Jeremy Loebach"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 240"
+	],
 	"name": "Sensation/Perception Lab",
 	"num": 235,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.852338-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

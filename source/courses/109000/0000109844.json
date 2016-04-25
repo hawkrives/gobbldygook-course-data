@@ -13,12 +13,21 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 182",
+		"TOH 182"
+	],
 	"name": "Statistics for Science",
 	"notes": "This course has class-year limits.",
 	"num": 212,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.439197-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",

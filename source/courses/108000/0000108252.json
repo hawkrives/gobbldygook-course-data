@@ -14,11 +14,19 @@
 		"Seth Binder"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 525"
+	],
 	"name": "Economic Development",
 	"num": 243,
 	"pf": false,
 	"prerequisites": "Prerequisite: one of Economics 110-121 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.298766-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

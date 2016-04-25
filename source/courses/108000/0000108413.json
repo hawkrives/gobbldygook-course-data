@@ -13,11 +13,19 @@
 		"Amanda Randall"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Intermed German II",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: GERM 231 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.500875-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

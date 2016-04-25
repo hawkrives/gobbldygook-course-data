@@ -10,11 +10,19 @@
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 184"
+	],
 	"name": "Modern Computational Math",
 	"num": 242,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 220.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.320809-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

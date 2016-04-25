@@ -10,11 +10,19 @@
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Maxwell's Equations",
 	"num": 375,
 	"pf": false,
 	"prerequisites": "Prerequisites: PHYS 232, MATH 230, and either MATH 226 or MATH 330 or similar course upon approval of the department chair.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.751174-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

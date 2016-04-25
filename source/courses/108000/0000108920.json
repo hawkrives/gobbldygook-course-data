@@ -11,12 +11,21 @@
 		"Elizabeth A. Leer"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 214",
+		"TOH 214"
+	],
 	"name": "Teaching Reading 5-12",
 	"notes": "Open to Juniors and Seniors only. Prerequisites: EDUC 330 or permission of instructor.",
 	"num": 321,
 	"pf": false,
 	"prerequisites": "Prerequisites: EDUC 290 and EDUC 330, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.127533-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

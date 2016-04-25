@@ -13,12 +13,20 @@
 		"Sandra Morisette"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"YTT 050A"
+	],
 	"name": "Pathopharmacology",
 	"notes": "This course is open to non-nursing majors. Please contact the Nursing department prior to registration.",
 	"num": 210,
 	"pf": false,
 	"prerequisites": "Prerequisite: concurrent registration in (or previous completion of) BIO 243.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.853792-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

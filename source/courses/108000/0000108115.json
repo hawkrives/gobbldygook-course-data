@@ -16,12 +16,21 @@
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 410",
+		"RNS 410"
+	],
 	"name": "Biodiversity Foundations",
 	"notes": "Students in Bio 150B must also register for one lab Bio 150 DL, EL, or FL.",
 	"num": 150,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.135168-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

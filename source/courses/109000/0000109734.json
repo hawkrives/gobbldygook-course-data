@@ -10,11 +10,19 @@
 		"Prabal Adhikari"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Short Topics in Physics",
 	"num": 392,
 	"pf": false,
 	"prerequisites": "Prerequisite: PHYS 244 and MATH 230.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.344565-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

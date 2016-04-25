@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Biochemistry II",
 	"num": 385,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHEM 379.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.119592-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

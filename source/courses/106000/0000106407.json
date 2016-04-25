@@ -15,12 +15,21 @@
 		"Beth Pettitt"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 124",
+		"RNS 124"
+	],
 	"name": "Animal Behavior",
 	"notes": "Students in BIO 386 must also register for BIO 386 lab. Open only to Seniors and Juniors.",
 	"num": 386,
 	"pf": false,
 	"prerequisites": "Prerequisite: progress toward a major in any of the natural sciences.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.247173-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

@@ -14,11 +14,19 @@
 		"Arthur Cunningham"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 310"
+	],
 	"name": "Philosophy of Science",
 	"num": 244,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.863578-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

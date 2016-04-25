@@ -11,12 +11,21 @@
 		"Elizabeth A. Leer"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 214",
+		"TOH 214"
+	],
 	"name": "Teaching & Learning English Grammar",
 	"notes": "Closed to First-year students.",
 	"num": 245,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.114885-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

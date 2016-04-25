@@ -14,12 +14,20 @@
 		"Joanne Quimby"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 312"
+	],
 	"name": "Intermed Japanese II",
 	"notes": "Students in Japanese 232B must also register for one Japanese 232 Lab.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: JAPAN 231 or its equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.504079-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -13,11 +13,20 @@
 		"Bruce Wambheim"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.921252-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -14,11 +14,19 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC Studio 1"
+	],
 	"name": "Modern Dance I (.25)",
 	"num": 111,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.788634-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

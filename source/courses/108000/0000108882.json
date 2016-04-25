@@ -10,11 +10,20 @@
 		"Anton Armstrong"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 233",
+		"CHM 233"
+	],
 	"name": "St. Olaf Choir",
 	"num": 106,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.075338-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

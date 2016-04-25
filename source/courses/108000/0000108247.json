@@ -14,12 +14,20 @@
 		"Alyson Center"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Ecological Principles",
 	"notes": "Students in Bio 261 must also register for one lab Bio 261 AL or BL. This course has class-year limits.",
 	"num": 261,
 	"pf": false,
 	"prerequisites": "Prerequisites: BIO 150 or BIO 126.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.291289-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

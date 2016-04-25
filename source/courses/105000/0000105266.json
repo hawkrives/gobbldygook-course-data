@@ -11,12 +11,20 @@
 		"Joanne Quimby"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Beginning Japanese I",
 	"notes": "Students in Japan 111B must also register for one lab Japan 111AL or BL.",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.775680-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

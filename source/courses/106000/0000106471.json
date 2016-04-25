@@ -13,12 +13,20 @@
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Freud/Human Behavior",
 	"notes": "Open to a limited number of first-year students.",
 	"num": 261,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.279885-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

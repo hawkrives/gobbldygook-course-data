@@ -11,11 +11,19 @@
 		"Mary Walczak"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 446"
+	],
 	"name": "Analytical Lab",
 	"num": 256,
 	"pf": true,
 	"prerequisites": "Prerequisite: concurrent registration in CHEM 255.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:17.991010-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

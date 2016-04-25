@@ -14,11 +14,19 @@
 		"Carlos Gallego"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 515"
+	],
 	"name": "Literature and Modern Philosophy",
 	"num": 268,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.511493-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

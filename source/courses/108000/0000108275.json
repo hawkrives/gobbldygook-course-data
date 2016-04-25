@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 393"
+	],
 	"name": "Experimental Biochem",
 	"num": 373,
 	"pf": true,
 	"prerequisites": "Prerequisite: previous or concurrent registration in CHEM 379.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.331144-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

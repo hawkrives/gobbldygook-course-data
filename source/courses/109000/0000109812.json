@@ -19,12 +19,21 @@
 		"Ka F. Wong"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 426",
+		"RNS 426"
+	],
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": "Registration restricted to students in the Asian Con program.",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHIN 231 or JAPAN 231 and ASIAN 215 or ASIAN 216.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.410436-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

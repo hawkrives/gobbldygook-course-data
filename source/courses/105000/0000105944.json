@@ -14,15 +14,24 @@
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 520"
+	],
 	"name": "New Forces of Secular",
 	"notes": "Open to Great Conversations students only.",
 	"num": 217,
 	"pf": false,
 	"prerequisites": "Prerequisites: GCON 113, GCON 115, and GCON 116.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.661849-05:00",
+			"locations": [],
+			"status": "O"
+		}
+	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20161,
 	"times": [
 		"MWF 1150-1245PM"

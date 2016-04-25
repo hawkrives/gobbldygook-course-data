@@ -13,11 +13,19 @@
 		"Anna E. Johnson"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Biopsychology",
 	"num": 238,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSYCH 125 or BIO 123, BIO 227 or CH/BI 227.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.145517-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

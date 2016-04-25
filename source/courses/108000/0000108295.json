@@ -13,11 +13,19 @@
 		"Bjorn Nordfjord"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 124"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.370321-05:00",
+			"locations": []
+		}
+	],
 	"section": "H",
 	"semester": 3,
 	"status": "O",

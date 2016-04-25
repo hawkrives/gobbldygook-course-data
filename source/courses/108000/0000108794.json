@@ -15,12 +15,21 @@
 		"Grace E. Cho"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 131",
+		"RNS 131"
+	],
 	"name": "Research Methods",
 	"notes": "Students in Psych 230B must also register for lab Psych 230 BL.",
 	"num": 230,
 	"pf": false,
 	"prerequisites": "Prerequisites: PSYCH 125, and STAT 110 or STAT 212 or STAT 214 or ECON 263.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.977868-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

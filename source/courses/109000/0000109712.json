@@ -10,11 +10,20 @@
 		"Kosmas Diveris"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 204",
+		"RNS 204"
+	],
 	"name": "Abstract Algebra II",
 	"num": 352,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 252.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.326657-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

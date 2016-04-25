@@ -13,12 +13,21 @@
 		"Jason Marsh"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"BMC 202",
+		"BMC 202"
+	],
 	"name": "Making of Modern Mind",
 	"notes": "Open to Sophomores and First-Year students only.",
 	"num": 118,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.734551-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

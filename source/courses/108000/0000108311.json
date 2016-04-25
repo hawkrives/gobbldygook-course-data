@@ -13,11 +13,20 @@
 		"Irve Dell"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 106",
+		"DC 106"
+	],
 	"name": "Foundation 3-D Media",
 	"num": 103,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.391788-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

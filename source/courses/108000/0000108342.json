@@ -13,11 +13,19 @@
 		"David A. Stromme"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"name": "Golf",
 	"num": 103,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.402823-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

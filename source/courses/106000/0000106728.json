@@ -10,11 +10,19 @@
 		"James Demas"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Thinking & Doing Bio Lab",
 	"num": 135,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.472152-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

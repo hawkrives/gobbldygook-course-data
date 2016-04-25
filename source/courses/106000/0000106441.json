@@ -14,11 +14,19 @@
 		"Bruce Wambheim"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 290"
+	],
 	"name": "Capitalism",
 	"num": 113,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.266062-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

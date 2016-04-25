@@ -13,11 +13,19 @@
 		"Jill Dietz"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 208"
+	],
 	"name": "Elem Linear Algebra",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 119 or MATH 120.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.307635-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

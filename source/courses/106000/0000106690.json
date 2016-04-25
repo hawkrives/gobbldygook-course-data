@@ -14,12 +14,20 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Race and Politics",
 	"notes": "Open to first-year students. This course has class year limits.",
 	"num": 244,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.441052-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

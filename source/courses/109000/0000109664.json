@@ -11,14 +11,26 @@
 		"SPM"
 	],
 	"instructors": [
-		"Anne von Bibra"
+		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"DC Studio 1",
+		"DC Studio 1"
+	],
 	"name": "Ballroom II (Women)",
 	"num": 206,
 	"pf": true,
 	"prerequisites": "Prerequisite: DANCE 106 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.243293-05:00",
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

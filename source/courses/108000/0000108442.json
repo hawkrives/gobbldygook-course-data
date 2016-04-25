@@ -13,11 +13,19 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"name": "Intermediate Tennis",
 	"num": 158,
 	"pf": false,
 	"prerequisites": "Prerequisite: ESAC 157, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.550999-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

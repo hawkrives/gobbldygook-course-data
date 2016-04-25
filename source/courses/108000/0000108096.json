@@ -13,11 +13,19 @@
 		"Peder J. Jothen"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 240"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.098739-05:00",
+			"locations": []
+		}
+	],
 	"section": "H",
 	"semester": 3,
 	"status": "O",

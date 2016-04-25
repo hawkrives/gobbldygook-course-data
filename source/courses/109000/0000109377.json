@@ -14,11 +14,19 @@
 		"Mark Allister"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 525"
+	],
 	"name": "Perspect Am Culture",
 	"num": 100,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.200996-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -15,12 +15,21 @@
 		"Joan Hepburn"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 515",
+		"RML 515"
+	],
 	"name": "Women of African Diaspora",
 	"notes": "Course pending committee approval.",
 	"num": 207,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.267670-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

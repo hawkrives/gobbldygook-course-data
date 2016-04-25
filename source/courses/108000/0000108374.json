@@ -13,12 +13,21 @@
 		"Kyle A. Korynta"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 212",
+		"TOH 212"
+	],
 	"name": "Ibsen",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 	"num": 282,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-T or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.437033-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

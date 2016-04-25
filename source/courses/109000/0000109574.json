@@ -13,11 +13,20 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 140",
+		"OM 140"
+	],
 	"name": "Philosophy & Feminism",
 	"num": 245,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.205104-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

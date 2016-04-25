@@ -10,11 +10,21 @@
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 435"
+	],
 	"name": "Sem: Advanced Linear Algebra",
+	"notes": "This course has class-year limits.",
 	"num": 382,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.834938-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

@@ -15,11 +15,19 @@
 		"Edmund Santurri"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 240"
+	],
 	"name": "Beyond Narnia: Theol of C.S. Lewis",
 	"num": 239,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.454280-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

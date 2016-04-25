@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Forensic Science Lab",
 	"num": 107,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.381523-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

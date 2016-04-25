@@ -14,11 +14,19 @@
 		"Jolene Barjasteh"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Intermed French II",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: FREN 231 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.326075-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

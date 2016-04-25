@@ -10,11 +10,19 @@
 		"Kathryn Ziegler"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 182"
+	],
 	"name": "Statistical Theory",
 	"num": 322,
 	"pf": false,
 	"prerequisites": "Prerequisite: STAT 272 and MATH 262.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.888041-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

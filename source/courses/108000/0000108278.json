@@ -14,11 +14,19 @@
 		"Karen R. Achberger"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Exploring Non-Fiction",
 	"num": 252,
 	"pf": false,
 	"prerequisites": "Prerequisite: GERM 232 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.336376-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -13,11 +13,19 @@
 		"Karen E. Marsalek"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 515"
+	],
 	"name": "Children's & Young Adult Literature",
 	"num": 242,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.205503-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -13,11 +13,19 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 340"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.103931-05:00",
+			"locations": []
+		}
+	],
 	"section": "K",
 	"semester": 3,
 	"status": "O",

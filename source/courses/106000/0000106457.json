@@ -13,11 +13,21 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 297",
+		"RNS 297",
+		"RNS 297"
+	],
 	"name": "Engineering Design Pract",
 	"num": 360,
 	"pf": false,
 	"prerequisites": "Prerequisite: PHYS 244 or permission of the instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.270241-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

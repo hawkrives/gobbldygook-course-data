@@ -13,12 +13,21 @@
 		"Christopher B. Chapp"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"BMC 012",
+		"BMC 012"
+	],
 	"name": "Sem: American Politics",
 	"notes": "Open only to seniors during web registration. Juniors may add on a space- available basis during the drop/add period.",
 	"num": 311,
 	"pf": false,
 	"prerequisites": "Prerequisites: PSCI 220 and one course in the subfield, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.005760-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

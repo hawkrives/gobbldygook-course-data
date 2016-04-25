@@ -11,12 +11,20 @@
 		"Sharon Lane-Getaz"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 214"
+	],
 	"name": "Standards and Technology",
 	"notes": "Open to Juniors and Seniors only. Taken concurrently with EDUC 330.",
 	"num": 291,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.084238-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

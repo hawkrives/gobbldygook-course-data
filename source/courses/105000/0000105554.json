@@ -10,15 +10,24 @@
 		"Patricia Beckman"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 140"
+	],
 	"name": "Greeks and Hebrews",
 	"notes": "Open to Great Conversations students only.",
 	"num": 113,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.191050-05:00",
+			"locations": [],
+			"status": "O"
+		}
+	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20161,
 	"times": [
 		"MWF 1255-0150PM"

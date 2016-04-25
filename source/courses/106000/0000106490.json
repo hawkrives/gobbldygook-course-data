@@ -10,12 +10,17 @@
 		"Kevin M. Crisp"
 	],
 	"level": 200,
-	"locations": [],
 	"name": "Hospital Health Care",
 	"notes": "This is an off-campus course. You will find this course listed in Studio Abroad under its course title.",
 	"num": 255,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.287544-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

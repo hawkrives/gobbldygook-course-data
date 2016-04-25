@@ -13,12 +13,21 @@
 		"Rebecca S. Richards"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 421",
+		"RML 421"
+	],
 	"name": "Intro Womens/Gender St",
 	"notes": "This course has class-year limits.",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.581198-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

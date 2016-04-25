@@ -11,11 +11,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 202"
+	],
 	"name": "Software Design/Lab",
 	"num": 252,
 	"pf": false,
 	"prerequisites": "Prerequisite: concurrent registration in CSCI 251.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.062914-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -14,11 +14,19 @@
 		"Christopher Tradowsky"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"DC 202"
+	],
 	"name": "Methods of Art History",
 	"num": 350,
 	"pf": false,
 	"prerequisites": "Prerequisite: two upper-division courses in art history.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.770415-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

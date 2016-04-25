@@ -13,12 +13,21 @@
 		"Linda Mokdad"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 190",
+		"HH 501"
+	],
 	"name": "Intro to Film Studies",
 	"notes": "Film screenings Monday evenings. This course has class-year limits",
 	"num": 101,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.572889-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

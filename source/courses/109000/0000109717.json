@@ -10,11 +10,19 @@
 		"Anna Mooy"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Lyric Diction II",
 	"num": 264,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 263 and two semesters of voice lessons.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.329419-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

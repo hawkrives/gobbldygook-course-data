@@ -13,11 +13,19 @@
 		"Bruce Hanson"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 184"
+	],
 	"name": "Real Analysis I",
 	"num": 244,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.965846-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

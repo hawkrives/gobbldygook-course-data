@@ -10,11 +10,19 @@
 		"Prabal Adhikari"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Principles Physics II Lab",
 	"num": 125,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.944490-05:00",
+			"locations": []
+		}
+	],
 	"section": "E",
 	"semester": 3,
 	"status": "O",

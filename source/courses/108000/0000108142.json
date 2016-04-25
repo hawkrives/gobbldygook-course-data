@@ -13,11 +13,20 @@
 		"Paul Zorn"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 184",
+		"TOH 184"
+	],
 	"name": "Calculus I",
 	"num": 120,
 	"pf": false,
 	"prerequisites": "Prerequisite: mathematics placement recommendation.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.151280-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

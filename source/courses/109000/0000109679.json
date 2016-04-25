@@ -14,11 +14,19 @@
 		"Colin Wells"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 515"
+	],
 	"name": "Neoclassic/Romantic Lit",
 	"num": 225,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.263087-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

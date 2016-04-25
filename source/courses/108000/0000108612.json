@@ -13,11 +13,19 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"SAC Pool"
+	],
 	"name": "Lifeguard Training",
 	"num": 122,
 	"pf": false,
 	"prerequisites": "Prerequisite: must be able to swim 550 yards (22 lengths).",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.715492-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

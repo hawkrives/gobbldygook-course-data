@@ -13,12 +13,21 @@
 		"Steven C. Hahn"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"BMC 012",
+		"BMC 012"
+	],
 	"name": "Sem: American Rev",
 	"notes": "Especially for junior and senior history and American studies majors. Others need permission of instructor.",
 	"num": 370,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.007793-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

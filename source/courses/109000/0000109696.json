@@ -10,11 +10,20 @@
 		"Amanda Randall"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 310",
+		"TOH 310"
+	],
 	"name": "Top: German Studies GDR",
 	"num": 372,
 	"pf": false,
 	"prerequisites": "Prerequisite: at least one 270-level course.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.296454-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

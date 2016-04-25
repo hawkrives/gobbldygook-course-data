@@ -14,11 +14,20 @@
 		"Brian Bjorklund"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TB Green Rm",
+		"TB Green Rm"
+	],
 	"name": "Intro to Design: Perform",
 	"num": 140,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.397890-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

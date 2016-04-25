@@ -10,11 +10,19 @@
 		"Therees Hibbard"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 233"
+	],
 	"name": "Voice Class",
 	"num": 164,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.997416-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

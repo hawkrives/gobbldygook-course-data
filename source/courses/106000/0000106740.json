@@ -13,12 +13,17 @@
 		"Heather Campbell"
 	],
 	"level": 100,
-	"locations": [],
 	"name": "Urban Schools and Communities",
 	"notes": "Open to first-year students and sophomores only. Admission by interview.",
 	"num": 170,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.480788-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

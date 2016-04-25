@@ -10,15 +10,24 @@
 		"Douglas J. Casson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 525"
+	],
 	"name": "Greeks and Hebrews",
 	"notes": "Open to Great Conversations students only.",
 	"num": 113,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.198623-05:00",
+			"locations": [],
+			"status": "O"
+		}
+	],
 	"section": "F",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20161,
 	"times": [
 		"MWF 1255-0150PM"

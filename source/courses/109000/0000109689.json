@@ -14,11 +14,21 @@
 		"Seth Binder"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"DC 305"
+	],
 	"name": "Sustainable Development",
+	"notes": "Prerequisite: Completion of BTS-T or permission of instructor. Open only to seniors and juniors during web registration.",
 	"num": 235,
 	"pf": false,
 	"prerequisites": "Prerequisite: ENVST 137.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.281158-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

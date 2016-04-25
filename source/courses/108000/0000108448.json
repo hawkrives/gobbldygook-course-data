@@ -13,11 +13,20 @@
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 010",
+		"OM 010"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.560008-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

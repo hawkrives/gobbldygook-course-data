@@ -13,11 +13,20 @@
 		"Janice Roberts"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"DC Studio 1",
+		"DC Studio 1"
+	],
 	"name": "Choreography & Improv",
 	"num": 231,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.950873-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

@@ -14,12 +14,20 @@
 		"Steve T. Reece"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 420"
+	],
 	"name": "Romans & Christians",
 	"notes": "Open to Great Conversations students only.",
 	"num": 115,
 	"pf": false,
 	"prerequisites": "Prerequisite: GCON 113.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.448168-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 2,
 	"status": "O",

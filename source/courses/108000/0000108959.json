@@ -14,11 +14,20 @@
 		"Carol Holly"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 515",
+		"RML 515"
+	],
 	"name": "Top: Declar of Independence",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.162750-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

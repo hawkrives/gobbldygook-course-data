@@ -10,11 +10,21 @@
 		"Richard Brown"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Top: Parallel & Dist",
+	"notes": "This course has class-year limits.",
 	"num": 300,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.094254-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

@@ -13,12 +13,21 @@
 		"Marju Purin"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 204",
+		"RNS 204"
+	],
 	"name": "Elem Linear Algebra",
 	"notes": "Open to first-year students.",
 	"num": 220,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 119 or MATH 120.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.267705-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

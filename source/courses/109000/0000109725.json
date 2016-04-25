@@ -13,11 +13,19 @@
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 020"
+	],
 	"name": "Kierkegaard",
 	"num": 233,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.340803-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

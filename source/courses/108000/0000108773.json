@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 186"
+	],
 	"name": "Probability Theory",
 	"num": 262,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 126 or MATH 128.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.952548-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

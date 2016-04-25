@@ -14,12 +14,21 @@
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 310"
+	],
 	"name": "General Chemistry",
-	"notes": "Students registering for Chem 121 must also register for one Chem 121 lab. Intended for potential bio and chem majors.",
+	"notes": "Students registering for Chem 121 must also register for one Chem 121 lab. This course has class-year limits. Intended for potential bio and chem majors.",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.173046-05:00",
+			"locations": [],
+			"notes": "Students registering for Chem 121 must also register for one Chem 121 lab. Intended for potential bio and chem majors."
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",

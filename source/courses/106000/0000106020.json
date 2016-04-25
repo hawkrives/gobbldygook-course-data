@@ -10,12 +10,21 @@
 		"James Mader"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Principles of Acct",
 	"notes": "Not open to First-year students.",
 	"num": 225,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.739327-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

@@ -10,11 +10,20 @@
 		"Kyle A. Korynta"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 212",
+		"TOH 212"
+	],
 	"name": "Top: Barnelitteratur",
 	"num": 372,
 	"pf": false,
 	"prerequisites": "Prerequisite: Norwegian 253 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.175783-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

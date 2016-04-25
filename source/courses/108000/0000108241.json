@@ -16,12 +16,20 @@
 		"Anne Groton"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 520"
+	],
 	"name": "Dissenters/Defenders",
 	"notes": "Open to Great Conversations students only.",
 	"num": 218,
 	"pf": false,
 	"prerequisites": "Prerequisites: GCON 113, GCON 115, GCON 116, and GCON 217.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.280722-05:00",
+			"locations": []
+		}
+	],
 	"section": "E",
 	"semester": 3,
 	"status": "O",

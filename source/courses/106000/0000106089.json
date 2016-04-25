@@ -13,13 +13,24 @@
 		"Richard Brown"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 202"
+	],
 	"name": "Sem: Senior Capstone",
+	"notes": "Closed during web registration. Registration by permission of instructor only.",
 	"num": 390,
 	"pf": false,
 	"prerequisites": "Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including CSCI 263, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.836751-05:00",
+			"locations": [],
+			"notes": null,
+			"status": "O"
+		}
+	],
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20161,
 	"times": [
 		"MWF 1150-1245PM"

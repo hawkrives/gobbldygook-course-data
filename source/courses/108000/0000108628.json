@@ -11,12 +11,20 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 206"
+	],
 	"name": "Math of Biology",
 	"notes": "Students in Math 236 must also register for lab Math 236 L.",
 	"num": 236,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 126 or MATH 128, and MATH 220.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.746894-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

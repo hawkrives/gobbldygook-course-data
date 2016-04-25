@@ -10,12 +10,21 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 312",
+		"TOH 312"
+	],
 	"name": "Intermed Spanish I",
 	"notes": "Open to all students who meet the prerequisites. Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 112 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.300028-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

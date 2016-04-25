@@ -14,12 +14,20 @@
 		"Sylvia Carullo"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 112"
+	],
 	"name": "Intermed Spanish II",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 231or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.528642-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",

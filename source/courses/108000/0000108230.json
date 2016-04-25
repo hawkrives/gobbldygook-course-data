@@ -10,12 +10,20 @@
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 246"
+	],
 	"name": "Developmental Biology Lab",
 	"notes": "Open to Seniors and Juniors only.",
 	"num": 372,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.260179-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

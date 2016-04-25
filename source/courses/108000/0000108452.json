@@ -14,11 +14,19 @@
 		"Nancy M. Thompson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Art History",
 	"num": 153,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.569064-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -10,15 +10,21 @@
 		"Dona W. Freeman"
 	],
 	"level": 200,
-	"locations": [],
 	"name": "Thtr Prac: Act/Direct",
 	"notes": "Registration by permission of instructor only. Closed during web registration.",
 	"num": 233,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.970956-05:00",
+			"locations": [],
+			"status": "O"
+		}
+	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20161,
 	"title": "Theater Practicum: Acting, Directing, Dramaturgy",
 	"type": "Research",

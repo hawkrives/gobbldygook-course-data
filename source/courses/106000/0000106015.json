@@ -10,11 +10,19 @@
 		"Barry N. Costanzi"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Prin Physics I/Lab",
 	"num": 124,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.730225-05:00",
+			"locations": []
+		}
+	],
 	"section": "E",
 	"semester": 1,
 	"status": "O",

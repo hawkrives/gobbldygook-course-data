@@ -10,11 +10,19 @@
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Quantum Mechanics",
 	"num": 376,
 	"pf": false,
 	"prerequisites": "Prerequisites: PHYS 244, PHYS 374, and either MATH 226 or MATH 330 or similar course upon approval of the department chair.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.787411-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

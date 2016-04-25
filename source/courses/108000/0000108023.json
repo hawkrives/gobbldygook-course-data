@@ -11,12 +11,21 @@
 		"Mary Walczak"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310",
+		"RNS 310"
+	],
 	"name": "Analytical Chemistry",
 	"notes": "Students in Chem 255 must also register for Chem 256 AL or BL.",
 	"num": 255,
 	"pf": false,
 	"prerequisites": "Prerequisites: CHEM 126 or CH/BI 227 or permission of the instructor, and concurrent registration in CHEM 256.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:17.978895-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

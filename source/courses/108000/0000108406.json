@@ -14,12 +14,20 @@
 		"Ying Zhou"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Intermed Chinese II",
 	"notes": "Students in Chinese 232B must also register for one lab Chinese 232AL or BL.",
 	"num": 232,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHIN 231 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.484534-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

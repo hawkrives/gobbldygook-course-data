@@ -15,12 +15,20 @@
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 410"
+	],
 	"name": "Biological Science",
 	"notes": "Students in Bio 121 must also register for one lab Bio 121 AL, BL, CL or DL.",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.137858-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

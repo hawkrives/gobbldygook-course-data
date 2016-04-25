@@ -10,12 +10,20 @@
 		"Sian E. Muir"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RML 421"
+	],
 	"name": "Mgmt Policy & Strat",
 	"notes": "Open only to Seniors and Juniors.",
 	"num": 383,
 	"pf": false,
 	"prerequisites": "Prerequisite: MGMT 250 or MGMT 251 and senior status or permission of the instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.772980-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -14,11 +14,19 @@
 		"Joseph L. Mbele"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 421"
+	],
 	"name": "Folklore",
 	"num": 258,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.378007-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

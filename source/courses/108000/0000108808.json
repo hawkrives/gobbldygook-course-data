@@ -13,11 +13,19 @@
 		"Ksenia Zanon"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 300"
+	],
 	"name": "Russian Culture & Civilization",
 	"num": 254,
 	"pf": false,
 	"prerequisites": "Prerequisite: RUSSN 251 or permission of the instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.990934-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

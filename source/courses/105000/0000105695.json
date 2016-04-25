@@ -13,11 +13,19 @@
 		"Patricia Beckman"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 010"
+	],
 	"name": "Intro Feminist Theol",
 	"num": 209,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.415876-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

@@ -14,12 +14,20 @@
 		"Christopher Tradowsky"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Art History",
-	"notes": "This course has class-year limits.",
 	"num": 153,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.421562-05:00",
+			"locations": [],
+			"notes": "This course has class-year limits."
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

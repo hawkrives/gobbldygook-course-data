@@ -15,12 +15,21 @@
 		"Brian Borovsky"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 305",
+		"RNS 394"
+	],
 	"name": "Well-Ordered Universe",
 	"notes": "Open to Science Conversation students only.",
 	"num": 215,
 	"pf": false,
 	"prerequisites": "Prerequisite: SCICN 213.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.482925-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

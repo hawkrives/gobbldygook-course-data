@@ -13,12 +13,20 @@
 		"Cynthia Book"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"SAC 103"
+	],
 	"name": "Exercise Science Seminar",
 	"notes": "Open only to seniors.",
 	"num": 390,
 	"pf": false,
 	"prerequisites": "Prerequisite: senior standing.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.329778-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

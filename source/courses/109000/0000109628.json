@@ -14,12 +14,20 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TB 216"
+	],
 	"name": "Text and Performance",
 	"notes": "WRI pending approval.",
 	"num": 180,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.560122-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

@@ -11,12 +11,20 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 203"
+	],
 	"name": "Software Design",
 	"notes": "This course has class-year limits. Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL.",
 	"num": 251,
 	"pf": false,
 	"prerequisites": "Prerequisite: CSCI 121 or CSCI 125 or CSCI 241 or PHYS 130 or MATH 252 or permission of instructor; concurrent registration in CSCI 252 is required.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.058665-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

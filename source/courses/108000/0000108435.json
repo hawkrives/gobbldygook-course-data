@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TB Haugen"
+	],
 	"name": "Intermediate Acting",
 	"num": 230,
 	"pf": false,
 	"prerequisites": "Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.541347-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

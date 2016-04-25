@@ -10,12 +10,22 @@
 		"Karen Wilson"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TB Haugen",
+		"TB Haugen",
+		"TB Haugen"
+	],
 	"name": "Prod Theater: Advanced",
 	"notes": "Admission by audition/interview.",
 	"num": 234,
 	"pf": true,
 	"prerequisites": "Prerequisite: THEAT 133 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.434648-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

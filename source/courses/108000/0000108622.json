@@ -13,12 +13,20 @@
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 010"
+	],
 	"name": "Management",
 	"notes": "Not open to first-year students.",
 	"num": 251,
 	"pf": false,
 	"prerequisites": "Prerequisite: one of Economics 110-121 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.736224-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

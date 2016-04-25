@@ -14,11 +14,19 @@
 		"Gary M. Muir"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Principles: Psych",
 	"num": 125,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.948625-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

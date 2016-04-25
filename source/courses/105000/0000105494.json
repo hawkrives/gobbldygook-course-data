@@ -13,11 +13,19 @@
 		"Jennifer Kwon Dobbs"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 210"
+	],
 	"name": "First-Year Writing",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.126228-05:00",
+			"locations": []
+		}
+	],
 	"section": "I",
 	"semester": 1,
 	"status": "O",

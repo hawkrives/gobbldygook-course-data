@@ -10,18 +10,29 @@
 		"Christopher Atzinger"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 222"
+	],
 	"name": "Piano Class IV",
 	"num": 262,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 261, completion of Piano Proficiency 3, or audition placement; concurrent registration in MUSIC 214 recommended.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.887074-05:00",
+			"locations": [],
+			"times": [
+				"T 0120-0215PM",
+				"Th 0215-0310PM"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
 	"times": [
-		"T 0120-0215PM",
-		"Th 0215-0310PM"
+		"MW 0200-0255PM"
 	],
 	"type": "Research",
 	"year": 2016

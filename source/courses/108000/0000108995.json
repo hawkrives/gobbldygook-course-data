@@ -14,12 +14,21 @@
 		"Steven Freedberg"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310",
+		"RNS 310"
+	],
 	"name": "Vertebrate Biology",
 	"notes": "Students in Bio 242 must also register for one lab Bio 242 AL or BL.",
 	"num": 242,
 	"pf": false,
 	"prerequisites": "Prerequisites: BIO 150 or BIO 126.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.177556-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -10,11 +10,19 @@
 		"James Hanson"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"OM 110"
+	],
 	"name": "Sem: Bible",
 	"num": 391,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.376598-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

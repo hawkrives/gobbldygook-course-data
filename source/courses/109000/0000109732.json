@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 298"
+	],
 	"name": "Modern Phys Lab (244)",
 	"num": 245,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.342086-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",

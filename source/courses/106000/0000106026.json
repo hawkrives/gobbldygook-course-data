@@ -13,11 +13,19 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 010"
+	],
 	"name": "Principles of Econ",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.751160-05:00",
+			"locations": []
+		}
+	],
 	"section": "E",
 	"semester": 1,
 	"status": "O",

@@ -10,12 +10,21 @@
 		"Elizabeth A. Leer"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 214",
+		"TOH 214"
+	],
 	"name": "Teaching of Comm Arts/Lit, 5-12",
 	"notes": "Open to Juniors and Seniors only. Prerequisite: EDUC 330.",
 	"num": 345,
 	"pf": false,
 	"prerequisites": "Prerequisite: EDUC 330.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.118040-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

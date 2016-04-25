@@ -11,12 +11,20 @@
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 355"
+	],
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": "Open only to those students who have completed CH/BI 125.",
 	"num": 126,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.290433-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 2,
 	"status": "O",

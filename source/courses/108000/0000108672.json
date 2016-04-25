@@ -13,12 +13,20 @@
 		"Kathryn Ziegler"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 207"
+	],
 	"name": "MSCS Research Methods",
 	"notes": "Open only to students accepted into the CIR.",
 	"num": 389,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.834314-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

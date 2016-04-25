@@ -10,11 +10,19 @@
 		"Mary Cisar"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 310"
+	],
 	"name": "Beginning French II",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: FREN 111 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.043526-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

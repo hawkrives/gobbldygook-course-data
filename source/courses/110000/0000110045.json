@@ -12,14 +12,28 @@
 	],
 	"groupid": 181,
 	"instructors": [
-		"Staff"
+		"Adam Dittmer"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 208",
+		"RNS 208"
+	],
 	"name": "Forensic Sci With Lab",
+	"notes": "Students registering for CHEM 107 must also register for CHEM 107L lab. This course intended for non-science majors.",
 	"num": 107,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.275151-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

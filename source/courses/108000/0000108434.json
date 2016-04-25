@@ -10,11 +10,20 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TB Haugen",
+		"TB Haugen"
+	],
 	"name": "Intermed Stage Direction",
 	"num": 338,
 	"pf": false,
 	"prerequisites": "Prerequisite: THEAT 232 and THEAT 240 or THEAT 250. THEAT 270 or THEAT 271 recommended.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.539598-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

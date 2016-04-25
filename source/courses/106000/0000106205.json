@@ -10,12 +10,20 @@
 		"Kay E. Smith"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 297"
+	],
 	"name": "Top: Intro Abstract Math",
 	"notes": "Not open to students who have taken Math 244 or Math 252.",
 	"num": 282,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.982239-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

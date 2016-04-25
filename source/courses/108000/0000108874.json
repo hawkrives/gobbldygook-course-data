@@ -10,11 +10,19 @@
 		"Maggie Broner"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Spanish 1st/2nd Lang",
 	"num": 276,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 250.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.066574-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

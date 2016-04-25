@@ -14,12 +14,21 @@
 		"Ariel Strichartz"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 114",
+		"TOH 114"
+	],
 	"name": "Gateway Spanish-Speaking World",
 	"notes": "Prerequisite: completion of Spanish placement test or preceding course.",
 	"num": 250,
 	"pf": false,
 	"prerequisites": "Prerequisite: SPAN 232 or placement into SPAN 250.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.394865-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

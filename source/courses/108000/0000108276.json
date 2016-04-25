@@ -10,11 +10,19 @@
 		"Eric Cole"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 400"
+	],
 	"name": "Expl Biomolecular Sci",
 	"num": 201,
 	"pf": true,
 	"prerequisites": "Prerequisite: BIO 150, CHEM 125, or CH/BI 125, or the equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.332665-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

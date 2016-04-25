@@ -13,12 +13,21 @@
 		"David Booth"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 210",
+		"OM 210"
+	],
 	"name": "Bible/Culture/Commun",
 	"notes": "Open to Environmental Conversations students only.",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.107204-05:00",
+			"locations": []
+		}
+	],
 	"section": "M",
 	"semester": 3,
 	"status": "O",

@@ -10,11 +10,20 @@
 		"Kay E. Smith"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 208",
+		"RNS 208"
+	],
 	"name": "Geometry",
 	"num": 356,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 220, and MATH 244 or MATH 252.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.283871-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

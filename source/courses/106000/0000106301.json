@@ -15,12 +15,20 @@
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 410"
+	],
 	"name": "A Matter of Environ",
 	"notes": "Students in Chemistry 124 must also register for lab Chemistry 124 L.",
 	"num": 124,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.119314-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

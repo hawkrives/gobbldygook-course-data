@@ -10,12 +10,21 @@
 		"Linda Berger"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 222",
+		"CHM 222"
+	],
 	"name": "Piano Class I",
 	"notes": "This class is open only to approved music majors.",
 	"num": 161,
 	"pf": false,
 	"prerequisites": "Prerequisite: concurrent registration in MUSIC 112.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.715237-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 1,
 	"status": "O",

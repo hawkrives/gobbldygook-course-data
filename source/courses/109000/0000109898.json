@@ -10,14 +10,25 @@
 		"WRI"
 	],
 	"instructors": [
-		"Staff"
+		"Thomas Pope"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 520"
+	],
 	"name": "Screenwriting",
 	"num": 296,
 	"pf": false,
 	"prerequisites": "Prerequisites: FYW and at least sophomore status.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.261413-05:00",
+			"instructors": [
+				"Staff"
+			],
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

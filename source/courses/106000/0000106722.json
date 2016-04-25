@@ -13,12 +13,21 @@
 		"Linda Berger"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 222",
+		"CHM 233"
+	],
 	"name": "The Music Spectrum",
 	"notes": "This course has class-year limits.",
 	"num": 130,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.465805-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

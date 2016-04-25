@@ -13,12 +13,21 @@
 		"Cynthia Book"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"SAC 112",
+		"SAC 112"
+	],
 	"name": "Nutrition & Wellness",
 	"notes": "This course is open to all students in all classes.",
 	"num": 110,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.844403-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -13,12 +13,22 @@
 		"Todd F. Edwards"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TB Kelsey",
+		"TB Kelsey",
+		"TB Kelsey"
+	],
 	"name": "Prod Theater: Intro",
 	"notes": "Admission by audition/interview.",
 	"num": 133,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.436769-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

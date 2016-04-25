@@ -11,12 +11,20 @@
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Intermediate Genetics",
 	"notes": "Students in Bio 233 must also register for one lab Bio 233 AL, BL or CL. This course has class-year limits.",
 	"num": 233,
 	"pf": false,
 	"prerequisites": "Prerequisites: BIO 150, and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125; or BIO 125 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.545241-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

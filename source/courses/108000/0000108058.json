@@ -13,11 +13,19 @@
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"SAC Gym North"
+	],
 	"name": "Basketball",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.035671-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -11,12 +11,20 @@
 		"Nicole Son"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Cell Biology",
 	"notes": "Students in Bio 227A must also register for one lab Bio 227 AL, BL, or CL.",
 	"num": 227,
 	"pf": false,
 	"prerequisites": "Prerequisites: CHEM125 or CHEM 121/CHEM 123 or CH/BI 125; BIO 150 is strongly preferred.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.164716-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

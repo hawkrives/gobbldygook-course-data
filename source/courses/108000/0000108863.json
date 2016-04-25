@@ -10,12 +10,20 @@
 		"Lisa L. Moore"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"TOH 300"
+	],
 	"name": "Social Worker as Professional",
 	"notes": "This course is open to Senior Social Work majors only.",
 	"num": 381,
 	"pf": false,
 	"prerequisites": "Prerequisite: SWRK 380.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.050862-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

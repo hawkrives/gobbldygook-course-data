@@ -11,12 +11,20 @@
 		"Lisa M. Bowers"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Microbiology",
 	"notes": "Students in Bio 231 must also register for one lab Bio 231 AL, BL, or CL. This course has class-year limits.",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisites: BIO 143 or BIO 150, and one Chemistry course.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.775106-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

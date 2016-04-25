@@ -10,11 +10,21 @@
 		"Timothy Mahr"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 138",
+		"CHM 138",
+		"CHM 138"
+	],
 	"name": "St. Olaf Band",
 	"num": 112,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.071206-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

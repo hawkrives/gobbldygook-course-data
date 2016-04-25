@@ -10,11 +10,19 @@
 		"Joanne Quimby"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 175"
+	],
 	"name": "Intermed Japanese II Lab",
 	"num": 232,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.506983-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

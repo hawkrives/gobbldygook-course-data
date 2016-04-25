@@ -13,12 +13,21 @@
 		"Lisa M. Bowers"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 410",
+		"RNS 410"
+	],
 	"name": "The Biology of Women",
 	"notes": "This course has class-year limits.",
 	"num": 124,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.463960-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

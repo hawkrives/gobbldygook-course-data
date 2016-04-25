@@ -14,12 +14,21 @@
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 435",
+		"RNS 435"
+	],
 	"name": "Developmental Biology",
 	"notes": "Open to juniors and seniors only. Students in Bio 372 must also register for one lab Bio 372 AL or BL.",
 	"num": 372,
 	"pf": false,
 	"prerequisites": "Prerequisite: BIO 233.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.254196-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

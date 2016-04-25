@@ -14,12 +14,21 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 150",
+		"RNS 150"
+	],
 	"name": "Principles of Statistics",
 	"notes": "This course has class year limits. Students in Stat 110 must also register for one lab 110 AL, BL, or CL.",
 	"num": 110,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.933344-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

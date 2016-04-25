@@ -10,11 +10,19 @@
 		"Steven Amundson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 140"
+	],
 	"name": "St. Olaf Orchestra",
 	"num": 122,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.079253-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

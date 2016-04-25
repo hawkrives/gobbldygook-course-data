@@ -14,12 +14,21 @@
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 203",
+		"RNS 203"
+	],
 	"name": "Ethical Issues in Software Design",
 	"notes": "Prerequisite: Completion of BTS-T or permission of instructor.",
 	"num": 263,
 	"pf": false,
 	"prerequisites": "Prerequisites: CSCI 251 and completion of BTS-T, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.316046-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

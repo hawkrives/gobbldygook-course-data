@@ -10,11 +10,21 @@
 		"Justin W. Merritt"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 224",
+		"CHM 224",
+		"CHM 224"
+	],
 	"name": "Theory & Aural Skills II",
 	"num": 114,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 112. Concurrent registration in MUSIC 162 (or placement into a higher level of keyboard proficiency).",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.136218-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

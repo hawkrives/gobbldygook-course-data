@@ -15,11 +15,19 @@
 		"Karen Wilson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 305"
+	],
 	"name": "Intro to Theater",
 	"num": 110,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.393706-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

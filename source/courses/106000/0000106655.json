@@ -10,11 +10,19 @@
 		"David Nitz"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 292"
+	],
 	"name": "Musical Acoustics Lab",
 	"num": 252,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.421696-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

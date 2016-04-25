@@ -10,11 +10,19 @@
 		"Kent M. McWilliams"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Piano Pedagogy",
 	"num": 361,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.427760-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

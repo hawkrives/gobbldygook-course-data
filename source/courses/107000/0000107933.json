@@ -10,11 +10,16 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
 	"name": "Academic Internship",
 	"num": 294,
 	"pf": true,
 	"prerequisites": "Prerequisite: at least one 250-level course.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:17.868504-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

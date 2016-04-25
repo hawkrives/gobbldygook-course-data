@@ -13,12 +13,20 @@
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 210"
+	],
 	"name": "Management",
 	"notes": "Not open to First-year students.",
 	"num": 251,
 	"pf": false,
 	"prerequisites": "Prerequisite: one of Economics 110-121 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.618347-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

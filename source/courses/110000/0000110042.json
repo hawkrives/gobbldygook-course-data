@@ -9,16 +9,25 @@
 	"gereqs": [
 		"MCG"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Ibtesam Al Atiyat"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RML 525",
+		"RML 525"
+	],
 	"name": "Middle Eastern Studies",
 	"num": 235,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.271700-05:00",
+			"grouptype": "R",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

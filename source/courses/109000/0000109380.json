@@ -10,11 +10,21 @@
 		"Lisa L. Moore"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 010"
+	],
 	"name": "Family Relationships",
+	"notes": "This course has class year limits. Not open to first-year students.",
 	"num": 242,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.019956-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

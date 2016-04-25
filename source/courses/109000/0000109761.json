@@ -14,11 +14,20 @@
 		"Thomas A. Williamson"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 240",
+		"OM 240"
+	],
 	"name": "Medical Anthropology",
 	"num": 267,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.388523-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

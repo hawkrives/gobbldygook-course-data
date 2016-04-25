@@ -10,11 +10,19 @@
 		"Beth Pettitt"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 123"
+	],
 	"name": "Animal Behavior Lab",
 	"num": 386,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.248843-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

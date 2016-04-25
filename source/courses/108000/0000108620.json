@@ -14,11 +14,19 @@
 		"David Carter"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Mahler to Madonna",
 	"num": 135,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.732922-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

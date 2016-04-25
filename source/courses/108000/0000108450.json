@@ -14,11 +14,20 @@
 		"Dona W. Freeman"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TB Haugen",
+		"TB Haugen"
+	],
 	"name": "Intro to Acting",
 	"num": 130,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.564375-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

@@ -10,11 +10,19 @@
 		"David Hagedorn"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 138"
+	],
 	"name": "Jazz II",
 	"num": 132,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.578762-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

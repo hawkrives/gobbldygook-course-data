@@ -13,11 +13,19 @@
 		"James May"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Vergil & Latin Epic",
 	"num": 252,
 	"pf": false,
 	"prerequisites": "Prerequisite: LATIN 231 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.315937-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

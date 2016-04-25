@@ -10,11 +10,19 @@
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 454"
+	],
 	"name": "Biological Science Lab",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.139419-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -10,11 +10,19 @@
 		"Dorer Kari L."
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 212"
+	],
 	"name": "Beginning Norwegian II",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: NORW 111 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.068962-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",

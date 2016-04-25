@@ -13,11 +13,21 @@
 		"Katherine S. Tegtmeyer Pak"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RML 515"
+	],
 	"name": "International Relations",
+	"notes": "This course has class-year limits.",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.413534-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

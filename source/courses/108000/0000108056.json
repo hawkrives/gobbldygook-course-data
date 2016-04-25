@@ -14,11 +14,20 @@
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC Studio 1",
+		"DC Studio 1"
+	],
 	"name": "Ballroom I (Women)",
 	"num": 106,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.034004-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

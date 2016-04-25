@@ -10,12 +10,20 @@
 		"Diana Neal"
 	],
 	"level": 0,
-	"locations": [],
+	"locations": [
+		"YTT 050B"
+	],
 	"name": "Placeholder Course",
 	"notes": "Senior Nursing Seminar",
 	"num": 1,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.448387-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",

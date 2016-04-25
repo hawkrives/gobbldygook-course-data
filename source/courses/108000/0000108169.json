@@ -14,12 +14,20 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 390"
+	],
 	"name": "Chemical Reactions",
 	"notes": "Students in Chem 126 A, B, C, D, or E must also register for one Chem 126 lab",
 	"num": 126,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHEM 125, or CHEM 121 and CHEM 123 and MATH 119 or MATH 120 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.199638-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",

@@ -10,13 +10,21 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"CHM 239"
+	],
 	"name": "Top: TBD",
 	"notes": "WRI is pending approval.",
 	"num": 345,
 	"pf": false,
 	"prerequisites": "Prerequisites: MUSIC 241 and MUSIC 242.",
-	"section": "B",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.150013-05:00",
+			"locations": [],
+			"section": "B"
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

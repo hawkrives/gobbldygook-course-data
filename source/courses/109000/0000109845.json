@@ -10,11 +10,22 @@
 		"Ryota Matsuura"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 297",
+		"RNS 297"
+	],
 	"name": "Teaching of Mathematics, 5-12",
+	"notes": "Open to rising Seniors and Juniors only.",
 	"num": 350,
 	"pf": false,
 	"prerequisites": "Prerequisite: EDUC 330.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.254185-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

@@ -15,11 +15,20 @@
 		"Joan Hepburn"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 210",
+		"TOH 210"
+	],
 	"name": "Intro to Race & Ethnic St",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.362351-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

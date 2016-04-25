@@ -13,11 +13,20 @@
 		"Mara H. Benjamin"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 010",
+		"OM 010"
+	],
 	"name": "Theology and Sexuality",
 	"num": 264,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:47.158722-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

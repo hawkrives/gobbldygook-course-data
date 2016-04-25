@@ -11,12 +11,20 @@
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 110"
+	],
 	"name": "Beginning Russian II",
 	"notes": "Students in Russian 112 must also register for one lab Russian 112 AL or BL.",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: RUSSN 111 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.071467-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -10,11 +10,21 @@
 		"Kevin M. Crisp"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 226",
+		"RNS 226",
+		"RNS 226"
+	],
 	"name": "Research: Mayo Scholars",
 	"num": 396,
 	"pf": false,
 	"prerequisites": "Prerequisite: determined by individual instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.442730-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

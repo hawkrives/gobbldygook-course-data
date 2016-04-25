@@ -14,11 +14,19 @@
 		"Margaret Odell"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 140"
+	],
 	"name": "The Biblical God",
 	"num": 222,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.369431-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

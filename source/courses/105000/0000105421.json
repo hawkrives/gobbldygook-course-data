@@ -10,12 +10,21 @@
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 030",
+		"OM 030"
+	],
 	"name": "Corporate Finance",
 	"notes": "Open only to rising seniors and juniors.",
 	"num": 281,
 	"pf": false,
 	"prerequisites": "Prerequisite: MGMT 225.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.997010-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

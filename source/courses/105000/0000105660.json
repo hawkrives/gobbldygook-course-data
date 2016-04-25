@@ -13,11 +13,19 @@
 		"Dorer Kari L."
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 316"
+	],
 	"name": "Intermed Norwegian I",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisite: NORW 112 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.349720-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

@@ -13,11 +13,19 @@
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"Tostrud Ctr"
+	],
 	"name": "Badminton",
 	"num": 151,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.729137-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",

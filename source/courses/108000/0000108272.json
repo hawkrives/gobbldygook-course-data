@@ -14,11 +14,19 @@
 		"J. Patrick Dale"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 210"
+	],
 	"name": "European Social Democracy",
 	"num": 283,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.327909-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

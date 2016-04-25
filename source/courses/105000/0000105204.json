@@ -14,11 +14,21 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 280"
+	],
 	"name": "American Politics",
+	"notes": "This course has class-year limits.",
 	"num": 111,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.666272-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

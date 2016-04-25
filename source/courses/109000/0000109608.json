@@ -13,11 +13,21 @@
 		"Justin W. Merritt"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 222"
+	],
 	"name": "Music/Electronic Med",
+	"notes": "Class will also meet in CHM 224.",
 	"num": 225,
 	"pf": false,
 	"prerequisites": "Prerequisite: sophomore standing or above.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.531340-05:00",
+			"locations": [],
+			"notes": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

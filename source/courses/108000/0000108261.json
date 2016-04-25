@@ -10,11 +10,19 @@
 		"Kris A. Cropsey"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 020"
+	],
 	"name": "English Language and Linguistics",
 	"num": 250,
 	"pf": false,
 	"prerequisites": "Prerequisite: FYW.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.309197-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

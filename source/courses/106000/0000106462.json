@@ -10,13 +10,21 @@
 		"Elizabeth Rodgers"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 280"
+	],
 	"name": "Exploration in Healthcare",
 	"notes": "Open to all students.",
 	"num": 110,
 	"pf": false,
 	"prerequisites": false,
-	"section": "B",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.272690-05:00",
+			"locations": [],
+			"section": "B"
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

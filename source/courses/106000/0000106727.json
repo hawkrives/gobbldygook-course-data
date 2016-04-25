@@ -15,12 +15,20 @@
 		"James Demas"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"RNS 150"
+	],
 	"name": "Thinking & Doing Bio",
 	"notes": "Students in Bio 135 must also register for lab Bio 135 L. This course has class-year limits.",
 	"num": 135,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.470217-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

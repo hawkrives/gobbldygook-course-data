@@ -10,11 +10,19 @@
 		"Karen R. Achberger"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 308"
+	],
 	"name": "Beginning German II",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: GERM 111 or placement by test.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.047315-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

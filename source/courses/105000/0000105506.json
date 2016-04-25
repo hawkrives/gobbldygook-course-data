@@ -13,12 +13,20 @@
 		"Michon Weeks"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 216"
+	],
 	"name": "Foundation 2-D Media",
-	"notes": "This course has class-year limits.",
 	"num": 102,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.141787-05:00",
+			"locations": [],
+			"notes": "This course has class-year limits."
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

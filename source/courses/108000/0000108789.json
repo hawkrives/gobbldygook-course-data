@@ -10,12 +10,21 @@
 		"Susan E. Smalling"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 030",
+		"OM 030"
+	],
 	"name": "Res Methods/Social Work",
 	"notes": "This course is open only to Junior Social Work majors.",
 	"num": 274,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.970525-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

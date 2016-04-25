@@ -11,12 +11,21 @@
 		"William P. Roberts"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310",
+		"RNS 310"
+	],
 	"name": "Organic Chemistry I",
 	"notes": "Students in Chem 247 must also register for one Chem 253 lab.",
 	"num": 247,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHEM 126, or CH/BI 227, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.687089-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",

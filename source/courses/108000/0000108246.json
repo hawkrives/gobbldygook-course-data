@@ -10,11 +10,20 @@
 		"Therees Hibbard"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 233",
+		"CHM 233"
+	],
 	"name": "Early Music Singers",
 	"num": 102,
 	"pf": true,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.288331-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

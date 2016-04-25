@@ -13,11 +13,20 @@
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 190",
+		"RNS 190"
+	],
 	"name": "Social Psychology",
 	"num": 249,
 	"pf": false,
 	"prerequisites": "Prerequisite: PSYCH 125.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.047421-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 224"
+	],
 	"name": "Microeconomic Theory",
 	"num": 262,
 	"pf": false,
 	"prerequisites": "Prerequisites: MATH 119 or MATH 120, and one of Economics 110-121 or permission of instructor. Offered each semester.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.632473-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

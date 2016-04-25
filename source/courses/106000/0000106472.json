@@ -13,11 +13,20 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 184",
+		"TOH 184"
+	],
 	"name": "Gateways/Mathematics",
 	"num": 117,
 	"pf": false,
 	"prerequisites": "Prerequisites: high school algebra and geometry.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:36.282024-05:00",
+			"locations": []
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

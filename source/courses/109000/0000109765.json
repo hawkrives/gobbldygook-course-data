@@ -10,11 +10,19 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"DC 305"
+	],
 	"name": "Top:",
 	"num": 379,
 	"pf": false,
 	"prerequisites": "Prerequisite: THEAT 110 or THEAT 180. Some topics courses may require additional prerequisites. Please inquire in the Theater Department office before registering.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.395738-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

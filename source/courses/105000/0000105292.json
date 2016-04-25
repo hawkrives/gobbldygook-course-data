@@ -13,11 +13,19 @@
 		"L. DeAne Lagerquist"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"OM 210"
+	],
 	"name": "Bible/Culture/Commun",
 	"num": 121,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.822358-05:00",
+			"locations": []
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",

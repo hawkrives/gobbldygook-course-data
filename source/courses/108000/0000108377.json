@@ -13,11 +13,19 @@
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"SAC 112"
+	],
 	"name": "Individual Fitness .50",
 	"num": 133,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.441517-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

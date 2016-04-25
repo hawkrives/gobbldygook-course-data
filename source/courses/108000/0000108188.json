@@ -10,11 +10,19 @@
 		"Mark Sundby"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 124"
+	],
 	"name": "Clinical/Counseling Psych",
 	"num": 375,
 	"pf": false,
 	"prerequisites": "Prerequisites: junior or senior standing and PSYCH 230, plus PSYCH 244 or PSYCH 247.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.208253-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

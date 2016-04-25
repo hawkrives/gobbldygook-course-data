@@ -10,11 +10,20 @@
 		"Anton Armstrong"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 233",
+		"CHM 233"
+	],
 	"name": "Conducting",
 	"num": 251,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 114 or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.231621-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

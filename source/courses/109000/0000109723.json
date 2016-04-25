@@ -13,12 +13,20 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"RNS 310"
+	],
 	"name": "Ethics and the Good Life",
 	"notes": "Prerequisite: completion of BTS-T or permission of instructor. Open only to seniors and a limited number of juniors during web registration.",
 	"num": 252,
 	"pf": false,
 	"prerequisites": "Prerequisite: completion of BTS-T or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:19.337077-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

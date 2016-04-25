@@ -13,11 +13,20 @@
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"DC 305",
+		"DC 305"
+	],
 	"name": "Intro: Enviro Studies",
 	"num": 137,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.583074-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

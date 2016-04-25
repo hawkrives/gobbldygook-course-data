@@ -11,12 +11,20 @@
 		"Hsiang-Lin Shih"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 314"
+	],
 	"name": "Beginning Chinese II",
 	"notes": "Students in Chin 112A must also register for one lab Chin 112 AL or BL.",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: CHIN 111 or placement.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.036942-05:00",
+			"locations": []
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",

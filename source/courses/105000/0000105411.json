@@ -10,11 +10,20 @@
 		"Justin W. Merritt"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"CHM 232",
+		"CHM 232"
+	],
 	"name": "Composition I",
 	"num": 223,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 114, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:45.979505-05:00",
+			"locations": []
+		}
+	],
 	"semester": 1,
 	"status": "O",
 	"term": 20161,

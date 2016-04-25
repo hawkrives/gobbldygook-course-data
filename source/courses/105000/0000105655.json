@@ -14,12 +14,20 @@
 		"Hiroe Akimoto"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 108"
+	],
 	"name": "Intermed Japanese I",
 	"notes": "Students in Japan 231B must also register for lab Japan 231 AL or BL.",
 	"num": 231,
 	"pf": false,
 	"prerequisites": "Prerequisite: JAPAN 112 or its equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:43:46.336110-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",

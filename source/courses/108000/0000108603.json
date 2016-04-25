@@ -14,11 +14,19 @@
 		"Jason J. Ripley"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"OM 140"
+	],
 	"name": "Jesus in Script/Trad",
 	"num": 221,
 	"pf": false,
 	"prerequisites": "Prerequisite: BTS-B.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.712258-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

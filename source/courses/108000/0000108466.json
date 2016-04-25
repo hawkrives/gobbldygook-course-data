@@ -10,12 +10,21 @@
 		"Richard Goedde"
 	],
 	"level": 300,
-	"locations": [],
+	"locations": [
+		"RNS 410",
+		"RNS 410"
+	],
 	"name": "Investments",
 	"notes": "Open only to Seniors and Juniors.",
 	"num": 380,
 	"pf": false,
 	"prerequisites": "Prerequisites: MGMT 281 and a statistics course, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.591534-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

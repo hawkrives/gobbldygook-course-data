@@ -11,12 +11,20 @@
 		"Rika Ito"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"TOH 312"
+	],
 	"name": "Beginning Japanese II",
 	"notes": "Students in Japanese 112A and B must also register for one lab Japanese 112 AL or BL.",
 	"num": 112,
 	"pf": false,
 	"prerequisites": "Prerequisite: JAPAN 111 or equivalent.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.054759-05:00",
+			"locations": []
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

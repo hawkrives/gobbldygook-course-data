@@ -10,12 +10,21 @@
 		"Lisa L. Moore"
 	],
 	"level": 200,
-	"locations": [],
+	"locations": [
+		"TOH 112",
+		"TOH 112"
+	],
 	"name": "Incl Pract: Grp/Org/Cm",
 	"notes": "This is open only to Junior Social Work majors. This course includes an academic civic engagement (ACE) component.",
 	"num": 261,
 	"pf": false,
 	"prerequisites": "Prerequisite: SWRK 254.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.438864-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,

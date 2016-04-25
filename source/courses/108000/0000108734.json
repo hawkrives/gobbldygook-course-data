@@ -10,11 +10,20 @@
 		"Linda Berger"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"CHM 222",
+		"CHM 222"
+	],
 	"name": "Piano Class II",
 	"num": 162,
 	"pf": false,
 	"prerequisites": "Prerequisite: MUSIC 161, completion of Piano Proficiency Level 1, or audition placement. Concurrent registration in MUSIC 114.",
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.884686-05:00",
+			"locations": []
+		}
+	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",

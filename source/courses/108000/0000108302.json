@@ -13,12 +13,20 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [],
+	"locations": [
+		"SAC 103"
+	],
 	"name": "Fly Fishing",
 	"notes": "Open to seniors only.",
 	"num": 128,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-25T16:47:18.376209-05:00",
+			"locations": []
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
