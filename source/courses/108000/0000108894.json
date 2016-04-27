@@ -14,6 +14,7 @@
 	],
 	"level": 200,
 	"locations": [
+		"TOH 182",
 		"TOH 182"
 	],
 	"name": "Statistics for Science",
@@ -31,6 +32,15 @@
 			"instructors": [
 				"Julie M. Legler"
 			]
+		},
+		{
+			"_updated": "2016-04-27T18:01:14.483292-05:00",
+			"locations": [
+				"TOH 182"
+			],
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
@@ -38,7 +48,8 @@
 	"status": "O",
 	"term": 20163,
 	"times": [
-		"MWF 1255-0150PM"
+		"T 0800-0925",
+		"Th 0800-0920"
 	],
 	"title": "Statistics for the Sciences",
 	"type": "Research",
