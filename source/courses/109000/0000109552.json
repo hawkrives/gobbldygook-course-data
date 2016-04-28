@@ -14,12 +14,20 @@
 	],
 	"level": 100,
 	"locations": [
-		"TPH Wt Rm"
+		"SAC 112"
 	],
 	"name": "Individual Fitness .50",
 	"num": 133,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-04-28T12:00:40.927249-05:00",
+			"locations": [
+				"TPH Wt Rm"
+			]
+		}
+	],
 	"semester": 4,
 	"status": "O",
 	"term": 20154,
