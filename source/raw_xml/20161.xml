@@ -15490,7 +15490,7 @@
 	</course>
 	<course>
 		<clbid>0000106132</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>STAT</deptname>
 		<coursenumber>212</coursenumber>
 		<coursesection>A</coursesection>
@@ -17162,20 +17162,20 @@
 	</course>
 	<course>
 		<clbid>0000109391</clbid>
-		<coursestatus>C</coursestatus>
+		<coursestatus>X</coursestatus>
 		<deptname>GERM</deptname>
 		<coursenumber>274</coursenumber>
 		<coursesection></coursesection>
 		<coursesubtype>T</coursesubtype>
 		<coursename>Top: Migrant Literature</coursename>
 		<pn>N</pn>
-		<notes></notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('50')"&gt;Achberger, Karen R.&lt;/a&gt;</instructors>
+		<notes>This course has been cancelled.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
 		<meetingtimes>T 0120-0245PM&lt;br&gt;Th 0215-0335PM</meetingtimes>
-		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TOH312');"&gt;TOH 312&lt;/a&gt;</meetinglocations>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;&lt;br&gt;&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('TBA');"&gt;TBA&lt;/a&gt;</meetinglocations>
 		<varcredits>N</varcredits>
 		<groupid></groupid>
 		<grouptype></grouptype>
@@ -20304,6 +20304,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000285</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110157</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>LNGST</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection></coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000030444</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110158</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>LNGST</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Neurolexicology</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('21097')"&gt;Loebach, Jeremy&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype>R</grouptype>
+		<crsid>0000030444</crsid>
 		<term>20161</term>
 	</course>
 </searchresults>
