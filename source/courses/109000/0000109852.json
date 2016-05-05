@@ -17,6 +17,7 @@
 		"RNS 204"
 	],
 	"name": "Calculus II",
+	"notes": "This course has been cancelled.",
 	"num": 126,
 	"pf": false,
 	"prerequisites": "Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
@@ -24,6 +25,10 @@
 		{
 			"_updated": "2016-05-03T18:00:14.631961-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-05-05T18:00:36.377887-05:00",
+			"notes": null
 		}
 	],
 	"semester": 4,

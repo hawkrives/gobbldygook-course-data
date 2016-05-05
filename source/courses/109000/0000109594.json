@@ -9,7 +9,6 @@
 	"gereqs": [
 		"ALS-L"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Carlos Gallego"
 	],
@@ -25,6 +24,10 @@
 		{
 			"_updated": "2016-04-25T16:43:36.511493-05:00",
 			"locations": []
+		},
+		{
+			"_updated": "2016-05-05T18:00:53.511071-05:00",
+			"grouptype": "R"
 		}
 	],
 	"semester": 2,
