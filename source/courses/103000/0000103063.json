@@ -7,7 +7,8 @@
 	],
 	"desc": "This course examines theological and ethical aspects of Christian social responsibility. It examines the meaning and normative import of Christian faith for justice and love in relational spheres (politics, economics, marriage and family, gender relations). It also explores the ethical implications of central Christian doctrines (vocation, sin, grace, two kingdoms, creation). Issues raised include civil disobedience, use of lethal force, distributive justice, love and self-sacrifice, and gender roles. Prerequisites: BTS-T or permission of instructor.",
 	"gereqs": [
-		"EIN"
+		"EIN",
+		"WRI"
 	],
 	"instructors": [
 		"Douglas Schuurman"
@@ -55,6 +56,12 @@
 		{
 			"_updated": "2015-11-11T18:01:27.762270-06:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-05-06T12:01:16.463227-05:00",
+			"gereqs": [
+				"EIN"
+			]
 		}
 	],
 	"semester": 3,

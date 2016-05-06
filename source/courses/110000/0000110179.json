@@ -1,5 +1,5 @@
 {
-	"clbid": 109734,
+	"clbid": 110179,
 	"credits": 0.5,
 	"crsid": 18784,
 	"depts": [
@@ -7,39 +7,24 @@
 	],
 	"desc": "In-depth study of particular topics done in a half-semester format. Topics are based on student interest and available staff. Generally offered as a pair of half-courses in one semester but students may enroll in only one. Recently topics include general relativity and cosmology. Prerequisite: PHYS 244 and MATH 230.",
 	"instructors": [
-		"Prabal Adhikari"
+		"Amy Kolan"
 	],
 	"level": 300,
 	"locations": [
+		"RNS 297",
 		"RNS 297"
 	],
-	"name": "Top: Quantum Field Theory",
-	"notes": "This course meets from March 27, 2017 - May 16, 2017.",
+	"name": "Top: Computational Physics",
 	"num": 392,
 	"pf": false,
 	"prerequisites": "Prerequisite: PHYS 244 and MATH 230.",
-	"revisions": [
-		{
-			"_updated": "2016-04-25T16:47:19.344565-05:00",
-			"locations": []
-		},
-		{
-			"_updated": "2016-05-06T12:01:24.994030-05:00",
-			"name": "Short Topics in Physics",
-			"notes": null,
-			"section": null,
-			"times": [
-				"MWF 1150-1245PM"
-			],
-			"title": null
-		}
-	],
-	"section": "A",
+	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
 	"times": [
-		"MTh 0710-0850PM"
+		"T 0935-1100",
+		"Th 0930-1050"
 	],
 	"title": "Short Topics in Physics",
 	"type": "Topic",
