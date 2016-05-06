@@ -5,6 +5,9 @@
 	"depts": [
 		"BIO"
 	],
+	"gereqs": [
+		"IST"
+	],
 	"instructors": [
 		"Anne Walter"
 	],
@@ -14,6 +17,12 @@
 	"num": 253,
 	"pf": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2016-05-06T18:00:57.209580-05:00",
+			"gereqs": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20162,

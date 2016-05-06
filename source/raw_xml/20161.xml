@@ -3574,7 +3574,7 @@
 		<coursename>Beginning Spanish II</coursename>
 		<pn>N</pn>
 		<notes>Prerequisite: Completion of Spanish placement test or preceding course.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27200')"&gt;Tun, Molly&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -4864,7 +4864,7 @@
 	</course>
 	<course>
 		<clbid>0000105370</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>BIO</deptname>
 		<coursenumber>143</coursenumber>
 		<coursesection>C</coursesection>
@@ -9154,7 +9154,7 @@
 	</course>
 	<course>
 		<clbid>0000105670</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>231</coursenumber>
 		<coursesection>C</coursesection>
@@ -9250,7 +9250,7 @@
 		<coursename>Intermed Spanish I</coursename>
 		<pn>N</pn>
 		<notes>Prerequisite: Completion of Spanish placement test or preceding course.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27200')"&gt;Tun, Molly&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -17104,7 +17104,7 @@
 		<coursename>Intermed Spanish I</coursename>
 		<pn>N</pn>
 		<notes>Prerequisite: Completion of Spanish placement test or preceding course.</notes>
-		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('')"&gt;Staff&lt;/a&gt;</instructors>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('27200')"&gt;Tun, Molly&lt;/a&gt;</instructors>
 		<halfcredit></halfcredit>
 		<credits>1.00</credits>
 		<gereqs></gereqs>
@@ -18702,7 +18702,7 @@
 	</course>
 	<course>
 		<clbid>0000109513</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>237</coursenumber>
 		<coursesection></coursesection>
@@ -19978,7 +19978,7 @@
 	</course>
 	<course>
 		<clbid>0000110085</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SWRK</deptname>
 		<coursenumber>221</coursenumber>
 		<coursesection>A</coursesection>
@@ -20370,6 +20370,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000993</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110182</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>ID</deptname>
+		<coursenumber>298</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IS/Magical Realism: Epic &amp;amp; Folklore</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('5144')"&gt;Mbele, Joseph L.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/WRI.pdf"&gt;WRI&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000708</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110183</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>398</coursenumber>
+		<coursesection>A</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>IR/Calcium Signaling: Protozoan Mod</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('1206')"&gt;Cole, Eric&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes></meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000000175</crsid>
 		<term>20161</term>
 	</course>
 </searchresults>
