@@ -15468,7 +15468,7 @@
 	</course>
 	<course>
 		<clbid>0000106131</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>ECON</deptname>
 		<coursenumber>263</coursenumber>
 		<coursesection>A</coursesection>
@@ -18196,7 +18196,7 @@
 	</course>
 	<course>
 		<clbid>0000109487</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>PSCI</deptname>
 		<coursenumber>321</coursenumber>
 		<coursesection></coursesection>
@@ -20414,6 +20414,50 @@
 		<groupid></groupid>
 		<grouptype></grouptype>
 		<crsid>0000000175</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110186</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>150</coursenumber>
+		<coursesection>C</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Biodiversity Foundations</coursename>
+		<pn>N</pn>
+		<notes>Students in Bio 150C must also register for one lab Bio 150 GL.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('256')"&gt;Angell, Diane K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/IST.pdf"&gt;IST&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/SED.pdf"&gt;SED&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>MWF 1045-1140</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS150');"&gt;RNS 150&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000026649</groupid>
+		<grouptype>3</grouptype>
+		<crsid>0000026649</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110187</clbid>
+		<coursestatus>O</coursestatus>
+		<deptname>BIO</deptname>
+		<coursenumber>150</coursenumber>
+		<coursesection>G</coursesection>
+		<coursesubtype>L</coursesubtype>
+		<coursename>Biodiversity Found Lab</coursename>
+		<pn>N</pn>
+		<notes></notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('256')"&gt;Angell, Diane K.&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>0.00</credits>
+		<gereqs></gereqs>
+		<meetingtimes>T 0300-0600PM</meetingtimes>
+		<meetinglocations>&lt;a class="sis-nounderline" href="JavaScript:sis_roominfo_openwindow('RNS255');"&gt;RNS 255&lt;/a&gt;</meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid>0000026649</groupid>
+		<grouptype>3</grouptype>
+		<crsid>0000026650</crsid>
 		<term>20161</term>
 	</course>
 </searchresults>
