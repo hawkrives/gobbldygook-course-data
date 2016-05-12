@@ -9726,7 +9726,7 @@
 	</course>
 	<course>
 		<clbid>0000105699</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>128</coursenumber>
 		<coursesection>C</coursesection>
@@ -9858,7 +9858,7 @@
 	</course>
 	<course>
 		<clbid>0000105705</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>C</coursesection>
@@ -9880,7 +9880,7 @@
 	</course>
 	<course>
 		<clbid>0000105706</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>B</coursesection>
@@ -16788,7 +16788,7 @@
 	</course>
 	<course>
 		<clbid>0000106284</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SPAN</deptname>
 		<coursenumber>312</coursenumber>
 		<coursesection></coursesection>
@@ -16876,7 +16876,7 @@
 	</course>
 	<course>
 		<clbid>0000106291</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>MUSIC</deptname>
 		<coursenumber>237</coursenumber>
 		<coursesection></coursesection>
@@ -18636,7 +18636,7 @@
 	</course>
 	<course>
 		<clbid>0000109510</clbid>
-		<coursestatus>O</coursestatus>
+		<coursestatus>C</coursestatus>
 		<deptname>SOAN</deptname>
 		<coursenumber>121</coursenumber>
 		<coursesection>A</coursesection>
@@ -20458,6 +20458,28 @@
 		<groupid>0000026649</groupid>
 		<grouptype>3</grouptype>
 		<crsid>0000026650</crsid>
+		<term>20161</term>
+	</course>
+	<course>
+		<clbid>0000110195</clbid>
+		<coursestatus>C</coursestatus>
+		<deptname>SPAN</deptname>
+		<coursenumber>232</coursenumber>
+		<coursesection>E</coursesection>
+		<coursesubtype>R</coursesubtype>
+		<coursename>Intermed Spanish II</coursename>
+		<pn>N</pn>
+		<notes>Prerequisite: Completion of Spanish placement test or preceding course.</notes>
+		<instructors>&lt;a class="sis-nounderline" href="JavaScript:sis_facinfo_openwindow('977')"&gt;Carullo, Sylvia&lt;/a&gt;</instructors>
+		<halfcredit></halfcredit>
+		<credits>1.00</credits>
+		<gereqs>&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/FOL.pdf"&gt;FOL-S&lt;/a&gt; ('08)&lt;br&gt;&lt;a class="sis-nounderline" target="bottom" href="http://wp.stolaf.edu/curriculum-committee/files/2013/12/MCD.pdf"&gt;MCD&lt;/a&gt; ('08)</gereqs>
+		<meetingtimes>T 0935-1100&lt;br&gt;Th 0930-1050</meetingtimes>
+		<meetinglocations></meetinglocations>
+		<varcredits>N</varcredits>
+		<groupid></groupid>
+		<grouptype></grouptype>
+		<crsid>0000001327</crsid>
 		<term>20161</term>
 	</course>
 </searchresults>
