@@ -15,8 +15,8 @@
 	],
 	"level": 200,
 	"locations": [
-		"OM 305",
-		"OM 305"
+		"TOH 314",
+		"TOH 314"
 	],
 	"name": "Gateway Spanish-Speaking World",
 	"notes": "Prerequisite: Completion of Spanish placement test or preceding course.",
@@ -31,6 +31,13 @@
 		{
 			"_updated": "2016-04-27T06:01:03.240517-05:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2016-05-12T18:00:45.249485-05:00",
+			"locations": [
+				"OM 305",
+				"OM 305"
+			]
 		}
 	],
 	"section": "C",
